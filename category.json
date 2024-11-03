@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "name": "Art",
+    "image": "https://shekr-static.vyte.sh/categories/art.png"
+  },
+  {
+    "id": 1,
+    "name": "Automotive",
+    "image": "https://shekr-static.vyte.sh/categories/automotive.png"
+  },
+  {
+    "id": 2,
+    "name": "Baby & Pregnancy",
+    "image": "https://shekr-static.vyte.sh/categories/baby.png"
+  },
+  {
+    "id": 3,
+    "name": "Beauty & Wellness",
+    "image": "https://shekr-static.vyte.sh/categories/beauty.png"
+  },
+  {
+    "id": 4,
+    "name": "Books",
+    "image": "https://shekr-static.vyte.sh/categories/books.png"
+  },
+  {
+    "id": 5,
+    "name": "Boy's Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/boy-fashion.png"
+  },
+  {
+    "id": 6,
+    "name": "Deals",
+    "image": "https://shekr-static.vyte.sh/categories/deals.png"
+  },
+  {
+    "id": 7,
+    "name": "Design",
+    "image": "https://shekr-static.vyte.sh/categories/design.png"
+  },
+  {
+    "id": 8,
+    "name": "DIY & Gardening",
+    "image": "https://shekr-static.vyte.sh/categories/diy.png"
+  },
+  {
+    "id": 9,
+    "name": "Food & Nutrition",
+    "image": "https://shekr-static.vyte.sh/categories/food.png"
+  },
+  {
+    "id": 10,
+    "name": "Gender Neutral Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/gender-neutral-fashion.png"
+  },
+  {
+    "id": 11,
+    "name": "Girl's Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/girl-fashion.png"
+  },
+  {
+    "id": 12,
+    "name": "Home & Interior",
+    "image": "https://shekr-static.vyte.sh/categories/home.png"
+  },
+  {
+    "id": 13,
+    "name": "Manga, Comics & Webtoons",
+    "image": "https://shekr-static.vyte.sh/categories/manga.png"
+  },
+  {
+    "id": 14,
+    "name": "Men's Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/men-fashion.png"
+  },
+  {
+    "id": 15,
+    "name": "Men's Jewelry",
+    "image": "https://shekr-static.vyte.sh/categories/men-jewelry.png"
+  },
+  {
+    "id": 16,
+    "name": "Movies & Shows",
+    "image": "https://shekr-static.vyte.sh/categories/movies.png"
+  },
+  {
+    "id": 17,
+    "name": "Music",
+    "image": "https://shekr-static.vyte.sh/categories/music.png"
+  },
+  {
+    "id": 18,
+    "name": "News",
+    "image": "https://shekr-static.vyte.sh/categories/news.png"
+  },
+  {
+    "id": 19,
+    "name": "Outdoor",
+    "image": "https://shekr-static.vyte.sh/categories/outdoor.png"
+  },
+  {
+    "id": 20,
+    "name": "Personal Development",
+    "image": "https://shekr-static.vyte.sh/categories/personal-development.png"
+  },
+  {
+    "id": 21,
+    "name": "Pets & Animals",
+    "image": "https://shekr-static.vyte.sh/categories/pets.png"
+  },
+  {
+    "id": 22,
+    "name": "Sport",
+    "image": "https://shekr-static.vyte.sh/categories/sport.png"
+  },
+  {
+    "id": 23,
+    "name": "Stationary",
+    "image": "https://shekr-static.vyte.sh/categories/stationary.png"
+  },
+  {
+    "id": 24,
+    "name": "Technology & Electronics",
+    "image": "https://shekr-static.vyte.sh/categories/technology.png"
+  },
+  {
+    "id": 25,
+    "name": "Toys & Hobbies",
+    "image": "https://shekr-static.vyte.sh/categories/toys.png"
+  },
+  {
+    "id": 26,
+    "name": "Travel",
+    "image": "https://shekr-static.vyte.sh/categories/travel.png"
+  },
+  {
+    "id": 27,
+    "name": "Video Games",
+    "image": "https://shekr-static.vyte.sh/categories/video-game.png"
+  },
+  {
+    "id": 28,
+    "name": "Women's Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/women-fashion.png"
+  },
+  {
+    "id": 29,
+    "name": "Women's Jewelry",
+    "image": "https://shekr-static.vyte.sh/categories/women-jewelry.png"
+  }
+]

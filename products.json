@@ -1,0 +1,2348 @@
+[
+  {
+    "id": 1,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 7.95,
+    "discount": 5,
+    "sellerId": 1,
+    "category": "Men's Fashion",
+    "quantity": 20,
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can’t get enough of the easy fit feature of this jacket",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 2,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 110000.95,
+    "discount": 100000.95,
+    "sellerId": 2,
+    "category": "Men's Fashion",
+    "quantity": 15,
+    "reviews": [],
+    "reviewsCount": 0,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 3,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 12.5,
+    "discount": 10,
+    "sellerId": 3,
+    "category": "Men's Fashion",
+    "quantity": 10,
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 5,
+        "reviewText": "Fits perfectly!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 4,
+        "reviewText": "Stylish and warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great for winter.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 45,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 4,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 11,
+    "sellerId": 4,
+    "category": "Men's Fashion",
+    "quantity": 30,
+    "reviews": [
+      {
+        "reviewerId": 1,
+        "reviewRating": 5,
+        "reviewText": "Incredible jacket!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 4,
+        "reviewRating": 4,
+        "reviewText": "Good quality, worth the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 6,
+        "reviewRating": 5,
+        "reviewText": "Highly recommend!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 70,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 5,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 10.99,
+    "discount": 9,
+    "sellerId": 5,
+    "category": "Men's Fashion",
+    "quantity": 25,
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "Nice jacket, but could be cheaper.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "Very warm and stylish!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Perfect for chilly days.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 50,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 6,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 9.99,
+    "discount": 7,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "quantity": 20,
+    "reviews": [
+      {
+        "reviewerId": 7,
+        "reviewRating": 4,
+        "reviewText": "Stylish but not very warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 8,
+        "reviewRating": 3,
+        "reviewText": "Decent jacket for the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great value for money!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 40,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 7,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 9.99,
+    "sellerId": 7,
+    "category": "Men's Fashion",
+    "quantity": 5,
+    "reviews": [
+      {
+        "reviewerId": 7,
+        "reviewRating": 4,
+        "reviewText": "Stylish but not very warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 8,
+        "reviewRating": 3,
+        "reviewText": "Decent jacket for the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great value for money!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 40,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 8,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 5.99,
+    "sellerId": 8,
+    "category": "Men's Fashion",
+    "quantity": 20,
+    "reviews": [
+      {
+        "reviewerId": 7,
+        "reviewRating": 4,
+        "reviewText": "Stylish but not very warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 8,
+        "reviewRating": 3,
+        "reviewText": "Decent jacket for the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great value for money!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 40,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 9,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 12.99,
+    "discount": 9,
+    "sellerId": 9,
+    "category": "Men's Fashion",
+    "quantity": 5,
+    "reviews": [
+      {
+        "reviewerId": 7,
+        "reviewRating": 4,
+        "reviewText": "Stylish but not very warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 8,
+        "reviewRating": 3,
+        "reviewText": "Decent jacket for the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great value for money!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 40,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 10
+        },
+        {
+          "color": "black",
+          "quantity": 10
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 10,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 13.99,
+    "sellerId": 10,
+    "category": "Men's Fashion",
+    "quantity": 50,
+    "reviews": [
+      {
+        "reviewerId": 7,
+        "reviewRating": 4,
+        "reviewText": "Stylish but not very warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 8,
+        "reviewRating": 3,
+        "reviewText": "Decent jacket for the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great value for money!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 40,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "blue",
+          "quantity": 25
+        },
+        {
+          "color": "black",
+          "quantity": 25
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 11,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 15.99,
+    "sellerId": 11,
+    "category": "Men's Fashion",
+    "quantity": 50,
+    "reviews": [
+      {
+        "reviewerId": 7,
+        "reviewRating": 4,
+        "reviewText": "Stylish but not very warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 8,
+        "reviewRating": 3,
+        "reviewText": "Decent jacket for the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great value for money!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 40,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "orange",
+          "quantity": 25
+        },
+        {
+          "color": "black",
+          "quantity": 25
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 12,
+    "name": "Classic jacket",
+    "description": "Men Jacket",
+    "images": [
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://shekr-static.vyte.sh/products/jacket.png"
+    ],
+    "price": 20.99,
+    "discount": 10,
+    "sellerId": 12,
+    "category": "Men's Fashion",
+    "quantity": 50,
+    "reviews": [
+      {
+        "reviewerId": 7,
+        "reviewRating": 4,
+        "reviewText": "Stylish but not very warm.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 8,
+        "reviewRating": 3,
+        "reviewText": "Decent jacket for the price.",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great value for money!",
+        "reviewLikes": [
+          1,
+          2,
+          5,
+          12,
+          6,
+          3
+        ],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 40,
+    "variants": {
+      "tags": [
+        "Jackets"
+      ],
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 10
+        },
+        {
+          "size": "M",
+          "quantity": 20
+        },
+        {
+          "size": "L",
+          "quantity": 15
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        }
+      ],
+      "colors": [
+        {
+          "color": "red",
+          "quantity": 25
+        },
+        {
+          "color": "black",
+          "quantity": 25
+        }
+      ]
+    },
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Packaging",
+        "label": "Sustainable Packaging",
+        "description": [
+          {
+            "title": "Environmental Impact",
+            "descriptions": [
+              "Eco-friendly packaging materials",
+              "Minimal plastic usage",
+              "Commitment to carbon-neutral deliveries"
+            ]
+          }
+        ]
+      }
+    ],
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  }
+]

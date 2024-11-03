@@ -1,0 +1,43 @@
+{
+  "id": 242424,
+  "picture": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/66303/4469088-tumblr_inline_n0aleph3fl1r8rr6o.jpg",
+  "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+  "tagLine": "Podcasts & Live Streams",
+  "firstName": "Adam",
+  "lastName": "Gallagher",
+  "gender": "male",
+  "username": "iamadam",
+  "email": "iamadam@me.com",
+  "dateOfBirth": "2000-01-01T00:00:00.000Z",
+  "followers": [
+    2,
+    3,
+    5,
+    6,
+    7,
+    9,
+    1,
+    10,
+    11,
+    12
+  ],
+  "following": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    9,
+    1,
+    10,
+    11,
+    12
+  ],
+  "description": "Greetings! I am Adam Gallagher your all-around style guru. I've got a serious passion for fashion and love nothing more than helping people like you look and feel amazing.",
+  "interests": [
+    1,
+    5,
+    8
+  ],
+  "isShekrMember": false
+}

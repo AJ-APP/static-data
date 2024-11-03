@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJBFx3frl4NbdX5VJbn7FpawQoXxH2vYCfA&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Alice",
+    "lastName": "Green",
+    "gender": "female",
+    "username": "iamalice",
+    "email": "iamalice@me.com",
+    "dateOfBirth": "2000-01-01T00:00:00.000Z",
+    "followers": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      9
+    ],
+    "following": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      9
+    ],
+    "description": "Greetings! I am Alice Green, your all-around style guru. Passionate about fashion, helping others look and feel amazing. I love exploring new trends and sharing my insights with my audience. My goal is to empower everyone to express their unique personality through their style choices.",
+    "interests": [
+      1,
+      5
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 2,
+    "picture": "https://xsgames.co/randomusers/assets/avatars/male/46.jpg",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Bob",
+    "lastName": "Blue",
+    "gender": "male",
+    "username": "iambob",
+    "email": "iambob@me.com",
+    "dateOfBirth": "1995-02-10T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      4
+    ],
+    "following": [
+      3,
+      4,
+      6
+    ],
+    "description": "Podcasts enthusiast and livestream host. Let's dive into deep conversations. I'm always on the lookout for intriguing topics and engaging guests to bring fresh perspectives to my audience. My mission is to create a space where ideas can flourish and minds can expand.",
+    "interests": [
+      2,
+      7
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 3,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoq0f1tSU2b8opZaApGh5tl2FreFb52dyo6Q&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Charlie",
+    "lastName": "Red",
+    "gender": "male",
+    "username": "iamcharlie",
+    "email": "iamcharlie@me.com",
+    "dateOfBirth": "1988-05-15T00:00:00.000Z",
+    "followers": [
+      1,
+      2,
+      5
+    ],
+    "following": [
+      1,
+      4,
+      7
+    ],
+    "description": "I explore tech, culture, and everything in between through podcasts. My goal is to bridge the gap between complex technological concepts and everyday life. Join me as we unravel the mysteries of our digital world and discuss their impact on society.",
+    "interests": [
+      3,
+      11
+    ],
+    "isShekrMember": true
+  },
+  {
+    "id": 4,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMh_SuFO3GQYFbivDLoBdV478E3H9QPePgQ&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Diana",
+    "lastName": "Yellow",
+    "gender": "female",
+    "username": "iamdiana",
+    "email": "iamdiana@me.com",
+    "dateOfBirth": "1992-07-25T00:00:00.000Z",
+    "followers": [
+      3,
+      6,
+      8
+    ],
+    "following": [
+      1,
+      5,
+      7
+    ],
+    "description": "Bringing interesting stories to life through podcasts. Let's connect! I believe in the power of storytelling to inspire, educate, and entertain. Through my podcasts, I aim to shed light on untold narratives and give voice to diverse perspectives.",
+    "interests": [
+      4,
+      6
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 5,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xW2RFl2QLAchkHyt4DDU5RA5glgOA7sjUw&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Edward",
+    "lastName": "Purple",
+    "gender": "male",
+    "username": "iamedward",
+    "email": "iamedward@me.com",
+    "dateOfBirth": "1980-11-22T00:00:00.000Z",
+    "followers": [
+      1,
+      6,
+      9
+    ],
+    "following": [
+      3,
+      4,
+      6
+    ],
+    "description": "Exploring the world through engaging and thought-provoking podcasts. My passion lies in uncovering hidden gems of knowledge and sharing them with my listeners. I strive to create content that not only informs but also inspires action and personal growth.",
+    "interests": [
+      9,
+      16
+    ],
+    "isShekrMember": true
+  },
+  {
+    "id": 6,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMOmqF3CHR7lPy8KqD9cjzZsm6Ell1hOOCQ&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Fiona",
+    "lastName": "Brown",
+    "gender": "female",
+    "username": "iamfiona",
+    "email": "iamfiona@me.com",
+    "dateOfBirth": "1993-09-17T00:00:00.000Z",
+    "followers": [
+      1,
+      5,
+      7
+    ],
+    "following": [
+      2,
+      4,
+      5
+    ],
+    "description": "Passionate about storytelling. Let's share meaningful conversations. I believe in the power of words to change perspectives and bring people together. Through my podcasts, I aim to create a safe space for open dialogue and mutual understanding.",
+    "interests": [
+      12,
+      18
+    ],
+    "isShekrMember": true
+  },
+  {
+    "id": 7,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvxAOVOCCoYSsornKXmWEhdFU_h5hkPFHzw&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "George",
+    "lastName": "Silver",
+    "gender": "male",
+    "username": "iamgeorge",
+    "email": "iamgeorge@me.com",
+    "dateOfBirth": "1985-03-30T00:00:00.000Z",
+    "followers": [
+      2,
+      5,
+      6
+    ],
+    "following": [
+      1,
+      3,
+      9
+    ],
+    "description": "Hosting live discussions on tech and the future of work. I'm passionate about exploring how technology is reshaping our professional landscapes. Join me as we dive into emerging trends, innovative solutions, and the challenges that lie ahead in our rapidly evolving work environments.",
+    "interests": [
+      1,
+      20
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 8,
+    "picture": "https://i.pinimg.com/280x280_RS/5f/03/ee/5f03eed423ef392a3a0ebbe26dec4a73.jpg",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Hannah",
+    "lastName": "Gold",
+    "gender": "female",
+    "username": "iamhannah",
+    "email": "iamhannah@me.com",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "Bringing energy to every episode, let's explore life together! I'm all about finding joy in the everyday and sharing those discoveries with my listeners. My podcasts are a mix of laughter, learning, and heartfelt conversations that aim to inspire and uplift.",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 9,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxRhEFvW9f4qwqodOww2fhWIOkuJX9Yfv3A&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Ian",
+    "lastName": "Black",
+    "gender": "male",
+    "username": "iamian",
+    "email": "iamian@me.com",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "From sports to tech, I cover it all with passion and insight. My goal is to bridge the gap between different interests and show how they interconnect in our daily lives. Join me as we explore the fascinating world where athletics meets innovation, and where strategy applies both on and off the field.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 10,
+    "picture": "https://i.pinimg.com/280x280_RS/be/70/fe/be70fe7ebde5c89c08e49e34ba5f6cc4.jpg",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Julia",
+    "lastName": "White",
+    "gender": "female",
+    "username": "iamjulia",
+    "email": "iamjulia@me.com",
+    "dateOfBirth": "1996-12-15T00:00:00.000Z",
+    "followers": [
+      2,
+      4,
+      7
+    ],
+    "following": [
+      1,
+      3,
+      5
+    ],
+    "description": "Exploring the world's most interesting stories, one podcast at a time. I'm driven by curiosity and a desire to uncover hidden narratives that shape our world. Through my episodes, I aim to transport listeners to new places, introduce them to fascinating individuals, and challenge their perspectives.",
+    "interests": [
+      14,
+      1
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 11,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHt2GDofV5sNOaTrLarqU3XmMpTNXxaw9dg&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Kevin",
+    "lastName": "Orange",
+    "gender": "male",
+    "username": "iamkevin",
+    "email": "iamkevin@me.com",
+    "dateOfBirth": "1994-10-30T00:00:00.000Z",
+    "followers": [
+      3,
+      8,
+      10
+    ],
+    "following": [
+      1,
+      6,
+      7
+    ],
+    "description": "Let's share ideas and explore new perspectives together. I believe in the power of open dialogue to broaden our understanding of the world. My podcasts are a platform for diverse voices and innovative thoughts, where we challenge assumptions and foster intellectual growth.",
+    "interests": [
+      15,
+      1
+    ],
+    "isShekrMember": true
+  },
+  {
+    "id": 12,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27sFJreSiqEOAMqqHo3lkHyi1SE4MzAKUKg&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Laura",
+    "lastName": "Violet",
+    "gender": "female",
+    "username": "iamlaura",
+    "email": "iamlaura@me.com",
+    "dateOfBirth": "1991-08-05T00:00:00.000Z",
+    "followers": [
+      3,
+      6,
+      8
+    ],
+    "following": [
+      1,
+      9,
+      10
+    ],
+    "description": "Exploring life's big questions through deep conversations and storytelling. I'm passionate about uncovering the wisdom hidden in everyday experiences and sharing it with my listeners. My goal is to create a space where we can ponder the mysteries of existence, challenge our assumptions, and grow together as individuals.",
+    "interests": [
+      4,
+      12
+    ],
+    "isShekrMember": true
+  }
+]
