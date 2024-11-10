@@ -55,7 +55,7 @@ class S3Service {
 
     async uploadFile(file, options = { isProtected: false, acl: undefined }) {
         const parsedFilename = parse(file.originalname);
-        const fileKey = `${this.prefix}${parsedFilename.name}-${Date.now()}${parsedFilename.ext}`;
+        const fileKey = `${this.prefix}${parsedFilename.name}${parsedFilename.ext}`;
 
         const command = new PutObjectCommand({
             ACL: options.acl ?? (options.isProtected ? 'private' : 'public-read'),
