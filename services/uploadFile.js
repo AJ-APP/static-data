@@ -14,49 +14,45 @@ const s3Service = new S3Service({ logger });
 // Allowed image file extensions
 const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp']);
 
-// Function to upload all image files in a specified folder
-async function uploadFolder(folderPath) {
+// Function to upload a single file
+async function uploadFile(filePath, fileName) {
+    const fileStats = fs.statSync(filePath);
+    const fileStream = fs.createReadStream(filePath);
+
+    // Mimic an Express-style file object
+    const uploadFile = {
+        originalname: fileName,
+        path: filePath,
+        mimetype: `image/${path.extname(fileName).slice(1)}`,  // e.g., "image/png"
+        size: fileStats.size,
+    };
+
     try {
-        // Read all files in the folder
-        const files = fs.readdirSync(folderPath);
+        const result = await s3Service.upload(uploadFile);
+        console.log(`Uploaded ${fileName} successfully:`, result);
+    } catch (error) {
+        console.error(`Error uploading ${fileName}:`, error);
+    }
+}
 
-        // Filter files to include only images
-        const imageFiles = files.filter(file => {
-            const ext = path.extname(file).toLowerCase();
-            return IMAGE_EXTENSIONS.has(ext);
-        });
+// Recursive function to scan folder and upload image files
+async function uploadFolderRecursive(folderPath) {
+    const items = fs.readdirSync(folderPath);
 
-        if (imageFiles.length === 0) {
-            console.log("No image files found in the folder.");
-            return;
-        }
+    for (const item of items) {
+        const fullPath = path.join(folderPath, item);
+        const stats = fs.statSync(fullPath);
 
-        for (const file of imageFiles) {
-            const filePath = path.join(folderPath, file);
-            const fileStats = fs.statSync(filePath);
-
-            // Skip if not a file
-            if (!fileStats.isFile()) continue;
-
-            const fileStream = fs.createReadStream(filePath);
-
-            // Mimic an Express-style file object
-            const uploadFile = {
-                originalname: file,
-                path: filePath,
-                mimetype: `image/${path.extname(file).slice(1)}`,  // e.g., "image/png"
-                size: fileStats.size,
-            };
-
-            try {
-                const result = await s3Service.upload(uploadFile);
-                console.log(`Uploaded ${file} successfully:`, result);
-            } catch (error) {
-                console.error(`Error uploading ${file}:`, error);
+        if (stats.isDirectory()) {
+            // If it's a directory, recurse into it
+            await uploadFolderRecursive(fullPath);
+        } else if (stats.isFile()) {
+            // If it's a file, check if it's an image and upload it
+            const ext = path.extname(item).toLowerCase();
+            if (IMAGE_EXTENSIONS.has(ext)) {
+                await uploadFile(fullPath, item);
             }
         }
-    } catch (error) {
-        console.error('Error reading folder:', error);
     }
 }
 
@@ -67,4 +63,6 @@ if (!folderPath) {
     process.exit(1);
 }
 
-uploadFolder(folderPath);
+uploadFolderRecursive(folderPath)
+    .then(() => console.log('All images uploaded successfully.'))
+    .catch(error => console.error('Error during upload process:', error));
