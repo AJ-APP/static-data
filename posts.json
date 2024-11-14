@@ -395,7 +395,7 @@
     "images":  [
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Hypercar.jpg"
     ],
-    "title": "What a Rush! Battling Paganis, Bugattis &Finishing 3rd.",
+    "title": "What a Rush! Battling Paganis, Bugattis & Finishing 3rd.",
     "description": "This weekend, I lined up on the track in a Ford GT, surrounded by a sea of exotic hypercars. Knowing the GT wasn’t the fastest in straight-line speed compared to some of the giants around me, I had to rely on strategy and handling to have any shot at a decent finish.",
     "video": null,
     "recording": null,
@@ -1290,7 +1290,7 @@
     "description": "There’s nothing like an impromptu game of football volley with friends, especially when the sun is setting over the beach. We’d been lounging all afternoon, but as the sky began to turn that warm shade of orange and pink, someone kicked the ball over, and that was all it took.\nWith the waves crashing nearby and the sun hanging low over the water, every touch, bump, and volley felt like pure joy. The sand was warm beneath our feet, giving a soft cushion for those dives and the scrambles to keep the ball in play. We weren’t keeping score—just celebrating every rally, cheering each time someone managed an impressive save or a solid spike. The laughter, the playfulness, and the easy rhythm of passing the ball back and forth felt effortless.\nAs the sun dipped lower, casting long shadows and painting the sand in hues of gold and purple, we played on, not wanting the game or the day to end. ",
     "video": null,
     "recording": null,
-    "category": "OUTDOOR",
+    "category": "SPORT",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
@@ -1371,9 +1371,738 @@
     "description": "During my trip to Vietnam, I ventured into a remote village, drawn by the promise of seeing the lush, terraced rice fields against the mountains. But it wasn’t just the breathtaking scenery that captured my heart—it was something far simpler, and yet somehow, much more profound.\nAs I wandered through the village, I stumbled upon a group of kids kicking around a worn, faded soccer ball, barefoot and fearless. They’d fashioned a makeshift goal post out of bamboo sticks and were playing with such focus and joy that it stopped me in my tracks. One by one, they took turns practicing bicycle kicks, laughing every time they landed in the dirt, brushing it off like it was nothing. They were fully present in the moment, each kick an act of pure joy.\nWatching them, I felt something stir inside me. Their passion and carefree play reminded me of my own childhood, of hours spent on the field without a care, I’d lost touch with that feeling, with the simple, unfiltered love for the sport.",
     "video": null,
     "recording": null,
-    "category": "OUTDOOR",
+    "category": "SPORT",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 18,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/night_boat.jpg"
+    ],
+    "title": "Capturing the Calm of a Fisherman’s Journey at Nightfall",
+    "description": "Just finished this piece, inspired by a quiet night watching a lone fishing boat drift under the moonlight. There’s something magical about painting the stillness of the sea at night—the way the water reflects tiny fragments of starlight, the boat rocking gently, as if the ocean itself is breathing. I wanted to capture that sense of calm and solitude, where all you hear is the soft lapping of water and the distant hum of the boat’s motor.\n\nWith each brushstroke, I felt myself immersed in the quiet world of the fisherman, their lone lantern casting a warm glow against the deep blue of the night. For me, this painting is a tribute to those quiet moments of reflection, far from the noise of everyday life. Let me know what you feel when you look at it—can you hear the stillness, too?",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#ArtOfTheNight #OceanAtPeace #ArtistLife #ArtOfTheNight #OceanAtPeace #ArtistLife #OceanAtPeace #ArtistLife #ArtOfTheNight #OceanAtPeace"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "https://mocomuseum.com/exhibitions/amsterdam/modern-masters/77218",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 19,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/beach.jpg"
+    ],
+    "title": "Capturing the Magic of a Bioluminescent Night",
+    "description": "Just wrapped up this piece, inspired by the breathtaking beauty of bioluminescent algae lighting up the shoreline. I wanted to capture that surreal glow—the deep blues and vibrant sparks that dance across the waves, transforming a quiet beach night into something almost otherworldly. The scene feels alive, like the ocean itself is awake, swirling with light and energy in every wave.\n\nPainting this was like diving into a dream. Each brushstroke added a touch of mystery, a hint of that electric blue that makes the water look like it’s glowing from within. This piece is about those rare, unforgettable nights where nature puts on a show, reminding us of its quiet magic. Let me know if you can feel the pulse of the ocean through this glow.",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#NightMagic #ArtInspiredByNature"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 20,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/alex-kalinin-Rz3jF9vL5m0-unsplash.jpg"
+    ],
+    "title": "Nature through a Crimson Lens",
+    "description": "Just finished this bold piece, inspired by the intense and surreal beauty of a red-filtered world. I wanted to take nature to a new dimension, transforming everyday plants into something dark, dramatic, and almost otherworldly. The deep reds and stark blacks create a contrast that feels both alive and mysterious, like you’re looking at nature through a hidden lens.\n\nEvery shadow, every leaf, has taken on this fiery glow, showing a wild side we don’t usually see. For me, this piece is all about reimagining the natural world—finding intensity and wonder in unexpected places. Let me know what feelings this brings up for you: does it feel familiar, or like a glimpse into a completely different world?",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#IntoTheRed #NatureReimagined #BoldArt"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 21,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Festival.jpg"
+    ],
+    "title": "Electric Nights at Les Vieilles Charrues",
+    "description": "Just got back from Les Vieilles Charrues, and wow—what an unforgettable experience! There’s something about this festival that feels like pure magic. Set in the heart of Brittany, with incredible artists, endless energy, and the warmest crowd, it’s a blend of music, art, and that unique French festival vibe.\n\nEvery stage had its own vibe, and the mix of genres kept things exciting—from rock to electronic beats, and even folk. Standing in a sea of people, all singing along to our favorite songs, I felt that electric sense of unity that only live music can bring. And of course, the food—crepes and cider everywhere, because what’s a festival in Brittany without it?\n\nIf you ever get the chance to experience Les Vieilles Charrues, take it. The music, the people, the atmosphere—it’s more than a festival; it’s a celebration of life, art, and connection. Until next year, Charrues!",
+    "video": null,
+    "recording": null,
+    "category": "MUSIC",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#VieillesCharrues #FestivalVibes #MusicInFrance"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 22,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Club2.jpg"
+    ],
+    "title": "An Unforgettable Night Dancing ‘Til Dawn",
+    "description": "Last night was one for the books! There’s just something about a great night out at a club—the beat, the lights, and the feeling of being surrounded by people all vibing to the same music. From the moment we walked in, the energy was electric. The DJ was on fire, spinning track after track that had everyone on the dance floor, and we didn’t stop moving for hours.\n\nThe lights pulsed, the bass shook the room, and it was one of those nights where you lose track of time completely. Friends, new and old, all together under those flashing lights, just living in the moment. By the time we stepped out, the first light of dawn was already breaking. Nights like these remind me of why I love going out—sometimes, it’s not about the destination but the memories we make on the dance floor.",
+    "video": null,
+    "recording": null,
+    "category": "MUSIC",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#NightOut #GoodVibesOnly #DancingAllNight"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 23,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Xbox.jpg"
+    ],
+    "title": "Inside the Perfect Gamepad: Why the Xbox Controller Reigns Supreme",
+    "description": "Ever wondered what makes the Xbox controller the ultimate gaming pad? This breakdown of its anatomy shows it all: the design is perfectly balanced between ergonomics and precision. Every curve, button, and trigger placement feels engineered for comfort, whether you’re in for a short session or an all-night gaming marathon.\n\nWith responsive analog sticks, tactile D-pad, and well-placed bumpers and triggers, it’s built to keep you fully immersed without any strain. Plus, the grip texture and slightly heftier feel give it that premium edge that just feels right. For me, no controller has ever come close in terms of comfort, control, and that extra bit of style. It’s all in the details, and Xbox nailed them.\n\nIf you haven’t experienced gaming with one of these yet, you’re in for a treat! What do you think—does the Xbox controller top the list for you, too?",
+    "video": null,
+    "recording": null,
+    "category": "VIDEO-GAMES",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#XboxController #GamingGear #BestGamepad"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 24,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Gamegear.jpg"
+    ],
+    "title": "Back to the ’90s with the SEGA Game Gear",
+    "description": "There’s something so nostalgic about picking up the SEGA Game Gear again—this little device is a time machine back to my childhood! Powered up that bright screen, heard those chiptune sounds, and suddenly, I’m a kid all over again, fully immersed in Sonic the Hedgehog and Columns on the go.\n\nThe Game Gear might be bulky by today’s standards, but back then, it was like holding magic in my hands. It had color, portable gaming, and a charm that just can’t be replicated. There’s a joy in its quirks—the need for endless batteries, the slightly pixelated screen, even the retro buttons. It’s not just a game; it’s a feeling, a piece of gaming history that reminds me of simpler times and endless adventures.",
+    "video": null,
+    "recording": null,
+    "category": "VIDEO-GAMES",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#RetroGaming #SegaGameGear #NostalgiaTrip"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 25,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/robot.jpg"
+    ],
+    "title": "A New Era of Robotics",
+    "description": "It’s incredible to witness just how far robotics has come—what was once science fiction is now our reality. Watching these machines move, respond, and even express themselves with surprising fluidity feels like a sneak peek into the future. Robots today are displaying a level of adaptability and “human-ness” that’s both exciting and, honestly, a little surreal. From lifelike gestures to nuanced responses, these advancements are bringing robots closer to understanding us—and us closer to a new kind of relationship with technology.\n\nImagine robots assisting with complex tasks, engaging with us in ways that feel natural, or even learning and adapting in real time. We’re at the brink of a new era where robotics doesn’t just mean automation but meaningful interaction. It’s both a thrilling and humbling experience, witnessing the dawn of a future that’s becoming more lifelike every day.",
+    "video": null,
+    "recording": null,
+    "category": "TECHNOLOGY & ELECTRONICS",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#FutureOfRobotics #AI #HumanLikeRobots"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 26,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nasa-hubble-space-telescope-Zn6OGiLeQhs-unsplash.jpg"
+    ],
+    "title": "Meet Galaxy JADES-GS-z14-0: A Glimpse Back to the Edge of Time",
+    "description": "Incredible news from space! The galaxy JADES-GS-z14-0, one of the most distant galaxies ever detected, was just observed by the James Webb Space Telescope’s NIRSpec for nearly ten hours. At an estimated 13.3 billion light-years away, this galaxy takes us back to the early universe, showing us what galaxies looked like just 300 million years after the Big Bang!\n\nWith its powerful infrared capabilities, NIRSpec was able to capture details from a time when stars and galaxies were still forming, helping scientists unlock secrets of cosmic evolution. Studying JADES-GS-z14-0 gives us a unique window into the ancient universe and brings us one step closer to understanding how everything we see today came to be. It’s thrilling to think we’re seeing light from an era so far removed from our own!",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#JamesWebb #GalaxyDiscovery #NIRSpec"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
