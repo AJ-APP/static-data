@@ -2115,5 +2115,815 @@
         "AIContent": false
       }
     }
+  },
+  {
+    "id": 27,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/more-unbelievable-images-of-the-valencia-floods-v0-mwd6z3tmfwxd1.png"
+    ],
+    "title": "Valencia Grapples with Unprecedented Flooding",
+    "description": "The recent floods in Valencia have left a trail of devastation unlike anything the region has faced in recent memory. Torrential rains turned streets into rivers, sweeping away cars, inundating homes, and leaving entire neighborhoods unrecognizable. Families have been displaced, businesses ruined, and the community is grappling with the sheer scale of the destruction.\n\nWitnessing this level of devastation is heart-wrenching. Yet, amid the chaos, the resilience of the Valencian people shines through. Neighbors are coming together, volunteers are working tirelessly, and emergency crews are doing everything they can to restore some sense of normalcy.\n\nIt’s a stark reminder of how vulnerable we are to the forces of nature and the importance of standing united in times of crisis. If you’re able, consider supporting local relief efforts to help those affected rebuild their lives.",
+    "video": null,
+    "recording": null,
+    "category": "NEWS",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#ValenciaFloods #CommunityStrength #ReliefEfforts"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 28,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SAsnow.jpeg"
+    ],
+    "title": "Saudi Arabia’s Desert Transforms Overnight",
+    "description": "Nature just gave us a moment straight out of a dream—snowfall in the deserts of Saudi Arabia for the first time in recorded history! The iconic golden dunes, usually shimmering under the sun, were blanketed in white, creating an otherworldly contrast that had locals and visitors in awe.\n\nThe sight was surreal: camels walking through snow-covered sands, children building snowmen where only grains of sand had rested before, and the silence of the desert amplified by the soft crunch of snow underfoot. For many, it was a moment of wonder and joy, a reminder of nature's unpredictability and beauty.\n\nThis historic snowfall is a poignant reminder of our planet’s evolving climate and the surprises it can bring. For now, though, it’s simply a rare and magical spectacle etched into the hearts of all who witnessed it.",
+    "video": null,
+    "recording": null,
+    "category": "NEWS",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#SnowInTheDesert #SaudiArabia #NatureSurprises"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 29,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/France.jpg"
+    ],
+    "title": "Newly Elected Arrive at the French National Assembly",
+    "description": "The newly elected deputy arrived at the French National Assembly, with a mix of pride and determination evident, they walked up the steps, greeted by the buzz of cameras and the anticipation of a new chapter in their political journey.",
+    "video": null,
+    "recording": null,
+    "category": "NEWS",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#FrenchPolitics #DemocracyInAction #NewBeginnings"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 30,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/R2.jpg"
+    ],
+    "title": "Raising Our Voices Against Inflation and Price Gouging",
+    "description": "Today, I joined countless others in a protest against skyrocketing inflation and the unfair practices of price gouging. It wasn’t just a march; it was a powerful reminder of how deeply these issues are impacting everyday lives. From families struggling to afford essentials to small businesses barely hanging on, the weight of rising costs is something none of us should bear alone.\n\nThe energy in the crowd was incredible—people from all walks of life standing shoulder to shoulder, chanting, holding signs, and demanding accountability. What struck me most was the solidarity: a collective refusal to accept exploitation in tough times.\n\nThis fight isn’t just about numbers; it’s about fairness and protecting our communities. Together, we’re sending a message: enough is enough",
+    "video": null,
+    "recording": null,
+    "category": "NEWS",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#ProtestForChange #EndPriceGouging #FightInflation"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 31,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Wave1.jpg"
+    ],
+    "title": "Finding Peace by the Ocean",
+    "description": "There’s something mesmerizing about standing at the edge of the ocean, watching the waves roll in endlessly. The rhythm of the tides feels like the heartbeat of the Earth, steady and unchanging, yet full of life and energy.\n\nAs I gazed out, the horizon seemed infinite—a reminder of how small we are in the grand scheme of things, and yet how connected we are to something so vast and timeless. The salty breeze, the soothing sound of crashing waves, and the way the light dances on the water—it all creates a sense of calm that’s hard to put into words.\n\nMoments like this remind me to pause, breathe, and let nature work its magic. Have you ever just stood by the ocean and let it clear your mind?",
+    "video": null,
+    "recording": null,
+    "category": "NEWS",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#OceanViews #NatureTherapy #PeacefulMoments"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 32,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/jump1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/jump2.jpeg"
+    ],
+    "title": "The Moment Before the Leap",
+    "description": "Heart racing, adrenaline pumping, and the snow crunching under my board as I approached the ramp. That split-second decision to go for it—no turning back now. The world seemed to slow down as the ramp came closer, my focus narrowing to that single moment where speed meets flight.\n\nAs I launched off the snow, gravity gave way to pure freedom. In the air, it was just me, the board, and the trick I’d been dreaming of landing. The wind rushed past, and for a brief second, everything else disappeared.\n\nSnowboarding isn’t just about the tricks; it’s about pushing limits, feeling alive, and embracing the thrill of the unknown. Whether I nailed the landing or not, moments like this make every run worth it. Who’s ready to hit the slopes?",
+    "video": null,
+    "recording": null,
+    "category": "SPORT",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#SnowboardLife #AdrenalineRush #WinterThrills"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 33,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race3.jpeg"
+    ],
+    "title": "Snowboard Race Through the Forest",
+    "description": "There’s nothing like the thrill of racing your friends down a snowy mountainside, weaving through the forest. The crunch of fresh powder under the board, the sharp chill of the air, and the adrenaline of dodging trees while trying to take the lead—it’s the kind of chaos that keeps you grinning the whole way down.\n\nWe started at the top, laughing and throwing playful jabs about who’d eat snow first. But the second we dropped in, it was all focus. Each turn felt like a gamble between speed and control, the trees whipping past as we carved through narrow paths and untouched powder.\n\nBy the time we reached the bottom, it didn’t even matter who won. Out of breath and full of laughs, we were already talking about heading back up for another run. Snowboard races in the forest: equal parts madness and magic.",
+    "video": null,
+    "recording": null,
+    "category": "SPORT",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#SnowboardAdventures #ForestRun #ShredWithFriends"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 34,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/salon.jpeg"
+    ],
+    "title": "Timeless Elegance in a Narrow Space",
+    "description": "Creating beauty in a narrow living room is no easy feat, but this space proves that great design has no limits. The dark brown fishbone wood flooring lays the foundation, exuding a sense of warmth and sophistication that immediately draws you in.\n\nEvery piece of furniture tells a story—a harmonious blend of old-world charm and modern luxury. A vintage sideboard complements the sleek lines of contemporary armchairs, while a statement marble coffee table anchors the room with understated elegance. Soft, neutral tones in the upholstery are balanced by the rich texture of aged wood and subtle metallic accents.\n\nThe space feels intimate yet open, thanks to clever layouts and thoughtful decor that highlight its best features. It’s a perfect reminder that even the most challenging spaces can become works of art with the right touch.",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#HomeAndDecor #LuxuryLiving #TimelessDesign"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 35,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Library.jpeg"
+    ],
+    "title": "The New Pouf: My Library’s Star... and My Cat’s Throne",
+    "description": "I finally found the perfect pouf for my library—a plush, cozy addition that fits right in with the warm wood shelves and soft lighting. I imagined myself sinking into it with a good book and a cup of tea, my little corner of bliss.\n\nWhat I didn’t imagine? My cat claiming it as her own within minutes of its arrival. It’s like she was waiting for this moment her entire life! Whether it’s stretching out like royalty or curling up into a fuzzy ball, she’s made it clear this pouf belongs to her.\n\nSo now, we’re sharing... or rather, I get the occasional chance to enjoy it when she’s not around. But seeing her so happy on it almost makes up for it. Almost. Who else has lost a new piece of furniture to their pet? ",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#LibraryGoals #CatLife #CozyCorners"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 36,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
+    ],
+    "title": "My Living Room’s New Star",
+    "description": "I did it—I went for the blue sofa! It felt like a risky choice at first, stepping away from the usual neutrals, but now I can’t imagine my living room without it. The deep, rich tone brings such life to the space, and paired with a matching throw, it feels effortlessly chic and cohesive.\n\nWhat I love most is how it transforms the room’s energy. The blue adds personality without overwhelming, striking just the right balance between boldness and comfort. I catch myself smiling every time I walk in, feeling a little proud for taking the leap.\n\nSometimes, a bold choice is exactly what your space needs to feel truly yours. What’s the most daring design decision you’ve made that paid off?",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#HomeDecorWin #BoldChoices #BlueSofaLove"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
   }
 ]
