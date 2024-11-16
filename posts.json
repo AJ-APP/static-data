@@ -3471,7 +3471,7 @@
       }
     ],
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B4.jpeg", "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B1.jpeg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B1.jpeg", "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B6.jpeg"
     ],
     "title": "A Brutalist and Minimalist Sanctuary",
     "description": "Welcome to my home—a space where simplicity reigns and every element is intentional. The bare cement walls, with their raw, unfinished texture, give the space a brutalist edge, yet there’s a calming warmth in the restraint.\n\nEvery piece of furniture has a purpose, from the sleek low-profile couch to the single statement light fixture casting soft, diffused light. Open shelving displays only the essentials, while hidden storage keeps the space feeling clean and unencumbered. The cool gray tones of the walls are balanced with natural accents—wooden details, a single lush green plant, and a cozy rug underfoot.\n\nIt’s a space that inspires focus and creativity, free from distractions. For me, brutalism isn’t cold; it’s the ultimate canvas to live simply and beautifully. What do you think of this style? ",
@@ -3494,7 +3494,7 @@
     }
   },
   {
-    "id": 444,
+    "id": 44,
     "userId": 5,
     "status": {
       "likes": [
@@ -3561,6 +3561,247 @@
     "category": "HOME & DECOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": ["#RetroVibes #70sDecor #EclecticLiving"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 45,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M7.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M8.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M9.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M10.jpeg"
+    ],
+    "title": "The Enchanting Beauty of Dhaka’s Pink Mosque",
+    "description": "Nestled in the bustling heart of Dhaka, the Pink Mosque, also known as the Ahsan Manzil Mosque, is a breathtaking example of architectural elegance. Its vibrant pink facade, adorned with intricate floral motifs and geometric patterns, radiates a unique charm that’s impossible to ignore.\n\nWalking through its arched corridors feels like stepping into another time. The symmetry, the domes that seem to kiss the sky, and the delicate balance of traditional Islamic design with local influences create a visual masterpiece. Inside, the natural light filtering through ornate windows casts mesmerizing shadows, adding to the serene atmosphere.\n\nThe mosque isn’t just a place of worship—it’s a testament to Bangladesh’s rich cultural and artistic heritage. Standing in its presence, surrounded by its soft pink glow, is a reminder of the power of beauty to inspire and connect.",
+    "video": null,
+    "recording": null,
+    "category": "DESIGN",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#PinkMosque #DhakaArchitecture #CulturalHeritage"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 46,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa1.jpeg", "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa7.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa8.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa9.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa10.jpeg"
+    ],
+    "title": "Luxe Living in the South of France",
+    "description": "Tucked away in the sun-soaked hills of the South of France, this villa is the epitome of effortless luxury. As I stepped through the gates, the first thing that greeted me was a sparkling infinity pool, its azure waters mirroring the endless blue skies.\n\nThe villa itself was a dream—sleek yet warm, with floor-to-ceiling windows that framed the breathtaking countryside. Inside, every detail spoke of refined taste: plush white sofas, marble floors, and gold accents that caught the sunlight. A sprawling terrace with cozy loungers begged for lazy afternoons, while a private garden provided a quiet retreat.\n\nAs the day slipped into evening, the golden hour light made the villa glow, and the pool reflected the soft hues of the setting sun. It was one of those moments where time stood still—a perfect harmony of beauty, design, and tranquility. Who wouldn’t fall in love with a place like this?",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#SouthOfFrance #VillaDreams #LuxuryLiving"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 47,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [],
+    "title": "Wishes in the Sky: The Magic of Thailand’s Lantern Festival",
+    "description": "Imagine standing beneath a sky slowly filling with thousands of glowing lanterns, each one carrying a wish, a prayer, or a dream. That’s the magic of Thailand’s Lantern Festival, Yi Peng, an unforgettable celebration of light and hope.\n\nAs dusk settled, the festival grounds came alive with excitement. People gathered with their lanterns, some intricately decorated, others simple but no less beautiful. The scent of incense filled the air, and the sound of traditional music created an enchanting atmosphere.\n\nWhen the moment came, we lit the lanterns, their golden glow reflecting on the water below. Slowly, they rose into the night, joining a sea of light that seemed to merge with the stars. It felt like the world stood still, everyone united in awe and wonder.\n\nThis wasn’t just a festival; it was a profound moment of connection and gratitude. If you ever get the chance, don’t miss it—it’s a memory that will stay with you forever.",
+    "video": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lantern.mp4"],
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#YiPeng #LanternFestival #ThailandMagic"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],

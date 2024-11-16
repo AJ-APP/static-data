@@ -26,7 +26,7 @@
   },
   {
     "id": 5,
-    "name": "Boy's Fashion",
+    "name": "Boy Fashion",
     "image": "https://shekr-static.vyte.sh/categories/boy-fashion.png"
   },
   {
@@ -56,27 +56,27 @@
   },
   {
     "id": 11,
-    "name": "Girl's Fashion",
+    "name": "Girl Fashion",
     "image": "https://shekr-static.vyte.sh/categories/girl-fashion.png"
   },
   {
     "id": 12,
-    "name": "Home & Interior",
+    "name": "Home & Decor",
     "image": "https://shekr-static.vyte.sh/categories/home.png"
   },
   {
     "id": 13,
-    "name": "Manga, Comics & Webtoons",
+    "name": "Anime & Comics",
     "image": "https://shekr-static.vyte.sh/categories/manga.png"
   },
   {
     "id": 14,
-    "name": "Men's Fashion",
+    "name": "Men Fashion",
     "image": "https://shekr-static.vyte.sh/categories/men-fashion.png"
   },
   {
     "id": 15,
-    "name": "Men's Jewelry",
+    "name": "Men Jewelry",
     "image": "https://shekr-static.vyte.sh/categories/men-jewelry.png"
   },
   {
@@ -136,17 +136,17 @@
   },
   {
     "id": 27,
-    "name": "Video Games",
+    "name": "Video-Games",
     "image": "https://shekr-static.vyte.sh/categories/video-game.png"
   },
   {
     "id": 28,
-    "name": "Women's Fashion",
+    "name": "Women Fashion",
     "image": "https://shekr-static.vyte.sh/categories/women-fashion.png"
   },
   {
     "id": 29,
-    "name": "Women's Jewelry",
+    "name": "Women Jewelry",
     "image": "https://shekr-static.vyte.sh/categories/women-jewelry.png"
   }
 ]
