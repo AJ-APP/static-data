@@ -2906,7 +2906,7 @@
     "images": [
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
     ],
-    "title": "My Living Room’s New Star",
+    "title": "A Bold Choice For My Living Room",
     "description": "I did it—I went for the blue sofa! It felt like a risky choice at first, stepping away from the usual neutrals, but now I can’t imagine my living room without it. The deep, rich tone brings such life to the space, and paired with a matching throw, it feels effortlessly chic and cohesive.\n\nWhat I love most is how it transforms the room’s energy. The blue adds personality without overwhelming, striking just the right balance between boldness and comfort. I catch myself smiling every time I walk in, feeling a little proud for taking the leap.\n\nSometimes, a bold choice is exactly what your space needs to feel truly yours. What’s the most daring design decision you’ve made that paid off?",
     "video": null,
     "recording": null,
@@ -2987,7 +2987,7 @@
     "images": [
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sam-pearce-warrilow-OoPs1OSwE0M-unsplash.jpg"
     ],
-    "title": "My Living Room’s New Star",
+    "title": "A Sculpture of Speed on Display",
     "description": "Seeing the Lamborghini Aventador up close, motionless yet so alive, is a true marvel. It’s as if every line, angle, and contour was meticulously sculpted to embody speed and elegance, even when parked.\n\nThe sharp creases running along the body create a visual flow that’s almost hypnotic, leading your eyes from the aggressive front splitter to the intricate rear diffuser. The signature scissor doors, standing tall, command attention—an unmistakable hallmark of Lamborghini’s daring spirit.\n\nUnder the bright lights, the Aventador isn’t just a car—it’s an artistic masterpiece. From the hexagonal exhausts to the flawless paint reflecting its surroundings, every detail whispers of perfection and purpose. Standing in its presence, you can’t help but feel the blend of engineering brilliance and design genius.\n\nEven standing still, the Aventador is pure motion in form.",
     "video": null,
     "recording": null,
@@ -3228,88 +3228,7 @@
       }
     ],
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
-    ],
-    "title": "My Living Room’s New Star",
-    "description": "I did it—I went for the blue sofa! It felt like a risky choice at first, stepping away from the usual neutrals, but now I can’t imagine my living room without it. The deep, rich tone brings such life to the space, and paired with a matching throw, it feels effortlessly chic and cohesive.\n\nWhat I love most is how it transforms the room’s energy. The blue adds personality without overwhelming, striking just the right balance between boldness and comfort. I catch myself smiling every time I walk in, feeling a little proud for taking the leap.\n\nSometimes, a bold choice is exactly what your space needs to feel truly yours. What’s the most daring design decision you’ve made that paid off?",
-    "video": null,
-    "recording": null,
-    "category": "HOME & DECOR",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#ClimbingAdventures #MountainLife #FindYourPath"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 41,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cake1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cake2.jpeg"
     ],
     "title": "Creamy Indulgence: Pistachio Cheesecake Perfection",
     "description": "If there’s one dessert that combines elegance and pure decadence, it’s this pistachio cheesecake. Rich, creamy, and irresistibly nutty, it’s a showstopper for any occasion.\n\nPro tip: Serve it chilled with a cup of coffee or tea for the ultimate treat. This cheesecake is more than dessert—it’s an edible masterpiece.",
@@ -3332,7 +3251,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 41,
     "userId": 5,
     "status": {
       "likes": [
@@ -3413,7 +3332,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 42,
     "userId": 5,
     "status": {
       "likes": [
@@ -3494,7 +3413,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 43,
     "userId": 5,
     "status": {
       "likes": [
@@ -3575,7 +3494,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 444,
     "userId": 5,
     "status": {
       "likes": [
