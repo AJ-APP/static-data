@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJBFx3frl4NbdX5VJbn7FpawQoXxH2vYCfA&s",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Alice",
-    "lastName": "Green",
-    "gender": "female",
-    "username": "iamalice",
-    "email": "iamalice@me.com",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-19.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Huracan.jpg",
+    "tagLine": "Driven by passion",
+    "firstName": "Dominic",
+    "lastName": "Carter",
+    "gender": "male",
+    "username": "DrivenWithDom",
+    "email": "drivenwithdom@me.com",
     "dateOfBirth": "2000-01-01T00:00:00.000Z",
     "followers": [
       2,
@@ -26,7 +26,7 @@
       6,
       9
     ],
-    "description": "Greetings! I am Alice Green, your all-around style guru. Passionate about fashion, helping others look and feel amazing. I love exploring new trends and sharing my insights with my audience. My goal is to empower everyone to express their unique personality through their style choices.",
+    "description": "🚗 Luxury cars, speed, and everything in between\n🎥 Sharing reviews, test drives, & behind-the-scenes from the car world\n🌍 Based in Munich, exploring Europe’s roads",
     "interests": [
       1,
       5
