@@ -2,97 +2,713 @@
   {
     "id": 0,
     "name": "Art",
-    "image": "https://shekr-static.vyte.sh/categories/art.png"
+    "image": "https://shekr-static.vyte.sh/categories/art.png",
+    "children": [
+      {
+        "id": 1231230101,
+        "name": "Paintings",
+        "children": [
+          {
+            "id": 12312301011,
+            "name": "Oil Paintings"
+          },
+          {
+            "id": 1231230102,
+            "name": "Watercolor"
+          },
+          {
+            "id": 1231230103,
+            "name": "Acrylic"
+          }
+        ]
+      },
+      {
+        "id": 1231230102,
+        "name": "Sculptures"
+      },
+      {
+        "id": 1231230103,
+        "name": "Digital Art"
+      }
+    ]
   },
   {
     "id": 1,
     "name": "Automotive",
-    "image": "https://shekr-static.vyte.sh/categories/automotive.png"
+    "image": "https://shekr-static.vyte.sh/categories/automotive.png",
+    "children": [
+      {
+        "id": 1111,
+        "name": "Car Parts",
+        "children": [
+          {
+            "id": 11111,
+            "name": "Engine Parts"
+          },
+          {
+            "id": 11112,
+            "name": "Exterior Parts"
+          },
+          {
+            "id": 11113,
+            "name": "Interior Parts"
+          }
+        ]
+      },
+      {
+        "id": 1112,
+        "name": "Car Care",
+        "children": [
+          {
+            "id": 11121,
+            "name": "Cleaning Products"
+          },
+          {
+            "id": 11122,
+            "name": "Tools"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 2,
     "name": "Baby & Pregnancy",
-    "image": "https://shekr-static.vyte.sh/categories/baby.png"
+    "image": "https://shekr-static.vyte.sh/categories/baby.png",
+    "children": [
+      {
+        "id": 201,
+        "name": "Baby Care",
+        "children": [
+          {
+            "id": 2011,
+            "name": "Diapers"
+          },
+          {
+            "id": 2012,
+            "name": "Baby Food"
+          },
+          {
+            "id": 2013,
+            "name": "Baby Health"
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Maternity",
+        "children": [
+          {
+            "id": 2021,
+            "name": "Maternity Clothes"
+          },
+          {
+            "id": 2022,
+            "name": "Maternity Care"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 3,
     "name": "Beauty & Wellness",
-    "image": "https://shekr-static.vyte.sh/categories/beauty.png"
+    "image": "https://shekr-static.vyte.sh/categories/beauty.png",
+    "children": [
+      {
+        "id": 301,
+        "name": "Skincare",
+        "children": [
+          {
+            "id": 3011,
+            "name": "Face Care"
+          },
+          {
+            "id": 3012,
+            "name": "Body Care"
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Makeup",
+        "children": [
+          {
+            "id": 3021,
+            "name": "Face Makeup"
+          },
+          {
+            "id": 3022,
+            "name": "Eye Makeup"
+          },
+          {
+            "id": 3023,
+            "name": "Lip Products"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 4,
     "name": "Books",
-    "image": "https://shekr-static.vyte.sh/categories/books.png"
+    "image": "https://shekr-static.vyte.sh/categories/books.png",
+    "children": [
+      {
+        "id": 401,
+        "name": "Fiction",
+        "children": [
+          {
+            "id": 4011,
+            "name": "Fantasy"
+          },
+          {
+            "id": 4012,
+            "name": "Mystery"
+          },
+          {
+            "id": 4013,
+            "name": "Romance"
+          }
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Non-Fiction",
+        "children": [
+          {
+            "id": 4021,
+            "name": "Self-Help"
+          },
+          {
+            "id": 4022,
+            "name": "Business"
+          },
+          {
+            "id": 4023,
+            "name": "History"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 5,
-    "name": "Boy Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/boy-fashion.png"
+    "name": "Boy's Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/boy-fashion.png",
+    "children": [
+      {
+        "id": 501,
+        "name": "Clothing",
+        "children": [
+          {
+            "id": 5011,
+            "name": "Tops"
+          },
+          {
+            "id": 5012,
+            "name": "Bottoms"
+          },
+          {
+            "id": 5013,
+            "name": "Outerwear"
+          }
+        ]
+      },
+      {
+        "id": 502,
+        "name": "Shoes",
+        "children": [
+          {
+            "id": 5021,
+            "name": "Sneakers"
+          },
+          {
+            "id": 5022,
+            "name": "Formal Shoes"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 6,
     "name": "Deals",
-    "image": "https://shekr-static.vyte.sh/categories/deals.png"
+    "image": "https://shekr-static.vyte.sh/categories/deals.png",
+    "children": [
+      {
+        "id": 601,
+        "name": "Clearance",
+        "children": [
+          {
+            "id": 6011,
+            "name": "Season End"
+          },
+          {
+            "id": 6012,
+            "name": "Limited Time"
+          }
+        ]
+      },
+      {
+        "id": 602,
+        "name": "Special Offers",
+        "children": [
+          {
+            "id": 6021,
+            "name": "Bundle Deals"
+          },
+          {
+            "id": 6022,
+            "name": "Flash Sales"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 7,
     "name": "Design",
-    "image": "https://shekr-static.vyte.sh/categories/design.png"
+    "image": "https://shekr-static.vyte.sh/categories/design.png",
+    "children": [
+      {
+        "id": 701,
+        "name": "Graphic Design",
+        "children": [
+          {
+            "id": 7011,
+            "name": "Logo Design"
+          },
+          {
+            "id": 7012,
+            "name": "Print Design"
+          }
+        ]
+      },
+      {
+        "id": 702,
+        "name": "Interior Design",
+        "children": [
+          {
+            "id": 7021,
+            "name": "Residential"
+          },
+          {
+            "id": 7022,
+            "name": "Commercial"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 8,
     "name": "DIY & Gardening",
-    "image": "https://shekr-static.vyte.sh/categories/diy.png"
+    "image": "https://shekr-static.vyte.sh/categories/diy.png",
+    "children": [
+      {
+        "id": 801,
+        "name": "DIY Tools",
+        "children": [
+          {
+            "id": 8011,
+            "name": "Power Tools"
+          },
+          {
+            "id": 8012,
+            "name": "Hand Tools"
+          }
+        ]
+      },
+      {
+        "id": 802,
+        "name": "Gardening",
+        "children": [
+          {
+            "id": 8021,
+            "name": "Plants & Seeds"
+          },
+          {
+            "id": 8022,
+            "name": "Garden Tools"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 9,
     "name": "Food & Nutrition",
-    "image": "https://shekr-static.vyte.sh/categories/food.png"
+    "image": "https://shekr-static.vyte.sh/categories/food.png",
+    "children": [
+      {
+        "id": 901,
+        "name": "Organic Food",
+        "children": [
+          {
+            "id": 9011,
+            "name": "Fresh Produce"
+          },
+          {
+            "id": 9012,
+            "name": "Dairy"
+          }
+        ]
+      },
+      {
+        "id": 902,
+        "name": "Supplements",
+        "children": [
+          {
+            "id": 9021,
+            "name": "Vitamins"
+          },
+          {
+            "id": 9022,
+            "name": "Protein"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 10,
     "name": "Gender Neutral Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/gender-neutral-fashion.png"
+    "image": "https://shekr-static.vyte.sh/categories/gender-neutral-fashion.png",
+    "children": [
+      {
+        "id": 1001,
+        "name": "Clothing",
+        "children": [
+          {
+            "id": 10011,
+            "name": "Tops"
+          },
+          {
+            "id": 10012,
+            "name": "Bottoms"
+          },
+          {
+            "id": 10013,
+            "name": "Accessories"
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "name": "Footwear",
+        "children": [
+          {
+            "id": 10021,
+            "name": "Sneakers"
+          },
+          {
+            "id": 10022,
+            "name": "Boots"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 11,
-    "name": "Girl Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/girl-fashion.png"
+    "name": "Girl's Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/girl-fashion.png",
+    "children": [
+      {
+        "id": 1101,
+        "name": "Clothing",
+        "children": [
+          {
+            "id": 11011,
+            "name": "Dresses"
+          },
+          {
+            "id": 11012,
+            "name": "Tops"
+          },
+          {
+            "id": 11013,
+            "name": "Bottoms"
+          }
+        ]
+      },
+      {
+        "id": 1102,
+        "name": "Accessories",
+        "children": [
+          {
+            "id": 11021,
+            "name": "Hair Accessories"
+          },
+          {
+            "id": 11022,
+            "name": "Bags"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 12,
-    "name": "Home & Decor",
-    "image": "https://shekr-static.vyte.sh/categories/home.png"
+    "name": "Home & Interior",
+    "image": "https://shekr-static.vyte.sh/categories/home.png",
+    "children": [
+      {
+        "id": 1201,
+        "name": "Furniture",
+        "children": [
+          {
+            "id": 12011,
+            "name": "Living Room"
+          },
+          {
+            "id": 12012,
+            "name": "Bedroom"
+          },
+          {
+            "id": 12013,
+            "name": "Kitchen"
+          }
+        ]
+      },
+      {
+        "id": 1202,
+        "name": "Decor",
+        "children": [
+          {
+            "id": 12021,
+            "name": "Wall Art"
+          },
+          {
+            "id": 12022,
+            "name": "Lighting"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 13,
-    "name": "Anime & Comics",
-    "image": "https://shekr-static.vyte.sh/categories/manga.png"
+    "name": "Manga, Comics & Webtoons",
+    "image": "https://shekr-static.vyte.sh/categories/manga.png",
+    "children": [
+      {
+        "id": 1301,
+        "name": "Manga",
+        "children": [
+          {
+            "id": 13011,
+            "name": "Shonen"
+          },
+          {
+            "id": 13012,
+            "name": "Shojo"
+          },
+          {
+            "id": 13013,
+            "name": "Seinen"
+          }
+        ]
+      },
+      {
+        "id": 1302,
+        "name": "Comics",
+        "children": [
+          {
+            "id": 13021,
+            "name": "Superhero"
+          },
+          {
+            "id": 13022,
+            "name": "Graphic Novels"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 14,
-    "name": "Men Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/men-fashion.png"
+    "name": "Men's Fashion",
+    "image": "https://shekr-static.vyte.sh/categories/men-fashion.png",
+    "children": [
+      {
+        "id": 1401,
+        "name": "Clothing",
+        "children": [
+          {
+            "id": 14011,
+            "name": "Suits"
+          },
+          {
+            "id": 14012,
+            "name": "Casual Wear"
+          },
+          {
+            "id": 14013,
+            "name": "Activewear"
+          }
+        ]
+      },
+      {
+        "id": 1402,
+        "name": "Accessories",
+        "children": [
+          {
+            "id": 14021,
+            "name": "Belts"
+          },
+          {
+            "id": 14022,
+            "name": "Ties"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 15,
-    "name": "Men Jewelry",
-    "image": "https://shekr-static.vyte.sh/categories/men-jewelry.png"
+    "name": "Men's Jewelry",
+    "image": "https://shekr-static.vyte.sh/categories/men-jewelry.png",
+    "children": [
+      {
+        "id": 1501,
+        "name": "Watches",
+        "children": [
+          {
+            "id": 15011,
+            "name": "Luxury Watches"
+          },
+          {
+            "id": 15012,
+            "name": "Smart Watches"
+          }
+        ]
+      },
+      {
+        "id": 1502,
+        "name": "Accessories",
+        "children": [
+          {
+            "id": 15021,
+            "name": "Rings"
+          },
+          {
+            "id": 15022,
+            "name": "Necklaces"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 16,
     "name": "Movies & Shows",
-    "image": "https://shekr-static.vyte.sh/categories/movies.png"
+    "image": "https://shekr-static.vyte.sh/categories/movies.png",
+    "children": [
+      {
+        "id": 1601,
+        "name": "Movies",
+        "children": [
+          {
+            "id": 16011,
+            "name": "Action"
+          },
+          {
+            "id": 16012,
+            "name": "Drama"
+          },
+          {
+            "id": 16013,
+            "name": "Comedy"
+          }
+        ]
+      },
+      {
+        "id": 1602,
+        "name": "TV Shows",
+        "children": [
+          {
+            "id": 16021,
+            "name": "Series"
+          },
+          {
+            "id": 16022,
+            "name": "Reality Shows"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 17,
     "name": "Music",
-    "image": "https://shekr-static.vyte.sh/categories/music.png"
+    "image": "https://shekr-static.vyte.sh/categories/music.png",
+    "children": [
+      {
+        "id": 1701,
+        "name": "Instruments",
+        "children": [
+          {
+            "id": 17011,
+            "name": "String Instruments"
+          },
+          {
+            "id": 17012,
+            "name": "Percussion"
+          }
+        ]
+      },
+      {
+        "id": 1702,
+        "name": "Equipment",
+        "children": [
+          {
+            "id": 17021,
+            "name": "Audio Interface"
+          },
+          {
+            "id": 17022,
+            "name": "Microphones"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 18,
     "name": "News",
-    "image": "https://shekr-static.vyte.sh/categories/news.png"
+    "image": "https://shekr-static.vyte.sh/categories/news.png",
+    "children": [
+      {
+        "id": 1801,
+        "name": "Current Events",
+        "children": [
+          {
+            "id": 18011,
+            "name": "Politics"
+          },
+          {
+            "id": 18012,
+            "name": "Business"
+          }
+        ]
+      },
+      {
+        "id": 1802,
+        "name": "Entertainment",
+        "children": [
+          {
+            "id": 18021,
+            "name": "Celebrity News"
+          },
+          {
+            "id": 18022,
+            "name": "Culture"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 19,
@@ -112,7 +728,37 @@
   {
     "id": 22,
     "name": "Sport",
-    "image": "https://shekr-static.vyte.sh/categories/sport.png"
+    "image": "https://shekr-static.vyte.sh/categories/sport.png",
+    "children": [
+      {
+        "id": 221,
+        "name": "Team Sports",
+        "children": [
+          {
+            "id": 2211,
+            "name": "Football"
+          },
+          {
+            "id": 2212,
+            "name": "Basketball"
+          }
+        ]
+      },
+      {
+        "id": 222,
+        "name": "Individual Sports",
+        "children": [
+          {
+            "id": 2221,
+            "name": "Tennis"
+          },
+          {
+            "id": 2222,
+            "name": "Swimming"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 23,
@@ -122,7 +768,63 @@
   {
     "id": 24,
     "name": "Technology & Electronics",
-    "image": "https://shekr-static.vyte.sh/categories/technology.png"
+    "image": "https://shekr-static.vyte.sh/categories/technology.png",
+    "children": [
+      {
+        "id": 241,
+        "name": "Photo, Video & Drones",
+        "children": [
+          {
+            "id": 2411,
+            "name": "Drones",
+            "children": [
+              {
+                "id": 24111,
+                "name": "Air Drones"
+              },
+              {
+                "id": 24112,
+                "name": "Land Drones"
+              },
+              {
+                "id": 24113,
+                "name": "Underwater Drones"
+              }
+            ]
+          },
+          {
+            "id": 2412,
+            "name": "Video Camera"
+          },
+          {
+            "id": 2413,
+            "name": "Photo Camera"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Gadgets",
+        "children": [
+          {
+            "id": 301,
+            "name": "Phone"
+          },
+          {
+            "id": 302,
+            "name": "Tablet"
+          },
+          {
+            "id": 303,
+            "name": "Laptop"
+          },
+          {
+            "id": 304,
+            "name": "Smart Watch"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 25,
@@ -136,17 +838,51 @@
   },
   {
     "id": 27,
-    "name": "Video-Games",
-    "image": "https://shekr-static.vyte.sh/categories/video-game.png"
+    "name": "Video Games",
+    "image": "https://shekr-static.vyte.sh/categories/video-game.png",
+    "children": [
+      {
+        "id": 271,
+        "name": "Consoles",
+        "children": [
+          {
+            "id": 2711,
+            "name": "PlayStation"
+          },
+          {
+            "id": 2712,
+            "name": "Xbox"
+          },
+          {
+            "id": 2713,
+            "name": "Nintendo"
+          }
+        ]
+      },
+      {
+        "id": 272,
+        "name": "PC Gaming",
+        "children": [
+          {
+            "id": 2721,
+            "name": "Gaming PCs"
+          },
+          {
+            "id": 2722,
+            "name": "Gaming Accessories"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 28,
-    "name": "Women Fashion",
+    "name": "Women's Fashion",
     "image": "https://shekr-static.vyte.sh/categories/women-fashion.png"
   },
   {
     "id": 29,
-    "name": "Women Jewelry",
+    "name": "Women's Jewelry",
     "image": "https://shekr-static.vyte.sh/categories/women-jewelry.png"
   }
 ]
