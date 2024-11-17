@@ -11,19 +11,23 @@ const logger = {
 // Instantiate S3Service
 const s3Service = new S3Service({ logger });
 
-// Allowed image file extensions
-const IMAGE_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp']);
+// Allowed file extensions
+const ALLOWED_EXTENSIONS = new Set(['.jpg', '.jpeg', '.png', '.webp', '.mp4']);
 
 // Function to upload a single file
 async function uploadFile(filePath, fileName) {
     const fileStats = fs.statSync(filePath);
     const fileStream = fs.createReadStream(filePath);
 
+    // Determine MIME type based on file extension
+    const ext = path.extname(fileName).toLowerCase();
+    const mimeType = ext === '.mp4' ? 'video/mp4' : `image/${ext.slice(1)}`;  // Handle .mp4 separately
+
     // Mimic an Express-style file object
     const uploadFile = {
         originalname: fileName,
         path: filePath,
-        mimetype: `image/${path.extname(fileName).slice(1)}`,  // e.g., "image/png"
+        mimetype: mimeType,
         size: fileStats.size,
     };
 
@@ -35,7 +39,7 @@ async function uploadFile(filePath, fileName) {
     }
 }
 
-// Recursive function to scan folder and upload image files
+// Recursive function to scan folder and upload allowed files
 async function uploadFolderRecursive(folderPath) {
     const items = fs.readdirSync(folderPath);
 
@@ -47,9 +51,9 @@ async function uploadFolderRecursive(folderPath) {
             // If it's a directory, recurse into it
             await uploadFolderRecursive(fullPath);
         } else if (stats.isFile()) {
-            // If it's a file, check if it's an image and upload it
+            // If it's a file, check if it's allowed and upload it
             const ext = path.extname(item).toLowerCase();
-            if (IMAGE_EXTENSIONS.has(ext)) {
+            if (ALLOWED_EXTENSIONS.has(ext)) {
                 await uploadFile(fullPath, item);
             }
         }
@@ -64,5 +68,5 @@ if (!folderPath) {
 }
 
 uploadFolderRecursive(folderPath)
-    .then(() => console.log('All images uploaded successfully.'))
+    .then(() => console.log('All files uploaded successfully.'))
     .catch(error => console.error('Error during upload process:', error));
