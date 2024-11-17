@@ -170,7 +170,7 @@
   },
   {
     "id": 3,
-    "userId": 3,
+    "userId": 2,
     "status": {
       "likes": [
         2,
@@ -240,9 +240,7 @@
     ],
     "mentionedPeople": [],
     "mentionedItems": [],
-    "collaborations": [
-      4
-    ],
+    "collaborations": [],
     "link": "",
     "setting": {
       "audience": [],
@@ -255,7 +253,7 @@
   },
   {
     "id": 4,
-    "userId": 4,
+    "userId": 2,
     "status": {
       "likes": [
         2,
@@ -336,7 +334,7 @@
   },
   {
     "id": 5,
-    "userId": 4,
+    "userId": 1,
     "status": {
       "likes": [
         2,
@@ -417,7 +415,7 @@
   },
   {
     "id": 6,
-    "userId": 5,
+    "userId": 1,
     "status": {
       "likes": [
         2,
