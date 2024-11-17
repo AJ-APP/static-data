@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "Pouf",
+    "description": "Furniture",
     "images": [
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.jpg",
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.jpg",
@@ -80,20 +80,20 @@
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
+        "image": "https://shekr-static.vyte.sh/products/Pouf highlight 2.webp",
+        "title": "Soft, carefully selected fabrics",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
+        "image": "https://shekr-static.vyte.sh/products/Poufhighlight1.jpg",
+        "title": "Durable foam guarantees long lasting use",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
+        "image": "https://shekr-static.vyte.sh/products/poufhighlight3.webp",
+        "title": "Multi-purpose application",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       }
     ],
