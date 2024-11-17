@@ -1,68 +1,31 @@
 [
   {
     "id": 1,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-19.png",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Huracan.jpg",
-    "tagLine": "Driven by passion",
-    "firstName": "Dominic",
-    "lastName": "Carter",
-    "gender": "male",
-    "username": "DrivenWithDom",
-    "email": "drivenwithdom@me.com",
-    "dateOfBirth": "2000-01-01T00:00:00.000Z",
-    "followers": [
-      2,
-      3,
-      5,
-      6,
-      7,
-      9
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female10.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Where quirky meets cozy",
+    "firstName": "Lila",
+    "lastName": "Bennett",
+    "gender": "female",
+    "username": "ColorfulByLila",
+    "email": "colorfulbylila@email.com",
+    "dateOfBirth": "1992-07-25T00:00:00.000Z",
+    "followers": [6,
+      8
     ],
     "following": [
-      2,
-      3,
-      4,
-      5,
-      6,
-      9
-    ],
-    "description": "🚗 Luxury cars, speed, and everything in between\n🎥 Sharing reviews, test drives, & behind-the-scenes from the car world\n🌍 Based in Munich, exploring Europe’s roads",
-    "interests": [
       1,
-      5
+      5,
+      7
+    ],
+    "description": "Hi, I’m Lila, a home décor lover obsessed with quirky, colorful, and soulful compositions. I believe every space should have personality and tell a unique story. From bold patterns to playful accents, I mix the unexpected to create spaces that feel alive. Based in Brighton, I share tips, DIY projects, and my journey of turning ordinary rooms into vibrant, joyful havens.",
+    "interests": [
+      12
     ],
     "isShekrMember": false
   },
   {
     "id": 2,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female09.png",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Life’s better on the trail",
-    "firstName": "Sierra",
-    "lastName": "Ryder",
-    "gender": "female",
-    "username": "TrailBlazinSierra",
-    "email": "trailblazinsierra@email.com",
-    "dateOfBirth": "1995-02-10T00:00:00.000Z",
-    "followers": [
-      1,
-      3,
-      4
-    ],
-    "following": [
-      3,
-      4,
-      6
-    ],
-    "description": "🏍️ ATVs, dirt bikes & adrenaline-fueled adventures\n🌲 Trail rides, gear tips, & off-road challenges\n📍 Based in the Alps, chasing the next thrill",
-    "interests": [
-      2,
-      7
-    ],
-    "isShekrMember": false
-  },
-  {
-    "id": 3,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female07.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Colors that tell a story.",
@@ -89,10 +52,37 @@
     "isShekrMember": true
   },
   {
+    "id": 3,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-19.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/kenny-eliason-5UrbNVgxpXo-unsplash.jpg",
+    "tagLine": "Shredding strings, making noise",
+    "firstName": "Jake",
+    "lastName": "Steele",
+    "gender": "male",
+    "username": "RiffsWithJake",
+    "email": "riffswithjake@email.com",
+    "dateOfBirth": "1988-05-15T00:00:00.000Z",
+    "followers": [
+      1,
+      2,
+      5
+    ],
+    "following": [
+      1,
+      4,
+      7
+    ],
+    "description": "I’m Jake, lead guitarist for Iron Echo and a die-hard rock enthusiast. From killer solos to raw jam sessions, I live for the music and the energy of the stage. On my page, you’ll find behind-the-scenes band life, gear reviews, and riffs that hit hard. Based in London, I’m all about keeping the rock spirit alive—turn it up and join the journey!",
+    "interests": [
+      17
+    ],
+    "isShekrMember": true
+  },
+  {
     "id": 4,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female10.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
+    "tagLine": "Where quirky meets cozy",
     "firstName": "Lila",
     "lastName": "Bennett",
     "gender": "female",
@@ -117,31 +107,31 @@
   },
   {
     "id": 5,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xW2RFl2QLAchkHyt4DDU5RA5glgOA7sjUw&s",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female09.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Edward",
-    "lastName": "Purple",
-    "gender": "male",
-    "username": "iamedward",
-    "email": "iamedward@me.com",
-    "dateOfBirth": "1980-11-22T00:00:00.000Z",
+    "tagLine": "Life’s better on the trail",
+    "firstName": "Sierra",
+    "lastName": "Ryder",
+    "gender": "female",
+    "username": "TrailBlazinSierra",
+    "email": "trailblazinsierra@email.com",
+    "dateOfBirth": "1995-02-10T00:00:00.000Z",
     "followers": [
       1,
-      6,
-      9
+      3,
+      4
     ],
     "following": [
       3,
       4,
       6
     ],
-    "description": "Exploring the world through engaging and thought-provoking podcasts. My passion lies in uncovering hidden gems of knowledge and sharing them with my listeners. I strive to create content that not only informs but also inspires action and personal growth.",
+    "description": "🏍️ ATVs, dirt bikes & adrenaline-fueled adventures\n🌲 Trail rides, gear tips, & off-road challenges\n📍 Based in the Alps, chasing the next thrill",
     "interests": [
-      9,
-      16
+      2,
+      7
     ],
-    "isShekrMember": true
+    "isShekrMember": false
   },
   {
     "id": 6,
