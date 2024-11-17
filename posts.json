@@ -187,7 +187,7 @@
         {
           "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
           "id": 4,
-          "userId": 5,
+          "userId": 2,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
             "likes": [
@@ -236,7 +236,7 @@
     "category": "AUTOMOTIVE",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [
-      "ADVENTURE"
+      "#ADVENTURE"
     ],
     "mentionedPeople": [],
     "mentionedItems": [],
@@ -1551,7 +1551,7 @@
   },
   {
     "id": 20,
-    "userId": 5,
+    "userId": 3,
     "status": {
       "likes": [
         2,
