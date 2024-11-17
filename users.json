@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJBFx3frl4NbdX5VJbn7FpawQoXxH2vYCfA&s",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Alice",
-    "lastName": "Green",
-    "gender": "female",
-    "username": "iamalice",
-    "email": "iamalice@me.com",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-19.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Huracan.jpg",
+    "tagLine": "Driven by passion",
+    "firstName": "Dominic",
+    "lastName": "Carter",
+    "gender": "male",
+    "username": "DrivenWithDom",
+    "email": "drivenwithdom@me.com",
     "dateOfBirth": "2000-01-01T00:00:00.000Z",
     "followers": [
       2,
@@ -26,7 +26,7 @@
       6,
       9
     ],
-    "description": "Greetings! I am Alice Green, your all-around style guru. Passionate about fashion, helping others look and feel amazing. I love exploring new trends and sharing my insights with my audience. My goal is to empower everyone to express their unique personality through their style choices.",
+    "description": "🚗 Luxury cars, speed, and everything in between\n🎥 Sharing reviews, test drives, & behind-the-scenes from the car world\n🌍 Based in Munich, exploring Europe’s roads",
     "interests": [
       1,
       5
@@ -35,14 +35,14 @@
   },
   {
     "id": 2,
-    "picture": "https://xsgames.co/randomusers/assets/avatars/male/46.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female09.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Bob",
-    "lastName": "Blue",
-    "gender": "male",
-    "username": "iambob",
-    "email": "iambob@me.com",
+    "tagLine": "Life’s better on the trail",
+    "firstName": "Sierra",
+    "lastName": "Ryder",
+    "gender": "female",
+    "username": "TrailBlazinSierra",
+    "email": "trailblazinsierra@email.com",
     "dateOfBirth": "1995-02-10T00:00:00.000Z",
     "followers": [
       1,
@@ -54,7 +54,7 @@
       4,
       6
     ],
-    "description": "Podcasts enthusiast and livestream host. Let's dive into deep conversations. I'm always on the lookout for intriguing topics and engaging guests to bring fresh perspectives to my audience. My mission is to create a space where ideas can flourish and minds can expand.",
+    "description": "🏍️ ATVs, dirt bikes & adrenaline-fueled adventures\n🌲 Trail rides, gear tips, & off-road challenges\n📍 Based in the Alps, chasing the next thrill",
     "interests": [
       2,
       7
@@ -63,14 +63,14 @@
   },
   {
     "id": 3,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoq0f1tSU2b8opZaApGh5tl2FreFb52dyo6Q&s",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female07.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Charlie",
-    "lastName": "Red",
-    "gender": "male",
-    "username": "iamcharlie",
-    "email": "iamcharlie@me.com",
+    "tagLine": "Colors that tell a story.",
+    "firstName": "Elena",
+    "lastName": "Varela",
+    "gender": "female",
+    "username": "ElenaVarelaArt",
+    "email": "elenavarelaart@email.com",
     "dateOfBirth": "1988-05-15T00:00:00.000Z",
     "followers": [
       1,
@@ -82,23 +82,22 @@
       4,
       7
     ],
-    "description": "I explore tech, culture, and everything in between through podcasts. My goal is to bridge the gap between complex technological concepts and everyday life. Join me as we unravel the mysteries of our digital world and discuss their impact on society.",
+    "description": "I'm Elena, a painter inspired by the beauty of nature and the emotions we all share. I create vibrant abstracts, soulful portraits, and pieces that tell a story. Based in Barcelona, my art is my way of connecting with the world one brushstroke at a time.",
     "interests": [
-      3,
-      11
+      0
     ],
     "isShekrMember": true
   },
   {
     "id": 4,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMh_SuFO3GQYFbivDLoBdV478E3H9QPePgQ&s",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female10.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
-    "firstName": "Diana",
-    "lastName": "Yellow",
+    "firstName": "Lila",
+    "lastName": "Bennett",
     "gender": "female",
-    "username": "iamdiana",
-    "email": "iamdiana@me.com",
+    "username": "ColorfulByLila",
+    "email": "colorfulbylila@email.com",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
     "followers": [
       3,
@@ -110,10 +109,9 @@
       5,
       7
     ],
-    "description": "Bringing interesting stories to life through podcasts. Let's connect! I believe in the power of storytelling to inspire, educate, and entertain. Through my podcasts, I aim to shed light on untold narratives and give voice to diverse perspectives.",
+    "description": "Hi, I’m Lila, a home décor lover obsessed with quirky, colorful, and soulful compositions. I believe every space should have personality and tell a unique story. From bold patterns to playful accents, I mix the unexpected to create spaces that feel alive. Based in Brighton, I share tips, DIY projects, and my journey of turning ordinary rooms into vibrant, joyful havens.",
     "interests": [
-      4,
-      6
+      12
     ],
     "isShekrMember": false
   },
