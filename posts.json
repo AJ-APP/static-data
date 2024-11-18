@@ -84,7 +84,7 @@
   },
   {
     "id": 2,
-    "userId": 1,
+    "userId": 4,
     "status": {
       "likes": [
         2,
@@ -96,67 +96,63 @@
         8,
         9,
         10
-      ],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [
-              1,
-              4,
-              6,
-              8,
-              9,
-              7,
-              11,
-              10
-            ]
-          }
-        }
-      ],
-      "reposts": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "views": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
       ]
     },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BMWM4CS.jpg"
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
     ],
-    "title": "Unleashing the Beast: First Look at the BMW M4 CS",
-    "description": "Sitting between the M4 Competition and the track-dedicated M4 GTS, the CS isn’t just another sports car; it’s a finely-tuned beast designed to bridge daily drivability with serious performance chops. Under the hood, the M4 CS packs a twin-turbocharged inline-six engine producing a robust 454 horsepower and 442 lb-ft of torque. This power, paired with BMW’s refined M adaptive suspension and lightweight construction, delivers a swift 0-60 mph in just 3.8 seconds, proving its mettle on both track and tarmac. The carbon-fiber roof, front splitter, and rear spoiler keep the weight down while enhancing aerodynamics, allowing the CS to slice through corners with agility.",
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Library.jpeg"
+    ],
+    "title": "The New Pouf: My Library’s Star... and My Cat’s Throne",
+    "description": "I finally found the perfect pouf for my library—a plush, cozy addition that fits right in with the warm wood shelves and soft lighting. I imagined myself sinking into it with a good book and a cup of tea, my little corner of bliss.\n\nWhat I didn’t imagine? My cat claiming it as her own within minutes of its arrival. It’s like she was waiting for this moment her entire life! Whether it’s stretching out like royalty or curling up into a fuzzy ball, she’s made it clear this pouf belongs to her.\n\nSo now, we’re sharing... or rather, I get the occasional chance to enjoy it when she’s not around. But seeing her so happy on it almost makes up for it. Almost. Who else has lost a new piece of furniture to their pet? ",
     "video": null,
     "recording": null,
-    "category": "AUTOMOTIVE",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": [],
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#LibraryGoals #CatLife #CozyCorners"],
     "mentionedPeople": [],
     "mentionedItems": [],
-    "collaborations": [
-      4,
-      5,
-      6
-    ],
+    "collaborations": [],
     "link": "",
     "setting": {
       "audience": [],
@@ -169,7 +165,7 @@
   },
   {
     "id": 3,
-    "userId": 2,
+    "userId": 4,
     "status": {
       "likes": [
         2,
@@ -181,62 +177,60 @@
         8,
         9,
         10
-      ],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 4,
-          "userId": 2,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [
-              1,
-              4,
-              6,
-              8,
-              9,
-              7,
-              11,
-              10
-            ]
-          }
-        }
-      ],
-      "reposts": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ],
-      "views": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
       ]
     },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Quad1.jpg"
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
     ],
-    "title": "Into the Drift",
-    "description": "I gripped the handlebars and leaned hard, feeling the mud give way beneath the tires as I pulled the ATV into the drift. The field opened wide around me, but I only saw the curve I was carving, the wet earth spraying in a messy arc as I hit the throttle. I could feel the back end kick out, but I leaned right, pushing harder, riding that thin line between control and chaos. The forest was a dark wall in my peripheral vision, the only witness to this reckless dance. It was just me, the machine, and the thrill of the mud churning beneath me—no destination, just the thrill of taking every corner a little faster, a little closer to the edge.",
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
+    ],
+    "title": "A Bold Choice For My Living Room",
+    "description": "I did it—I went for the blue sofa! It felt like a risky choice at first, stepping away from the usual neutrals, but now I can’t imagine my living room without it. The deep, rich tone brings such life to the space, and paired with a matching throw, it feels effortlessly chic and cohesive.\n\nWhat I love most is how it transforms the room’s energy. The blue adds personality without overwhelming, striking just the right balance between boldness and comfort. I catch myself smiling every time I walk in, feeling a little proud for taking the leap.\n\nSometimes, a bold choice is exactly what your space needs to feel truly yours. What’s the most daring design decision you’ve made that paid off?",
     "video": null,
     "recording": null,
-    "category": "AUTOMOTIVE",
+    "category": "HOME & DECOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": [
-      "#ADVENTURE"
-    ],
+    "hashtags": ["#HomeDecorWin #BoldChoices #BlueSofaLove"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -252,6 +246,87 @@
   },
   {
     "id": 4,
+    "userId": 3,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/alex-kalinin-Rz3jF9vL5m0-unsplash.jpg"
+    ],
+    "title": "Nature through a Crimson Lens",
+    "description": "Just finished this bold piece, inspired by the intense and surreal beauty of a red-filtered world. I wanted to take nature to a new dimension, transforming everyday plants into something dark, dramatic, and almost otherworldly. The deep reds and stark blacks create a contrast that feels both alive and mysterious, like you’re looking at nature through a hidden lens.\n\nEvery shadow, every leaf, has taken on this fiery glow, showing a wild side we don’t usually see. For me, this piece is all about reimagining the natural world—finding intensity and wonder in unexpected places. Let me know what feelings this brings up for you: does it feel familiar, or like a glimpse into a completely different world?",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#IntoTheRed #NatureReimagined #BoldArt"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 5,
     "userId": 1,
     "status": {
       "likes": [
@@ -332,7 +407,7 @@
     }
   },
   {
-    "id": 4,
+    "id": 6,
     "userId": 2,
     "status": {
       "likes": [
@@ -413,87 +488,6 @@
     }
   },
   {
-    "id": 6,
-    "userId": 1,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pitstop.jpg"
-    ],
-    "title": "Lightning-Fast Pit Stops at the GT America Race! ⚡️🏎️",
-    "description": "Hey, everyone! 🌟 I just had the most exhilarating experience at the GT race this weekend, and I couldn’t wait to share it with you all! As an influencer and a huge motorsport fan, I had the incredible opportunity to get up close and personal with the action from the pit crew’s perspective. The atmosphere was electric as the cars roared around the track, but nothing could prepare me for the adrenaline rush of being in the pit. The moment our Ford GT pulled in for a tire change, I was glued to the scene. It was like watching a perfectly choreographed dance – every team member knew their role and executed it flawlessly.",
-    "video": null,
-    "recording": null,
-    "category": "AUTOMOTIVE",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": [],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
     "id": 7,
     "userId": 5,
     "status": {
@@ -552,13 +546,94 @@
       }
     ],
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Jetski.jpg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race3.jpeg"
     ],
-    "title": "An Exciting Day on the Jet Ski",
-    "description": "There’s something about the open water that makes you feel absolutely free. Today, I had one goal: throttle down and ride every wave in sight on my jet ski. The sun was shining, the water was perfect, and the thrill of speeding across the surface never gets old.\nI started by carving through the waves, feeling the spray as I leaned into every turn. Hitting the throttle, I felt the jet ski lift slightly, gliding effortlessly over the water. I could feel the adrenaline with every jump, every splash—a perfect mix of freedom and pure exhilaration. After a few hours of wild rides and a few wipeouts, I just drifted, taking in the endless blue stretching out around me.",
+    "title": "Snowboard Race Through the Forest",
+    "description": "There’s nothing like the thrill of racing your friends down a snowy mountainside, weaving through the forest. The crunch of fresh powder under the board, the sharp chill of the air, and the adrenaline of dodging trees while trying to take the lead—it’s the kind of chaos that keeps you grinning the whole way down.\n\nWe started at the top, laughing and throwing playful jabs about who’d eat snow first. But the second we dropped in, it was all focus. Each turn felt like a gamble between speed and control, the trees whipping past as we carved through narrow paths and untouched powder.\n\nBy the time we reached the bottom, it didn’t even matter who won. Out of breath and full of laughs, we were already talking about heading back up for another run. Snowboard races in the forest: equal parts madness and magic.",
     "video": null,
     "recording": null,
-    "category": "AUTOMOTIVE",
+    "category": "SPORT",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#SnowboardAdventures #ForestRun #ShredWithFriends"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 8,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Camping.jpg"
+    ],
+    "title": "Camping on a Snow-Capped Summit",
+    "description": "There’s nothing quite like camping at the summit, especially when the mountain is blanketed in snow and the world feels crisp and still. Reaching the top, I set up camp and layered up against the chill, knowing the best part was yet to come: the sunset.\nAs the sun began to sink, everything around me transformed. The snow took on a warm, golden hue, the sky shifting from deep orange to fiery pink, casting soft light across the peaks around me. Sitting there, wrapped in my jacket with hot cocoa in hand, I watched as the last rays dipped below the horizon, leaving a quiet calm over the mountain.",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
@@ -575,7 +650,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "userId": 6,
     "status": {
       "likes": [
@@ -656,7 +731,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "userId": 5,
     "status": {
       "likes": [
@@ -721,87 +796,6 @@
     "video": null,
     "recording": null,
     "category": "TRAVEL",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": [],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 10,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Camping.jpg"
-    ],
-    "title": "Camping on a Snow-Capped Summit",
-    "description": "There’s nothing quite like camping at the summit, especially when the mountain is blanketed in snow and the world feels crisp and still. Reaching the top, I set up camp and layered up against the chill, knowing the best part was yet to come: the sunset.\nAs the sun began to sink, everything around me transformed. The snow took on a warm, golden hue, the sky shifting from deep orange to fiery pink, casting soft light across the peaks around me. Sitting there, wrapped in my jacket with hot cocoa in hand, I watched as the last rays dipped below the horizon, leaving a quiet calm over the mountain.",
-    "video": null,
-    "recording": null,
-    "category": "OUTDOOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
@@ -1119,15 +1113,15 @@
       }
     ],
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Arsenal.jpg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/beach.jpeg"
     ],
-    "title": "My First Arsenal Game at the Emirates Stadium",
-    "description": "Walking up to the Emirates Stadium for the first time, I felt the excitement in the air. The red and white of Arsenal’s colors flooded the streets as fans made their way toward the stadium, chanting, laughing, and sharing in the buzz that only matchday brings. As I entered the gates, I could hear the hum of thousands of voices inside, blending into a powerful roar that made me feel like I was stepping into something bigger than myself.\nOnce I found my seat, the view took my breath away—the perfect green pitch under the stadium lights, the iconic crest in the center, and fans filling every corner, ready to support their team. When the players emerged, the stadium erupted, and I felt that surge of energy ripple through the crowd. Hearing the familiar chant of “Come on, you Gunners!” I joined in, feeling like part of a global family, all connected in that moment.",
+    "title": "Finding Peace by the Ocean",
+    "description": "There’s something mesmerizing about standing at the edge of the ocean, watching the waves roll in endlessly. The rhythm of the tides feels like the heartbeat of the Earth, steady and unchanging, yet full of life and energy.\n\nAs I gazed out, the horizon seemed infinite—a reminder of how small we are in the grand scheme of things, and yet how connected we are to something so vast and timeless. The salty breeze, the soothing sound of crashing waves, and the way the light dances on the water—it all creates a sense of calm that’s hard to put into words.\n\nMoments like this remind me to pause, breathe, and let nature work its magic. Have you ever just stood by the ocean and let it clear your mind?",
     "video": null,
     "recording": null,
-    "category": "SPORT",
+    "category": "NEWS",
     "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": [],
+    "hashtags": ["#OceanViews #NatureTherapy #PeacefulMoments"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -1443,19 +1437,19 @@
       }
     ],
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/night_boat.jpg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Arsenal.jpg"
     ],
-    "title": "Capturing the Calm of a Fisherman’s Journey at Nightfall",
-    "description": "Just finished this piece, inspired by a quiet night watching a lone fishing boat drift under the moonlight. There’s something magical about painting the stillness of the sea at night—the way the water reflects tiny fragments of starlight, the boat rocking gently, as if the ocean itself is breathing. I wanted to capture that sense of calm and solitude, where all you hear is the soft lapping of water and the distant hum of the boat’s motor.\n\nWith each brushstroke, I felt myself immersed in the quiet world of the fisherman, their lone lantern casting a warm glow against the deep blue of the night. For me, this painting is a tribute to those quiet moments of reflection, far from the noise of everyday life. Let me know what you feel when you look at it—can you hear the stillness, too?",
+    "title": "My First Arsenal Game at the Emirates Stadium",
+    "description": "Walking up to the Emirates Stadium for the first time, I felt the excitement in the air. The red and white of Arsenal’s colors flooded the streets as fans made their way toward the stadium, chanting, laughing, and sharing in the buzz that only matchday brings. As I entered the gates, I could hear the hum of thousands of voices inside, blending into a powerful roar that made me feel like I was stepping into something bigger than myself.\nOnce I found my seat, the view took my breath away—the perfect green pitch under the stadium lights, the iconic crest in the center, and fans filling every corner, ready to support their team. When the players emerged, the stadium erupted, and I felt that surge of energy ripple through the crowd. Hearing the familiar chant of “Come on, you Gunners!” I joined in, feeling like part of a global family, all connected in that moment.",
     "video": null,
     "recording": null,
-    "category": "ART",
+    "category": "SPORT",
     "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#ArtOfTheNight #OceanAtPeace #ArtistLife #ArtOfTheNight #OceanAtPeace #ArtistLife #OceanAtPeace #ArtistLife #ArtOfTheNight #OceanAtPeace"],
+    "hashtags": [],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
-    "link": "https://mocomuseum.com/exhibitions/amsterdam/modern-masters/77218",
+    "link": "",
     "setting": {
       "audience": [],
       "contentDisclosure": {
@@ -1523,170 +1517,7 @@
         ]
       }
     ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/beach.jpg"
-    ],
-    "title": "Capturing the Magic of a Bioluminescent Night",
-    "description": "Just wrapped up this piece, inspired by the breathtaking beauty of bioluminescent algae lighting up the shoreline. I wanted to capture that surreal glow—the deep blues and vibrant sparks that dance across the waves, transforming a quiet beach night into something almost otherworldly. The scene feels alive, like the ocean itself is awake, swirling with light and energy in every wave.\n\nPainting this was like diving into a dream. Each brushstroke added a touch of mystery, a hint of that electric blue that makes the water look like it’s glowing from within. This piece is about those rare, unforgettable nights where nature puts on a show, reminding us of its quiet magic. Let me know if you can feel the pulse of the ocean through this glow.",
-    "video": null,
-    "recording": null,
-    "category": "ART",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#NightMagic #ArtInspiredByNature"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 20,
-    "userId": 3,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/alex-kalinin-Rz3jF9vL5m0-unsplash.jpg"
-    ],
-    "title": "Nature through a Crimson Lens",
-    "description": "Just finished this bold piece, inspired by the intense and surreal beauty of a red-filtered world. I wanted to take nature to a new dimension, transforming everyday plants into something dark, dramatic, and almost otherworldly. The deep reds and stark blacks create a contrast that feels both alive and mysterious, like you’re looking at nature through a hidden lens.\n\nEvery shadow, every leaf, has taken on this fiery glow, showing a wild side we don’t usually see. For me, this piece is all about reimagining the natural world—finding intensity and wonder in unexpected places. Let me know what feelings this brings up for you: does it feel familiar, or like a glimpse into a completely different world?",
-    "video": null,
-    "recording": null,
-    "category": "ART",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#IntoTheRed #NatureReimagined #BoldArt"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 21,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Festival.jpg"
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Festival.jpg"
     ],
     "title": "Electric Nights at Les Vieilles Charrues",
     "description": "Just got back from Les Vieilles Charrues, and wow—what an unforgettable experience! There’s something about this festival that feels like pure magic. Set in the heart of Brittany, with incredible artists, endless energy, and the warmest crowd, it’s a blend of music, art, and that unique French festival vibe.\n\nEvery stage had its own vibe, and the mix of genres kept things exciting—from rock to electronic beats, and even folk. Standing in a sea of people, all singing along to our favorite songs, I felt that electric sense of unity that only live music can bring. And of course, the food—crepes and cider everywhere, because what’s a festival in Brittany without it?\n\nIf you ever get the chance to experience Les Vieilles Charrues, take it. The music, the people, the atmosphere—it’s more than a festival; it’s a celebration of life, art, and connection. Until next year, Charrues!",
@@ -1709,7 +1540,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 20,
     "userId": 5,
     "status": {
       "likes": [
@@ -1769,7 +1600,7 @@
     "images": [
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Club2.jpg"
     ],
-    "title": "An Unforgettable Night Dancing ‘Til Dawn",
+    "title": "An Unforgettable Night Dancing Til Dawn",
     "description": "Last night was one for the books! There’s just something about a great night out at a club—the beat, the lights, and the feeling of being surrounded by people all vibing to the same music. From the moment we walked in, the energy was electric. The DJ was on fire, spinning track after track that had everyone on the dance floor, and we didn’t stop moving for hours.\n\nThe lights pulsed, the bass shook the room, and it was one of those nights where you lose track of time completely. Friends, new and old, all together under those flashing lights, just living in the moment. By the time we stepped out, the first light of dawn was already breaking. Nights like these remind me of why I love going out—sometimes, it’s not about the destination but the memories we make on the dance floor.",
     "video": null,
     "recording": null,
@@ -1790,7 +1621,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 21,
     "userId": 5,
     "status": {
       "likes": [
@@ -1871,7 +1702,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 22,
     "userId": 5,
     "status": {
       "likes": [
@@ -1952,7 +1783,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 23,
     "userId": 5,
     "status": {
       "likes": [
@@ -2033,7 +1864,7 @@
     }
   },
   {
-    "id": 26,
+    "id": 24,
     "userId": 5,
     "status": {
       "likes": [
@@ -2114,7 +1945,7 @@
     }
   },
   {
-    "id": 27,
+    "id": 25,
     "userId": 5,
     "status": {
       "likes": [
@@ -2195,7 +2026,7 @@
     }
   },
   {
-    "id": 28,
+    "id": 26,
     "userId": 5,
     "status": {
       "likes": [
@@ -2276,7 +2107,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 27,
     "userId": 5,
     "status": {
       "likes": [
@@ -2357,7 +2188,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 28,
     "userId": 5,
     "status": {
       "likes": [
@@ -2438,88 +2269,7 @@
     }
   },
   {
-    "id": 31,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/beach.jpeg"
-    ],
-    "title": "Finding Peace by the Ocean",
-    "description": "There’s something mesmerizing about standing at the edge of the ocean, watching the waves roll in endlessly. The rhythm of the tides feels like the heartbeat of the Earth, steady and unchanging, yet full of life and energy.\n\nAs I gazed out, the horizon seemed infinite—a reminder of how small we are in the grand scheme of things, and yet how connected we are to something so vast and timeless. The salty breeze, the soothing sound of crashing waves, and the way the light dances on the water—it all creates a sense of calm that’s hard to put into words.\n\nMoments like this remind me to pause, breathe, and let nature work its magic. Have you ever just stood by the ocean and let it clear your mind?",
-    "video": null,
-    "recording": null,
-    "category": "NEWS",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#OceanViews #NatureTherapy #PeacefulMoments"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 32,
+    "id": 29,
     "userId": 5,
     "status": {
       "likes": [
@@ -2600,493 +2350,7 @@
     }
   },
   {
-    "id": 33,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race3.jpeg"
-    ],
-    "title": "Snowboard Race Through the Forest",
-    "description": "There’s nothing like the thrill of racing your friends down a snowy mountainside, weaving through the forest. The crunch of fresh powder under the board, the sharp chill of the air, and the adrenaline of dodging trees while trying to take the lead—it’s the kind of chaos that keeps you grinning the whole way down.\n\nWe started at the top, laughing and throwing playful jabs about who’d eat snow first. But the second we dropped in, it was all focus. Each turn felt like a gamble between speed and control, the trees whipping past as we carved through narrow paths and untouched powder.\n\nBy the time we reached the bottom, it didn’t even matter who won. Out of breath and full of laughs, we were already talking about heading back up for another run. Snowboard races in the forest: equal parts madness and magic.",
-    "video": null,
-    "recording": null,
-    "category": "SPORT",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#SnowboardAdventures #ForestRun #ShredWithFriends"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 34,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/salon.jpeg"
-    ],
-    "title": "Timeless Elegance in a Narrow Space",
-    "description": "Creating beauty in a narrow living room is no easy feat, but this space proves that great design has no limits. The dark brown fishbone wood flooring lays the foundation, exuding a sense of warmth and sophistication that immediately draws you in.\n\nEvery piece of furniture tells a story—a harmonious blend of old-world charm and modern luxury. A vintage sideboard complements the sleek lines of contemporary armchairs, while a statement marble coffee table anchors the room with understated elegance. Soft, neutral tones in the upholstery are balanced by the rich texture of aged wood and subtle metallic accents.\n\nThe space feels intimate yet open, thanks to clever layouts and thoughtful decor that highlight its best features. It’s a perfect reminder that even the most challenging spaces can become works of art with the right touch.",
-    "video": null,
-    "recording": null,
-    "category": "HOME & DECOR",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#HomeAndDecor #LuxuryLiving #TimelessDesign"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 35,
-    "userId": 4,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Library.jpeg"
-    ],
-    "title": "The New Pouf: My Library’s Star... and My Cat’s Throne",
-    "description": "I finally found the perfect pouf for my library—a plush, cozy addition that fits right in with the warm wood shelves and soft lighting. I imagined myself sinking into it with a good book and a cup of tea, my little corner of bliss.\n\nWhat I didn’t imagine? My cat claiming it as her own within minutes of its arrival. It’s like she was waiting for this moment her entire life! Whether it’s stretching out like royalty or curling up into a fuzzy ball, she’s made it clear this pouf belongs to her.\n\nSo now, we’re sharing... or rather, I get the occasional chance to enjoy it when she’s not around. But seeing her so happy on it almost makes up for it. Almost. Who else has lost a new piece of furniture to their pet? ",
-    "video": null,
-    "recording": null,
-    "category": "HOME & DECOR",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#LibraryGoals #CatLife #CozyCorners"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 36,
-    "userId": 4,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
-    ],
-    "title": "A Bold Choice For My Living Room",
-    "description": "I did it—I went for the blue sofa! It felt like a risky choice at first, stepping away from the usual neutrals, but now I can’t imagine my living room without it. The deep, rich tone brings such life to the space, and paired with a matching throw, it feels effortlessly chic and cohesive.\n\nWhat I love most is how it transforms the room’s energy. The blue adds personality without overwhelming, striking just the right balance between boldness and comfort. I catch myself smiling every time I walk in, feeling a little proud for taking the leap.\n\nSometimes, a bold choice is exactly what your space needs to feel truly yours. What’s the most daring design decision you’ve made that paid off?",
-    "video": null,
-    "recording": null,
-    "category": "HOME & DECOR",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#HomeDecorWin #BoldChoices #BlueSofaLove"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 37,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sam-pearce-warrilow-OoPs1OSwE0M-unsplash.jpg"
-    ],
-    "title": "A Sculpture of Speed on Display",
-    "description": "Seeing the Lamborghini Aventador up close, motionless yet so alive, is a true marvel. It’s as if every line, angle, and contour was meticulously sculpted to embody speed and elegance, even when parked.\n\nThe sharp creases running along the body create a visual flow that’s almost hypnotic, leading your eyes from the aggressive front splitter to the intricate rear diffuser. The signature scissor doors, standing tall, command attention—an unmistakable hallmark of Lamborghini’s daring spirit.\n\nUnder the bright lights, the Aventador isn’t just a car—it’s an artistic masterpiece. From the hexagonal exhausts to the flawless paint reflecting its surroundings, every detail whispers of perfection and purpose. Standing in its presence, you can’t help but feel the blend of engineering brilliance and design genius.\n\nEven standing still, the Aventador is pure motion in form.",
-    "video": null,
-    "recording": null,
-    "category": "AUTOMOTIVE",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#LamborghiniAventador #DesignIcon #AutomotiveElegance"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 38,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/V1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/V2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/V3.jpeg"
-    ],
-    "title": "A Trackside Symphony of Speed",
-    "description": "Watching the Aston Martin Valkyrie unleash its power on the circuit is an experience that defies words. As it roared past, its 6.5-liter V12 hybrid engine screamed like a beast unleashed, sending chills down my spine. This isn’t just a car—it’s a masterpiece of engineering built to dominate the track.\n\nIts design is breathtaking in motion, the aerodynamic body slicing through the air with precision. The low-slung chassis hugs the asphalt, while every curve and vent seems to channel the raw energy of speed. Corner after corner, the Valkyrie danced with agility, its active aerodynamics visibly adjusting to perfect every lap.\n\nBeing trackside, feeling the rush of its power and the vibrations of its passing, was a reminder of what automotive passion looks like at its peak. Aston Martin has crafted a legend, and seeing it in action was pure magic.",
-    "video": null,
-    "recording": null,
-    "category": "AUTOMOTIVE",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#AstonMartinValkyrie #TrackDayDreams #EngineeringExcellence"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 39,
+    "id": 30,
     "userId": 5,
     "status": {
       "likes": [
@@ -3167,7 +2431,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 31,
     "userId": 5,
     "status": {
       "likes": [
@@ -3248,7 +2512,7 @@
     }
   },
   {
-    "id": 41,
+    "id": 32,
     "userId": 5,
     "status": {
       "likes": [
@@ -3329,7 +2593,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 33,
     "userId": 5,
     "status": {
       "likes": [
@@ -3410,7 +2674,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 34,
     "userId": 5,
     "status": {
       "likes": [
@@ -3491,88 +2755,7 @@
     }
   },
   {
-    "id": 44,
-    "userId": 5,
-    "status": {
-      "likes": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10
-      ]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [
-            1,
-            4,
-            6,
-            8,
-            9,
-            7,
-            11,
-            10
-          ]
-        },
-        "reposts": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ],
-        "views": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7,
-          8,
-          9,
-          10
-        ]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H7.jpeg"
-    ],
-    "title": "A Home Full of Personality",
-    "description": "Step inside, and welcome to my little slice of vintage heaven. My home is a colorful celebration of 70’s design—a mix of bold patterns, quirky accents, and timeless charm that feels anything but ordinary.\n\nThe living room boasts a mustard-yellow velvet couch, paired with a glass coffee table on a shaggy, geometric rug. The walls are dotted with retro prints and a sunburst mirror that steals the show. An avocado-green lamp adds a cheeky nod to the era, while a rotary phone on the side table sparks nostalgia.\n\nDespite the playful mix, every piece has its place, creating a harmonious vibe that’s cozy and inviting. It’s eclectic without being chaotic—a reflection of the things I love and the stories I want to tell. For me, it’s not just a space; it’s an experience. Would you go vintage in your home? ",
-    "video": null,
-    "recording": null,
-    "category": "HOME & DECOR",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#RetroVibes #70sDecor #EclecticLiving"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "promotionalContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 45,
+    "id": 35,
     "userId": 5,
     "status": {
       "likes": [
@@ -3653,7 +2836,88 @@
     }
   },
   {
-    "id": 46,
+    "id": 36,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/salon.jpeg"
+    ],
+    "title": "Timeless Elegance in a Narrow Space",
+    "description": "Creating beauty in a narrow living room is no easy feat, but this space proves that great design has no limits. The dark brown fishbone wood flooring lays the foundation, exuding a sense of warmth and sophistication that immediately draws you in.\n\nEvery piece of furniture tells a story—a harmonious blend of old-world charm and modern luxury. A vintage sideboard complements the sleek lines of contemporary armchairs, while a statement marble coffee table anchors the room with understated elegance. Soft, neutral tones in the upholstery are balanced by the rich texture of aged wood and subtle metallic accents.\n\nThe space feels intimate yet open, thanks to clever layouts and thoughtful decor that highlight its best features. It’s a perfect reminder that even the most challenging spaces can become works of art with the right touch.",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#HomeAndDecor #LuxuryLiving #TimelessDesign"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 37,
     "userId": 5,
     "status": {
       "likes": [
@@ -3734,7 +2998,250 @@
     }
   },
   {
-    "id": 47,
+    "id": 38,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H7.jpeg"
+    ],
+    "title": "A Home Full of Personality",
+    "description": "Step inside, and welcome to my little slice of vintage heaven. My home is a colorful celebration of 70’s design—a mix of bold patterns, quirky accents, and timeless charm that feels anything but ordinary.\n\nThe living room boasts a mustard-yellow velvet couch, paired with a glass coffee table on a shaggy, geometric rug. The walls are dotted with retro prints and a sunburst mirror that steals the show. An avocado-green lamp adds a cheeky nod to the era, while a rotary phone on the side table sparks nostalgia.\n\nDespite the playful mix, every piece has its place, creating a harmonious vibe that’s cozy and inviting. It’s eclectic without being chaotic—a reflection of the things I love and the stories I want to tell. For me, it’s not just a space; it’s an experience. Would you go vintage in your home? ",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#RetroVibes #70sDecor #EclecticLiving"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 39,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/night_boat.jpg"
+    ],
+    "title": "Capturing the Calm of a Fisherman’s Journey at Nightfall",
+    "description": "Just finished this piece, inspired by a quiet night watching a lone fishing boat drift under the moonlight. There’s something magical about painting the stillness of the sea at night—the way the water reflects tiny fragments of starlight, the boat rocking gently, as if the ocean itself is breathing. I wanted to capture that sense of calm and solitude, where all you hear is the soft lapping of water and the distant hum of the boat’s motor.\n\nWith each brushstroke, I felt myself immersed in the quiet world of the fisherman, their lone lantern casting a warm glow against the deep blue of the night. For me, this painting is a tribute to those quiet moments of reflection, far from the noise of everyday life. Let me know what you feel when you look at it—can you hear the stillness, too?",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#ArtOfTheNight #OceanAtPeace #ArtistLife #ArtOfTheNight #OceanAtPeace #ArtistLife #OceanAtPeace #ArtistLife #ArtOfTheNight #OceanAtPeace"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "https://mocomuseum.com/exhibitions/amsterdam/modern-masters/77218",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 40,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/beach.jpg"
+    ],
+    "title": "Capturing the Magic of a Bioluminescent Night",
+    "description": "Just wrapped up this piece, inspired by the breathtaking beauty of bioluminescent algae lighting up the shoreline. I wanted to capture that surreal glow—the deep blues and vibrant sparks that dance across the waves, transforming a quiet beach night into something almost otherworldly. The scene feels alive, like the ocean itself is awake, swirling with light and energy in every wave.\n\nPainting this was like diving into a dream. Each brushstroke added a touch of mystery, a hint of that electric blue that makes the water look like it’s glowing from within. This piece is about those rare, unforgettable nights where nature puts on a show, reminding us of its quiet magic. Let me know if you can feel the pulse of the ocean through this glow.",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#NightMagic #ArtInspiredByNature"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 41,
     "userId": 5,
     "status": {
       "likes": [
@@ -3813,7 +3320,90 @@
     }
   },
   {
-    "id": 48,
+    "id": 42,
+    "userId": 2,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 4,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [
+              1,
+              4,
+              6,
+              8,
+              9,
+              7,
+              11,
+              10
+            ]
+          }
+        }
+      ],
+      "reposts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "views": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Quad1.jpg"
+    ],
+    "title": "Into the Drift",
+    "description": "I gripped the handlebars and leaned hard, feeling the mud give way beneath the tires as I pulled the ATV into the drift. The field opened wide around me, but I only saw the curve I was carving, the wet earth spraying in a messy arc as I hit the throttle. I could feel the back end kick out, but I leaned right, pushing harder, riding that thin line between control and chaos. The forest was a dark wall in my peripheral vision, the only witness to this reckless dance. It was just me, the machine, and the thrill of the mud churning beneath me—no destination, just the thrill of taking every corner a little faster, a little closer to the edge.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [
+      "#ADVENTURE"
+    ],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 43,
     "userId": 1,
     "status": {
       "likes": [
@@ -3897,7 +3487,169 @@
     }
   },
   {
-    "id": 49,
+    "id": 44,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sam-pearce-warrilow-OoPs1OSwE0M-unsplash.jpg"
+    ],
+    "title": "A Sculpture of Speed on Display",
+    "description": "Seeing the Lamborghini Aventador up close, motionless yet so alive, is a true marvel. It’s as if every line, angle, and contour was meticulously sculpted to embody speed and elegance, even when parked.\n\nThe sharp creases running along the body create a visual flow that’s almost hypnotic, leading your eyes from the aggressive front splitter to the intricate rear diffuser. The signature scissor doors, standing tall, command attention—an unmistakable hallmark of Lamborghini’s daring spirit.\n\nUnder the bright lights, the Aventador isn’t just a car—it’s an artistic masterpiece. From the hexagonal exhausts to the flawless paint reflecting its surroundings, every detail whispers of perfection and purpose. Standing in its presence, you can’t help but feel the blend of engineering brilliance and design genius.\n\nEven standing still, the Aventador is pure motion in form.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#LamborghiniAventador #DesignIcon #AutomotiveElegance"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 45,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/V1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/V2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/V3.jpeg"
+    ],
+    "title": "A Trackside Symphony of Speed",
+    "description": "Watching the Aston Martin Valkyrie unleash its power on the circuit is an experience that defies words. As it roared past, its 6.5-liter V12 hybrid engine screamed like a beast unleashed, sending chills down my spine. This isn’t just a car—it’s a masterpiece of engineering built to dominate the track.\n\nIts design is breathtaking in motion, the aerodynamic body slicing through the air with precision. The low-slung chassis hugs the asphalt, while every curve and vent seems to channel the raw energy of speed. Corner after corner, the Valkyrie danced with agility, its active aerodynamics visibly adjusting to perfect every lap.\n\nBeing trackside, feeling the rush of its power and the vibrations of its passing, was a reminder of what automotive passion looks like at its peak. Aston Martin has crafted a legend, and seeing it in action was pure magic.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["#AstonMartinValkyrie #TrackDayDreams #EngineeringExcellence"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 46,
     "userId": 1,
     "status": {
       "likes": [
@@ -3959,6 +3711,171 @@
     ],
     "title": "What a Rush! Battling Paganis, Bugattis & Finishing 3rd.",
     "description": "This weekend, I lined up on the track in a Ford GT, surrounded by a sea of exotic hypercars. Knowing the GT wasn’t the fastest in straight-line speed compared to some of the giants around me, I had to rely on strategy and handling to have any shot at a decent finish.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 47,
+    "userId": 1,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [
+              1,
+              4,
+              6,
+              8,
+              9,
+              7,
+              11,
+              10
+            ]
+          }
+        }
+      ],
+      "reposts": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "views": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BMWM4CS.jpg"
+    ],
+    "title": "Unleashing the Beast: First Look at the BMW M4 CS",
+    "description": "Sitting between the M4 Competition and the track-dedicated M4 GTS, the CS isn’t just another sports car; it’s a finely-tuned beast designed to bridge daily drivability with serious performance chops. Under the hood, the M4 CS packs a twin-turbocharged inline-six engine producing a robust 454 horsepower and 442 lb-ft of torque. This power, paired with BMW’s refined M adaptive suspension and lightweight construction, delivers a swift 0-60 mph in just 3.8 seconds, proving its mettle on both track and tarmac. The carbon-fiber roof, front splitter, and rear spoiler keep the weight down while enhancing aerodynamics, allowing the CS to slice through corners with agility.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [
+      4,
+      5,
+      6],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "promotionalContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 48,
+    "userId": 5,
+    "status": {
+      "likes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [
+            1,
+            4,
+            6,
+            8,
+            9,
+            7,
+            11,
+            10
+          ]
+        },
+        "reposts": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "views": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Jetski.jpg"
+    ],
+    "title": "An Exciting Day on the Jet Ski",
+    "description": "There’s something about the open water that makes you feel absolutely free. Today, I had one goal: throttle down and ride every wave in sight on my jet ski. The sun was shining, the water was perfect, and the thrill of speeding across the surface never gets old.\nI started by carving through the waves, feeling the spray as I leaned into every turn. Hitting the throttle, I felt the jet ski lift slightly, gliding effortlessly over the water. I could feel the adrenaline with every jump, every splash—a perfect mix of freedom and pure exhilaration. After a few hours of wild rides and a few wipeouts, I just drifted, taking in the endless blue stretching out around me.",
     "video": null,
     "recording": null,
     "category": "AUTOMOTIVE",
