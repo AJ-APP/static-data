@@ -1,6 +1,33 @@
 [
   {
     "id": 1,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
+    "tagLine": "Casual fits, everyday vibes",
+    "firstName": "Lucca",
+    "lastName": "Janssen",
+    "gender": "male",
+    "username": "StyleWithLucca",
+    "email": "stylewithLucca@email.com",
+    "dateOfBirth": "1992-07-25T00:00:00.000Z",
+    "followers": [
+      3,
+      6,
+      8
+    ],
+    "following": [
+      1,
+      5,
+      7
+    ],
+    "description": "Hey, I’m Lucca a laid-back guy who thinks great style should feel as easy as your favorite hoodie. From timeless sneakers to layered looks that work year-round, I’m all about making fashion approachable. 🇳🇱 Based in Rotterdam, sharing casual fits, quick tips, and a bit of everyday life. Come for the style inspo, stay for the chill vibes!",
+    "interests": [
+      12
+    ],
+    "isShekrMember": false
+  },
+  {
+    "id": 2,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female10.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Where quirky meets cozy",
@@ -25,7 +52,7 @@
     "isShekrMember": false
   },
   {
-    "id": 2,
+    "id": 3,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female07.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Colors that tell a story.",
@@ -52,7 +79,7 @@
     "isShekrMember": true
   },
   {
-    "id": 3,
+    "id": 4,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-19.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/kenny-eliason-5UrbNVgxpXo-unsplash.jpg",
     "tagLine": "Shredding strings, making noise",
@@ -79,7 +106,7 @@
     "isShekrMember": true
   },
   {
-    "id": 4,
+    "id": 5,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female10.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Where quirky meets cozy",
@@ -106,7 +133,7 @@
     "isShekrMember": false
   },
   {
-    "id": 5,
+    "id": 6,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female09.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Life’s better on the trail",
@@ -134,7 +161,7 @@
     "isShekrMember": false
   },
   {
-    "id": 6,
+    "id": 7,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMOmqF3CHR7lPy8KqD9cjzZsm6Ell1hOOCQ&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -162,7 +189,7 @@
     "isShekrMember": true
   },
   {
-    "id": 7,
+    "id": 8,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvxAOVOCCoYSsornKXmWEhdFU_h5hkPFHzw&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -190,7 +217,7 @@
     "isShekrMember": false
   },
   {
-    "id": 8,
+    "id": 9,
     "picture": "https://i.pinimg.com/280x280_RS/5f/03/ee/5f03eed423ef392a3a0ebbe26dec4a73.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -218,7 +245,7 @@
     "isShekrMember": false
   },
   {
-    "id": 9,
+    "id": 10,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxRhEFvW9f4qwqodOww2fhWIOkuJX9Yfv3A&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -246,7 +273,7 @@
     "isShekrMember": false
   },
   {
-    "id": 10,
+    "id": 11,
     "picture": "https://i.pinimg.com/280x280_RS/be/70/fe/be70fe7ebde5c89c08e49e34ba5f6cc4.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -274,7 +301,7 @@
     "isShekrMember": false
   },
   {
-    "id": 11,
+    "id": 12,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHt2GDofV5sNOaTrLarqU3XmMpTNXxaw9dg&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -302,7 +329,7 @@
     "isShekrMember": true
   },
   {
-    "id": 12,
+    "id": 13,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27sFJreSiqEOAMqqHo3lkHyi1SE4MzAKUKg&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
