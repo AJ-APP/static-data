@@ -4,12 +4,12 @@
     "name": "Pouf",
     "description": "Furniture",
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.jpg",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.jpg",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.jpg",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/29.jpg",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/30.jpg",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/31.jpg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/29.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/30.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/31.png"
     ],
     "price": 340,
     "discount": 5,
@@ -22,12 +22,7 @@
         "reviewRating": 4,
         "reviewText": "I can’t get enough of the easy fit feature of this jacket",
         "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
+          1
         ],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
@@ -36,12 +31,7 @@
         "reviewRating": 5,
         "reviewText": "I love the comfort of this jacket!",
         "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
+          1
         ],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
@@ -50,12 +40,7 @@
         "reviewRating": 4,
         "reviewText": "Great value for money.",
         "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
+          1
         ],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
@@ -80,19 +65,19 @@
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/Pouf highlight 2.webp",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
         "title": "Soft, carefully selected fabrics",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/Poufhighlight1.jpg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
         "title": "Durable foam guarantees long lasting use",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/poufhighlight3.webp",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg",
         "title": "Multi-purpose application",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       }
