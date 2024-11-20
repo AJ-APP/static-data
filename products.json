@@ -732,7 +732,7 @@
     "name": "Tul Throw",
     "description": "Throws blanket",
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/23.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/39.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
@@ -2116,8 +2116,8 @@
   },
   {
     "id": 12,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "Crimson Nature",
+    "description": "Nature",
     "images": [
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
@@ -2128,7 +2128,7 @@
     "price": 20.99,
     "discount": 10,
     "sellerId": 12,
-    "category": "Men's Fashion",
+    "category": "Art",
     "quantity": 50,
     "reviews": [
       {
