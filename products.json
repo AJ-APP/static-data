@@ -729,25 +729,25 @@
   },
   {
     "id": 5,
-    "name": "Tul Throwt",
-    "description": "Men Jacket",
+    "name": "Tul Throw",
+    "description": "Throws blanket",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/23.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 10.99,
+    "price": 25,
     "discount": 9,
     "sellerId": 5,
-    "category": "Men's Fashion",
+    "category": "Home & Decor",
     "quantity": 25,
     "reviews": [
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "Nice jacket, but could be cheaper.",
+        "reviewText": "It is soft & comfy",
         "reviewLikes": [
           1,
           2,
@@ -932,19 +932,19 @@
   },
   {
     "id": 6,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "Gilli Throw",
+    "description": "Throws blanket",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/40.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 9.99,
+    "price": 30.75,
     "discount": 7,
     "sellerId": 6,
-    "category": "Men's Fashion",
+    "category": "Home & Decor",
     "quantity": 20,
     "reviews": [
       {
@@ -1135,18 +1135,18 @@
   },
   {
     "id": 7,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "Guitar Kit",
+    "description": "Sets",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/42.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 9.99,
+    "price": 1595,
     "sellerId": 7,
-    "category": "Men's Fashion",
+    "category": "Music",
     "quantity": 5,
     "reviews": [
       {
@@ -1331,18 +1331,18 @@
   },
   {
     "id": 8,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "Extreme Tent",
+    "description": "Tents",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/24.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RTH1.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RTH2.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Tent3.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 5.99,
+    "price": 599,
     "sellerId": 8,
-    "category": "Men's Fashion",
+    "category": "Outdor",
     "quantity": 20,
     "reviews": [
       {
@@ -1527,19 +1527,19 @@
   },
   {
     "id": 9,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "All Weather Tent",
+    "description": "Tents",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/37.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/38.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 12.99,
+    "price": 259,
     "discount": 9,
     "sellerId": 9,
-    "category": "Men's Fashion",
+    "category": "Outdoor",
     "quantity": 5,
     "reviews": [
       {
@@ -1724,18 +1724,18 @@
   },
   {
     "id": 10,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "Super Dirt Bike",
+    "description": "Dirt Bikes",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/32.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/33.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/34.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 13.99,
+    "price": 12350,
     "sellerId": 10,
-    "category": "Men's Fashion",
+    "category": "Automotive",
     "quantity": 50,
     "reviews": [
       {
@@ -1920,18 +1920,18 @@
   },
   {
     "id": 11,
-    "name": "Classic jacket",
-    "description": "Men Jacket",
+    "name": "Snowboard Fast",
+    "description": "Snowboard",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/35.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/36.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 15.99,
+    "price": 2356,
     "sellerId": 11,
-    "category": "Men's Fashion",
+    "category": "Sport",
     "quantity": 50,
     "reviews": [
       {
