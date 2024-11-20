@@ -2119,14 +2119,14 @@
     "name": "Crimson Nature",
     "description": "Nature",
     "images": [
-      "https://shekr-static.vyte.sh/products/jacket.png",
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png",
       "https://shekr-static.vyte.sh/products/jacket.png"
     ],
-    "price": 20.99,
-    "discount": 10,
+    "price": 20590,
+    "discount": null,
     "sellerId": 12,
     "category": "Art",
     "quantity": 50,
