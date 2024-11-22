@@ -408,7 +408,7 @@
   },
   {
     "id": 6,
-    "userId": 2,
+    "userId": 6,
     "status": {
       "likes": [
         2,
@@ -489,7 +489,7 @@
   },
   {
     "id": 7,
-    "userId": 5,
+    "userId": 1,
     "status": {
       "likes": [
         2,
@@ -570,7 +570,7 @@
   },
   {
     "id": 8,
-    "userId": 5,
+    "userId": 1,
     "status": {
       "likes": [
         2,
@@ -813,7 +813,7 @@
   },
   {
     "id": 11,
-    "userId": 5,
+    "userId": 6,
     "status": {
       "likes": [
         2,
@@ -894,7 +894,7 @@
   },
   {
     "id": 12,
-    "userId": 5,
+    "userId": 6,
     "status": {
       "likes": [
         2,
