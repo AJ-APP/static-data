@@ -24,7 +24,8 @@
     "interests": [
       12
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 2,
@@ -49,7 +50,8 @@
     "interests": [
       12
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 3,
@@ -76,7 +78,8 @@
     "interests": [
       0
     ],
-    "isShekrMember": true
+    "isShekrMember": true,
+    "storeId": 2
   },
   {
     "id": 4,
@@ -103,7 +106,8 @@
     "interests": [
       17
     ],
-    "isShekrMember": true
+    "isShekrMember": true,
+    "storeId": 2
   },
   {
     "id": 5,
@@ -130,7 +134,8 @@
     "interests": [
       12
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 6,
@@ -158,7 +163,8 @@
       2,
       7
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 7,
@@ -186,7 +192,8 @@
       12,
       18
     ],
-    "isShekrMember": true
+    "isShekrMember": true,
+    "storeId": 2
   },
   {
     "id": 8,
@@ -214,7 +221,8 @@
       1,
       20
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 9,
@@ -242,7 +250,8 @@
       19,
       21
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 10,
@@ -270,7 +279,8 @@
       17,
       22
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 11,
@@ -298,7 +308,8 @@
       14,
       1
     ],
-    "isShekrMember": false
+    "isShekrMember": false,
+    "storeId": 2
   },
   {
     "id": 12,
@@ -326,7 +337,8 @@
       15,
       1
     ],
-    "isShekrMember": true
+    "isShekrMember": true,
+    "storeId": 2
   },
   {
     "id": 13,
@@ -354,6 +366,7 @@
       4,
       12
     ],
-    "isShekrMember": true
+    "isShekrMember": true,
+    "storeId": 2
   }
 ]

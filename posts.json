@@ -114,6 +114,30 @@
             7,
             11,
             10
+          ],
+          "replies": [
+            {
+              "id": 1,
+              "text":"Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+              "userId": 3,
+              "dateCreated": "2024-10-03T08:14:03.312546",
+              "likes": [1,2,3,4,5,6,7,8]
+            },
+            {
+              "id": 2,
+              "text":"I can't get enough of the easy fit feature in this jacket",
+              "userId": 4,
+              "dateCreated": "2024-10-03T08:14:03.312546",
+              "likes": [1,2,3,6,7,8],
+              "repliedTo": 3
+            },
+            {
+              "id": 3,
+              "text":"Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+              "userId": 5,
+              "dateCreated": "2024-10-03T08:14:03.312546",
+              "likes": [1,2,8]
+            }
           ]
         },
         "reposts": [
@@ -161,7 +185,8 @@
         "promotionalContent": false,
         "AIContent": false
       }
-    }
+    },
+    "repost": 4
   },
   {
     "id": 3,
@@ -242,7 +267,8 @@
         "promotionalContent": false,
         "AIContent": false
       }
-    }
+    },
+    "repost": 4
   },
   {
     "id": 4,
@@ -323,7 +349,8 @@
         "promotionalContent": false,
         "AIContent": false
       }
-    }
+    },
+    "repost": 4
   },
   {
     "id": 5,
@@ -404,7 +431,8 @@
         "promotionalContent": false,
         "AIContent": false
       }
-    }
+    },
+    "repost": 4
   },
   {
     "id": 6,
@@ -485,7 +513,8 @@
         "promotionalContent": false,
         "AIContent": false
       }
-    }
+    },
+    "repost": 4
   },
   {
     "id": 7,

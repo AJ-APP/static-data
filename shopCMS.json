@@ -1,0 +1,56 @@
+[
+  {
+    "section": 1,
+    "type": "whyShekr"
+  },
+  {
+    "title": "Bestsellers",
+    "section": 2,
+    "type": "products",
+    "hasCategoryFilter": true,
+    "limit": 10
+  },
+  {
+    "title": "Category",
+    "section": 3,
+    "type": "category"
+  },
+  {
+    "section": 4,
+    "type": "vouchers"
+  },
+  {
+    "title": "New release",
+    "section": 4,
+    "type": "products",
+    "hasCategoryFilter": true,
+    "productRows": 2
+  },
+  {
+    "title": "Recently reviewed products",
+    "section": 5,
+    "type": "recentlyReviewed"
+  },
+  {
+    "title": "Up to 70% discount",
+    "section": 6,
+    "type": "products",
+    "hasCategoryFilter": true,
+    "limit": 10
+  },
+  { "title": "GET €20 OFF\nYOUR FIRST\nADVERT", "section": 7, "type": "banner", "hideBanner": true },
+  {
+    "title": "Sellers we think you will like",
+    "section": 8,
+    "type": "recommended"
+  },
+  {
+    "section": 9,
+    "type": "related"
+  },
+  {
+    "title": "Recommended for you",
+    "section": 10,
+    "type": "products"
+  }
+]

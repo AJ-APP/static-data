@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "productIds": [1, 2, 3, 4, 5, 6, 7, 8]
+  },
+  {
+    "id": 2,
+    "category": "Men's Fashion",
+    "productIds": [1, 2, 3, 4, 5, 6, 7, 8]
+  },
+  {
+    "id": 3,
+    "category": "Home & Living",
+    "productIds": [5, 6, 7, 1, 2]
+  },
+  {
+    "id": 4,
+    "category": "Beauty & Personal Care",
+    "productIds": [1, 2, 3]
+  },
+  {
+    "id": 5,
+    "category": "Sports & Outdoors",
+    "productIds": [4, 5, 6, 7]
+  },
+  {
+    "id": 6,
+    "category": "Books & Stationery",
+    "productIds": [1, 8]
+  },
+  {
+    "id": 7,
+    "category": "Toys & Games",
+    "productIds": [3, 4, 7]
+  },
+  {
+    "id": 8,
+    "category": "Food & Beverages",
+    "productIds": [2, 4, 6, 8]
+  },
+  {
+    "id": 9,
+    "category": "Automotive",
+    "productIds": [1, 5]
+  },
+  {
+    "id": 10,
+    "category": "Health & Wellness",
+    "productIds": [2, 4, 7]
+  }
+]
