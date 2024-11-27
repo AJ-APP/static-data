@@ -10,15 +10,51 @@
     "discount": "20",
     "startDate": "2024-12-01T00:00:00.000Z",
     "endDate": "2024-12-31T23:59:59.000Z",
-    "specificProducts": [101, 102],
-    "specificCategories": ["Fashion", "Accessories"],
+    "specificProducts": [
+      101,
+      102
+    ],
+    "specificCategories": [
+      "Fashion",
+      "Accessories"
+    ],
     "minimumAmount": 50,
     "minimumQuantity": "2",
-    "beneficaries": [2, 3],
+    "beneficaries": [
+      2,
+      3
+    ],
     "customerCategory": "VIP"
   },
   {
     "id": 2,
+    "type": "SHOPPING VOUCHER",
+    "title": "PROMOTION",
+    "description": "Get ready for summer with our exclusive shopping voucher.",
+    "sellerId": 2,
+    "itemStatus": "ACTIVE",
+    "discountType": "AMOUNT",
+    "discount": "5",
+    "startDate": "2024-12-01T00:00:00.000Z",
+    "endDate": "2024-12-31T23:59:59.000Z",
+    "specificProducts": [
+      101,
+      102
+    ],
+    "specificCategories": [
+      "Fashion",
+      "Accessories"
+    ],
+    "minimumAmount": 50,
+    "minimumQuantity": "2",
+    "beneficaries": [
+      2,
+      3
+    ],
+    "customerCategory": "VIP"
+  },
+  {
+    "id": 3,
     "type": "BIRTHDAY VOUCHER",
     "title": "PROMOTION",
     "description": "Celebrate your birthday with a special discount.",
@@ -28,15 +64,23 @@
     "discount": "75",
     "startDate": "2024-01-01T00:00:00.000Z",
     "endDate": "2024-12-31T23:59:59.000Z",
-    "specificProducts": [103, 104],
-    "specificCategories": ["Electronics"],
+    "specificProducts": [
+      103,
+      104
+    ],
+    "specificCategories": [
+      "Electronics"
+    ],
     "minimumAmount": 100,
     "minimumQuantity": "1",
-    "beneficaries": [4, 5],
+    "beneficaries": [
+      4,
+      5
+    ],
     "customerCategory": "Regular"
   },
   {
-    "id": 3,
+    "id": 4,
     "type": "DELIVERY VOUCHER",
     "title": "DELIVERY",
     "description": "Enjoy free delivery on your next purchase.",
@@ -46,15 +90,21 @@
     "discount": "FREE",
     "startDate": "2024-03-01T00:00:00.000Z",
     "endDate": "2024-10-25T23:59:59.000Z",
-    "specificProducts": [1],
-    "specificCategories": ["Home Appliances"],
+    "specificProducts": [
+      1
+    ],
+    "specificCategories": [
+      "Home Appliances"
+    ],
     "minimumAmount": 200,
     "minimumQuantity": "3",
-    "beneficaries": [6],
+    "beneficaries": [
+      6
+    ],
     "customerCategory": "New"
   },
   {
-    "id": 4,
+    "id": 5,
     "type": "DELIVERY VOUCHER",
     "title": "DELIVERY",
     "description": "Enjoy free delivery on your next purchase.",
@@ -64,11 +114,17 @@
     "discount": "FREE",
     "startDate": "2024-01-01T00:00:00.000Z",
     "endDate": "2024-12-31T23:59:59.000Z",
-    "specificProducts": [1],
-    "specificCategories": ["Home Appliances"],
+    "specificProducts": [
+      1
+    ],
+    "specificCategories": [
+      "Home Appliances"
+    ],
     "minimumAmount": 200,
     "minimumQuantity": "3",
-    "beneficaries": [6],
+    "beneficaries": [
+      6
+    ],
     "customerCategory": "New"
   }
 ]
