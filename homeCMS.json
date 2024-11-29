@@ -3,8 +3,10 @@
     "title": "Trending Now",
     "section": 1,
     "type": "posts",
-    "postIds": [1, 2, 3, 4, 5],
-    "limit": 3
+    "postConfig": {
+      "postIds": [1, 2, 3, 4, 5],
+      "limit": 3
+    }
   },
   {
     "title": "Category",
@@ -15,34 +17,54 @@
     "title": "Auto Enthusiast's Hub",
     "section": 3,
     "type": "posts",
-    "category": "Automotive"
+    "postConfig": {
+      "category": "Automotive"
+    }
   },
   {
     "title": "Posts that start debates",
     "section": 4,
-    "type": "debates"
+    "type": "debates",
+    "debatesConfig": {
+      "postIds": [1, 2, 3]
+    }
   },
   {
     "title": "Summer concerts & festivals",
     "section": 5,
     "type": "posts",
-    "postIds": [3, 4, 5, 6, 7]
+    "postConfig": {
+      "postIds": [3, 4, 5, 6, 7]
+    }
   },
   {
     "title": "Streamers we think you will like",
     "section": 6,
-    "type": "recommended"
+    "type": "recommended",
+    "recommendedConfig": {
+      "users": [5, 6, 7, 8]
+    }
   },
-  { "title": "GET €20 OFF\nYOUR FIRST\nADVERT", "section": 7, "type": "banner", "hideBanner": false },
+  {
+    "title": "GET â‚¬20 OFF\nYOUR FIRST\nADVERT",
+    "section": 7,
+    "type": "banner",
+    "bannerConfig": { "hideBanner": true }
+  },
   {
     "title": "Recommendations From Your Favorite Streamer",
     "section": 7,
-    "type": "related"
+    "type": "related",
+    "relatedConfig": {
+      "followedUser": 4
+    }
   },
   {
     "title": "UEFA euro cup 2024",
     "section": 8,
     "type": "posts",
-    "postIds": [8, 9, 10, 11]
+    "postConfig": {
+      "postIds": [8, 9, 10, 11]
+    }
   }
 ]
