@@ -433,14 +433,14 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/diego-ph-5LOhydOtTKU-unsplash.jpg"],
-    "title": "A Wish on a Shooting Star",
-    "description": "As the sun dipped below the horizon, painting the sky in hues of amber and violet, a streak of light caught my eye—a shooting star, fast and fleeting. For a moment, the world paused.\n\nThey say when you see one, you have to make a wish before it disappears, and I didn’t waste a second. Closing my eyes, I whispered a dream, sending it into the universe, hoping it would find its way back to me.\n\nWatching that star vanish into the twilight reminded me of how fleeting yet beautiful moments can be. Sometimes, it’s the smallest things—like a streak of light in a painted sky—that inspire us to keep dreaming",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel8.jpeg"],
+    "title": "Where Mountains Meet the Sea",
+    "description": "There’s a place in Norway where the mountains don’t just rise—they plunge straight into the sea, creating a breathtaking contrast of rugged cliffs and shimmering water. Standing on the edge, I couldn’t help but feel humbled by the sheer scale of it all.\n\nThe air here feels different—crisp, salty, and alive. The waves crash against the rocks below, sending mist into the air, while seabirds circle overhead. As the sun sets, the cliffs turn a fiery orange, reflected in the still waters, making it impossible to look away.\n\nIt’s a place that doesn’t just take your breath away—it fills you with a sense of awe and gratitude for the natural world. If you’re ever in Norway, don’t miss the chance to witness this raw beauty. It’s more than a view; it’s an experience.",
     "video": null,
     "recording": null,
     "category": "OUTDOOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["#ShootingStarMagic #MakeAWish #TwilightDreams"],
+    "hashtags": ["#NorwayAdventures #MountainAndSea #NatureAtItsBest"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -456,7 +456,7 @@
   },
   {
     "id": 11,
-    "userId": 5,
+    "userId": 242424,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -473,10 +473,10 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": null,
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
-    "video": "https://shekr-static.vyte.sh/videos/video-five.mp4",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel1.jpeg"],
+    "title": "Above the World: Standing on Clouds",
+    "description": "Trekking through rugged mountain trails, the journey was challenging but rewarding. Each step, each breath, felt heavier as we climbed higher, but the promise of the summit kept us going.\n\nWhen we finally reached the top, the view was unlike anything I’d ever seen—a vast sea of clouds stretching endlessly, their soft, rolling waves kissed by the golden glow of the sun. It felt like standing on the edge of a dream, the world below hidden beneath a blanket of mist.\n\nMoments like these remind you why the effort is worth it. The climb tests you, but the view heals you. If you’ve ever wanted to feel like you’re on top of the world, this is it.",
+    "video": null,
     "recording": null,
     "category": "TRAVEL",
     "dateCreated": "2024-10-02T08:14:03.312546",
@@ -513,16 +513,18 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": null,
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.Join me for a mouthwatering live stream episode as I bake the ultimate apple pie from scratch. I will guide you through each step, from preparing the flaky crust to slicing crisp apples and sprinkling aromatic spices.",
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Greentent.jpg"
+    ],
+    "title": "The Magic of a Night in the Wild",
+    "description": "There’s something magical about camping under a sky full of stars. As the fire died down and the chill of night set in, I looked up and was completely captivated—thousands of stars glittered above, brighter and closer than I’d ever seen. Out here, miles away from city lights, the Milky Way stretched across the sky like a cosmic river, each star sharp and vivid against the inky blackness.\nI wrapped myself in a blanket, lay back on the cool ground, and felt an overwhelming sense of awe and peace. Every constellation felt like it was telling its own story, ancient and timeless. It reminded me just how big and beautiful this universe is—and how lucky we are to witness it. Moments like these make every trek, every rough night of camping, worth it. Out here, beneath this endless sky, everything felt right. It’s the kind of experience that stays with you, long after the stars have faded.",
     "video": null,
     "recording": null,
-    "category": "VIDEO GAMES",
+    "category": "OUTDOOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
-    "mentionedItems": [],
+    "mentionedItems": [9],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -536,7 +538,7 @@
   },
   {
     "id": 13,
-    "userId": 1,
+    "userId": 4,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -554,17 +556,17 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://images.squarespace-cdn.com/content/v1/56c207401d07c00b66446af9/4270c503-4b52-473e-b3d1-6509d45225fb/artwork+art+studio+Asheville"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert5.jpeg"
     ],
-    "title": "The Art of Wilderness: Capturing Nature's Beauty",
-    "description": "Explore the enchanting beauty of America's wilderness through the lens of art. Join me as I paint the breathtaking landscapes and unveil the secrets of nature's palette.",
+    "title": "Under a Sky Full of Stars",
+    "description": "he desert transforms at night, unveiling a celestial masterpiece. With no city lights to dim its glow, the sky became a canvas of infinite stars, each one burning bright and sharp against the darkness. The Milky Way unfurled like a river of light, its reflection shimmering faintly on the cool, undisturbed sand.\n\nI lay there in silence, soaking in the grandeur of the universe, feeling both impossibly small and deeply connected to something vast. In this stillness, with nothing but the stars above, the desert offered a rare kind of magic—a reminder of the beauty that exists when we pause and look up.",
     "video": null,
     "recording": null,
-    "category": "ART",
+    "category": "OUTDOOR",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["DESIGN TOOLS", "CONCERT"],
-    "mentionedPeople": [3, 4, 5],
-    "mentionedItems": [2, 3, 4, 5],
+    "hashtags": ["#DesertStars #GalaxyViews #InfiniteWonder"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -596,17 +598,17 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed4.jpeg"
     ],
-    "title": "Artistic Journeys: Discovering Hidden Landscapes",
-    "description": "Embark on an artistic journey to uncover the hidden landscapes of America. Experience the magic of nature as I bring these scenes to life on canvas.",
+    "title": "Where Elegance Meets Nature",
+    "description": "This wedding venue feels like a dream brought to life. Above, sail-like drapes stretch across the ceiling, swaying gently with the breeze, creating a serene, almost ethereal atmosphere. The aisle is a pathway of beauty, flanked by lush green and white plants, leading guests toward the heart of the celebration.\n\nElegant chairs line the sides of the aisle, their arrangement simple yet sophisticated, perfectly complementing the natural surroundings. At the end of the path, the hotel stands as a backdrop, seamlessly blending charm and refinement.\n\nEvery detail seems to echo the harmony of nature and design, offering an unforgettable setting for love to take center stage. This isn’t just a venue; it’s a masterpiece.",
     "video": null,
     "recording": null,
     "category": "ART",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["DESIGN TOOLS", "CONCERT"],
-    "mentionedPeople": [3, 4, 5],
-    "mentionedItems": [2, 3, 4, 5, 6, 7],
+    "hashtags": ["#WeddingInspiration #ElegantVenues #NatureAndDesign"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
