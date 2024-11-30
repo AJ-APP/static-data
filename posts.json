@@ -96,7 +96,7 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_OjSqpwA-ZRzHWFN8kZJ6Fp-7s26eJ9u6g&s"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Library.jpeg"
     ],
     "title": "The New Pouf: My Library’s Star... and My Cat’s Throne",
     "description": "I finally found the perfect pouf for my library—a plush, cozy addition that fits right in with the warm wood shelves and soft lighting. I imagined myself sinking into it with a good book and a cup of tea, my little corner of bliss.\n\nWhat I didn’t imagine? My cat claiming it as her own within minutes of its arrival. It’s like she was waiting for this moment her entire life! Whether it’s stretching out like royalty or curling up into a fuzzy ball, she’s made it clear this pouf belongs to her.\n\nSo now, we’re sharing... or rather, I get the occasional chance to enjoy it when she’s not around. But seeing her so happy on it almost makes up for it. Almost. Who else has lost a new piece of furniture to their pet?",
@@ -262,7 +262,7 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": null,
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Rockconcert.jpg"],
     "title": "Strings & Amps: The Secret to My Signature Sound",
     "description": "There’s nothing like the rush of a live concert—the roar of the crowd, the pulse of the drums, and for me, the magic of a perfectly tuned guitar ripping through the amps. Every note, every riff, has to hit just right, and that’s why I’m obsessed with dialing in my sound.\n\nMy guitar? A custom beast built for tone and versatility. It’s wired with pickups that can go from warm and soulful to straight-up aggressive. And the amp? A vintage tube amp that’s my not-so-secret weapon. It adds that raw, gritty edge that brings my sound to life, especially when I crank up the gain.\n\nBut the real trick? It’s in the pedals—a mix of overdrive, delay, and reverb to shape the tone into something unmistakably mine. When you hear it live, you feel it. It’s not just sound; it’s an experience.\n\nWhat’s your go-to setup for making magic?",
     "video": "",
@@ -325,7 +325,7 @@
   },
   {
     "id": 8,
-    "userId": 1,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -407,7 +407,7 @@
   },
   {
     "id": 10,
-    "userId": 5,
+    "userId": 6,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -424,12 +424,12 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": null,
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
-    "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
+    "images": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Zhangjiajie.jpg",
+    "title": "A Journey Through the Avatar Mountains",
+    "description": "Visiting Zhangjiajie was like stepping into another world, one that felt both surreal and cinematic. Known for its towering sandstone pillars and mist-laden peaks, Zhangjiajie National Forest Park is famous for inspiring the floating mountains in Avatar. As soon as I arrived, I could see why—it’s impossible not to feel a sense of magic in the air.\nI started the day hiking through lush forest trails, the landscape unfolding like a scene from an ancient painting. Soon, I reached the glass elevator that takes you to the top of one of the most iconic peaks. Rising over 1,000 feet, it offered an incredible view of the stone pillars piercing through clouds below. The peaks stretched as far as the eye could see, each one unique, wrapped in fog that added to the otherworldly atmosphere.",
+    "video": null,
     "recording": null,
-    "category": "STATIONARY",
+    "category": "TRAVEL",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
@@ -464,10 +464,10 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": null,
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sandwich.jpg"],
+    "title": "Where the Desert Meets the Sea: A Journey to Sandwich Harbour",
     "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
-    "video": "https://shekr-static.vyte.sh/videos/video-five.mp4",
+    "video": null,
     "recording": null,
     "category": "TRAVEL",
     "dateCreated": "2024-10-02T08:14:03.312546",
@@ -487,7 +487,7 @@
   },
   {
     "id": 12,
-    "userId": 5,
+    "userId": 6,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -504,12 +504,12 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": null,
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.Join me for a mouthwatering live stream episode as I bake the ultimate apple pie from scratch. I will guide you through each step, from preparing the flaky crust to slicing crisp apples and sprinkling aromatic spices.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/cabane.jpg"],
+    "title": "Finding Peace in a Lakeside Cabin",
+    "description": "There’s something about waking up in the mountains that just hits differently. After a long, winding trek through forested trails and rugged terrain, I reached a cabin tucked away on the edge of a crystal-clear lake. The place felt like it was straight out of a dream, nestled in complete solitude with only the towering peaks and endless pine trees for company. \nWaking up here was a slice of heaven. The morning mist was still clinging to the lake, creating this soft haze over the water that looked almost surreal. I brewed a cup of coffee and stepped outside, breathing in that fresh, crisp mountain air as I took in the view. The only sounds were the gentle rustling of leaves and the distant calls of birds echoing through the valleys—it was pure tranquility.",
     "video": null,
     "recording": null,
-    "category": "VIDEO GAMES",
+    "category": "OUTDOOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
@@ -527,7 +527,7 @@
   },
   {
     "id": 13,
-    "userId": 1,
+    "userId": 6,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -545,17 +545,17 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://images.squarespace-cdn.com/content/v1/56c207401d07c00b66446af9/4270c503-4b52-473e-b3d1-6509d45225fb/artwork+art+studio+Asheville"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Greentent.jpg"
     ],
-    "title": "The Art of Wilderness: Capturing Nature's Beauty",
-    "description": "Explore the enchanting beauty of America's wilderness through the lens of art. Join me as I paint the breathtaking landscapes and unveil the secrets of nature's palette.",
+    "title": "The Magic of a Night in the Wild",
+    "description": "There’s something magical about camping under a sky full of stars. As the fire died down and the chill of night set in, I looked up and was completely captivated—thousands of stars glittered above, brighter and closer than I’d ever seen. Out here, miles away from city lights, the Milky Way stretched across the sky like a cosmic river, each star sharp and vivid against the inky blackness.\nI wrapped myself in a blanket, lay back on the cool ground, and felt an overwhelming sense of awe and peace. Every constellation felt like it was telling its own story, ancient and timeless. It reminded me just how big and beautiful this universe is—and how lucky we are to witness it. Moments like these make every trek, every rough night of camping, worth it. Out here, beneath this endless sky, everything felt right. It’s the kind of experience that stays with you, long after the stars have faded.",
     "video": null,
     "recording": null,
-    "category": "ART",
+    "category": "OUTDOOR",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["DESIGN TOOLS", "CONCERT"],
     "mentionedPeople": [3, 4, 5],
-    "mentionedItems": [2, 3, 4, 5],
+    "mentionedItems": [9],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -587,17 +587,17 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://cdn.britannica.com/78/43678-050-F4DC8D93/Starry-Night-canvas-Vincent-van-Gogh-New-1889.jpg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Gorge.jpg"
     ],
-    "title": "Artistic Journeys: Discovering Hidden Landscapes",
-    "description": "Embark on an artistic journey to uncover the hidden landscapes of America. Experience the magic of nature as I bring these scenes to life on canvas.",
+    "title": "Nightfall in Antelope Canyon: Stargazing Between Sandstone Walls",
+    "description": "Walking through Antelope Canyon at night was like stepping into a world both ancient and surreal. As I moved through the narrow, winding sandstone walls, the only sound was the soft crunch of sand beneath my feet. The canyon’s curves and twists, usually glowing with daylight colors, were now cloaked in shadows, adding to the mystery of the place.\nWhen I reached an open spot, I looked up and caught my breath. Through the canyon’s narrow opening, a blanket of stars filled the sky, brighter than I’d ever seen. The dark canyon walls framed the constellations perfectly, turning the view into a natural masterpiece. Standing there, with the vast night sky overhead and the timeless rock formations surrounding me, I felt the quiet power of nature. It was a moment of pure wonder, a reminder of how small we are—and how beautiful our world can be in its wildest, most hidden places.",
     "video": null,
     "recording": null,
-    "category": "ART",
+    "category": "TRAVEL",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["DESIGN TOOLS", "CONCERT"],
-    "mentionedPeople": [3, 4, 5],
-    "mentionedItems": [2, 3, 4, 5, 6, 7],
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
