@@ -263,9 +263,15 @@
       }
     ],
     "images": null,
+<<<<<<< HEAD
     "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
     "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
     "video": "https://shekr-static.vyte.sh/videos/video-one.mp4",
+=======
+    "title": "Strings & Amps: The Secret to My Signature Sound",
+    "description": "There’s nothing like the rush of a live concert—the roar of the crowd, the pulse of the drums, and for me, the magic of a perfectly tuned guitar ripping through the amps. Every note, every riff, has to hit just right, and that’s why I’m obsessed with dialing in my sound.\n\nMy guitar? A custom beast built for tone and versatility. It’s wired with pickups that can go from warm and soulful to straight-up aggressive. And the amp? A vintage tube amp that’s my not-so-secret weapon. It adds that raw, gritty edge that brings my sound to life, especially when I crank up the gain.\n\nBut the real trick? It’s in the pedals—a mix of overdrive, delay, and reverb to shape the tone into something unmistakably mine. When you hear it live, you feel it. It’s not just sound; it’s an experience.\n\nWhat’s your go-to setup for making magic?",
+    "video": "",
+>>>>>>> parent of 529f94c (Update posts.json)
     "recording": null,
     "category": "OUTDOOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
@@ -285,7 +291,93 @@
   },
   {
     "id": 7,
+<<<<<<< HEAD
     "userId": 5,
+=======
+    "userId": 6,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Dirtbike1.jpg",
+    "title": "Mud in Motion: Conquering the Elements",
+    "description": "This is adventure at its rawest, where mud becomes both a challenge and a badge of honor. He gripped the handlebars, feeling the engine’s hum as he charged forward. The track was ruthless, a slick mess of mud and water, but that’s what made it perfect. Each twist of the throttle splashed more grit and grime, coating him as he powered through. This wasn’t just a ride; it was a battle against the elements, a raw, muddy testament to pushing limits and leaving hesitation in the dust. Only the faint shapes of trees stood witness to his relentless pursuit. Nothing mattered now but the next stretch of trail",
+    "video": "",
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [10],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race3.jpeg"
+    ],
+    "title": "Snowboard Race Through the Forest",
+    "description": "There’s nothing like the thrill of racing your friends down a snowy mountainside, weaving through the forest. The crunch of fresh powder under the board, the sharp chill of the air, and the adrenaline of dodging trees while trying to take the lead—it’s the kind of chaos that keeps you grinning the whole way down.\n\nWe started at the top, laughing and throwing playful jabs about who’d eat snow first. But the second we dropped in, it was all focus. Each turn felt like a gamble between speed and control, the trees whipping past as we carved through narrow paths and untouched powder.\n\nBy the time we reached the bottom, it didn’t even matter who won. Out of breath and full of laughs, we were already talking about heading back up for another run. Snowboard races in the forest: equal parts madness and magic.",
+    "video": null,
+    "recording": null,
+    "category": "SPORT",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [11],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 9,
+    "userId": 1,
+>>>>>>> parent of 529f94c (Update posts.json)
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -324,8 +416,13 @@
     }
   },
   {
+<<<<<<< HEAD
     "id": 8,
     "userId": 6,
+=======
+    "id": 10,
+    "userId": 5,
+>>>>>>> parent of 529f94c (Update posts.json)
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -342,6 +439,7 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
+<<<<<<< HEAD
     "images": [
       "https://i.ibb.co/ZBymw8b/viber-image-2024-08-29-13-17-38-165.jpg",
       "https://i.ibb.co/j5dbdk2/viber-image-2024-08-29-13-17-34-888.jpg",
@@ -436,6 +534,13 @@
     "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
     "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
     "recording": null,
+=======
+    "images": null,
+    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
+    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
+    "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
+    "recording": null,
+>>>>>>> parent of 529f94c (Update posts.json)
     "category": "STATIONARY",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
