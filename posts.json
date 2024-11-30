@@ -264,10 +264,13 @@
     ],
     "images": null,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
     "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
     "video": "https://shekr-static.vyte.sh/videos/video-one.mp4",
 =======
+=======
+>>>>>>> parent of 529f94c (Update posts.json)
     "title": "Strings & Amps: The Secret to My Signature Sound",
     "description": "There’s nothing like the rush of a live concert—the roar of the crowd, the pulse of the drums, and for me, the magic of a perfectly tuned guitar ripping through the amps. Every note, every riff, has to hit just right, and that’s why I’m obsessed with dialing in my sound.\n\nMy guitar? A custom beast built for tone and versatility. It’s wired with pickups that can go from warm and soulful to straight-up aggressive. And the amp? A vintage tube amp that’s my not-so-secret weapon. It adds that raw, gritty edge that brings my sound to life, especially when I crank up the gain.\n\nBut the real trick? It’s in the pedals—a mix of overdrive, delay, and reverb to shape the tone into something unmistakably mine. When you hear it live, you feel it. It’s not just sound; it’s an experience.\n\nWhat’s your go-to setup for making magic?",
     "video": "",
@@ -417,8 +420,13 @@
   },
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "id": 8,
     "userId": 6,
+=======
+    "id": 10,
+    "userId": 5,
+>>>>>>> parent of 529f94c (Update posts.json)
 =======
     "id": 10,
     "userId": 5,
@@ -439,6 +447,7 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
+<<<<<<< HEAD
 <<<<<<< HEAD
     "images": [
       "https://i.ibb.co/ZBymw8b/viber-image-2024-08-29-13-17-38-165.jpg",
@@ -534,6 +543,13 @@
     "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
     "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
     "recording": null,
+=======
+    "images": null,
+    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
+    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
+    "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
+    "recording": null,
+>>>>>>> parent of 529f94c (Update posts.json)
 =======
     "images": null,
     "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
