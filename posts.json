@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "userId": 242424,
+    "userId": 1,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -53,17 +53,19 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://www.themanual.com/wp-content/uploads/sites/9/2021/02/formula-one-abu-dhabi-2020.jpg?p=1"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Wave1.jpg"
     ],
-    "title": "What a Rush!\nBattling Paganis, Bugattis & Finishing 1st",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
+    "title": "Denim and Waves: Effortless Style in Marseille",
+    "description": "Standing at the edge of the Calanques, with the Mediterranean stretching endlessly ahead, I felt the perfect blend of rugged nature and effortless fashion. The jean shirt, worn loosely over a crisp white tee, paired with ripped black jeans, gave just the right touch of edge to this serene, coastal backdrop.\n\nThe sun kissed the cliffs, casting golden light over the azure waters, as the wind tousled my hair and made the shirt flow like it was part of the scenery. Marseille’s Calanques are raw and breathtaking, a contrast to the structured simplicity of my look—a reminder that style doesn’t have to overpower the beauty around it.\n\nFashion is as much about where you wear it as how you wear it. Here, it felt just right: understated, confident, and effortlessly cool. What’s your go-to look for coastal escapes?",
     "video": null,
     "recording": null,
-    "category": "AUTOMOTIVE",
+    "category": "FASHION",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["DESIGN TOOLS", "CONCERT"],
-    "mentionedPeople": [3, 4, 5],
-    "mentionedItems": [2, 3, 4, 5, 6, 7],
+    "hashtags": [
+      "#MarseilleVibes #CoastalFashion #CalanquesAndStyle"
+    ],
+    "mentionedPeople": [],
+    "mentionedItems": [2, 4, 3],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -96,18 +98,18 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_OjSqpwA-ZRzHWFN8kZJ6Fp-7s26eJ9u6g&s"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Library.jpeg"
     ],
-    "title": "Why the HuracÃ¡n Still Outshines the New Lamborghini Temerario",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
+    "title": "The New Pouf: My Library’s Star... and My Cat’s Throne",
+    "description": "I finally found the perfect pouf for my library—a plush, cozy addition that fits right in with the warm wood shelves and soft lighting. I imagined myself sinking into it with a good book and a cup of tea, my little corner of bliss.\n\nWhat I didn’t imagine? My cat claiming it as her own within minutes of its arrival. It’s like she was waiting for this moment her entire life! Whether it’s stretching out like royalty or curling up into a fuzzy ball, she’s made it clear this pouf belongs to her.\n\nSo now, we’re sharing... or rather, I get the occasional chance to enjoy it when she’s not around. But seeing her so happy on it almost makes up for it. Almost. Who else has lost a new piece of furniture to their pet? ",
     "video": null,
     "recording": null,
-    "category": "AUTOMOTIVE",
+    "category": "HOME & DECOR",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": [],
+    "hashtags": ["#LibraryGoals #CatLife #CozyCorners"],
     "mentionedPeople": [],
-    "mentionedItems": [1],
-    "collaborations": [4, 5, 6],
+    "mentionedItems": [6,1],
+    "collaborations": [],
     "link": "",
     "setting": {
       "audience": [],
@@ -121,7 +123,7 @@
   },
   {
     "id": 3,
-    "userId": 3,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -139,19 +141,19 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2018-08-08-at-9-21-50-am-1533734533.png"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
     ],
-    "title": "The Art of the Drift",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
+    "title": "A Bold Choice For My Living Room",
+    "description": "I did it—I went for the blue sofa! It felt like a risky choice at first, stepping away from the usual neutrals, but now I can’t imagine my living room without it. The deep, rich tone brings such life to the space, and paired with a matching throw, it feels effortlessly chic and cohesive.\n\nWhat I love most is how it transforms the room’s energy. The blue adds personality without overwhelming, striking just the right balance between boldness and comfort. I catch myself smiling every time I walk in, feeling a little proud for taking the leap.\n\nSometimes, a bold choice is exactly what your space needs to feel truly yours. What’s the most daring design decision you’ve made that paid off?",
     "video": null,
     "recording": null,
-    "category": "AUTOMOTIVE",
+    "category": "HOME & DECOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": ["AUTOMOTIVE"],
+    "hashtags": ["#HomeDecorWin #BoldChoices #BlueSofaLove"],
     "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [4],
-    "link": "https://www.arte.tv/fr",
+    "mentionedItems": [5],
+    "collaborations": [],
+    "link": null,
     "setting": {
       "audience": [],
       "contentDisclosure": {
@@ -163,7 +165,7 @@
   },
   {
     "id": 4,
-    "userId": 4,
+    "userId": 3,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -180,16 +182,18 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-    "images": ["https://i.ibb.co/Z2V7JsX/viber-image-2024-08-29-13-17-40-888.jpg"],
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/alex-kalinin-Rz3jF9vL5m0-unsplash.jpg"
+    ],
+    "title": "Nature through a Crimson Lens",
+    "description": "Just finished this bold piece, inspired by the intense and surreal beauty of a red-filtered world. I wanted to take nature to a new dimension, transforming everyday plants into something dark, dramatic, and almost otherworldly. The deep reds and stark blacks create a contrast that feels both alive and mysterious, like you’re looking at nature through a hidden lens.\n\nEvery shadow, every leaf, has taken on this fiery glow, showing a wild side we don’t usually see. For me, this piece is all about reimagining the natural world—finding intensity and wonder in unexpected places. Let me know what feelings this brings up for you: does it feel familiar, or like a glimpse into a completely different world?",
     "video": null,
     "recording": null,
-    "category": "DESIGN",
+    "category": "ART",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
-    "mentionedItems": [],
+    "mentionedItems": [12],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -263,18 +267,9 @@
       }
     ],
     "images": null,
-<<<<<<< HEAD
-<<<<<<< HEAD
     "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
     "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
     "video": "https://shekr-static.vyte.sh/videos/video-one.mp4",
-=======
-=======
->>>>>>> parent of 529f94c (Update posts.json)
-    "title": "Strings & Amps: The Secret to My Signature Sound",
-    "description": "There’s nothing like the rush of a live concert—the roar of the crowd, the pulse of the drums, and for me, the magic of a perfectly tuned guitar ripping through the amps. Every note, every riff, has to hit just right, and that’s why I’m obsessed with dialing in my sound.\n\nMy guitar? A custom beast built for tone and versatility. It’s wired with pickups that can go from warm and soulful to straight-up aggressive. And the amp? A vintage tube amp that’s my not-so-secret weapon. It adds that raw, gritty edge that brings my sound to life, especially when I crank up the gain.\n\nBut the real trick? It’s in the pedals—a mix of overdrive, delay, and reverb to shape the tone into something unmistakably mine. When you hear it live, you feel it. It’s not just sound; it’s an experience.\n\nWhat’s your go-to setup for making magic?",
-    "video": "",
->>>>>>> parent of 529f94c (Update posts.json)
     "recording": null,
     "category": "OUTDOOR",
     "dateCreated": "2024-10-02T08:14:03.312546",
@@ -294,93 +289,7 @@
   },
   {
     "id": 7,
-<<<<<<< HEAD
     "userId": 5,
-=======
-    "userId": 6,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-        },
-        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-      }
-    ],
-    "images": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Dirtbike1.jpg",
-    "title": "Mud in Motion: Conquering the Elements",
-    "description": "This is adventure at its rawest, where mud becomes both a challenge and a badge of honor. He gripped the handlebars, feeling the engine’s hum as he charged forward. The track was ruthless, a slick mess of mud and water, but that’s what made it perfect. Each twist of the throttle splashed more grit and grime, coating him as he powered through. This wasn’t just a ride; it was a battle against the elements, a raw, muddy testament to pushing limits and leaving hesitation in the dust. Only the faint shapes of trees stood witness to his relentless pursuit. Nothing mattered now but the next stretch of trail",
-    "video": "",
-    "recording": null,
-    "category": "AUTOMOTIVE",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": [],
-    "mentionedPeople": [],
-    "mentionedItems": [10],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 8,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "comments": [
-      {
-        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-        "id": 4,
-        "userId": 5,
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "status": {
-          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-        },
-        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-      }
-    ],
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race3.jpeg"
-    ],
-    "title": "Snowboard Race Through the Forest",
-    "description": "There’s nothing like the thrill of racing your friends down a snowy mountainside, weaving through the forest. The crunch of fresh powder under the board, the sharp chill of the air, and the adrenaline of dodging trees while trying to take the lead—it’s the kind of chaos that keeps you grinning the whole way down.\n\nWe started at the top, laughing and throwing playful jabs about who’d eat snow first. But the second we dropped in, it was all focus. Each turn felt like a gamble between speed and control, the trees whipping past as we carved through narrow paths and untouched powder.\n\nBy the time we reached the bottom, it didn’t even matter who won. Out of breath and full of laughs, we were already talking about heading back up for another run. Snowboard races in the forest: equal parts madness and magic.",
-    "video": null,
-    "recording": null,
-    "category": "SPORT",
-    "dateCreated": "2024-10-02T08:14:03.312546",
-    "hashtags": [],
-    "mentionedPeople": [],
-    "mentionedItems": [11],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    }
-  },
-  {
-    "id": 9,
-    "userId": 1,
->>>>>>> parent of 529f94c (Update posts.json)
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -419,18 +328,8 @@
     }
   },
   {
-<<<<<<< HEAD
-<<<<<<< HEAD
     "id": 8,
     "userId": 6,
-=======
-    "id": 10,
-    "userId": 5,
->>>>>>> parent of 529f94c (Update posts.json)
-=======
-    "id": 10,
-    "userId": 5,
->>>>>>> parent of 529f94c (Update posts.json)
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -447,8 +346,6 @@
         "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
       }
     ],
-<<<<<<< HEAD
-<<<<<<< HEAD
     "images": [
       "https://i.ibb.co/ZBymw8b/viber-image-2024-08-29-13-17-38-165.jpg",
       "https://i.ibb.co/j5dbdk2/viber-image-2024-08-29-13-17-34-888.jpg",
@@ -543,20 +440,6 @@
     "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
     "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
     "recording": null,
-=======
-    "images": null,
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
-    "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
-    "recording": null,
->>>>>>> parent of 529f94c (Update posts.json)
-=======
-    "images": null,
-    "title": "Into the Wild: Unveiling America's Enchanted Wilderness",
-    "description": "Join me for a mouthwatering live stream episode as I bake theultimate apple pie from scratch. I will guide you through each step,from preparing the flaky crust to slicing crisp apples andsprinkling aromatic spices.",
-    "video": "https://shekr-static.vyte.sh/videos/video-four.mp4",
-    "recording": null,
->>>>>>> parent of 529f94c (Update posts.json)
     "category": "STATIONARY",
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
