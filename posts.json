@@ -785,5 +785,382 @@
       }
     },
     "repost": 5
+  },
+  {
+    "id": 18,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Race1.jpeg"
+    ],
+    "title": "Adrenaline at the Edge of the Race",
+    "description": "There’s nothing like the roar of GT cars slicing through the track, but experiencing it up close is a whole new level of adrenaline.\n\nWith special access to the heart of the race, I found myself just feet away from the action, engines screaming and tires gripping the asphalt with every daring turn.\n\nThe smell of burning rubber, the blur of vibrant liveries, and the electric energy of the pit crews all came alive as I captured breathtaking shots of speed and precision. Watching the cars fly by, feeling the vibrations in the ground, and hearing the thunderous growl of finely tuned machines is something that words or pictures can barely describe—it’s pure, unfiltered motorsport magic.\n\nIf you ever get the chance to step beyond the spectator stands, don’t hesitate. It’s a perspective that brings you closer to the heart of the race and the passion of everyone involved.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["#GTRacing #BehindTheScenes #SpeedAndAdrenaline"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 19,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/car1.jpeg"
+    ],
+    "title": "Ocean Road Odyssey",
+    "description": "The Aston Martin Valkyrie isn’t just a car; it’s a masterpiece of engineering and design, and taking it for a test drive along the ocean road felt like stepping into a different reality.\n\nThe engine’s roar echoed against the cliffs as the car hugged each curve of the winding road. The ocean shimmered to the side, the waves crashing rhythmically as if keeping time with the Valkyrie’s heartbeat. The steering was razor-sharp, the acceleration exhilarating, and every moment behind the wheel felt like a celebration of speed and precision.\n\nAs the sun dipped toward the horizon, painting the sky in warm hues, the Valkyrie reflected the glow, becoming one with the landscape. This wasn’t just a test drive—it was an experience that blurred the line between dream and reality. Driving perfection has never felt so real.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["#AstonMartinValkyrie #OceanRoads #DrivingExperience"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 20,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 1,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B1.jpeg", "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B6.jpeg"
+    ],
+    "title": "A Brutalist and Minimalist Sanctuary",
+    "description": "Welcome to my home—a space where simplicity reigns and every element is intentional. The bare cement walls, with their raw, unfinished texture, give the space a brutalist edge, yet there’s a calming warmth in the restraint.\n\nEvery piece of furniture has a purpose, from the sleek low-profile couch to the single statement light fixture casting soft, diffused light. Open shelving displays only the essentials, while hidden storage keeps the space feeling clean and unencumbered. The cool gray tones of the walls are balanced with natural accents—wooden details, a single lush green plant, and a cozy rug underfoot.\n\nIt’s a space that inspires focus and creativity, free from distractions. For me, brutalism isn’t cold; it’s the ultimate canvas to live simply and beautifully. What do you think of this style? ",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["#WeddingInspiration, #ElegantVenues, #NatureAndDesign"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 21,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "I can't get enough of the easy fit feature in this jacket",
+          "id": 1,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10],
+            "replies": [
+              {
+                "id": 1,
+                "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                "userId": 3,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 3, 4, 5, 6, 7, 8]
+              },
+              {
+                "id": 2,
+                "text": "I can't get enough of the easy fit feature in this jacket",
+                "userId": 4,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 3, 6, 7, 8],
+                "repliedTo": 3
+              },
+              {
+                "id": 3,
+                "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                "userId": 5,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 8]
+              }
+            ]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 1,
+          "userId": 5,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10, 12, 13],
+            "replies": []
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M7.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M8.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M9.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M10.jpeg"
+    ],
+    "title": "The Enchanting Beauty of Dhaka’s Pink Mosque",
+    "description": "Nestled in the bustling heart of Dhaka, the Pink Mosque, also known as the Ahsan Manzil Mosque, is a breathtaking example of architectural elegance. Its vibrant pink facade, adorned with intricate floral motifs and geometric patterns, radiates a unique charm that’s impossible to ignore.\n\nWalking through its arched corridors feels like stepping into another time. The symmetry, the domes that seem to kiss the sky, and the delicate balance of traditional Islamic design with local influences create a visual masterpiece. Inside, the natural light filtering through ornate windows casts mesmerizing shadows, adding to the serene atmosphere.\n\nThe mosque isn’t just a place of worship—it’s a testament to Bangladesh’s rich cultural and artistic heritage. Standing in its presence, surrounded by its soft pink glow, is a reminder of the power of beauty to inspire and connect.",
+    "video": null,
+    "recording": null,
+    "category": "DESIGN",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [
+      "#PinkMosque #DhakaArchitecture #CulturalHeritage"
+    ],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": true,
+        "AIContent": true
+      }
+    },
+    "repost": 4
+  },
+  {
+    "id": 22,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/salon.jpeg"
+    ],
+    "title": "Timeless Elegance in a Narrow Space",
+    "description": "Creating beauty in a narrow living room is no easy feat, but this space proves that great design has no limits. The dark brown fishbone wood flooring lays the foundation, exuding a sense of warmth and sophistication that immediately draws you in.\n\nEvery piece of furniture tells a story—a harmonious blend of old-world charm and modern luxury. A vintage sideboard complements the sleek lines of contemporary armchairs, while a statement marble coffee table anchors the room with understated elegance. Soft, neutral tones in the upholstery are balanced by the rich texture of aged wood and subtle metallic accents.\n\nThe space feels intimate yet open, thanks to clever layouts and thoughtful decor that highlight its best features. It’s a perfect reminder that even the most challenging spaces can become works of art with the right touch.",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["#HomeAndDecor #LuxuryLiving #TimelessDesign"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 23,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa1.jpeg", "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa7.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa8.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa9.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Villa10.jpeg"
+    ],
+    "title": "Luxe Living in the South of France",
+    "description": "Tucked away in the sun-soaked hills of the South of France, this villa is the epitome of effortless luxury. As I stepped through the gates, the first thing that greeted me was a sparkling infinity pool, its azure waters mirroring the endless blue skies.\n\nThe villa itself was a dream—sleek yet warm, with floor-to-ceiling windows that framed the breathtaking countryside. Inside, every detail spoke of refined taste: plush white sofas, marble floors, and gold accents that caught the sunlight. A sprawling terrace with cozy loungers begged for lazy afternoons, while a private garden provided a quiet retreat.\n\nAs the day slipped into evening, the golden hour light made the villa glow, and the pool reflected the soft hues of the setting sun. It was one of those moments where time stood still—a perfect harmony of beauty, design, and tranquility. Who wouldn’t fall in love with a place like this?",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 24,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/H7.jpeg"
+    ],
+    "title": "A Home Full of Personality",
+    "description": "Step inside, and welcome to my little slice of vintage heaven. My home is a colorful celebration of 70’s design—a mix of bold patterns, quirky accents, and timeless charm that feels anything but ordinary.\n\nThe living room boasts a mustard-yellow velvet couch, paired with a glass coffee table on a shaggy, geometric rug. The walls are dotted with retro prints and a sunburst mirror that steals the show. An avocado-green lamp adds a cheeky nod to the era, while a rotary phone on the side table sparks nostalgia.\n\nDespite the playful mix, every piece has its place, creating a harmonious vibe that’s cozy and inviting. It’s eclectic without being chaotic—a reflection of the things I love and the stories I want to tell. For me, it’s not just a space; it’s an experience. Would you go vintage in your home? ",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["#GTRacing #BehindTheScenes #SpeedAndAdrenaline"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 25,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": null,
+    "title": "Wishes in the Sky: The Magic of Thailand’s Lantern Festival",
+    "description": "Imagine standing beneath a sky slowly filling with thousands of glowing lanterns, each one carrying a wish, a prayer, or a dream. That’s the magic of Thailand’s Lantern Festival, Yi Peng, an unforgettable celebration of light and hope.\n\nAs dusk settled, the festival grounds came alive with excitement. People gathered with their lanterns, some intricately decorated, others simple but no less beautiful. The scent of incense filled the air, and the sound of traditional music created an enchanting atmosphere.\n\nWhen the moment came, we lit the lanterns, their golden glow reflecting on the water below. Slowly, they rose into the night, joining a sea of light that seemed to merge with the stars. It felt like the world stood still, everyone united in awe and wonder.\n\nThis wasn’t just a festival; it was a profound moment of connection and gratitude. If you ever get the chance, don’t miss it—it’s a memory that will stay with you forever.",
+    "video": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lantern.mp4",
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["#YiPeng #LanternFestival #ThailandMagic"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
   }
 ]
