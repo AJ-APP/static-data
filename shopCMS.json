@@ -1,14 +1,33 @@
 [
   {
     "section": 1,
-    "type": "whyShekr"
+    "type": "whyShekr",
+    "whyShekrConfig": {
+      "contents": [
+        {
+          "title": "Discover Social Commerce",
+          "description": "Chat, shop, share your purchase\nwith your friends and more..."
+        },
+        {
+          "title": "Discover Social Commerce",
+          "description": "Chat, shop, share your purchase\nwith your friends and more..."
+        },
+        {
+          "title": "Discover Social Commerce",
+          "description": "Chat, shop, share your purchase\nwith your friends and more..."
+        }
+      ]
+    }
   },
   {
     "title": "Bestsellers",
     "section": 2,
     "type": "products",
-    "hasCategoryFilter": true,
-    "limit": 10
+    "productConfig": {
+      "hasCategoryFilter": true,
+      "rows": 1,
+      "limit": 10
+    }
   },
   {
     "title": "Category",
@@ -23,34 +42,59 @@
     "title": "New release",
     "section": 4,
     "type": "products",
-    "hasCategoryFilter": true,
-    "productRows": 2
+    "productConfig": {
+      "hasCategoryFilter": true,
+      "rows": 2,
+      "limit": 6
+    }
   },
   {
     "title": "Recently reviewed products",
     "section": 5,
-    "type": "recentlyReviewed"
+    "type": "recentlyReviewed",
+    "recentlyReviewedConfig": {
+      "productIds": [1, 2, 3, 4, 5, 6, 7]
+    }
   },
   {
     "title": "Up to 70% discount",
     "section": 6,
     "type": "products",
-    "hasCategoryFilter": true,
-    "limit": 10
+    "productConfig": {
+      "hasCategoryFilter": true,
+      "limit": 10
+    }
   },
-  { "title": "GET €20 OFF\nYOUR FIRST\nADVERT", "section": 7, "type": "banner", "hideBanner": true },
+  {
+    "title": "GET €20 OFF\nYOUR FIRST\nADVERT",
+    "section": 7,
+    "type": "banner",
+    "bannerConfig": {
+      "hideBanner": true
+    }
+  },
   {
     "title": "Sellers we think you will like",
     "section": 8,
-    "type": "recommended"
+    "type": "recommended",
+    "recommendedConfig": {
+      "userIds": [1, 2, 3, 4, 5]
+    }
   },
   {
     "section": 9,
-    "type": "related"
+    "type": "related",
+    "relatedConfig": {
+      "productId": 5,
+      "userIds": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    }
   },
   {
     "title": "Recommended for you",
     "section": 10,
-    "type": "products"
+    "type": "products",
+    "productConfig": {
+      "limit": 10
+    }
   }
 ]
