@@ -9,6 +9,7 @@
     "gender": "male",
     "username": "StyleWithLucca",
     "email": "stylewithLucca@email.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
     "followers": [
       3,
@@ -37,6 +38,7 @@
     "gender": "female",
     "username": "ColorfulByLila",
     "email": "colorfulbylila@email.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
     "followers": [6,
       8
@@ -63,6 +65,7 @@
     "gender": "female",
     "username": "ElenaVarelaArt",
     "email": "elenavarelaart@email.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1988-05-15T00:00:00.000Z",
     "followers": [
       1,
@@ -91,6 +94,7 @@
     "gender": "male",
     "username": "RiffsWithJake",
     "email": "riffswithjake@email.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1988-05-15T00:00:00.000Z",
     "followers": [
       1,
@@ -119,6 +123,7 @@
     "gender": "female",
     "username": "ColorfulByLila",
     "email": "colorfulbylila@email.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
     "followers": [
       3,
@@ -147,6 +152,7 @@
     "gender": "female",
     "username": "TrailBlazinSierra",
     "email": "trailblazinsierra@email.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1995-02-10T00:00:00.000Z",
     "followers": [
       1,
@@ -176,6 +182,7 @@
     "gender": "female",
     "username": "iamfiona",
     "email": "iamfiona@me.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1993-09-17T00:00:00.000Z",
     "followers": [
       1,
@@ -205,6 +212,7 @@
     "gender": "male",
     "username": "iamgeorge",
     "email": "iamgeorge@me.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1985-03-30T00:00:00.000Z",
     "followers": [
       2,
@@ -234,6 +242,7 @@
     "gender": "female",
     "username": "iamhannah",
     "email": "iamhannah@me.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1990-06-13T00:00:00.000Z",
     "followers": [
       1,
@@ -263,6 +272,7 @@
     "gender": "male",
     "username": "iamian",
     "email": "iamian@me.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1987-04-09T00:00:00.000Z",
     "followers": [
       1,
@@ -292,6 +302,7 @@
     "gender": "female",
     "username": "iamjulia",
     "email": "iamjulia@me.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1996-12-15T00:00:00.000Z",
     "followers": [
       2,
@@ -321,6 +332,7 @@
     "gender": "male",
     "username": "iamkevin",
     "email": "iamkevin@me.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1994-10-30T00:00:00.000Z",
     "followers": [
       3,
@@ -350,6 +362,7 @@
     "gender": "female",
     "username": "iamlaura",
     "email": "iamlaura@me.com",
+    "phoneNumber": "123123123",
     "dateOfBirth": "1991-08-05T00:00:00.000Z",
     "followers": [
       3,
