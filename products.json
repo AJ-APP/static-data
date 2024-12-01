@@ -1,224 +1,276 @@
 [
   {
     "id": 1,
-    "name": "Pouf",
-    "description": "Furniture",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg"
-    ],
-    "price": 340,
-    "discount": 5,
+    "name": "Classic jacket",
+    "voucherId": 1,
     "sellerId": 1,
-    "category": "Home & Decor",
-    "quantity": 20,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
+        },
+        {
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
+        },
+        {
+          "name": "yellow",
+          "images": [
+            "https://mdenshop.com/cdn/shop/files/MICHMJ0004A.jpg?v=1724685375&width=533",
+            "https://mdenshop.com/cdn/shop/files/MICHMJ0004A.jpg?v=1724685375&width=533",
+            "https://mdenshop.com/cdn/shop/files/MICHMJ0004A.jpg?v=1724685375&width=533"
+          ]
+        },
+        {
+          "name": "gray",
+          "images": [
+            "https://rox.com.ph/cdn/shop/files/1000480274_01.jpg?v=1717669411",
+            "https://rox.com.ph/cdn/shop/files/1000480274_01.jpg?v=1717669411",
+            "https://rox.com.ph/cdn/shop/files/1000480274_01.jpg?v=1717669411"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "S,blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "M,blue",
+        "price": 8.45,
+        "quantity": 10
+      },
+      {
+        "name": "S,yellow",
+        "price": 8.95,
+        "quantity": 10
+      },
+      {
+        "name": "M,yellow",
+        "price": 8.95,
+        "quantity": 0
+      },
+      {
+        "name": "L,yellow",
+        "price": 8.95,
+        "quantity": 0
+      },
+      {
+        "name": "M,brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "S,black",
+        "price": 7.95,
+        "quantity": 8
+      },
+      {
+        "name": "M,gray",
+        "price": 8.95,
+        "quantity": 12
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
     "reviews": [
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "I can’t get enough of the easy fit feature of this jacket",
-        "reviewLikes": [
-          1
-        ],
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
         "reviewerId": 3,
         "reviewRating": 5,
         "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [
-          1
-        ],
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 5,
         "reviewRating": 4,
         "reviewText": "Great value for money.",
-        "reviewLikes": [
-          1
-        ],
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
-    "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": null,
-      "colors": [
-        {
-          "color": "blue",
-          "quantity": 10
-        },
-        {
-          "color": "black",
-          "quantity": 10
-        }
-      ]
-    },
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
-        "title": "Soft, carefully selected fabrics",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
-        "title": "Durable foam guarantees long lasting use",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg",
-        "title": "Multi-purpose application",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above €100",
-              "Delivery fees are €15 for all orders below €100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
-      }
-    ],
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 2,
-    "name": "Denim jacket",
-    "description": "Men Jacket",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/18.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 80.50,
-    "discount": 40.25,
-    "sellerId": 1,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 2,
     "category": "Men's Fashion",
-    "quantity": 15,
-    "reviews": [],
-    "reviewsCount": 0,
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "blue",
-          "quantity": 10
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
         },
         {
-          "color": "black",
-          "quantity": 10
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -228,6 +280,12 @@
       },
       {
         "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
         "image": "https://shekr-static.vyte.sh/products/jacket.png",
         "title": "Easy fit",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
@@ -303,119 +361,52 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 3,
-    "name": "Ripped Jeans",
-    "description": "jeans",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 44.5,
-    "discount": null,
+    "name": "Classic jacket",
+    "voucherId": 1,
     "sellerId": 3,
     "category": "Men's Fashion",
-    "quantity": 10,
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 5,
-        "reviewText": "Fits perfectly!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 4,
-        "reviewText": "Stylish and warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great for winter.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 45,
-    "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "blue",
-          "quantity": 10
-        },
-        {
-          "color": "black",
-          "quantity": 10
-        }
+    "itemStatus": "In Stock",
+    "baseProduct": {
+      "price": 7.95,
+      "quantity": 5,
+      "images": [
+        "https://shekr-static.vyte.sh/products/jacket.png",
+        "https://shekr-static.vyte.sh/products/jacket.png",
+        "https://shekr-static.vyte.sh/products/jacket.png"
       ]
     },
+    "weight": 2,
     "features": [
       {
         "id": 1,
@@ -425,7 +416,7 @@
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
         "title": "Easy fit",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
@@ -506,136 +497,85 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 4,
-    "name": "Crew Neck T-shirt",
-    "description": "T-shirt & Polo",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/23.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 11,
+    "name": "Spalding Basketball",
     "sellerId": 4,
-    "category": "Men's Fashion",
-    "quantity": 30,
-    "reviews": [
-      {
-        "reviewerId": 1,
-        "reviewRating": 5,
-        "reviewText": "Incredible jacket!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 4,
-        "reviewRating": 4,
-        "reviewText": "Good quality, worth the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 6,
-        "reviewRating": 5,
-        "reviewText": "Highly recommend!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 70,
-    "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "blue",
-          "quantity": 10
-        },
-        {
-          "color": "black",
-          "quantity": 10
-        }
+    "voucherId": 1,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "baseProduct": {
+      "images": [
+        "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
       ]
     },
+    "variants": {
+      "sizes": ["23cm", "25cm", "30cm"]
+    },
+    "variantsDetails": [
+      {
+        "name": "23cm",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "25cm",
+        "price": 8.95,
+        "quantity": 10
+      },
+      {
+        "name": "30cm",
+        "price": 9.95,
+        "quantity": 15
+      }
+    ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
       }
     ],
     "specifications": [
@@ -708,137 +648,68 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
-  },
-  {
-    "id": 5,
-    "name": "Tul Throw",
-    "description": "Throws blanket",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/39.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 25,
-    "discount": 9,
-    "sellerId": 5,
-    "category": "Home & Decor",
-    "quantity": 25,
     "reviews": [
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "It is soft & comfy",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
         "reviewerId": 3,
         "reviewRating": 5,
-        "reviewText": "Very warm and stylish!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "Perfect for chilly days.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
     ],
-    "reviewsCount": 50,
-    "variants": {
-      "tags": [
-        "Jackets"
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 5,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
+    "voucherId": 2,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "baseProduct": {
+      "images": [
+        "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
       ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
-      "colors": [
-        {
-          "color": "blue",
-          "quantity": 10
-        },
-        {
-          "color": "black",
-          "quantity": 10
-        }
-      ]
+      "price": 20.95,
+      "quantity": 10
     },
+    "weight": 2,
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
       }
     ],
     "specifications": [
@@ -911,119 +782,88 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 6,
-    "name": "Gilli Throw",
-    "description": "Throws blanket",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/40.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 30.75,
-    "discount": 7,
+    "name": "Classic jacket",
+    "voucherId": 1,
     "sellerId": 6,
-    "category": "Home & Decor",
-    "quantity": 20,
-    "reviews": [
-      {
-        "reviewerId": 7,
-        "reviewRating": 4,
-        "reviewText": "Stylish but not very warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 8,
-        "reviewRating": 3,
-        "reviewText": "Decent jacket for the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great value for money!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 40,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "blue",
-          "quantity": 10
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
         },
         {
-          "color": "black",
-          "quantity": 10
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -1033,7 +873,7 @@
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
         "title": "Easy fit",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
@@ -1114,118 +954,93 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 7,
-    "name": "Guitar Kit",
-    "description": "Sets",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/42.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 1595,
+    "name": "Classic jacket",
+    "voucherId": 1,
     "sellerId": 7,
-    "category": "Music",
-    "quantity": 5,
-    "reviews": [
-      {
-        "reviewerId": 7,
-        "reviewRating": 4,
-        "reviewText": "Stylish but not very warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 8,
-        "reviewRating": 3,
-        "reviewText": "Decent jacket for the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great value for money!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 40,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "blue",
-          "quantity": 10
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
         },
         {
-          "color": "black",
-          "quantity": 10
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -1235,6 +1050,12 @@
       },
       {
         "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
         "image": "https://shekr-static.vyte.sh/products/jacket.png",
         "title": "Easy fit",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
@@ -1310,118 +1131,93 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 8,
-    "name": "Extreme Tent",
-    "description": "Tents",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/24.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RTH1.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RTH2.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Tent3.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 599,
+    "name": "Classic jacket",
+    "voucherId": 1,
     "sellerId": 8,
-    "category": "Outdor",
-    "quantity": 20,
-    "reviews": [
-      {
-        "reviewerId": 7,
-        "reviewRating": 4,
-        "reviewText": "Stylish but not very warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 8,
-        "reviewRating": 3,
-        "reviewText": "Decent jacket for the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great value for money!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 40,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "blue",
-          "quantity": 10
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
         },
         {
-          "color": "black",
-          "quantity": 10
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -1431,6 +1227,12 @@
       },
       {
         "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
         "image": "https://shekr-static.vyte.sh/products/jacket.png",
         "title": "Easy fit",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
@@ -1506,131 +1308,77 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 9,
-    "name": "All Weather Tent",
-    "description": "Tents",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/37.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/38.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 259,
-    "discount": 9,
-    "sellerId": 9,
-    "category": "Outdoor",
-    "quantity": 5,
-    "reviews": [
-      {
-        "reviewerId": 7,
-        "reviewRating": 4,
-        "reviewText": "Stylish but not very warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 8,
-        "reviewRating": 3,
-        "reviewText": "Decent jacket for the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great value for money!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 40,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "blue",
-          "quantity": 10
-        },
-        {
-          "color": "black",
-          "quantity": 10
+          "name": "orange",
+          "images": [
+            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 20.95,
+        "quantity": 10
+      }
+    ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
+      },
+      {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
       }
     ],
     "specifications": [
@@ -1703,118 +1451,93 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 10,
-    "name": "Super Dirt Bike",
-    "description": "Dirt Bikes",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/32.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/33.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/34.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 12350,
-    "sellerId": 10,
-    "category": "Automotive",
-    "quantity": 50,
-    "reviews": [
-      {
-        "reviewerId": 7,
-        "reviewRating": 4,
-        "reviewText": "Stylish but not very warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 8,
-        "reviewRating": 3,
-        "reviewText": "Decent jacket for the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great value for money!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 40,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "blue",
-          "quantity": 25
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
         },
         {
-          "color": "black",
-          "quantity": 25
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -1824,6 +1547,12 @@
       },
       {
         "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
         "image": "https://shekr-static.vyte.sh/products/jacket.png",
         "title": "Easy fit",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
@@ -1899,130 +1628,77 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 11,
-    "name": "Snowboard Fast",
-    "description": "Snowboard",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/35.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/36.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 2356,
-    "sellerId": 11,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
     "category": "Sport",
-    "quantity": 50,
-    "reviews": [
-      {
-        "reviewerId": 7,
-        "reviewRating": 4,
-        "reviewText": "Stylish but not very warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 8,
-        "reviewRating": 3,
-        "reviewText": "Decent jacket for the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great value for money!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 40,
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "orange",
-          "quantity": 25
-        },
-        {
-          "color": "black",
-          "quantity": 25
+          "name": "orange",
+          "images": [
+            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 20.95,
+        "quantity": 10
+      }
+    ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
       },
       {
         "id": 2,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
+      },
+      {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
       }
     ],
     "specifications": [
@@ -2095,119 +1771,93 @@
             ]
           }
         ]
-      },
-      {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
-        "description": [
-          {
-            "title": "Environmental Impact",
-            "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
-            ]
-          }
-        ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 12,
-    "name": "Crimson Nature",
-    "description": "Nature",
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png",
-      "https://shekr-static.vyte.sh/products/jacket.png"
-    ],
-    "price": 20590,
-    "discount": null,
-    "sellerId": 12,
-    "category": "Art",
-    "quantity": 50,
-    "reviews": [
-      {
-        "reviewerId": 7,
-        "reviewRating": 4,
-        "reviewText": "Stylish but not very warm.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 8,
-        "reviewRating": 3,
-        "reviewText": "Decent jacket for the price.",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great value for money!",
-        "reviewLikes": [
-          1,
-          2,
-          5,
-          12,
-          6,
-          3
-        ],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 40,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
     "variants": {
-      "tags": [
-        "Jackets"
-      ],
-      "sizes": [
-        {
-          "size": "S",
-          "quantity": 10
-        },
-        {
-          "size": "M",
-          "quantity": 20
-        },
-        {
-          "size": "L",
-          "quantity": 15
-        },
-        {
-          "size": "XL",
-          "quantity": 5
-        }
-      ],
       "colors": [
         {
-          "color": "red",
-          "quantity": 25
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
         },
         {
-          "color": "black",
-          "quantity": 25
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
         }
       ]
     },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -2217,6 +1867,12 @@
       },
       {
         "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
         "image": "https://shekr-static.vyte.sh/products/jacket.png",
         "title": "Easy fit",
         "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
@@ -2292,22 +1948,1632 @@
             ]
           }
         ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
-        "title": "Packaging",
-        "label": "Sustainable Packaging",
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 13,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "orange",
+          "images": [
+            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 20.95,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
+      },
+      {
+        "id": 2,
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
+      },
+      {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
         "description": [
           {
-            "title": "Environmental Impact",
+            "title": "Delivery",
             "descriptions": [
-              "Eco-friendly packaging materials",
-              "Minimal plastic usage",
-              "Commitment to carbon-neutral deliveries"
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
             ]
           }
         ]
       }
     ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 14,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
+        },
+        {
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 15,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "orange",
+          "images": [
+            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 20.95,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
+      },
+      {
+        "id": 2,
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
+      },
+      {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 16,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
+        },
+        {
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 17,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "orange",
+          "images": [
+            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 20.95,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
+      },
+      {
+        "id": 2,
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
+      },
+      {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 18,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
+        },
+        {
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 19,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "orange",
+          "images": [
+            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 20.95,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
+      },
+      {
+        "id": 2,
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
+      },
+      {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 20,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
+        },
+        {
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 21,
+    "name": "Spalding Basketball",
+    "sellerId": 5,
+    "category": "Sport",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "orange",
+          "images": [
+            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 20.95,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
+      },
+      {
+        "id": 2,
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
+      },
+      {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "id": 22,
+    "name": "Classic jacket",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Men's Fashion",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png",
+            "https://shekr-static.vyte.sh/products/jacket.png"
+          ]
+        },
+        {
+          "name": "black",
+          "images": [
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
+            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+          ]
+        },
+        {
+          "name": "brown",
+          "images": [
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
+            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "blue",
+        "price": 7.95,
+        "quantity": 10
+      },
+      {
+        "name": "brown",
+        "price": 9.95,
+        "quantity": 15
+      },
+      {
+        "name": "black",
+        "price": 7.95,
+        "quantity": 8
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €15 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   }
