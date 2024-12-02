@@ -412,7 +412,7 @@
   },
   {
     "id": 11,
-    "name": "Girl's Fashion",
+    "name": "Girl Fashion",
     "image": "https://shekr-static.vyte.sh/categories/girl-fashion.png",
     "children": [
       {
@@ -490,7 +490,7 @@
   },
   {
     "id": 13,
-    "name": "Manga, Comics & Webtoons",
+    "name": "Anime & Comics",
     "image": "https://shekr-static.vyte.sh/categories/manga.png",
     "children": [
       {
@@ -529,7 +529,7 @@
   },
   {
     "id": 14,
-    "name": "Men's Fashion",
+    "name": "Men Fashion",
     "image": "https://shekr-static.vyte.sh/categories/men-fashion.png",
     "children": [
       {
@@ -568,7 +568,7 @@
   },
   {
     "id": 15,
-    "name": "Men's Jewelry",
+    "name": "Men Jewelry",
     "image": "https://shekr-static.vyte.sh/categories/men-jewelry.png",
     "children": [
       {
@@ -877,12 +877,12 @@
   },
   {
     "id": 28,
-    "name": "Women's Fashion",
+    "name": "Women Fashion",
     "image": "https://shekr-static.vyte.sh/categories/women-fashion.png"
   },
   {
     "id": 29,
-    "name": "Women's Jewelry",
+    "name": "Women Jewelry",
     "image": "https://shekr-static.vyte.sh/categories/women-jewelry.png"
   }
 ]
