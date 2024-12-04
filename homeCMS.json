@@ -5,7 +5,7 @@
     "type": "posts",
     "postConfig": {
       "postIds": [1, 2, 3, 4, 5],
-      "limit": 3
+      "limit": 10
     }
   },
   {
@@ -14,11 +14,12 @@
     "type": "category"
   },
   {
-    "title": "Auto Enthusiast's Hub",
+    "title": "The Fast Lane",
     "section": 3,
     "type": "posts",
     "postConfig": {
-      "category": "Automotive"
+      "postIds": [17, 18, 19],
+      "limit": 10
     }
   },
   {
@@ -68,11 +69,11 @@
     }
   },
   {
-    "title": "UEFA euro cup 2024",
+    "title": "Colorful Perspectives",
     "section": 9,
     "type": "posts",
     "postConfig": {
-      "postIds": [8, 9, 10, 11]
+      "category": "ART"
     }
   }
 ]
