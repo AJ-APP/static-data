@@ -1308,15 +1308,15 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel7.jpeg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sunset4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art3.jpeg"
     ],
-    "title": "Blush Skies and Black Sands",
-    "description":"Standing atop a mountain in Madeira, I watched the day bid farewell in the most mesmerizing way.\n\nThe sun sank slowly, casting a warm, pinkish glow that kissed the rugged coastline below.\n\nFrom my vantage point, the beach stretched like a dark velvet ribbon, its black sand shimmering faintly under the soft twilight hues.\n\nThe contrast of the pink skies meeting the dramatic cliffs and the inky shoreline felt almost unreal—like nature itself was painting a masterpiece.\n\nMoments like these remind me of the power of travel, of seeking out the places where the earth and sky come together in harmony.\n\nMadeira’s beauty isn’t just in the views; it’s in the way it makes you feel like you’ve discovered something extraordinary.",
+    "title": "Golden Horizons",
+    "description": "There’s nothing quite like watching the sunset at sea. As the sun dips lower, the sky transforms into a breathtaking canvas of oranges, pinks, and deep purples, each shade reflecting off the endless waves.\n\nThe sound of the ocean accompanies the view—a rhythmic symphony of waves lapping against the boat, blending seamlessly with the serenity of the moment. Time feels like it slows, and you find yourself lost in the vastness of it all, as if the horizon is whispering secrets meant only for you.\n\nIt’s more than a sunset; it’s a reminder of the beauty that lies in simplicity, the wonders of nature, and the magic of just being present. Moments like these stay with you forever.",
     "video": null,
     "recording": null,
     "category": "TRAVEL",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["MadeiraViews", "TwilightMagic", "NatureEscape"],
+    "hashtags": ["#SunsetViews", "#OceanMagic", "#NatureEscape"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -1354,7 +1354,7 @@
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NYC1.jpeg"
     ],
     "title": "Whispers in the Fog",
-    "description":"New York wears many faces, but there’s something surreal about a foggy day in the city. The skyline, usually so bold and commanding, softens under a blanket of mist, its towering giants peeking through like distant memories.\n\nThe streets hum with a quieter energy, as if the fog has wrapped everything in a muffled embrace. Streetlights glow faintly, their halos diffusing into the haze, and every step feels like part of a cinematic moment. It’s a New York that invites reflection—a city both familiar and mysterious.\n\nDays like these remind you that even in the hustle, there’s space for calm, for wonder, for getting lost in a dreamlike version of the city that never sleeps.",
+    "description": "New York wears many faces, but there’s something enchanting about a foggy day in the city. The skyline, usually so bold and commanding, softens under a blanket of mist, its towering giants peeking through like distant memories.\n\nThe streets hum with a quieter energy, as if the fog has wrapped everything in a muffled embrace. Streetlights glow faintly, their halos diffusing into the haze, and every step feels like part of a cinematic moment. It’s a New York that invites reflection—a city both familiar and mysterious.\n\nDays like these remind you that even in the hustle, there’s space for calm, for wonder, for getting lost in a dreamlike version of the city that never sleeps.",
     "video": null,
     "recording": null,
     "category": "TRAVEL",
