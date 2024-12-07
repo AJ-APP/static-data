@@ -1,5 +1,918 @@
 [
   {
+    "id": 1,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "I can't get enough of the easy fit feature in this jacket",
+          "id": 1,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10],
+            "replies": [
+              {
+                "id": 1,
+                "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                "userId": 3,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 3, 4, 5, 6, 7, 8]
+              },
+              {
+                "id": 2,
+                "text": "I can't get enough of the easy fit feature in this jacket",
+                "userId": 4,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 3, 6, 7, 8],
+                "repliedTo": 3
+              },
+              {
+                "id": 3,
+                "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                "userId": 5,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 8]
+              }
+            ]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 30,
+          "userId": 5,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10, 12, 13],
+            "replies": []
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+"https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Wave1.jpg"
+    ],
+    "title": "Denim and Waves: Effortless Style in Marseille",
+    "description": "Standing at the edge of the Calanques, with the Mediterranean stretching endlessly ahead, I felt the perfect blend of rugged nature and effortless fashion. The jean shirt, worn loosely over a crisp white tee, paired with ripped black jeans, gave just the right touch of edge to this serene, coastal backdrop.\n\nThe sun kissed the cliffs, casting golden light over the azure waters, as the wind tousled my hair and made the shirt flow like it was part of the scenery. Marseille’s Calanques are raw and breathtaking, a contrast to the structured simplicity of my look—a reminder that style doesn’t have to overpower the beauty around it.\n\nFashion is as much about where you wear it as how you wear it. Here, it felt just right: understated, confident, and effortlessly cool. What’s your go-to look for coastal escapes?",
+    "video": null,
+    "recording": null,
+    "category": "FASHION",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["MarseilleVibes","CoastalFashion","CalanquesAndStyle"],
+    "mentionedPeople": [],
+    "mentionedItems": [2, 4, 3],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": true,
+        "AIContent": true
+      }
+    },
+    "repost": 4
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Library.jpeg"
+    ],
+    "title": "The New Pouf: My Library’s Star... and My Cat’s Throne",
+    "description": "I finally found the perfect pouf for my library—a plush, cozy addition that fits right in with the warm wood shelves and soft lighting. I imagined myself sinking into it with a good book and a cup of tea, my little corner of bliss.\n\nWhat I didn’t imagine? My cat claiming it as her own within minutes of its arrival. It’s like she was waiting for this moment her entire life! Whether it’s stretching out like royalty or curling up into a fuzzy ball, she’s made it clear this pouf belongs to her.\n\nSo now, we’re sharing... or rather, I get the occasional chance to enjoy it when she’s not around. But seeing her so happy on it almost makes up for it. Almost. Who else has lost a new piece of furniture to their pet? ",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["LibraryGoals", "CatLife", "CozyCorners"],
+    "mentionedPeople": [],
+    "mentionedItems": [6,1],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 4,
+          "userId": 5,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sofa.jpeg"
+    ],
+    "title": "A Bold Choice For My Living Room",
+    "description": "I did it—I went for the blue sofa! It felt like a risky choice at first, stepping away from the usual neutrals, but now I can’t imagine my living room without it. The deep, rich tone brings such life to the space, and paired with a matching throw, it feels effortlessly chic and cohesive.\n\nWhat I love most is how it transforms the room’s energy. The blue adds personality without overwhelming, striking just the right balance between boldness and comfort. I catch myself smiling every time I walk in, feeling a little proud for taking the leap.\n\nSometimes, a bold choice is exactly what your space needs to feel truly yours. What’s the most daring design decision you’ve made that paid off?",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["HomeDecorWin", "BoldChoices", "BlueSofaLove"],
+    "mentionedPeople": [],
+    "mentionedItems": [5],
+    "collaborations": [],
+    "link": null,
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": true,
+        "sponsoredContent": true,
+        "AIContent": true
+      }
+    }
+  },
+  {
+    "id": 4,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/alex-kalinin-Rz3jF9vL5m0-unsplash.jpg"
+    ],
+    "title": "Nature through a Crimson Lens",
+    "description": "Just finished this bold piece, inspired by the intense and surreal beauty of a red-filtered world. I wanted to take nature to a new dimension, transforming everyday plants into something dark, dramatic, and almost otherworldly. The deep reds and stark blacks create a contrast that feels both alive and mysterious, like you’re looking at nature through a hidden lens.\n\nEvery shadow, every leaf, has taken on this fiery glow, showing a wild side we don’t usually see. For me, this piece is all about reimagining the natural world—finding intensity and wonder in unexpected places. Let me know what feelings this brings up for you: does it feel familiar, or like a glimpse into a completely different world?",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [12],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 5,
+    "userId": 4,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 6,
+        "userId": 6,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://www.thedigitalnomad.asia/wp-content/uploads/2020/07/MF1-Music-Fetival-in-Philippines.jpg"
+    ],
+    "title": "Color and Chaos: A Celebration of Life and Music",
+    "description": "Picture this: music pumping through the air, your favorite tracks setting the vibe, and then—BOOM—a cloud of colors explodes all around you. At this festival, it wasn’t just about the music; it was about the celebration of life, joy, and connection.\n\nEveryone was armed with packets of brightly colored powder, throwing them in the air or playfully at each other. By the end, no one cared about clean clothes—pink, green, yellow, and blue coated every inch of us, from head to toe. We were walking rainbows, laughing, dancing, and losing ourselves in the vibrant chaos.\n\nThis wasn’t just an event; it was an experience. A chance to let loose, embrace spontaneity, and connect with others in the most colorful way possible. Festivals like these remind you that sometimes, life is better when it’s messy.",
+    "video": null,
+    "recording": "https://shekr-static.vyte.sh/recordings/CantinaBand60.wav",
+    "category": "MUSIC",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 6,
+    "userId": 4,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Rockconcert.jpg"
+    ],
+    "title": "Strings & Amps: The Secret to My Signature Sound",
+    "description": "There’s nothing like the rush of a live concert—the roar of the crowd, the pulse of the drums, and for me, the magic of a perfectly tuned guitar ripping through the amps. Every note, every riff, has to hit just right, and that’s why I’m obsessed with dialing in my sound.\n\nMy guitar? A custom beast built for tone and versatility. It’s wired with pickups that can go from warm and soulful to straight-up aggressive. And the amp? A vintage tube amp that’s my not-so-secret weapon. It adds that raw, gritty edge that brings my sound to life, especially when I crank up the gain.\n\nBut the real trick? It’s in the pedals—a mix of overdrive, delay, and reverb to shape the tone into something unmistakably mine. When you hear it live, you feel it. It’s not just sound; it’s an experience.\n\nWhat’s your go-to setup for making magic?",
+    "video": null,
+    "recording": null,
+    "category": "MUSIC",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["RockOn", "GuitarTone", "AmpLife"],
+    "mentionedPeople": [],
+    "mentionedItems": [7],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 7,
+    "userId": 6,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Dirtbike1.jpg"
+    ],
+    "title": "Mud in Motion: Conquering the Elements",
+    "description": "This is adventure at its rawest, where mud becomes both a challenge and a badge of honor. He gripped the handlebars, feeling the engine’s hum as he charged forward. The track was ruthless, a slick mess of mud and water, but that’s what made it perfect. Each twist of the throttle splashed more grit and grime, coating him as he powered through. This wasn’t just a ride; it was a battle against the elements, a raw, muddy testament to pushing limits and leaving hesitation in the dust. Only the faint shapes of trees stood witness to his relentless pursuit. Nothing mattered now but the next stretch of trail",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [10],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/race3.jpeg"
+    ],
+    "title": "Snowboard Race Through the Forest",
+    "description": "There’s nothing like the thrill of racing your friends down a snowy mountainside, weaving through the forest. The crunch of fresh powder under the board, the sharp chill of the air, and the adrenaline of dodging trees while trying to take the lead—it’s the kind of chaos that keeps you grinning the whole way down.\n\nWe started at the top, laughing and throwing playful jabs about who’d eat snow first. But the second we dropped in, it was all focus. Each turn felt like a gamble between speed and control, the trees whipping past as we carved through narrow paths and untouched powder.\n\nBy the time we reached the bottom, it didn’t even matter who won. Out of breath and full of laughs, we were already talking about heading back up for another run. Snowboard races in the forest: equal parts madness and magic.",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["SnowboardAdventures", "ForestRun", "ShredWithFriends"],
+    "mentionedPeople": [],
+    "mentionedItems": [11],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Camping.jpg"
+    ],
+    "title": "Camping on a Snow-Capped Summit",
+    "description": "There’s nothing quite like camping at the summit, especially when the mountain is blanketed in snow and the world feels crisp and still. Reaching the top, I set up camp and layered up against the chill, knowing the best part was yet to come: the sunset.\nAs the sun began to sink, everything around me transformed. The snow took on a warm, golden hue, the sky shifting from deep orange to fiery pink, casting soft light across the peaks around me. Sitting there, wrapped in my jacket with hot cocoa in hand, I watched as the last rays dipped below the horizon, leaving a quiet calm over the mountain.",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [8],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 10,
+    "userId": 242424,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel8.jpeg"],
+    "title": "Where Mountains Meet the Sea",
+    "description": "There’s a place in Norway where the mountains don’t just rise—they plunge straight into the sea, creating a breathtaking contrast of rugged cliffs and shimmering water. Standing on the edge, I couldn’t help but feel humbled by the sheer scale of it all.\n\nThe air here feels different—crisp, salty, and alive. The waves crash against the rocks below, sending mist into the air, while seabirds circle overhead. As the sun sets, the cliffs turn a fiery orange, reflected in the still waters, making it impossible to look away.\n\nIt’s a place that doesn’t just take your breath away—it fills you with a sense of awe and gratitude for the natural world. If you’re ever in Norway, don’t miss the chance to witness this raw beauty. It’s more than a view; it’s an experience.",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": ["NorwayAdventures", "MountainAndSea", "NatureAtItsBest"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 11,
+    "userId": 242424,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel1.jpeg"],
+    "title": "Above the World: Standing on Clouds",
+    "description": "Trekking through rugged mountain trails, the journey was challenging but rewarding. Each step, each breath, felt heavier as we climbed higher, but the promise of the summit kept us going.\n\nWhen we finally reached the top, the view was unlike anything I’d ever seen—a vast sea of clouds stretching endlessly, their soft, rolling waves kissed by the golden glow of the sun. It felt like standing on the edge of a dream, the world below hidden beneath a blanket of mist.\n\nMoments like these remind you why the effort is worth it. The climb tests you, but the view heals you. If you’ve ever wanted to feel like you’re on top of the world, this is it.",
+    "video": null,
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 12,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "comments": [
+      {
+        "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+        "id": 4,
+        "userId": 5,
+        "dateCreated": "2024-10-03T08:14:03.312546",
+        "status": {
+          "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+        },
+        "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      }
+    ],
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Greentent.jpg"
+    ],
+    "title": "The Magic of a Night in the Wild",
+    "description": "There’s something magical about camping under a sky full of stars. As the fire died down and the chill of night set in, I looked up and was completely captivated—thousands of stars glittered above, brighter and closer than I’d ever seen. Out here, miles away from city lights, the Milky Way stretched across the sky like a cosmic river, each star sharp and vivid against the inky blackness.\nI wrapped myself in a blanket, lay back on the cool ground, and felt an overwhelming sense of awe and peace. Every constellation felt like it was telling its own story, ancient and timeless. It reminded me just how big and beautiful this universe is—and how lucky we are to witness it. Moments like these make every trek, every rough night of camping, worth it. Out here, beneath this endless sky, everything felt right. It’s the kind of experience that stays with you, long after the stars have faded.",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
+    "dateCreated": "2024-10-02T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [9],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 13,
+    "userId": 4,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 1,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Desert5.jpeg"
+    ],
+    "title": "Under a Sky Full of Stars",
+    "description": "The desert transforms at night, unveiling a celestial masterpiece. With no city lights to dim its glow, the sky became a canvas of infinite stars, each one burning bright and sharp against the darkness. The Milky Way unfurled like a river of light, its reflection shimmering faintly on the cool, undisturbed sand.\n\nI lay there in silence, soaking in the grandeur of the universe, feeling both impossibly small and deeply connected to something vast. In this stillness, with nothing but the stars above, the desert offered a rare kind of magic—a reminder of the beauty that exists when we pause and look up.",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["DesertStars", "GalaxyViews", "InfiniteWonder"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 14,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 1,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wed4.jpeg"
+    ],
+    "title": "Where Elegance Meets Nature",
+    "description": "This wedding venue feels like a dream brought to life. Above, sail-like drapes stretch across the ceiling, swaying gently with the breeze, creating a serene, almost ethereal atmosphere. The aisle is a pathway of beauty, flanked by lush green and white plants, leading guests toward the heart of the celebration.\n\nElegant chairs line the sides of the aisle, their arrangement simple yet sophisticated, perfectly complementing the natural surroundings. At the end of the path, the hotel stands as a backdrop, seamlessly blending charm and refinement.\n\nEvery detail seems to echo the harmony of nature and design, offering an unforgettable setting for love to take center stage. This isn’t just a venue; it’s a masterpiece.",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["WeddingInspiration", "ElegantVenues", "NatureAndDesign"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 15,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "I can't get enough of the easy fit feature in this jacket",
+          "id": 1,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10],
+            "replies": [
+              {
+                "id": 1,
+                "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                "userId": 3,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 3, 4, 5, 6, 7, 8]
+              },
+              {
+                "id": 2,
+                "text": "I can't get enough of the easy fit feature in this jacket",
+                "userId": 4,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 3, 6, 7, 8],
+                "repliedTo": 3
+              },
+              {
+                "id": 3,
+                "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                "userId": 5,
+                "dateCreated": "2024-10-03T08:14:03.312546",
+                "likes": [1, 2, 8]
+              }
+            ]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 1,
+          "userId": 5,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10, 12, 13],
+            "replies": []
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Hiroshi_Nagai4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Hiroshi_Nagai5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Hiroshi_Nagai6.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Hiroshi_Nagai7.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Hiroshi_Nagai8.jpeg"
+    ],
+    "title": "Hiroshi Nagai: Dreamscapes in Pastel",
+    "description": "Hiroshi Nagai’s art feels like stepping into a tranquil daydream. His signature style, inspired by the 1980s, captures an endless summer filled with serene pools, palm trees swaying under soft skies, and quiet coastal scenes. Every piece evokes nostalgia, not for a specific time or place, but for a feeling—peaceful, warm, and timeless.\n\nWhat makes Nagai’s work so captivating is its simplicity. Crisp lines and pastel hues create worlds that feel both real and idealized. It’s a blend of minimalism and vibrancy, where every detail seems perfectly placed, yet never overbearing.\n\nHis art doesn’t just depict scenes; it invites you to linger, to imagine yourself by that pool, under that sky, lost in the calm of an eternal summer.",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [
+      "HiroshiNagai","RetroAesthetic","ArtThatInspires"
+    ],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": true,
+        "AIContent": true
+      }
+    },
+    "repost": 4
+  },
+  {
+    "id": 16,
+    "userId": 2,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Draw1.jpeg"
+    ],
+    "title": "The Fortress of Sandstone Dreams",
+    "description": "This artwork captures a vision of impossible beauty: a castle clinging to the sheer face of a mountain, suspended in a vast, arid desert. The fortress rises from the rock as though carved directly into it, its turrets and walls blending seamlessly with the rugged cliffs.\n\nThe desert below stretches endlessly, its golden sands glowing under the warm light of a low-hanging sun. The scene feels otherworldly yet timeless, as if this castle has stood as a silent sentinel for centuries, guarding secrets lost to the winds.\n\nThe contrast of the castle’s grandeur against the barren expanse evokes a sense of awe and mystery. It’s a reminder of human ingenuity and resilience, even in the most inhospitable places—or perhaps, of dreams too wild to be bound by reality.",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["DesertFortress","ArtOfImagination","DreamlikeLandscapes"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 17,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/hura.jpeg"
+    ],
+    "title": "Why the Huracán Still Outshines the New Lamborghini Temerario",
+    "description": "Let’s be real: Lamborghini has a reputation for designing cars that are pure art in motion. But with the recent reveal of the Lamborghini Temerario, there’s one thing I can’t shake—the feeling that the Huracán still holds the crown for design.\nThe Huracán, with its razor-sharp lines and classic supercar silhouette, captures the essence of Lamborghini’s aesthetic like few others. It’s low, wide, and aggressive without trying too hard. There’s a timelessness to it, almost as if it knows it’s iconic and doesn’t have to scream about it. You just can’t help but look twice.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 18,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Race1.jpeg"
+    ],
+    "title": "Adrenaline at the Edge of the Race",
+    "description": "There’s nothing like the roar of GT cars slicing through the track, but experiencing it up close is a whole new level of adrenaline.\n\nWith special access to the heart of the race, I found myself just feet away from the action, engines screaming and tires gripping the asphalt with every daring turn.\n\nThe smell of burning rubber, the blur of vibrant liveries, and the electric energy of the pit crews all came alive as I captured breathtaking shots of speed and precision. Watching the cars fly by, feeling the vibrations in the ground, and hearing the thunderous growl of finely tuned machines is something that words or pictures can barely describe—it’s pure, unfiltered motorsport magic.\n\nIf you ever get the chance to step beyond the spectator stands, don’t hesitate. It’s a perspective that brings you closer to the heart of the race and the passion of everyone involved.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["GTRacing", "BehindTheScenes", "SpeedAndAdrenaline"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 19,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/car1.jpeg"
+    ],
+    "title": "Ocean Road Odyssey",
+    "description": "The Aston Martin Valkyrie isn’t just a car; it’s a masterpiece of engineering and design, and taking it for a test drive along the ocean road felt like stepping into a different reality.\n\nThe engine’s roar echoed against the cliffs as the car hugged each curve of the winding road. The ocean shimmered to the side, the waves crashing rhythmically as if keeping time with the Valkyrie’s heartbeat. The steering was razor-sharp, the acceleration exhilarating, and every moment behind the wheel felt like a celebration of speed and precision.\n\nAs the sun dipped toward the horizon, painting the sky in warm hues, the Valkyrie reflected the glow, becoming one with the landscape. This wasn’t just a test drive—it was an experience that blurred the line between dream and reality. Driving perfection has never felt so real.",
+    "video": null,
+    "recording": null,
+    "category": "AUTOMOTIVE",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["AstonMartinValkyrie", "OceanRoads", "DrivingExperience"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 20,
+    "userId": 5,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 1,
+          "userId": 2,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B1.jpeg", "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B5.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/B6.jpeg"
+    ],
+    "title": "A Brutalist and Minimalist Sanctuary",
+    "description": "Welcome to my home—a space where simplicity reigns and every element is intentional. The bare cement walls, with their raw, unfinished texture, give the space a brutalist edge, yet there’s a calming warmth in the restraint.\n\nEvery piece of furniture has a purpose, from the sleek low-profile couch to the single statement light fixture casting soft, diffused light. Open shelving displays only the essentials, while hidden storage keeps the space feeling clean and unencumbered. The cool gray tones of the walls are balanced with natural accents—wooden details, a single lush green plant, and a cozy rug underfoot.\n\nIt’s a space that inspires focus and creativity, free from distractions. For me, brutalism isn’t cold; it’s the ultimate canvas to live simply and beautifully. What do you think of this style? ",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["WeddingInspiration", "ElegantVenues", "NatureAndDesign"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
     "id": 21,
     "userId": 5,
     "status": {
@@ -193,303 +1106,6 @@
     "category": "HOME & DECOR",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["GTRacing", "BehindTheScenes", "SpeedAndAdrenaline"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
-    "id": 25,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": null,
-    "title": "Wishes in the Sky: The Magic of Thailand’s Lantern Festival",
-    "description": "Imagine standing beneath a sky slowly filling with thousands of glowing lanterns, each one carrying a wish, a prayer, or a dream. That’s the magic of Thailand’s Lantern Festival, Yi Peng, an unforgettable celebration of light and hope.\n\nAs dusk settled, the festival grounds came alive with excitement. People gathered with their lanterns, some intricately decorated, others simple but no less beautiful. The scent of incense filled the air, and the sound of traditional music created an enchanting atmosphere.\n\nWhen the moment came, we lit the lanterns, their golden glow reflecting on the water below. Slowly, they rose into the night, joining a sea of light that seemed to merge with the stars. It felt like the world stood still, everyone united in awe and wonder.\n\nThis wasn’t just a festival; it was a profound moment of connection and gratitude. If you ever get the chance, don’t miss it—it’s a memory that will stay with you forever.",
-    "video": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lantern.mp4",
-    "recording": null,
-    "category": "TRAVEL",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["YiPeng", "LanternFestival", "ThailandMagic"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
-    "id": 26,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": null,
-    "title": "Gentle Giants of Thailand",
-    "description": "Witnessing a mother elephant and her baby in the heart of Thailand was nothing short of magical.\n\nThe mother stood tall and protective, her presence both serene and commanding, while her baby playfully explored the world with curious little steps. Their bond was unmistakable—gentle nudges, a protective trunk wrapped around the baby, and the occasional affectionate rumble that echoed through the lush surroundings.\n\nIn that moment, surrounded by the beauty of Thailand’s nature, I felt connected to something far greater than myself. Watching these magnificent creatures reminded me of the importance of preserving and respecting the wild spaces that they call home.\n\nThis wasn’t just a sighting—it was a memory etched forever. A glimpse of the wild that makes you pause and truly appreciate the wonders of our planet.",
-    "video": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/elephants.mp4",
-    "recording": null,
-    "category": "TRAVEL",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["WildlifeMagic", "ThailandAdventures", "ElephantLove"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
-    "id": 27,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber5.jpeg"
-    ],
-    "title": "The Clockwork Chronicles",
-    "description": "Imagine a planet where everything, from the trees to the mountains, is made of gears, pistons, and whirring mechanisms.\n\nThat’s the setting of the new comic The Clockwork Chronicles, and it’s a world like no other.\n\nThe story follows Aelric, a mechanic with a mysterious past, and Kyna, an enigmatic automaton, as they traverse this mechanical marvel in search of a mythical Core said to hold the secret to life itself.\n\nThe art is stunning, with intricate details that bring this mechanical planet to life, and the plot is packed with intrigue, action, and just the right amount of heart.\n\nIf you’re into imaginative worlds and stories that blend steampunk aesthetics with high-stakes adventure, this comic is a must-read. It’s not just a story—it’s a journey into a living, breathing machine.",
-    "video": null,
-    "recording": null,
-    "category": "ANIME & COMICS",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["ClockworkPlanet", "ComicsOfTheFuture", "MechanicalMarvels"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
-    "id": 28,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art3.jpeg"
-    ],
-    "title": "Adventures in 8-Bit Worlds",
-    "description": "There’s something magical about pixel art—it’s nostalgic yet endlessly creative. That’s exactly what this new pixel art video game delivers, blending retro charm with modern gameplay.\n\nIn this game, you step into the shoes of a lone explorer navigating a vibrant, pixelated world filled with mysteries, quirky characters, and hidden treasures. Each level is a feast for the eyes, with rich, handcrafted details that bring the pixel art to life.\n\nThe gameplay combines classic platforming with innovative mechanics, keeping you hooked as you uncover secrets and take on challenging foes. And the soundtrack? Pure retro bliss with a modern twist.\n\nThis isn’t just a game; it’s an ode to the timeless art of pixels and the creativity of indie game development. Whether you’re a fan of the classics or looking for something fresh, this one’s worth diving into.",
-    "video": null,
-    "recording": null,
-    "category": "VIDEO-GAMES",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["PixelArtGaming", "RetroReimagined", "IndieGamesLove"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
-    "id": 29,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sunset4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art3.jpeg"
-    ],
-    "title": "Golden Horizons",
-    "description": "There’s nothing quite like watching the sunset at sea. As the sun dips lower, the sky transforms into a breathtaking canvas of oranges, pinks, and deep purples, each shade reflecting off the endless waves.\n\nThe sound of the ocean accompanies the view—a rhythmic symphony of waves lapping against the boat, blending seamlessly with the serenity of the moment. Time feels like it slows, and you find yourself lost in the vastness of it all, as if the horizon is whispering secrets meant only for you.\n\nIt’s more than a sunset; it’s a reminder of the beauty that lies in simplicity, the wonders of nature, and the magic of just being present. Moments like these stay with you forever.",
-    "video": null,
-    "recording": null,
-    "category": "TRAVEL",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["#SunsetViews", "#OceanMagic", "#NatureEscape"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
-    "id": 30,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NYC1.jpeg"
-    ],
-    "title": "Whispers in the Fog",
-    "description": "New York wears many faces, but there’s something enchanting about a foggy day in the city. The skyline, usually so bold and commanding, softens under a blanket of mist, its towering giants peeking through like distant memories.\n\nThe streets hum with a quieter energy, as if the fog has wrapped everything in a muffled embrace. Streetlights glow faintly, their halos diffusing into the haze, and every step feels like part of a cinematic moment. It’s a New York that invites reflection—a city both familiar and mysterious.\n\nDays like these remind you that even in the hustle, there’s space for calm, for wonder, for getting lost in a dreamlike version of the city that never sleeps.",
-    "video": null,
-    "recording": null,
-    "category": "TRAVEL",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["FoggyNYC", "CityMystique", "NewYorkDreaming"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
-    "id": 31,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Boat.jpeg"
-    ],
-    "title": "A Glimpse of Serenity in Marbella",
-    "description":"Strolling through Marbella’s vibrant streets, I wasn’t expecting to find such a peaceful moment. The sun was high, bathing everything in golden light as I turned into a quiet alleyway.\n\nThe path was charming, with bougainvillea climbing whitewashed walls and cobblestones warm beneath my feet. At the far end, a view opened up to the sparkling Mediterranean, where a single sailboat drifted lazily across the horizon.\n\nI stood there for a while, caught between the beauty of the alley and the endless expanse of sea. It’s moments like these that remind me why Marbella is so much more than its famous glamour—it’s a place where simplicity still reigns.",
-    "video": null,
-    "recording": null,
-    "category": "TRAVEL",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["MarbellaMagic", "SeasideEscape", "CoastalBeauty"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
