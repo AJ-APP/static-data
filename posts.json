@@ -1119,5 +1119,302 @@
       }
     },
     "repost": 5
+  },
+  {
+    "id": 25,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": null,
+    "title": "Wishes in the Sky: The Magic of Thailand’s Lantern Festival",
+    "description": "Imagine standing beneath a sky slowly filling with thousands of glowing lanterns, each one carrying a wish, a prayer, or a dream. That’s the magic of Thailand’s Lantern Festival, Yi Peng, an unforgettable celebration of light and hope.\n\nAs dusk settled, the festival grounds came alive with excitement. People gathered with their lanterns, some intricately decorated, others simple but no less beautiful. The scent of incense filled the air, and the sound of traditional music created an enchanting atmosphere.\n\nWhen the moment came, we lit the lanterns, their golden glow reflecting on the water below. Slowly, they rose into the night, joining a sea of light that seemed to merge with the stars. It felt like the world stood still, everyone united in awe and wonder.\n\nThis wasn’t just a festival; it was a profound moment of connection and gratitude. If you ever get the chance, don’t miss it—it’s a memory that will stay with you forever.",
+    "video": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lantern.mp4",
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["YiPeng", "LanternFestival", "ThailandMagic"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 26,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": null,
+    "title": "Gentle Giants of Thailand",
+    "description": "Witnessing a mother elephant and her baby in the heart of Thailand was nothing short of magical.\n\nThe mother stood tall and protective, her presence both serene and commanding, while her baby playfully explored the world with curious little steps. Their bond was unmistakable—gentle nudges, a protective trunk wrapped around the baby, and the occasional affectionate rumble that echoed through the lush surroundings.\n\nIn that moment, surrounded by the beauty of Thailand’s nature, I felt connected to something far greater than myself. Watching these magnificent creatures reminded me of the importance of preserving and respecting the wild spaces that they call home.\n\nThis wasn’t just a sighting—it was a memory etched forever. A glimpse of the wild that makes you pause and truly appreciate the wonders of our planet.",
+    "video": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/elephants.mp4",
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["WildlifeMagic", "ThailandAdventures", "ElephantLove"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 27,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber3.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Cyber5.jpeg"
+    ],
+    "title": "The Clockwork Chronicles",
+    "description": "Imagine a planet where everything, from the trees to the mountains, is made of gears, pistons, and whirring mechanisms.\n\nThat’s the setting of the new comic The Clockwork Chronicles, and it’s a world like no other.\n\nThe story follows Aelric, a mechanic with a mysterious past, and Kyna, an enigmatic automaton, as they traverse this mechanical marvel in search of a mythical Core said to hold the secret to life itself.\n\nThe art is stunning, with intricate details that bring this mechanical planet to life, and the plot is packed with intrigue, action, and just the right amount of heart.\n\nIf you’re into imaginative worlds and stories that blend steampunk aesthetics with high-stakes adventure, this comic is a must-read. It’s not just a story—it’s a journey into a living, breathing machine.",
+    "video": null,
+    "recording": null,
+    "category": "ANIME & COMICS",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["ClockworkPlanet", "ComicsOfTheFuture", "MechanicalMarvels"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 28,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art3.jpeg"
+    ],
+    "title": "Adventures in 8-Bit Worlds",
+    "description": "There’s something magical about pixel art—it’s nostalgic yet endlessly creative. That’s exactly what this new pixel art video game delivers, blending retro charm with modern gameplay.\n\nIn this game, you step into the shoes of a lone explorer navigating a vibrant, pixelated world filled with mysteries, quirky characters, and hidden treasures. Each level is a feast for the eyes, with rich, handcrafted details that bring the pixel art to life.\n\nThe gameplay combines classic platforming with innovative mechanics, keeping you hooked as you uncover secrets and take on challenging foes. And the soundtrack? Pure retro bliss with a modern twist.\n\nThis isn’t just a game; it’s an ode to the timeless art of pixels and the creativity of indie game development. Whether you’re a fan of the classics or looking for something fresh, this one’s worth diving into.",
+    "video": null,
+    "recording": null,
+    "category": "VIDEO-GAMES",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["PixelArtGaming", "RetroReimagined", "IndieGamesLove"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 29,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sunset4.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art3.jpeg"
+    ],
+    "title": "Golden Horizons",
+    "description": "There’s nothing quite like watching the sunset at sea. As the sun dips lower, the sky transforms into a breathtaking canvas of oranges, pinks, and deep purples, each shade reflecting off the endless waves.\n\nThe sound of the ocean accompanies the view—a rhythmic symphony of waves lapping against the boat, blending seamlessly with the serenity of the moment. Time feels like it slows, and you find yourself lost in the vastness of it all, as if the horizon is whispering secrets meant only for you.\n\nIt’s more than a sunset; it’s a reminder of the beauty that lies in simplicity, the wonders of nature, and the magic of just being present. Moments like these stay with you forever.",
+    "video": null,
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["#SunsetViews", "#OceanMagic", "#NatureEscape"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 30,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NYC1.jpeg"
+    ],
+    "title": "Whispers in the Fog",
+    "description": "New York wears many faces, but there’s something enchanting about a foggy day in the city. The skyline, usually so bold and commanding, softens under a blanket of mist, its towering giants peeking through like distant memories.\n\nThe streets hum with a quieter energy, as if the fog has wrapped everything in a muffled embrace. Streetlights glow faintly, their halos diffusing into the haze, and every step feels like part of a cinematic moment. It’s a New York that invites reflection—a city both familiar and mysterious.\n\nDays like these remind you that even in the hustle, there’s space for calm, for wonder, for getting lost in a dreamlike version of the city that never sleeps.",
+    "video": null,
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["FoggyNYC", "CityMystique", "NewYorkDreaming"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 31,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Boat.jpeg"
+    ],
+    "title": "A Glimpse of Serenity in Marbella",
+    "description":"Strolling through Marbella’s vibrant streets, I wasn’t expecting to find such a peaceful moment. The sun was high, bathing everything in golden light as I turned into a quiet alleyway.\n\nThe path was charming, with bougainvillea climbing whitewashed walls and cobblestones warm beneath my feet. At the far end, a view opened up to the sparkling Mediterranean, where a single sailboat drifted lazily across the horizon.\n\nI stood there for a while, caught between the beauty of the alley and the endless expanse of sea. It’s moments like these that remind me why Marbella is so much more than its famous glamour—it’s a place where simplicity still reigns.",
+    "video": null,
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["MarbellaMagic", "SeasideEscape", "CoastalBeauty"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
   }
 ]
