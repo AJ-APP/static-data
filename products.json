@@ -1,151 +1,138 @@
 [
   {
     "id": 1,
-    "name": "Classic jacket",
+    "name": "Folk Puff",
     "voucherId": 1,
     "sellerId": 1,
-    "category": "Men's Fashion",
+    "category": "Home & Decor",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
-      "sizes": ["S", "M", "L", "XL"],
+      "sizes": ["S", "M", "L"],
       "colors": [
         {
+          "name": "beige",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"
+          ]
+        },
+        {
+          "name": "orange",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.png"
+          ]
+        },
+        {
+          "name": "olive",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png"
+          ]
+        },
+        {
+          "name": "grey",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/29.png"
+          ]
+        },{
           "name": "blue",
           "images": [
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/30.png"
           ]
         },
         {
-          "name": "black",
+          "name": "dark grey",
           "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
-          ]
-        },
-        {
-          "name": "brown",
-          "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
-          ]
-        },
-        {
-          "name": "yellow",
-          "images": [
-            "https://mdenshop.com/cdn/shop/files/MICHMJ0004A.jpg?v=1724685375&width=533",
-            "https://mdenshop.com/cdn/shop/files/MICHMJ0004A.jpg?v=1724685375&width=533",
-            "https://mdenshop.com/cdn/shop/files/MICHMJ0004A.jpg?v=1724685375&width=533"
-          ]
-        },
-        {
-          "name": "gray",
-          "images": [
-            "https://rox.com.ph/cdn/shop/files/1000480274_01.jpg?v=1717669411",
-            "https://rox.com.ph/cdn/shop/files/1000480274_01.jpg?v=1717669411",
-            "https://rox.com.ph/cdn/shop/files/1000480274_01.jpg?v=1717669411"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/31.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "S,blue",
-        "price": 7.95,
+        "name": "S,beige",
+        "price": 249,
         "quantity": 10
       },
       {
-        "name": "M,blue",
-        "price": 8.45,
+        "name": "M,beige",
+        "price": 249,
         "quantity": 10
       },
       {
-        "name": "S,yellow",
-        "price": 8.95,
+        "name": "S,orange",
+        "price": 249,
         "quantity": 10
       },
       {
-        "name": "M,yellow",
-        "price": 8.95,
+        "name": "M,orange",
+        "price": 249,
         "quantity": 0
       },
       {
-        "name": "L,yellow",
-        "price": 8.95,
+        "name": "S,olive",
+        "price": 249,
         "quantity": 0
       },
       {
-        "name": "M,brown",
-        "price": 9.95,
+        "name": "M,olive",
+        "price": 249,
         "quantity": 15
       },
       {
-        "name": "S,black",
-        "price": 7.95,
+        "name": "S,grey",
+        "price": 249,
         "quantity": 8
       },
       {
-        "name": "M,gray",
-        "price": 8.95,
+        "name": "M,grey",
+        "price": 249,
+        "quantity": 12
+      },
+      {
+        "name": "S,blue",
+        "price": 249,
+        "quantity": 0
+      },
+      {
+        "name": "M,blue",
+        "price": 249,
+        "quantity": 15
+      },
+      {
+        "name": "S,dark grey",
+        "price": 249,
+        "quantity": 8
+      },
+      {
+        "name": "M, dark grey",
+        "price": 249,
         "quantity": 12
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
+        "title": "Durable Foam Guarantees Long Lasting Use",
+        "description": null
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
+        "title": "Soft, Carefully Selected Fabrics",
+        "description": null
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight3.jpg",
+        "title": "Multi-Purpose Application",
+        "description": null
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": null,
+        "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
       }
     ],
     "serviceDetails": [
@@ -156,9 +143,10 @@
           {
             "title": "Delivery",
             "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
+              "Delivered directly to your home by trusted couriers like UPS, FedEx, or DHL, depending on your location",
+              "Delivery is free for orders above €100, with all costs, taxes, and customs fees covered by noo.ma",
+              "You can expect delivery in 2-4 business days within the EU and 3-8 business days for the UK, Switzerland, and Norway, starting from the dispatch date",
+              "All products from one order are being shipped together unless otherwise stated"
             ]
           },
           {
@@ -190,21 +178,21 @@
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewText": "Nice color and quality",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
         "reviewerId": 3,
         "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
+        "reviewText": "Very nice",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "Great value for money.",
+        "reviewText": "Perfect",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
