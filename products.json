@@ -6,7 +6,7 @@
     "sellerId": 1,
     "category": "Home & Decor",
     "itemStatus": "In Stock",
-    "weight": 2,
+    "weight": 4,
     "variants": {
       "sizes": ["S", "M", "L"],
       "colors": [
@@ -104,7 +104,7 @@
         "quantity": 8
       },
       {
-        "name": "M, dark grey",
+        "name": "M,dark grey",
         "price": 249,
         "quantity": 12
       }
@@ -129,7 +129,7 @@
         "description": null
       }
     ],
-    "Product Details": [
+    "specifications": [
       {
         "title": null,
         "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
