@@ -124,12 +124,12 @@
       },
       {
         "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight3.jpg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg",
         "title": "Multi-Purpose Application",
         "description": null
       }
     ],
-    "specifications": [
+    "Product Details": [
       {
         "title": null,
         "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
@@ -198,8 +198,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 2,
