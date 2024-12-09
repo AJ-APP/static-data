@@ -131,7 +131,7 @@
     ],
     "specifications": [
       {
-        "title": null,
+        "title": "",
         "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
       }
     ],
@@ -203,135 +203,52 @@
   },
   {
     "id": 2,
-    "name": "Classic jacket",
+    "name": "Denim Jacket",
     "voucherId": 1,
     "sellerId": 2,
     "category": "Men's Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
-      "colors": [
-        {
-          "name": "blue",
-          "images": [
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
-          ]
-        },
-        {
-          "name": "black",
-          "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
-          ]
-        },
-        {
-          "name": "brown",
-          "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
-          ]
-        }
-      ]
+      "sizes": ["S", "M", "L"],
+      "colors": []
     },
     "variantsDetails": [
       {
-        "name": "blue",
-        "price": 7.95,
+        "name": "S",
+        "price": 15,
         "quantity": 10
       },
       {
-        "name": "blue",
-        "price": 7.95,
+        "name": "M",
+        "price": 20,
         "quantity": 10
       },
       {
-        "name": "brown",
-        "price": 9.95,
-        "quantity": 15
-      },
-      {
-        "name": "black",
-        "price": 7.95,
-        "quantity": 8
-      }
+        "name": "L",
+        "price": 30,
+        "quantity": 15}
     ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      }
-    ],
+    "features": [],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "Washed and faded like an old favorite, this trucker jacket made of cotton-blend denim features burnished hardware and a relaxed fit that layers easily when the temperatures drop."
       }
     ],
     "serviceDetails": [
       {
         "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
+        "label": "Free 30-day returns",
         "description": [
           {
             "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
+            "descriptions": []
           },
           {
             "title": "Return",
             "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
+              "Purchases made online can also be returned up to 30 days after purchase, free of charge."
             ]
           }
         ]
