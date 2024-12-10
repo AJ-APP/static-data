@@ -203,41 +203,133 @@
   },
   {
     "id": 2,
-    "name": "Denim Jacket",
+    "name": "Folk Puff",
     "voucherId": 1,
-    "sellerId": 2,
-    "category": "Men's Fashion",
+    "sellerId": 7,
+    "category": "Home & Decor",
     "itemStatus": "In Stock",
-    "weight": 2,
+    "weight": 4,
     "variants": {
       "sizes": ["S", "M", "L"],
       "colors": [
         {
+          "name": "beige",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"
+          ]
+        },
+        {
+          "name": "orange",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.png"
+          ]
+        },
+        {
+          "name": "olive",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png"
+          ]
+        },
+        {
+          "name": "grey",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/29.png"
+          ]
+        },{
           "name": "blue",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/18.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/30.png"
+          ]
+        },
+        {
+          "name": "dark grey",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/31.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "S,blue",
-        "price": 75,
+        "name": "S,beige",
+        "price": 249,
         "quantity": 10
       },
       {
-        "name": "M,blue",
-        "price": 50,
-        "quantity": 6
+        "name": "M,beige",
+        "price": 249,
+        "quantity": 10
       },
       {
-        "name": "L,blue",
-        "price": 90,
-        "quantity": 20
+        "name": "S,orange",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "M,orange",
+        "price": 249,
+        "quantity": 0
+      },
+      {
+        "name": "S,olive",
+        "price": 249,
+        "quantity": 0
+      },
+      {
+        "name": "M,olive",
+        "price": 249,
+        "quantity": 15
+      },
+      {
+        "name": "S,grey",
+        "price": 249,
+        "quantity": 8
+      },
+      {
+        "name": "M,grey",
+        "price": 249,
+        "quantity": 12
+      },
+      {
+        "name": "S,blue",
+        "price": 249,
+        "quantity": 0
+      },
+      {
+        "name": "M,blue",
+        "price": 249,
+        "quantity": 15
+      },
+      {
+        "name": "S,dark grey",
+        "price": 249,
+        "quantity": 8
+      },
+      {
+        "name": "M,dark grey",
+        "price": 249,
+        "quantity": 12
       }
     ],
-    "features": [],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
+        "title": "Durable Foam Guarantees Long Lasting Use",
+        "description": "This pouf is crafted with high-density foam that resists sagging and wear, ensuring it retains its shape and support even with daily use. Whether you're sitting, lounging, or using it as a footrest, the durable foam guarantees comfort and longevity, making it a reliable addition to your space."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
+        "title": "Soft, Carefully Selected Fabrics",
+        "description": "Wrapped in premium, carefully selected fabrics, this pouf offers a luxurious feel that’s gentle to the touch. The soft texture enhances comfort while adding a sophisticated touch to your space, ensuring a cozy and stylish experience."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg",
+        "title": "Multi-Purpose Application",
+        "description": "Designed to adapt to your needs, this pouf serves as a comfortable seat, a supportive footrest, or even a stylish accent piece. Its multi-purpose functionality makes it a practical and versatile addition to any room."
+      }],
     "specifications": [
       {
         "title": "",
