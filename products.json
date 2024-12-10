@@ -211,23 +211,31 @@
     "weight": 2,
     "variants": {
       "sizes": ["S", "M", "L"],
-      "colors": []
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/18.png"
+          ]
+        }
+      ]
     },
     "variantsDetails": [
       {
-        "name": "S",
-        "price": 15,
+        "name": "S,blue",
+        "price": 75,
         "quantity": 10
       },
       {
-        "name": "M",
-        "price": 20,
-        "quantity": 10
+        "name": "M,blue",
+        "price": 50,
+        "quantity": 6
       },
       {
-        "name": "L",
-        "price": 30,
-        "quantity": 15}
+        "name": "L,blue",
+        "price": 90,
+        "quantity": 20
+      }
     ],
     "features": [],
     "specifications": [
