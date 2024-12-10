@@ -113,13 +113,13 @@
       {
         "id": 1,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
-        "title": "Durable Foam Guarantees Long Lasting Use",
+        "title": "Durable Foam Guarantees\nLong Lasting Use",
         "description": "This pouf is crafted with high-density foam that resists sagging and wear, ensuring it retains its shape and support even with daily use. Whether you're sitting, lounging, or using it as a footrest, the durable foam guarantees comfort and longevity, making it a reliable addition to your space."
       },
       {
         "id": 2,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
-        "title": "Soft, Carefully Selected Fabrics",
+        "title": "Soft, Carefully Selected\nFabrics",
         "description": "Wrapped in premium, carefully selected fabrics, this pouf offers a luxurious feel that’s gentle to the touch. The soft texture enhances comfort while adding a sophisticated touch to your space, ensuring a cozy and stylish experience."
       },
       {
@@ -203,7 +203,7 @@
   },
   {
     "id": 2,
-    "name": "Folk Puff",
+    "name": "Denim Jacket",
     "voucherId": 1,
     "sellerId": 7,
     "category": "Home & Decor",
@@ -237,13 +237,13 @@
       {
         "id": 1,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH1.png",
-        "title": "The Original Jean Jacket Since 1967",
+        "title": "The Original Jean Jacket\nSince 1967",
         "description": "Rediscover timeless style with the jacket that started it all. Crafted to perfection, this denim icon combines classic design with modern durability. Whether you're dressing up or down, it's the ultimate wardrobe staple—versatile, rugged, and effortlessly cool since 1967."
       },
       {
         "id": 2,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH2.png",
-        "title": "Effortlessly Vintage: Distressed for Style",
+        "title": "Effortlessly Vintage:\nDistressed for Style",
         "description": "Get that perfect broken-in look without the wait. Expertly distressed for an authentic vintage-inspired feel, this denim jacket delivers lived-in style with all the comfort and character of a well-loved favorite—straight off the rack."
       }],
     "specifications": [
@@ -308,8 +308,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 3,
