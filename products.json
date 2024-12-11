@@ -931,9 +931,9 @@
         {
           "name": "orange",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/32.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/33.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/34.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M32.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M33.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M34.png"
           ]
         }
       ]
@@ -954,13 +954,13 @@
       {
         "id": 2,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH2.png",
-        "title": "Launch Control & Quickshifter: \nRace-Ready Precision",
+        "title": "Launch Control & Quickshifter\nRace-Ready Precision",
         "description": "Dominate the start line with the 2025 KTM 450 XC-F's cutting-edge Launch Control, designed for explosive acceleration and a perfect start every time. The integrated Quickshifter allows seamless upshifts without clutch use, keeping the power flowing smoothly as you conquer every trail or track with unmatched speed and precision."
       },
       {
         "id": 3,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH3.png",
-        "title": "Rider-Focused Frame for Ultimate Contro",
+        "title": "Rider-Focused Frame for Ultimate Control",
         "description": "The 2025 KTM 450 XC-F features a cutting-edge frame designed with the rider in mind. Engineered for enhanced stability, precision handling, and optimal feedback, it offers unmatched control and confidence on the toughest terrain. Lightweight yet durable, this frame ensures peak performance and comfort, ride after ride."
       }
     ],
