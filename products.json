@@ -842,9 +842,9 @@
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
+        "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
+        "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
       }
     ],
     "specifications": [
@@ -915,119 +915,59 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 7,
-    "name": "Classic jacket",
+    "name": "KTM 450 XC-F",
     "voucherId": 1,
     "sellerId": 8,
-    "category": "Men's Fashion",
+    "category": "Automotive",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "blue",
+          "name": "orange",
           "images": [
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
-          ]
-        },
-        {
-          "name": "black",
-          "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
-          ]
-        },
-        {
-          "name": "brown",
-          "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/32.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/33.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/34.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "brown",
-        "price": 9.95,
-        "quantity": 15
-      },
-      {
-        "name": "black",
-        "price": 7.95,
-        "quantity": 8
-      }
+        "name": "orange",
+        "price": 12199,
+        "quantity": 10 }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH1.png",
+        "title": "Next-Gen Airbox for Peak Performance",
+        "description": "The 2025 KTM 450 XC-F features an advanced airbox design engineered for maximum airflow and superior protection. Optimized to enhance throttle response and engine performance, it delivers consistent power in the most demanding off-road conditions. Effortless filter changes make maintenance a breeze, keeping you ready to ride longer and harder."
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH2.png",
+        "title": "Launch Control & Quickshifter: \nRace-Ready Precision",
+        "description": "Dominate the start line with the 2025 KTM 450 XC-F's cutting-edge Launch Control, designed for explosive acceleration and a perfect start every time. The integrated Quickshifter allows seamless upshifts without clutch use, keeping the power flowing smoothly as you conquer every trail or track with unmatched speed and precision."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH3.png",
+        "title": "Rider-Focused Frame for Ultimate Contro",
+        "description": "The 2025 KTM 450 XC-F features a cutting-edge frame designed with the rider in mind. Engineered for enhanced stability, precision handling, and optimal feedback, it offers unmatched control and confidence on the toughest terrain. Lightweight yet durable, this frame ensures peak performance and comfort, ride after ride."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "The 2025 KTM 450 XC-F wears a crown made of victories. Being the leading 4-stroke in the cross-country division for years, the KTM 450 XC-F once again brings its undeniable READY TO RACE spirit to the starting line with a relentless assault on the podium. With its proven track record, sledgehammer-like power, and insane handling, it can only mean one thing - it's time to extend the trophy room.\n\nThis motorcycle is designed, developed and produced in Austria."
       }
     ],
     "serviceDetails": [
@@ -1092,8 +1032,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 8,
