@@ -214,7 +214,7 @@
       "colors": [
         {"name": "blue",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/18.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.png"
           ]
         }
       ]
@@ -315,30 +315,33 @@
     "id": 3,
     "name": "Vintage T-shirt",
     "voucherId": 1,
-    "sellerId": 3,
+    "sellerId": 7,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
-    "baseProduct": {
-      "price": 25,
-      "quantity": 5,
-      "images": [
-        "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"
+    "weight": 4,
+    "variants": {
+      "sizes": ["S", "M", "L"],
+      "colors": [
+        {"name": "white",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"
+          ]
+        }
       ]
     },
-    "weight": 2,
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH1.png",
-        "title": "Premium Comfort in Every Stitch",
-        "description": "Crafted with heavier jersey fabric, this piece offers a luxurious feel and unmatched durability. Designed for all-day comfort, it’s the perfect blend of style and substance—your new go-to for effortless, premium layering."
+    "variantsDetails": [
+      {"name": "S,white",
+        "price": 25,
+        "quantity": 8
+      },
+      {"name": "M,white",
+        "price": 25,
+        "quantity": 9
       },
       {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH2.png",
-        "title": "A Vintage Revival",
-        "description": "Inspired by the charm of a rare vintage shop find, this denim jacket brings retro vibes to your wardrobe with modern craftsmanship. Perfectly faded and artfully distressed, it’s a nostalgic classic reimagined for today."
-      }
+        "name": "L,white",
+        "price": 25,
+        "quantity": 10}
     ],
     "specifications": [
       {
@@ -412,49 +415,34 @@
   },
   {
     "id": 4,
-    "name": "Slim Fit Jeans",
-    "sellerId": 4,
+    "name": "Slim Fit Jean",
     "voucherId": 1,
+    "sellerId": 7,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
-    "baseProduct": {
-      "images": [
-        "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/1.png"
-      ]
-    },
+    "weight": 4,
     "variants": {
-      "sizes": ["34-34", "L", "XL"]
-    },
-    "variantsDetails": [
-      {
-        "name": "34-34",
+      "sizes": ["34-34", "M", "L"],
+      "colors": [
+        {"name": "black",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png"
+          ]
+        }
+      ]
+    },"variantsDetails": [
+      {"name": "34-34,black",
+        "price": 75,
+        "quantity": 8
+      },
+      {"name": "M,black",
         "price": 80,
-        "quantity": 10
+        "quantity": 9
       },
       {
-        "name": "L",
-        "price": 80,
-        "quantity": 10
-      },
-      {
-        "name": "3XL",
-        "price": 80,
-        "quantity": 15
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/JH1.png",
-        "title": "Slim Fit, Built for Athletes",
-        "description": "Engineered for movement and style, this new slim fit is tailored specifically for athletic builds. With a modern silhouette that complements your physique, it delivers both comfort and confidence—no compromise needed."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/JH2.png",
-        "title": "Sustainable Stretch, Maximum Comfort",
-        "description": "Experience unmatched freedom of movement with Flex Eco Performance. Crafted from sustainably harvested fibers, this advanced stretch technology delivers maximum flex and comfort—so you can look good, feel good, and do good."
-      }
+        "name": "L,black",
+        "price": 149,
+        "quantity": 10}
     ],
     "specifications": [
       {
