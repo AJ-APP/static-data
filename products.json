@@ -782,7 +782,7 @@
         {
           "name": "red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/30.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/35.png"
           ]
         },
         {
@@ -792,49 +792,53 @@
           ]
         },
         {
-          "name": "brown",
+          "name": "fushia",
           "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/33.png"
+          ]
+        },
+        {
+          "name": "pink",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/34.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "blue",
-        "price": 7.95,
+        "name": "red",
+        "price": 25,
         "quantity": 10
       },
       {
         "name": "brown",
-        "price": 9.95,
+        "price": 25,
+        "quantity": 10
+      },
+      {
+        "name": "fushia",
+        "price": 30,
         "quantity": 15
       },
       {
-        "name": "black",
-        "price": 7.95,
+        "name": "pink",
+        "price": 35,
         "quantity": 8
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
+        "title": "Hydration Meets Color",
+        "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
+        "title": "Bold Color, Unmatched Intensity",
+        "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
       },
       {
         "id": 3,
@@ -845,36 +849,8 @@
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
       }
     ],
     "serviceDetails": [
