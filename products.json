@@ -588,13 +588,13 @@
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SH1.png",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SH2.png",
         "title": "Timeless Style, Built to Last",
         "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
       },
       {
         "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/PSH2.jpg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SH1.jpg",
         "title": "Signature rubber waffle outsoles",
         "description": "Equipped with signature rubber waffle outsoles, this design offers unmatched grip and durability. A hallmark of timeless craftsmanship, it’s the perfect foundation for all-day comfort and iconic style."
       }
