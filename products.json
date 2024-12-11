@@ -1,49 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Folk Pouf",
+    "name": "Folk Puff",
     "voucherId": 1,
     "sellerId": 7,
     "category": "Home & Decor",
     "itemStatus": "In Stock",
     "weight": 4,
     "variants": {
-      "sizes": ["S", "M", "L"],
+      "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5Xl", "6XL"],
       "colors": [
         {
           "name": "beige",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P1.png"
-          ]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P1.png"]
         },
         {
           "name": "orange",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P2.png"
-          ]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P2.png"]
         },
         {
           "name": "olive",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P3.png"
-          ]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P3.png"]
         },
         {
           "name": "grey",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P4.png"
-          ]
-        },{
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P4.png"]
+        },
+        {
           "name": "blue",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P5.png"
-          ]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P5.png"]
         },
         {
           "name": "dark grey",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P6.png"
-          ]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P6.png"]
         }
       ]
     },
@@ -55,6 +44,41 @@
       },
       {
         "name": "M,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "L,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "XL,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "XXL,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "3XL,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "4XL,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "5XL,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "6XL,beige",
         "price": 249,
         "quantity": 10
       },
@@ -113,14 +137,14 @@
       {
         "id": 1,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
-        "title": "Durable Foam Guarantees\nLong Lasting Use",
+        "title": "Durable Foam Guarantees Long Lasting Use",
         "description": "This pouf is crafted with high-density foam that resists sagging and wear, ensuring it retains its shape and support even with daily use. Whether you're sitting, lounging, or using it as a footrest, the durable foam guarantees comfort and longevity, making it a reliable addition to your space."
       },
       {
         "id": 2,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
-        "title": "Soft, Carefully Selected\nFabrics",
-        "description": "Wrapped in premium, carefully selected fabrics, this pouf offers a luxurious feel that’s gentle to the touch. The soft texture enhances comfort while adding a sophisticated touch to your space, ensuring a cozy and stylish experience."
+        "title": "Soft, Carefully Selected Fabrics",
+        "description": "Wrapped in premium, carefully selected fabrics, this pouf offers a luxurious feel thatâ€™s gentle to the touch. The soft texture enhances comfort while adding a sophisticated touch to your space, ensuring a cozy and stylish experience."
       },
       {
         "id": 3,
@@ -131,7 +155,7 @@
     ],
     "specifications": [
       {
-        "title": "",
+        "title": null,
         "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
       }
     ],
@@ -144,7 +168,7 @@
             "title": "Delivery",
             "descriptions": [
               "Delivered directly to your home by trusted couriers like UPS, FedEx, or DHL, depending on your location",
-              "Delivery is free for orders above €100, with all costs, taxes, and customs fees covered by noo.ma",
+              "Delivery is free for orders above â‚¬100, with all costs, taxes, and customs fees covered by noo.ma",
               "You can expect delivery in 2-4 business days within the EU and 3-8 business days for the UK, Switzerland, and Norway, starting from the dispatch date",
               "All products from one order are being shipped together unless otherwise stated"
             ]
@@ -501,9 +525,9 @@
     "itemStatus": "In Stock",
     "baseProduct": {
       "images": [
-        "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+        "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/25.png"
       ],
-      "price": 20.95,
+      "price": 95,
       "quantity": 10
     },
     "weight": 2,
