@@ -63,12 +63,22 @@
         "quantity": 0
       },
       {
-        "name": "S,olive",
+        "name": "L,ornge",
         "price": 249,
         "quantity": 0
       },
       {
+        "name": "S,olive",
+        "price": 249,
+        "quantity": 15
+      },
+      {
         "name": "M,olive",
+        "price": 249,
+        "quantity": 15
+      }, 
+      {
+        "name": "L,olive",
         "price": 249,
         "quantity": 15
       },
@@ -83,6 +93,11 @@
         "quantity": 12
       },
       {
+        "name": "L,grey",
+        "price": 249,
+        "quantity": 12
+      },
+      {
         "name": "S,blue",
         "price": 249,
         "quantity": 0
@@ -93,12 +108,22 @@
         "quantity": 15
       },
       {
+        "name": "L,blue",
+        "price": 249,
+        "quantity": 15
+      },
+      {
         "name": "S,dark grey",
         "price": 249,
         "quantity": 8
       },
       {
         "name": "M,dark grey",
+        "price": 249,
+        "quantity": 12
+      },
+      {
+        "name": "L,dark grey",
         "price": 249,
         "quantity": 12
       }
