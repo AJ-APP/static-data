@@ -227,56 +227,70 @@
   },
   {
     "id": 2,
-    "name": "Denim jacket",
-    "sellerId": 5,
-    "voucherId": 2,
-    "category": "Men Fashion",
+    "name": "Denim Jacket",
+    "voucherId": 1,
+    "sellerId": 7,
+    "category": "Men fashion",
     "itemStatus": "In Stock",
     "weight": 4,
     "variants": {
       "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": [
         {
-          "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/24.png"]
+          "name": "blue",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "XS,black",
-        "price": 90,
-        "quantity": 10
-      }, 
-      {
-        "name": "S,black",
+        "name": "XS,blue",
         "price": 90,
         "quantity": 10
       },
       {
-        "name": "M,black",
-        "price": 150,
-        "quantity": 8
+        "name": "S,blue",
+        "price": 90,
+        "quantity": 10
       },
       {
-        "name": "L,black",
+        "name": "M,blue",
         "price": 150,
         "quantity": 5
       },
       {
-        "name": "XL,black",
+        "name": "L,blue",
+        "price": 150,
+        "quantity": 6
+      },
+      {
+        "name": "XL,blue",
         "price": 150,
         "quantity": 0
       },
       {
-        "name": "XXL,black",
+        "name": "XXL,blue",
         "price": 150,
         "quantity": 20
       }
     ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH1.jpg",
+        "title": "The Original Jean Jacket Since 1967",
+        "description": "Rediscover timeless style with the jacket that started it all. Crafted to perfection, this denim icon combines classic design with modern durability. Whether you're dressing up or down, it's the ultimate wardrobe staple—versatile, rugged, and effortlessly cool since 1967."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH2.jpg",
+        "title": "Effortlessly Vintage: Distressed for Style",
+        "description": "Get that perfect broken-in look without the wait. Expertly distressed for an authentic vintage-inspired feel, this denim jacket delivers lived-in style with all the comfort and character of a well-loved favorite—straight off the rack."
+      }
+    ],
     "specifications": [
       {
-        "title": "",
+        "title":"",
         "description": "Washed and faded like an old favorite, this trucker jacket made of cotton-blend denim features burnished hardware and a relaxed fit that layers easily when the temperatures drop."
       }
     ],
