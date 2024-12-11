@@ -8,7 +8,7 @@
     "itemStatus": "In Stock",
     "weight": 4,
     "variants": {
-      "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5Xl", "6XL"],
+      "sizes": ["S", "M", "L"],
       "colors": [
         {
           "name": "beige",
@@ -49,36 +49,6 @@
       },
       {
         "name": "L,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "XL,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "XXL,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "3XL,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "4XL,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "5XL,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "6XL,beige",
         "price": 249,
         "quantity": 10
       },
@@ -277,13 +247,13 @@
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH1.jpg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH1.png",
         "title": "The Original Jean Jacket Since 1967",
         "description": "Rediscover timeless style with the jacket that started it all. Crafted to perfection, this denim icon combines classic design with modern durability. Whether you're dressing up or down, it's the ultimate wardrobe staple—versatile, rugged, and effortlessly cool since 1967."
       },
       {
         "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH2.jpg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH2.png",
         "title": "Effortlessly Vintage: Distressed for Style",
         "description": "Get that perfect broken-in look without the wait. Expertly distressed for an authentic vintage-inspired feel, this denim jacket delivers lived-in style with all the comfort and character of a well-loved favorite—straight off the rack."
       }
@@ -356,18 +326,52 @@
   {
     "id": 3,
     "name": "Vintage T-shirt",
-    "sellerId": 5,
-    "voucherId": 2,
+    "voucherId": 1,
+    "sellerId": 7,
     "category": "Men fashion",
     "itemStatus": "In Stock",
-    "baseProduct": {
-      "images": [
-        "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"
-      ],
-      "price": 25,
-      "quantity": 10
+    "weight": 4,
+    "variants": {
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": [
+        {
+          "name": "White",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"]
+        }
+      ]
     },
-    "weight": 2,
+    "variantsDetails": [
+      {
+        "name": "XS,white",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "S,white",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "M,white",
+        "price": 150,
+        "quantity": 5
+      },
+      {
+        "name": "L,white",
+        "price": 150,
+        "quantity": 6
+      },
+      {
+        "name": "XL,white",
+        "price": 150,
+        "quantity": 0
+      },
+      {
+        "name": "XXL,white",
+        "price": 150,
+        "quantity": 20
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -455,18 +459,52 @@
   {
     "id": 4,
     "name": "Slim-Fit Jean",
-    "sellerId": 5,
-    "voucherId": 2,
+    "voucherId": 1,
+    "sellerId": 7,
     "category": "Men fashion",
     "itemStatus": "In Stock",
-    "baseProduct": {
-      "images": [
-        "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png"
-      ],
-      "price": 125,
-      "quantity": 10
+    "weight": 4,
+    "variants": {
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": [
+        {
+          "name": "black",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png"]
+        }
+      ]
     },
-    "weight": 2,
+    "variantsDetails": [
+      {
+        "name": "XS,black",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "S,black",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "M,black",
+        "price": 150,
+        "quantity": 5
+      },
+      {
+        "name": "L,black",
+        "price": 150,
+        "quantity": 6
+      },
+      {
+        "name": "XL,black",
+        "price": 150,
+        "quantity": 0
+      },
+      {
+        "name": "XXL,black",
+        "price": 150,
+        "quantity": 20
+      }
+    ],
     "features": [
       {
         "id": 1,
@@ -552,7 +590,7 @@
     "demoVideo": null
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Old Skool Shoe",
     "voucherId": 1,
     "sellerId": 7,
@@ -629,7 +667,7 @@
       },
       {
         "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SH1.jpg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SH1.png",
         "title": "Signature rubber waffle outsoles",
         "description": "Equipped with signature rubber waffle outsoles, this design offers unmatched grip and durability. A hallmark of timeless craftsmanship, it’s the perfect foundation for all-day comfort and iconic style."
       }
@@ -707,29 +745,25 @@
     "demoVideo": null
   },
   {
-    "id": 7,
-    "name": "Classic jacket",
+    "id": 6,
+    "name": "Mac Lipstick",
     "voucherId": 1,
     "sellerId": 7,
-    "category": "Men's Fashion",
+    "category": "Beauty",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "blue",
+          "name": "red",
           "images": [
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/30.png"
           ]
         },
         {
-          "name": "black",
+          "name": "brown",
           "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/32.png"
           ]
         },
         {
@@ -884,7 +918,7 @@
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Classic jacket",
     "voucherId": 1,
     "sellerId": 8,
@@ -1061,7 +1095,7 @@
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Spalding Basketball",
     "sellerId": 5,
     "category": "Sport",
