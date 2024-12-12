@@ -1193,7 +1193,7 @@
       {
         "id": 1,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight2.jpg",
-        "title": "Decorative & Functional Throw",
+        "title": "Decorative & Functional \nThrow",
         "description": "Add warmth and style to your space with this versatile throw. Perfect for cozy evenings or as a chic accent, it combines soft, functional comfort with a decorative touch that elevates any room’s aesthetic"
       },
       {
@@ -1401,8 +1401,8 @@
         {
           "name": "red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/24.jpg",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/25.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T24.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T25.png"
           ]
         }
       ]
@@ -1504,8 +1504,8 @@
         {
           "name": "green",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/37.jpg",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/38.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T37.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T38.png"
           ]
         }
       ]
