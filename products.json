@@ -774,7 +774,7 @@
     "name": "Mac Lipstick",
     "voucherId": 1,
     "sellerId": 6,
-    "category": "Beauty",
+    "category": "Beauty & Wellness",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -1837,7 +1837,7 @@
     "id": 15,
     "name": "N°5 The Bath Soap",
     "sellerId": 5,
-    "category": "Beauty",
+    "category": "Beauty & Wellness",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
