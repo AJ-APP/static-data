@@ -174,14 +174,14 @@
   },
   {
     "id": 7,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMOmqF3CHR7lPy8KqD9cjzZsm6Ell1hOOCQ&s",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
     "tagLine": "Best quality contemporary furniture",
     "firstName": "noo.ma",
     "lastName": null,
     "gender": "female",
     "username": "noo.ma",
-    "email": "iamfiona@me.com",
+    "email": "hello@nooma.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1993-09-17T00:00:00.000Z",
     "followers": [

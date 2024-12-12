@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Folk Puff",
+    "name": "Folk Pouf",
     "voucherId": 1,
     "sellerId": 7,
     "category": "Home & Decor",
@@ -224,7 +224,7 @@
     "id": 2,
     "name": "Denim Jacket",
     "voucherId": 1,
-    "sellerId": 7,
+    "sellerId": 6,
     "category": "Men fashion",
     "itemStatus": "In Stock",
     "weight": 4,
@@ -352,7 +352,7 @@
     "id": 3,
     "name": "Vintage T-shirt",
     "voucherId": 1,
-    "sellerId": 7,
+    "sellerId": 6,
     "category": "Men fashion",
     "itemStatus": "In Stock",
     "weight": 4,
@@ -485,7 +485,7 @@
     "id": 4,
     "name": "Slim-Fit Jean",
     "voucherId": 1,
-    "sellerId": 7,
+    "sellerId": 6,
     "category": "Men fashion",
     "itemStatus": "In Stock",
     "weight": 4,
@@ -618,7 +618,7 @@
     "id": 5,
     "name": "Old Skool Shoe",
     "voucherId": 1,
-    "sellerId": 7,
+    "sellerId": 6,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 4,
@@ -773,7 +773,7 @@
     "id": 6,
     "name": "Mac Lipstick",
     "voucherId": 1,
-    "sellerId": 7,
+    "sellerId": 6,
     "category": "Beauty",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -1037,80 +1037,67 @@
   },
   {
     "id": 8,
-    "name": "Spalding Basketball",
+    "name": "Tiffany HardWear",
     "sellerId": 5,
-    "category": "Sport",
+    "category": "Women Jewellery",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "orange",
+          "name": "yellow gold",
           "images": [
-            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/21.png"
+          ]
+        },
+        {
+          "name": "white gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI2.png"
+          ]
+        },
+        {
+          "name": "rose gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI1.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "orange",
-        "price": 20.95,
+        "name": "yellow gold",
+        "price": 6000,
+        "quantity": 10
+      },
+      {
+        "name": "silver gold",
+        "price": 6300,
+        "quantity": 10
+      },
+      {
+        "name": "rose gold",
+        "price": 6000,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH1.png",
+        "title": "Tiffany HardWear: Strength in Style",
+        "description": "Tiffany HardWear captures the transformative power of love through bold, modern design. Inspired by a 1962 archival bracelet, this collection embodies enduring resilience and an uninhibited spirit, blending timeless elegance with urban edge."
       },
       {
         "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
-      }
-    ],
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH2.png",
+        "title": "Handcrafted Brilliance",
+        "description": "Each diamond is meticulously hand-set by Tiffany artisans to maximize its radiant shine. Perfect as a standalone statement or paired with other metals, this piece reflects timeless craftsmanship and effortless elegance."
+      }],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. This 18k rose gold ring features the collection’s signature gauge link design with a striking contrast of metal and diamonds. Tiffany artisans carefully hand set each diamond to achieve maximum shine. It makes a beautiful statement worn on its own or mixed with other metals."
       }
     ],
     "serviceDetails": [
@@ -1175,15 +1162,130 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 9,
+    "name": "Gili Throw",
+    "voucherId": 1,
+    "sellerId": 7,
+    "category": "Home & Decor",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/40.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "green",
+        "price": 99,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight2.jpg",
+        "title": "Decorative & Functional Throw",
+        "description": "Add warmth and style to your space with this versatile throw. Perfect for cozy evenings or as a chic accent, it combines soft, functional comfort with a decorative touch that elevates any room’s aesthetic"
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight3.jpg",
+        "title": "Softness You Can Feel",
+        "description": "Crafted from soft and pleasant fabric, this piece offers a luxurious touch that’s gentle on the skin. Perfect for everyday comfort, it combines coziness with timeless elegance."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight1.jpg",
+        "title": "Choose Your Style",
+        "description": "Available in two stylish variants, this piece lets you pick the perfect look to match your taste. Whether you prefer classic charm or modern elegance, there’s an option that suits every style."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Introducing Gilli, a warm cotton throw, adorable living room decoration and an instant eyecatcher, thanks to the geometric print and contrasting colors. The pleasant softness and appropriate dimensions of the fabric guarantee absolute coziness during the chilly evenings."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 10,
-    "name": "Classic jacket",
+    "name": "Tul Throw",
     "voucherId": 1,
-    "sellerId": 6,
-    "category": "Men's Fashion",
+    "sellerId": 7,
+    "category": "Home & Decor",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -1191,25 +1293,7 @@
         {
           "name": "blue",
           "images": [
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
-          ]
-        },
-        {
-          "name": "black",
-          "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
-          ]
-        },
-        {
-          "name": "brown",
-          "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/39.png"
           ]
         }
       ]
@@ -1217,77 +1301,27 @@
     "variantsDetails": [
       {
         "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "brown",
-        "price": 9.95,
-        "quantity": 15
-      },
-      {
-        "name": "black",
-        "price": 7.95,
-        "quantity": 8
-      }
+        "price": 99,
+        "quantity": 5}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH2.jpg",
+        "title": "Beauty Meets Functionality",
+        "description": "This piece seamlessly blends decorative charm with practical utility. Perfect for elevating your space while serving a purpose, it’s the ideal combination of style and functionality."
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH3.jpg",
+        "title": "Luxuriously Soft, Unmatched Comfort",
+        "description": "Made with soft and pleasant fabric, this piece wraps you in comfort while offering a premium feel. Designed for everyday wear or relaxation, it’s as gentle on your skin as it is stylish."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "Introducing Tul, a warm cotton throw, adorable living room decoration and an instant eyecatcher, thanks to the geometric print and contrasting colors. The pleasant softness and appropriate dimensions of the fabric guarantee absolute coziness during the chilly evenings."
       }
     ],
     "serviceDetails": [
@@ -1352,8 +1386,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 11,
