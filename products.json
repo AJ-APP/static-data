@@ -1613,80 +1613,39 @@
   },
   {
     "id": 13,
-    "name": "Spalding Basketball",
+    "name": "Elsa Peretti",
     "sellerId": 5,
-    "category": "Sport",
+    "category": "Women Jewellery",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "orange",
+          "name": "Gold",
           "images": [
-            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.jpg"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "orange",
-        "price": 20.95,
+        "name": "Gold",
+        "price": 3700,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
-      },
-      {
-        "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
-      }
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH1.jpg",
+        "title": "Ethereal Elegance: Luminous Pearls",
+        "description": "Gracefully adorned with luminous pearls scattered along a delicate chain, this piece exudes timeless sophistication. Perfect for any occasion, it’s a radiant blend of understated beauty and refined charm."}
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "Luminous pearls scattered along a delicate chain."
       }
     ],
     "serviceDetails": [
@@ -1751,8 +1710,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 14,
@@ -1765,105 +1724,48 @@
     "variants": {
       "colors": [
         {
-          "name": "blue",
+          "name": "gold",
           "images": [
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/19.png"
           ]
         },
         {
-          "name": "black",
+          "name": "rose gold",
           "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
-          ]
-        },
-        {
-          "name": "brown",
-          "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NE1.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "blue",
-        "price": 7.95,
+        "name": "gold",
+        "price": 8150,
         "quantity": 10
       },
       {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "brown",
-        "price": 9.95,
-        "quantity": 15
-      },
-      {
-        "name": "black",
-        "price": 7.95,
-        "quantity": 8
-      }
+        "name": "rose gold",
+        "price": 8150,
+        "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH2.png",
+        "title": "A Tribute to Strength and Love",
+        "description": "Tiffany HardWear captures the transformative essence of love with bold designs that radiate resilience and sophistication. Each piece tells a story of empowerment, blending timeless elegance with modern edge."
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH3.png",
+        "title": "Bold Chains, Iconic Statements",
+        "description": "Make a striking impression with our bold chain crafted from signature gauge links. Perfect worn alone or layered with other Tiffany HardWear designs, it’s a timeless piece that exudes confidence and modern sophistication."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. A bold chain of our signature gauge links makes a stunning statement when worn alone or paired with other Tiffany HardWear designs."
       }
     ],
     "serviceDetails": [
@@ -1928,85 +1830,45 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 15,
-    "name": "Spalding Basketball",
+    "name": "N°5 The Bath Soap",
     "sellerId": 5,
-    "category": "Sport",
+    "category": "Beauty",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "orange",
+          "name": "pink",
           "images": [
-            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/22.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "orange",
-        "price": 20.95,
+        "name": "pink",
+        "price": 35,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
-      },
-      {
-        "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SOH1.png",
+        "title": "Elegance in Bloom",
+        "description": "Discover a feminine and sensual floral bouquet that captivates the senses. With the smooth harmony of rose and jasmine at its heart, this fragrance radiates timeless beauty and refined charm."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "Infused with the now and forever fragrance, this indulgent bath soap leaves skin subtly perfumed."
       }
     ],
     "serviceDetails": [
@@ -2071,8 +1933,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 16,
