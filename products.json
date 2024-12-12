@@ -1391,82 +1391,41 @@
   },
   {
     "id": 11,
-    "name": "Spalding Basketball",
+    "name": "Xtreme Condition Tent",
     "sellerId": 5,
-    "category": "Sport",
+    "category": "Outdoor",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "orange",
+          "name": "red",
           "images": [
-            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/24.jpg",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/25.jpg"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "orange",
-        "price": 20.95,
+        "name": "red",
+        "price": 295,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
-      },
-      {
-        "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
-      }
-    ],
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
+        "title": "Enhanced Warmth & Wind Resistance",
+        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
+      }],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
+        "title": "Ultimate Protection for Extreme Adventuresl",
+        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
+      }],
     "serviceDetails": [
       {
         "title": "Delivery & Return",
@@ -1529,41 +1488,24 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 12,
-    "name": "Classic jacket",
+    "name": "All Weather Tent",
     "voucherId": 1,
     "sellerId": 6,
-    "category": "Men's Fashion",
+    "category": "Outdoor",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "blue",
+          "name": "green",
           "images": [
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
-          ]
-        },
-        {
-          "name": "black",
-          "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
-          ]
-        },
-        {
-          "name": "brown",
-          "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/37.jpg",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/38.jpg"
           ]
         }
       ]
@@ -1593,55 +1535,15 @@
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RTH1.jpg",
+        "title": "Lightweight Frame, Effortless Setup",
+        "description": "The all-weather tent features a light and flexible frame that makes setup quick and hassle-free. Designed for convenience without compromising durability, this frame ensures you’re ready to settle in and enjoy your adventure in no time."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "Versatility for Every Season",
+        "description": "Be ready for any adventure with this all-weather tent, designed to perform in rain, shine, wind, or snow. Durable materials and a reliable waterproof design ensure comfort and protection year-round. Lightweight yet robust, it’s the perfect companion for camping trips in any climate."
       }
     ],
     "serviceDetails": [
@@ -1706,8 +1608,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 13,
