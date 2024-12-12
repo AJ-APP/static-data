@@ -174,8 +174,8 @@
   },
   {
     "id": 7,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
     "tagLine": "Best quality contemporary furniture",
     "firstName": "noo.ma",
     "lastName": null,
@@ -204,14 +204,14 @@
   },
   {
     "id": 8,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvxAOVOCCoYSsornKXmWEhdFU_h5hkPFHzw&s",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "George",
-    "lastName": "Silver",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis2.jpg",
+    "tagLine": "You Wear Jeans. You Live in Levi's",
+    "firstName": "Levi's",
+    "lastName": "",
     "gender": "male",
-    "username": "iamgeorge",
-    "email": "iamgeorge@me.com",
+    "username": "Levi's",
+    "email": "levis@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1985-03-30T00:00:00.000Z",
     "followers": [
@@ -224,7 +224,7 @@
       3,
       9
     ],
-    "description": "Hosting live discussions on tech and the future of work. I'm passionate about exploring how technology is reshaping our professional landscapes. Join me as we dive into emerging trends, innovative solutions, and the challenges that lie ahead in our rapidly evolving work environments.",
+    "description": "Levi's has been a symbol of authenticity and self-expression since 1873. Renowned for iconic denim and innovative designs, Levi's offers versatile styles that combine comfort, durability, and effortless cool. From classic fits to modern silhouettes, Levi's is made to move with you and stand the test of time.",
     "interests": [
       1,
       20
