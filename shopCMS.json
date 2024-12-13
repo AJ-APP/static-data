@@ -78,15 +78,24 @@
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
-      "userIds": [7, 2, 8, 4, 5]
+      "userIds": [1, 2, 3, 4, 5]
     }
   },
   {
     "section": 9,
     "type": "related",
     "relatedConfig": {
-      "productId": 5,
-      "userIds": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      "shoppedSellerId": 2,
+      "items": [
+        { "type": "user", "id": 3 },
+        { "type": "product", "id": 7 },
+        { "type": "user", "id": 9 },
+        { "type": "product", "id": 2 },
+        { "type": "user", "id": 5 },
+        { "type": "product", "id": 4 },
+        { "type": "user", "id": 1 },
+        { "type": "product", "id": 8 }
+      ]
     }
   },
   {
