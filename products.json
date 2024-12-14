@@ -115,7 +115,7 @@
   },
   {
     "id": 2,
-    "name": "Tiffany HardWear",
+    "name": "Breeding Earings",
     "sellerId": 5,
     "category": "Women Jewelry",
     "itemStatus": "In Stock",
@@ -123,59 +123,41 @@
     "variants": {
       "colors": [
         {
-          "name": "yellow gold",
+          "name": "sterling silver",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/21.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR1.png"
           ]
         },
         {
-          "name": "white gold",
+          "name": "18k gold plated",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI2.png"
-          ]
-        },
-        {
-          "name": "rose gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI1.png"
-          ]
-        }
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR2.png"
+          ]}
       ]
     },
     "variantsDetails": [
       {
         "name": "yellow gold",
-        "price": 6000,
+        "price": 149,
         "quantity": 10
       },
       {
         "name": "silver gold",
-        "price": 6300,
-        "quantity": 10
-      },
-      {
-        "name": "rose gold",
-        "price": 6000,
-        "quantity": 10
+        "price": 149,
+        "quantity": 20
       }
     ],
     "features": [
       {
         "id": 1,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH1.png",
-        "title": "Strength in Style",
-        "description": "Tiffany HardWear captures the transformative power of love through bold, modern design. Inspired by a 1962 archival bracelet, this collection embodies enduring resilience and an uninhibited spirit, blending timeless elegance with urban edge."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH2.png",
-        "title": "Handcrafted Brilliance",
-        "description": "Each diamond is meticulously hand-set by Tiffany artisans to maximize its radiant shine. Perfect as a standalone statement or paired with other metals, this piece reflects timeless craftsmanship and effortless elegance."
+        "title": "Evolution in Design",
+        "description": "3D printed in sterling silver or gold-plated brass, they represent the fusion of technology and artistry, redefining contemporary elegance."
       }],
     "specifications": [
       {
         "title": "",
-        "description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. This 18k rose gold ring features the collection’s signature gauge link design with a striking contrast of metal and diamonds. Tiffany artisans carefully hand set each diamond to achieve maximum shine. It makes a beautiful statement worn on its own or mixed with other metals."
+        "description": "MIAM collection\n\n3D printed earrings in sterling silver or gold plated brass."
       }
     ],
     "serviceDetails": [
