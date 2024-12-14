@@ -1039,7 +1039,7 @@
     "id": 8,
     "name": "Tiffany HardWear",
     "sellerId": 5,
-    "category": "Women Jewellery",
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -1615,7 +1615,7 @@
     "id": 13,
     "name": "Elsa Peretti",
     "sellerId": 5,
-    "category": "Women Jewellery",
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -1718,7 +1718,7 @@
     "name": "Classic jacket",
     "voucherId": 1,
     "sellerId": 6,
-    "category": "Men's Fashion",
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
