@@ -78,7 +78,7 @@
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
-      "userIds": [1, 2, 3, 4, 5]
+      "userIds": [9, 2, 3, 4, 5]
     }
   },
   {
@@ -90,7 +90,7 @@
         { "type": "user", "id": 3 },
         { "type": "product", "id": 7 },
         { "type": "user", "id": 9 },
-        { "type": "product", "id": 2 },
+        { "type": "product", "id": 1 },
         { "type": "user", "id": 5 },
         { "type": "product", "id": 4 },
         { "type": "user", "id": 1 },
