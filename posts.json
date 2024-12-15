@@ -6,7 +6,7 @@
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "text": "Wow, this sounds amazing! I can't wait to check it out!",
           "id": 2,
           "userId": 3,
           "dateCreated": "2024-10-03T08:14:03.312546",
@@ -48,7 +48,7 @@
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "text": "This shot is pure magic! ✨📸",
           "id": 2,
           "userId": 3,
           "dateCreated": "2024-10-03T08:14:03.312546",
@@ -91,7 +91,7 @@
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "text": "Stunner!",
           "id": 2,
           "userId": 3,
           "dateCreated": "2024-10-03T08:14:03.312546",
