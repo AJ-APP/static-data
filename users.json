@@ -174,7 +174,7 @@
   },
   {
     "id": 7,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
     "tagLine": "Best quality contemporary furniture",
     "firstName": "noo.ma",
@@ -234,14 +234,14 @@
   },
   {
     "id": 9,
-    "picture": "https://i.pinimg.com/280x280_RS/5f/03/ee/5f03eed423ef392a3a0ebbe26dec4a73.jpg",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Hannah",
-    "lastName": "Gold",
-    "gender": "female",
-    "username": "iamhannah",
-    "email": "iamhannah@me.com",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon1.jpeg",
+    "tagLine": "Based on a feeling",
+    "firstName": "",
+    "lastName": "",
+    "gender": "",
+    "username": "Yizon",
+    "email": "yizon@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1990-06-13T00:00:00.000Z",
     "followers": [
@@ -254,7 +254,7 @@
       6,
       12
     ],
-    "description": "Bringing energy to every episode, let's explore life together! I'm all about finding joy in the everyday and sharing those discoveries with my listeners. My podcasts are a mix of laughter, learning, and heartfelt conversations that aim to inspire and uplift.",
+    "description": "Yizon is a jewellery studio based in Amsterdam that offers silver and gold jewellery making workshop, bespoke jewellery design & handmade jewellery.",
     "interests": [
       19,
       21
