@@ -19,18 +19,18 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Library.jpeg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/YP3.png"
     ],
-    "title": "The New Pouf: My Library’s Star... and My Cat’s Throne",
-    "description": "I finally found the perfect pouf for my library—a plush, cozy addition that fits right in with the warm wood shelves and soft lighting. I imagined myself sinking into it with a good book and a cup of tea, my little corner of bliss.\n\nWhat I didn’t imagine? My cat claiming it as her own within minutes of its arrival. It’s like she was waiting for this moment her entire life! Whether it’s stretching out like royalty or curling up into a fuzzy ball, she’s made it clear this pouf belongs to her.\n\nSo now, we’re sharing... or rather, I get the occasional chance to enjoy it when she’s not around. But seeing her so happy on it almost makes up for it. Almost. Who else has lost a new piece of furniture to their pet? ",
+    "title": "Shop Yizon Jewellery",
+    "description": "",
     "video": null,
     "recording": null,
-    "category": "JEWELERY",
+    "category": "JEWELLERY",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["LibraryGoals", "CatLife", "CozyCorners"],
+    "hashtags": ["yizonjewellery"],
     "mentionedPeople": [],
-    "mentionedItems": [9,1],
-    "collaborations": [7],
+    "mentionedItems": [1,2,3],
+    "collaborations": [],
     "link": "",
     "setting": {
       "audience": [],
@@ -192,7 +192,7 @@
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["MarseilleVibes","CoastalFashion","CalanquesAndStyle"],
     "mentionedPeople": [],
-    "mentionedItems": [2, 3, 4],
+    "mentionedItems": [5, 6, 7],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -235,8 +235,8 @@
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["LibraryGoals", "CatLife", "CozyCorners"],
     "mentionedPeople": [],
-    "mentionedItems": [9,1],
-    "collaborations": [7],
+    "mentionedItems": [12,4],
+    "collaborations": [],
     "link": "",
     "setting": {
       "audience": [],
@@ -278,7 +278,7 @@
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": ["HomeDecorWin", "BoldChoices", "BlueSofaLove"],
     "mentionedPeople": [],
-    "mentionedItems": [10],
+    "mentionedItems": [13],
     "collaborations": [],
     "link": null,
     "setting": {
@@ -320,7 +320,7 @@
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
-    "mentionedItems": [12],
+    "mentionedItems": [15],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -446,7 +446,7 @@
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
-    "mentionedItems": [7],
+    "mentionedItems": [10],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -488,7 +488,7 @@
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": ["SnowboardAdventures", "ForestRun", "ShredWithFriends"],
     "mentionedPeople": [],
-    "mentionedItems": [11],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -530,7 +530,7 @@
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
-    "mentionedItems": [11],
+    "mentionedItems": [14],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -652,7 +652,7 @@
     "dateCreated": "2024-10-02T08:14:03.312546",
     "hashtags": [],
     "mentionedPeople": [],
-    "mentionedItems": [12],
+    "mentionedItems": [15],
     "collaborations": [],
     "link": "",
     "setting": {
