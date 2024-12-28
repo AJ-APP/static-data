@@ -30,14 +30,14 @@
   },
   {
     "id": 2,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female10.png",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Where quirky meets cozy",
-    "firstName": "Lila",
-    "lastName": "Bennett",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/mia.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VON.jpeg",
+    "tagLine": "Sneaker stories told in steps",
+    "firstName": "Mia",
+    "lastName": "Janssen",
     "gender": "female",
-    "username": "ColorfulByLila",
-    "email": "colorfulbylila@email.com",
+    "username": "SneakersWithMia",
+    "email": "SneakersWithMia@email.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
     "followers": [6,
@@ -48,9 +48,9 @@
       5,
       7
     ],
-    "description": "Hi, I’m Lila, a home décor lover obsessed with quirky, colorful, and soulful compositions. I believe every space should have personality and tell a unique story. From bold patterns to playful accents, I mix the unexpected to create spaces that feel alive. Based in Brighton, I share tips, DIY projects, and my journey of turning ordinary rooms into vibrant, joyful havens.",
+    "description": "👟 Sneaker collector & culture curator\n\n📸 Sharing the journey of each pair\n\n🌍 Exploring global sneaker scenes\n\n📩 Collaborations? Reach out via DM",
     "interests": [
-      12
+      14,28,10
     ],
     "isShekrMember": false,
     "storeId": 2
@@ -174,96 +174,6 @@
   },
   {
     "id": 7,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
-    "tagLine": "Best quality contemporary furniture",
-    "firstName": "noo.ma",
-    "lastName": null,
-    "gender": "female",
-    "username": "noo.ma",
-    "email": "hello@nooma.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1993-09-17T00:00:00.000Z",
-    "followers": [
-      1,
-      5,
-      7
-    ],
-    "following": [
-      2,
-      4,
-      5
-    ],
-    "description": "Enhancing the art of living through feel-good design\n\nAll manufactured in Europe\n\nFree home delivery over 100€",
-    "interests": [
-      12,
-      18
-    ],
-    "isShekrMember": true,
-    "storeId": 2
-  },
-  {
-    "id": 8,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis2.jpg",
-    "tagLine": "Icons Live in Levi's",
-    "firstName": "Levi's",
-    "lastName": "",
-    "gender": "male",
-    "username": "Levi's",
-    "email": "levis@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1985-03-30T00:00:00.000Z",
-    "followers": [
-      2,
-      5,
-      6
-    ],
-    "following": [
-      1,
-      3,
-      9
-    ],
-    "description": "Levi's has been a symbol of authenticity and self-expression since 1873. Renowned for iconic denim and innovative designs, Levi's offers versatile styles that combine comfort, durability, and effortless cool. From classic fits to modern silhouettes, Levi's is made to move with you and stand the test of time.",
-    "interests": [
-      1,
-      20
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 9,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon.jpeg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon1.jpeg",
-    "tagLine": "Based on a feeling",
-    "firstName": "Yizon",
-    "lastName": "",
-    "gender": "",
-    "username": "Yizon",
-    "email": "yizon@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1990-06-13T00:00:00.000Z",
-    "followers": [
-      1,
-      3,
-      7
-    ],
-    "following": [
-      5,
-      6,
-      12
-    ],
-    "description": "Yizon is a jewellery studio based in Amsterdam that offers silver and gold jewellery making workshop, bespoke jewellery design & handmade jewellery.",
-    "interests": [
-      19,
-      21
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 10,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxRhEFvW9f4qwqodOww2fhWIOkuJX9Yfv3A&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -293,7 +203,7 @@
     "storeId": 2
   },
   {
-    "id": 11,
+    "id": 8,
     "picture": "https://i.pinimg.com/280x280_RS/be/70/fe/be70fe7ebde5c89c08e49e34ba5f6cc4.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -323,7 +233,7 @@
     "storeId": 2
   },
   {
-    "id": 12,
+    "id": 9,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHt2GDofV5sNOaTrLarqU3XmMpTNXxaw9dg&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -353,7 +263,187 @@
     "storeId": 2
   },
   {
+    "id": 10,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
+    "tagLine": "Best quality contemporary furniture",
+    "firstName": "noo.ma",
+    "lastName": null,
+    "gender": "female",
+    "username": "noo.ma",
+    "email": "hello@nooma.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1993-09-17T00:00:00.000Z",
+    "followers": [
+      1,
+      5,
+      7
+    ],
+    "following": [
+      2,
+      4,
+      5
+    ],
+    "description": "Enhancing the art of living through feel-good design\n\nAll manufactured in Europe\n\nFree home delivery over 100€",
+    "interests": [
+      12,
+      18
+    ],
+    "isShekrMember": true,
+    "storeId": 2
+  },
+  {
+    "id": 11,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis2.jpg",
+    "tagLine": "Icons Live in Levi's",
+    "firstName": "Levi's",
+    "lastName": "",
+    "gender": "male",
+    "username": "Levi's",
+    "email": "levis@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1985-03-30T00:00:00.000Z",
+    "followers": [
+      2,
+      5,
+      6
+    ],
+    "following": [
+      1,
+      3,
+      9
+    ],
+    "description": "Levi's has been a symbol of authenticity and self-expression since 1873. Renowned for iconic denim and innovative designs, Levi's offers versatile styles that combine comfort, durability, and effortless cool. From classic fits to modern silhouettes, Levi's is made to move with you and stand the test of time.",
+    "interests": [
+      1,
+      20
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 12,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon.jpeg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon1.jpeg",
+    "tagLine": "Based on a feeling",
+    "firstName": "Yizon",
+    "lastName": "",
+    "gender": "",
+    "username": "Yizon",
+    "email": "yizon@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "Yizon is a jewellery studio based in Amsterdam that offers silver and gold jewellery making workshop, bespoke jewellery design & handmade jewellery.",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
     "id": 13,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxRhEFvW9f4qwqodOww2fhWIOkuJX9Yfv3A&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Ian",
+    "lastName": "Black",
+    "gender": "male",
+    "username": "iamian",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "From sports to tech, I cover it all with passion and insight. My goal is to bridge the gap between different interests and show how they interconnect in our daily lives. Join me as we explore the fascinating world where athletics meets innovation, and where strategy applies both on and off the field.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 14,
+    "picture": "https://i.pinimg.com/280x280_RS/be/70/fe/be70fe7ebde5c89c08e49e34ba5f6cc4.jpg",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Julia",
+    "lastName": "White",
+    "gender": "female",
+    "username": "iamjulia",
+    "email": "iamjulia@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1996-12-15T00:00:00.000Z",
+    "followers": [
+      2,
+      4,
+      7
+    ],
+    "following": [
+      1,
+      3,
+      5
+    ],
+    "description": "Exploring the world's most interesting stories, one podcast at a time. I'm driven by curiosity and a desire to uncover hidden narratives that shape our world. Through my episodes, I aim to transport listeners to new places, introduce them to fascinating individuals, and challenge their perspectives.",
+    "interests": [
+      14,
+      1
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 15,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHt2GDofV5sNOaTrLarqU3XmMpTNXxaw9dg&s",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Kevin",
+    "lastName": "Orange",
+    "gender": "male",
+    "username": "iamkevin",
+    "email": "iamkevin@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1994-10-30T00:00:00.000Z",
+    "followers": [
+      3,
+      8,
+      10
+    ],
+    "following": [
+      1,
+      6,
+      7
+    ],
+    "description": "Let's share ideas and explore new perspectives together. I believe in the power of open dialogue to broaden our understanding of the world. My podcasts are a platform for diverse voices and innovative thoughts, where we challenge assumptions and foster intellectual growth.",
+    "interests": [
+      15,
+      1
+    ],
+    "isShekrMember": true,
+    "storeId": 2
+  },
+  {
+    "id": 16,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27sFJreSiqEOAMqqHo3lkHyi1SE4MzAKUKg&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
@@ -383,7 +473,7 @@
     "storeId": 2
   },
   {
-    "id": 14,
+    "id": 17,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHt2GDofV5sNOaTrLarqU3XmMpTNXxaw9dg&s",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
