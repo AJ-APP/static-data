@@ -31,7 +31,7 @@
   {
     "id": 2,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/mia.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VON.jpeg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
     "tagLine": "Sneaker stories told in steps",
     "firstName": "Mia",
     "lastName": "Janssen",
@@ -86,7 +86,7 @@
   },
   {
     "id": 4,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-19.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/kenny-eliason-5UrbNVgxpXo-unsplash.jpg",
     "tagLine": "Shredding strings, making noise",
     "firstName": "Jake",
