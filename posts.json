@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "userId": 9,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
-          "text": "Wow, this sounds amazing! I can't wait to check it out!",
-          "id": 2,
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 6,
           "userId": 3,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
@@ -19,15 +19,15 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/YP3.png"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-eQBqO2TbGZs-unsplash.jpg"
     ],
-    "title": "Shop Yizon Jewelry",
-    "description": "",
+    "title": "The Everyday Essential You Didn’t Know You Needed",
+    "description": "Sneaker culture is evolving, and the RW eco series represents a new chapter—where quiet, understated design takes the spotlight. No flashy logos, no gimmicks, just an unspoken cool that speaks volumes to those who know.\n\nThe eco-conscious build adds another layer to the conversation. This isn’t just a shoe; it’s a symbol of where the industry is headed: mindful, thoughtful, and effortlessly stylish\n\nPaired with relaxed tailoring or streetwear staples, it’s a wardrobe chameleon that keeps up with your every move. Bonus: knowing it’s sustainably made? That’s the flex.",
     "video": null,
     "recording": null,
-    "category": "JEWELRY",
+    "category": "FASHION",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["yizonjewellery"],
+    "hashtags": ["ecostreetwear, sneakerdrop, sustainablekicks, urbanvibes, cleanaesthetic, everydaysneakers"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
