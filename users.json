@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-30 at 18.37.02.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
     "tagLine": "Cars, coffee, and open roads",
     "firstName": "Lucca",
@@ -173,7 +173,7 @@
     "storeId": 2
   },
   {
-    "id": 8,
+    "id": 7,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-10.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
     "tagLine": "The wild is my home.",
@@ -384,7 +384,7 @@
   },
   {
     "id": 14,
-    "picture": "https://i.pinimg.com/280x280_RS/be/70/fe/be70fe7ebde5c89c08e49e34ba5f6cc4.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/averie.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Passport full, heart fuller.",
     "firstName": "Julia",
