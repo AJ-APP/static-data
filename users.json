@@ -173,7 +173,7 @@
     "storeId": 2
   },
   {
-    "id": 7,
+    "id": 19,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-10.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
     "tagLine": "The wild is my home.",
@@ -204,7 +204,7 @@
   },
   {
     "id": 8,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-29 at 14.11.41.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/dennis.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
     "firstName": "Julia",
@@ -354,7 +354,7 @@
   },
   {
     "id": 13,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/K01.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-30 at 20.55.09.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/karsten.jpg",
     "tagLine": "Living for fresh powder days.",
     "firstName": "Ian",
