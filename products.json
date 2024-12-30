@@ -2054,57 +2054,84 @@
   },
   {
     "id": 17,
-    "name": "Classic jacket",
+    "name": "Moeba Snearkers",
     "voucherId": 1,
     "sellerId": 6,
-    "category": "Women Jewelry",
+    "category": "Men Fashion",
     "itemStatus": "In Stock",
-    "weight": 2,
+    "weight": 4,
     "variants": {
+      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
       "colors": [
         {
-          "name": "gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/19.png"
-          ]
-        },
-        {
-          "name": "rose gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NE1.png"
-          ]
+          "name": "black",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "gold",
-        "price": 8150,
+        "name": "36,black",
+        "price": 70,
         "quantity": 10
       },
       {
-        "name": "rose gold",
-        "price": 8150,
-        "quantity": 10}
+        "name": "37,black",
+        "price": 70,
+        "quantity": 10
+      },
+      {
+        "name": "38,black",
+        "price": 70,
+        "quantity": 10
+      },
+      {
+        "name": "39,black",
+        "price": 70,
+        "quantity": 10
+      },
+      {
+        "name": "40,black",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "41,black",
+        "price": 90,
+        "quantity": 10
+      },{
+        "name": "42,black",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "43,black",
+        "price": 90,
+        "quantity": 10
+      },
+    {
+        "name": "44,black",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "45,black",
+        "price": 90,
+        "quantity": 10
+      }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH2.png",
-        "title": "A Tribute to Strength and Love",
-        "description": "Tiffany HardWear captures the transformative essence of love with bold designs that radiate resilience and sophistication. Each piece tells a story of empowerment, blending timeless elegance with modern edge."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH3.png",
-        "title": "Bold Chains, Iconic Statements",
-        "description": "Make a striking impression with our bold chain crafted from signature gauge links. Perfect worn alone or layered with other Tiffany HardWear designs, it’s a timeless piece that exudes confidence and modern sophistication."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-jayY9MiLn6I-unsplash.jpg",
+        "title": "Timeless Style, Built to Last",
+        "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
       }
     ],
     "specifications": [
       {
-        "title": "",
-        "description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. A bold chain of our signature gauge links makes a stunning statement when worn alone or paired with other Tiffany HardWear designs."
+        "title": null,
+        "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
       }
     ],
     "serviceDetails": [
