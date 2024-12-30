@@ -3,7 +3,7 @@
     "id": 1,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
-    "tagLine": "Casual fits, everyday vibes",
+    "tagLine": "Cars, coffee, and open roads",
     "firstName": "Lucca",
     "lastName": "Janssen",
     "gender": "male",
@@ -34,7 +34,7 @@
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
     "tagLine": "Sneaker stories",
     "firstName": "Mia",
-    "lastName": "Janssen",
+    "lastName": "Nassen",
     "gender": "female",
     "username": "SneakersWithMia",
     "email": "SneakersWithMia@email.com",
@@ -150,7 +150,7 @@
     "firstName": "Sierra",
     "lastName": "Ryder",
     "gender": "female",
-    "username": "TrailBlazinSierra",
+    "username": "Trailsierra",
     "email": "trailblazinsierra@email.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1995-02-10T00:00:00.000Z",
@@ -164,7 +164,7 @@
       4,
       6
     ],
-    "description": "🏍️ ATVs, dirt bikes & adrenaline-fueled adventures\n🌲 Trail rides, gear tips, & off-road challenges\n📍 Based in the Alps, chasing the next thrill",
+    "description": "🏍️ Adrenaline-fueled adventures\n🌲 Trail rides & off-road challenges\n📍 Based in the Alps, chasing the next thrill",
     "interests": [
       2,
       7
@@ -174,32 +174,32 @@
   },
   {
     "id": 7,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Z2.jpg",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Ian",
-    "lastName": "Black",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-10.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
+    "tagLine": "The wild is my home.",
+    "firstName": "Mateo",
+    "lastName": "Alvarez",
     "gender": "male",
-    "username": "iamian",
-    "email": "iamian@me.com",
+    "username": "WildWithMateo",
+    "email": "wildwithmateo@email.com",
     "phoneNumber": "123123123",
-    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "dateOfBirth": "2000-01-01T00:00:00.000Z",
     "followers": [
-      1,
-      4,
+      3,
+      6,
       8
     ],
     "following": [
-      2,
-      5,
-      6
+      1,
+      9,
+      10
     ],
-    "description": "From sports to tech, I cover it all with passion and insight. My goal is to bridge the gap between different interests and show how they interconnect in our daily lives. Join me as we explore the fascinating world where athletics meets innovation, and where strategy applies both on and off the field.",
+    "description": "Hey, I’m Mateo—outdoor lover and adventure seeker from the mountains of Patagonia. 🏔️ Whether it’s trekking through remote trails, setting up camp in the wilderness, or soaking in the beauty of untouched landscapes, I’m here to share my journey with you. My feed is packed with epic views, practical gear tips, and the stories behind every adventure. Let’s connect and explore the wild together!",
     "interests": [
-      17,
-      22
+      4,
+      12
     ],
-    "isShekrMember": false,
+    "isShekrMember": true,
     "storeId": 2
   },
   {
@@ -504,32 +504,32 @@
   },
   {
     "id": 18,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-10.png",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
-    "tagLine": "The wild is my home.",
-    "firstName": "Mateo",
-    "lastName": "Alvarez",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Z2.jpg",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Ian",
+    "lastName": "Black",
     "gender": "male",
-    "username": "WildWithMateo",
-    "email": "wildwithmateo@email.com",
+    "username": "iamian",
+    "email": "iamian@me.com",
     "phoneNumber": "123123123",
-    "dateOfBirth": "2000-01-01T00:00:00.000Z",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
     "followers": [
-      3,
-      6,
+      1,
+      4,
       8
     ],
     "following": [
-      1,
-      9,
-      10
+      2,
+      5,
+      6
     ],
-    "description": "Hey, I’m Mateo—outdoor lover and adventure seeker from the mountains of Patagonia. 🏔️ Whether it’s trekking through remote trails, setting up camp in the wilderness, or soaking in the beauty of untouched landscapes, I’m here to share my journey with you. My feed is packed with epic views, practical gear tips, and the stories behind every adventure. Let’s connect and explore the wild together!",
+    "description": "From sports to tech, I cover it all with passion and insight. My goal is to bridge the gap between different interests and show how they interconnect in our daily lives. Join me as we explore the fascinating world where athletics meets innovation, and where strategy applies both on and off the field.",
     "interests": [
-      4,
-      12
+      17,
+      22
     ],
-    "isShekrMember": true,
+    "isShekrMember": false,
     "storeId": 2
   }
 ]
