@@ -8,7 +8,7 @@
         {
           "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
           "id": 15,
-          "userId": 3,
+          "userId": 15,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
             "likes": [1, 4, 6, 8, 9, 7, 11, 10]
@@ -49,8 +49,8 @@
       "comments": [
         {
           "text": "This shot is pure magic! ✨📸",
-          "id": 8,
-          "userId": 3,
+          "id": 4,
+          "userId": 8,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
             "likes": [1, 4, 6, 8, 9, 7, 11, 10]
