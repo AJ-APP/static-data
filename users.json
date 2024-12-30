@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-30 at 18.37.02.jpg",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
     "tagLine": "Cars, coffee, and open roads",
     "firstName": "Lucca",
@@ -354,13 +354,13 @@
   },
   {
     "id": 13,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxRhEFvW9f4qwqodOww2fhWIOkuJX9Yfv3A&s",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/K01.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/karsten.jpg",
     "tagLine": "Living for fresh powder days.",
     "firstName": "Ian",
-    "lastName": "Stan",
+    "lastName": "Karsten",
     "gender": "male",
-    "username": "iamian",
+    "username": "krsten",
     "email": "iamian@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1987-04-09T00:00:00.000Z",
