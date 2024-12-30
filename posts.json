@@ -43,13 +43,13 @@
   },
   {
     "id": 2,
-    "userId": 9,
+    "userId": 1,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
           "text": "This shot is pure magic! ✨📸",
-          "id": 2,
+          "id": 4,
           "userId": 3,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
@@ -61,17 +61,17 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/YP2.jpeg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sunset4.jpeg"
     ],
-    "title": "Capturing the Essence of the Viscid Ring",
-    "description": "The photoshoot for Yizon’s Viscid Ring was nothing short of mesmerizing. This handcrafted masterpiece balances modern artistry with timeless elegance, boasting a unique molten texture that seems to flow with light. Capturing its essence required precision—every angle told a different story of its craftsmanship.\n\nUnder soft studio lighting, the Viscid Ring revealed its intricate details: polished curves, delicate textures, and a design that feels both bold and refined. It’s the kind of jewelry that becomes a statement without trying too hard—a piece that elevates any outfit with its quiet confidence.\n\nYizon continues to amaze with creations that celebrate individuality, and the Viscid Ring is no exception. If you’re drawn to artistry in its purest form, this one is for you.",
+    "title": "Golden Horizons",
+    "description": "There’s nothing quite like watching the sunset at sea. As the sun dips lower, the sky transforms into a breathtaking canvas of oranges, pinks, and deep purples, each shade reflecting off the endless waves.\n\nThe sound of the ocean accompanies the view—a rhythmic symphony of waves lapping against the boat, blending seamlessly with the serenity of the moment. Time feels like it slows, and you find yourself lost in the vastness of it all, as if the horizon is whispering secrets meant only for you.\n\nIt’s more than a sunset; it’s a reminder of the beauty that lies in simplicity, the wonders of nature, and the magic of just being present. Moments like these stay with you forever.",
     "video": null,
     "recording": null,
-    "category": "JEWELERY",
+    "category": "TRAVEL",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["YizonJewelry", "ViscidRing", "ArtisanCraftsmanship"],
+    "hashtags": ["#SunsetViews", "#OceanMagic", "#NatureEscape"],
     "mentionedPeople": [],
-    "mentionedItems": [1],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -1418,13 +1418,13 @@
   },
   {
     "id": 32,
-    "userId": 1,
+    "userId": 9,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
           "text": "This shot is pure magic! ✨📸",
-          "id": 4,
+          "id": 2,
           "userId": 3,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
@@ -1436,17 +1436,17 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sunset4.jpeg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/YP2.jpeg"
     ],
-    "title": "Golden Horizons",
-    "description": "There’s nothing quite like watching the sunset at sea. As the sun dips lower, the sky transforms into a breathtaking canvas of oranges, pinks, and deep purples, each shade reflecting off the endless waves.\n\nThe sound of the ocean accompanies the view—a rhythmic symphony of waves lapping against the boat, blending seamlessly with the serenity of the moment. Time feels like it slows, and you find yourself lost in the vastness of it all, as if the horizon is whispering secrets meant only for you.\n\nIt’s more than a sunset; it’s a reminder of the beauty that lies in simplicity, the wonders of nature, and the magic of just being present. Moments like these stay with you forever.",
+    "title": "Capturing the Essence of the Viscid Ring",
+    "description": "The photoshoot for Yizon’s Viscid Ring was nothing short of mesmerizing. This handcrafted masterpiece balances modern artistry with timeless elegance, boasting a unique molten texture that seems to flow with light. Capturing its essence required precision—every angle told a different story of its craftsmanship.\n\nUnder soft studio lighting, the Viscid Ring revealed its intricate details: polished curves, delicate textures, and a design that feels both bold and refined. It’s the kind of jewelry that becomes a statement without trying too hard—a piece that elevates any outfit with its quiet confidence.\n\nYizon continues to amaze with creations that celebrate individuality, and the Viscid Ring is no exception. If you’re drawn to artistry in its purest form, this one is for you.",
     "video": null,
     "recording": null,
-    "category": "TRAVEL",
+    "category": "JEWELERY",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["#SunsetViews", "#OceanMagic", "#NatureEscape"],
+    "hashtags": ["YizonJewelry", "ViscidRing", "ArtisanCraftsmanship"],
     "mentionedPeople": [],
-    "mentionedItems": [],
+    "mentionedItems": [1],
     "collaborations": [],
     "link": "",
     "setting": {
