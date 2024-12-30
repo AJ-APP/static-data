@@ -1501,51 +1501,7 @@
       }
     },
     "repost": 5
-  },
-  {
-    "id": 31,
-    "userId": 1,
-    "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Boat.jpeg"
-    ],
-    "title": "A Glimpse of Serenity in Marbella",
-    "description":"Strolling through Marbella’s vibrant streets, I wasn’t expecting to find such a peaceful moment. The sun was high, bathing everything in golden light as I turned into a quiet alleyway.\n\nThe path was charming, with bougainvillea climbing whitewashed walls and cobblestones warm beneath my feet. At the far end, a view opened up to the sparkling Mediterranean, where a single sailboat drifted lazily across the horizon.\n\nI stood there for a while, caught between the beauty of the alley and the endless expanse of sea. It’s moments like these that remind me why Marbella is so much more than its famous glamour—it’s a place where simplicity still reigns.",
-    "video": null,
-    "recording": null,
-    "category": "TRAVEL",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["MarbellaMagic", "SeasideEscape", "CoastalBeauty"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": 5
-  },
-  {
+  },{
     "id": 34,
     "userId": 1,
     "status": {
