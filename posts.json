@@ -1374,7 +1374,7 @@
     "repost": 5
   },
   {
-    "id": 34,
+    "id": 31,
     "userId": 1,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
@@ -1393,15 +1393,15 @@
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art3.jpeg"
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Boat.jpeg"
     ],
-    "title": "Adventures in 8-Bit Worlds",
-    "description": "There’s something magical about pixel art—it’s nostalgic yet endlessly creative. That’s exactly what this new pixel art video game delivers, blending retro charm with modern gameplay.\n\nIn this game, you step into the shoes of a lone explorer navigating a vibrant, pixelated world filled with mysteries, quirky characters, and hidden treasures. Each level is a feast for the eyes, with rich, handcrafted details that bring the pixel art to life.\n\nThe gameplay combines classic platforming with innovative mechanics, keeping you hooked as you uncover secrets and take on challenging foes. And the soundtrack? Pure retro bliss with a modern twist.\n\nThis isn’t just a game; it’s an ode to the timeless art of pixels and the creativity of indie game development. Whether you’re a fan of the classics or looking for something fresh, this one’s worth diving into.",
+    "title": "A Glimpse of Serenity in Marbella",
+    "description":"Strolling through Marbella’s vibrant streets, I wasn’t expecting to find such a peaceful moment. The sun was high, bathing everything in golden light as I turned into a quiet alleyway.\n\nThe path was charming, with bougainvillea climbing whitewashed walls and cobblestones warm beneath my feet. At the far end, a view opened up to the sparkling Mediterranean, where a single sailboat drifted lazily across the horizon.\n\nI stood there for a while, caught between the beauty of the alley and the endless expanse of sea. It’s moments like these that remind me why Marbella is so much more than its famous glamour—it’s a place where simplicity still reigns.",
     "video": null,
     "recording": null,
-    "category": "VIDEO-GAMES",
+    "category": "TRAVEL",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["PixelArtGaming", "RetroReimagined", "IndieGamesLove"],
+    "hashtags": ["MarbellaMagic", "SeasideEscape", "CoastalBeauty"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -1531,6 +1531,49 @@
     "category": "TRAVEL",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["MarbellaMagic", "SeasideEscape", "CoastalBeauty"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 5
+  },
+  {
+    "id": 34,
+    "userId": 1,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art1.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art2.jpeg","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pixel_art3.jpeg"
+    ],
+    "title": "Adventures in 8-Bit Worlds",
+    "description": "There’s something magical about pixel art—it’s nostalgic yet endlessly creative. That’s exactly what this new pixel art video game delivers, blending retro charm with modern gameplay.\n\nIn this game, you step into the shoes of a lone explorer navigating a vibrant, pixelated world filled with mysteries, quirky characters, and hidden treasures. Each level is a feast for the eyes, with rich, handcrafted details that bring the pixel art to life.\n\nThe gameplay combines classic platforming with innovative mechanics, keeping you hooked as you uncover secrets and take on challenging foes. And the soundtrack? Pure retro bliss with a modern twist.\n\nThis isn’t just a game; it’s an ode to the timeless art of pixels and the creativity of indie game development. Whether you’re a fan of the classics or looking for something fresh, this one’s worth diving into.",
+    "video": null,
+    "recording": null,
+    "category": "VIDEO-GAMES",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["PixelArtGaming", "RetroReimagined", "IndieGamesLove"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],

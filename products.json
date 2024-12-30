@@ -2054,10 +2054,10 @@
   },
   {
     "id": 17,
-    "name": "Moeba Snearkers",
+    "name": "RW Snearkers",
     "voucherId": 1,
     "sellerId": 6,
-    "category": "Men Fashion",
+    "category": "Shoes",
     "itemStatus": "In Stock",
     "weight": 4,
     "variants": {
@@ -2072,51 +2072,51 @@
     "variantsDetails": [
       {
         "name": "36,black",
-        "price": 70,
+        "price": 169,
         "quantity": 10
       },
       {
         "name": "37,black",
-        "price": 70,
+        "price": 169,
         "quantity": 10
       },
       {
         "name": "38,black",
-        "price": 70,
+        "price": 169,
         "quantity": 10
       },
       {
         "name": "39,black",
-        "price": 70,
+        "price": 169,
         "quantity": 10
       },
       {
         "name": "40,black",
-        "price": 90,
+        "price": 190,
         "quantity": 10
       },
       {
         "name": "41,black",
-        "price": 90,
+        "price": 190,
         "quantity": 10
       },{
         "name": "42,black",
-        "price": 90,
+        "price": 190,
         "quantity": 10
       },
       {
         "name": "43,black",
-        "price": 90,
+        "price": 190,
         "quantity": 10
       },
     {
         "name": "44,black",
-        "price": 90,
+        "price": 190,
         "quantity": 10
       },
       {
         "name": "45,black",
-        "price": 90,
+        "price": 190,
         "quantity": 10
       }
     ],
