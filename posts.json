@@ -891,8 +891,8 @@
     "images": [
       "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/hura.jpeg"
     ],
-    "title": "Why the Huracán Still Outshines the New Lamborghini Temerario",
-    "description": "Let’s be real: Lamborghini has a reputation for designing cars that are pure art in motion. But with the recent reveal of the Lamborghini Temerario, there’s one thing I can’t shake—the feeling that the Huracán still holds the crown for design.\nThe Huracán, with its razor-sharp lines and classic supercar silhouette, captures the essence of Lamborghini’s aesthetic like few others. It’s low, wide, and aggressive without trying too hard. There’s a timelessness to it, almost as if it knows it’s iconic and doesn’t have to scream about it. You just can’t help but look twice.",
+    "title": "Why the Huracan Still Outshines the New Lamborghini Temerario",
+    "description": "Let’s be real: Lamborghini has a reputation for designing cars that are pure art in motion. But with the recent reveal of the Lamborghini Temerario, there’s one thing I can’t shake—the feeling that the Huracan still holds the crown for design.\n\nThe Huracan, with its razor-sharp lines and classic supercar silhouette, captures the essence of Lamborghini’s aesthetic like few others. It’s low, wide, and aggressive without trying too hard. There’s a timelessness to it, almost as if it knows it’s iconic and doesn’t have to scream about it. You just can’t help but look twice.",
     "video": null,
     "recording": null,
     "category": "AUTOMOTIVE",
@@ -1374,7 +1374,7 @@
     "repost": 5
   },
   {
-    "id": 31,
+    "id": 34,
     "userId": 1,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
@@ -1503,7 +1503,7 @@
     "repost": 5
   },
   {
-    "id": 34,
+    "id": 31,
     "userId": 1,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
