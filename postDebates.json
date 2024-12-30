@@ -18,7 +18,7 @@
               {
                   "id": 15,
                   "text": "Exploring Americaâ€™s wilderness and baking pies? ",
-                  "userId": 3,
+                  "userId": 15,
                   "dateCreated": "2024-10-03T08:30:03.312546",
                   "status": {
                       "likes": [
@@ -100,9 +100,9 @@
           ],
           "comments": [
               {
-                  "id": 15,
+                  "id": 4,
                   "text": "Count me in for this amazing journey!",
-                  "userId": 1,
+                  "userId": 8,
                   "dateCreated": "2024-10-03T08:30:03.312546",
                   "status": {
                       "likes": [
