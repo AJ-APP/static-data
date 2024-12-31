@@ -72,7 +72,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 2,
     "name": "Movies & Shows",
     "image": "https://shekr-static.vyte.sh/categories/movies.png",
     "children": [
@@ -602,7 +602,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 16,
     "name": "Baby & Pregnancy",
     "image": "https://shekr-static.vyte.sh/categories/baby.png",
     "children": [
