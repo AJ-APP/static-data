@@ -194,7 +194,7 @@
   },
   {
     "id": 5,
-    "name": "Boy Fashion",
+    "name": "Fashion",
     "image": "https://shekr-static.vyte.sh/categories/boy-fashion.png",
     "children": [
       {
@@ -568,7 +568,7 @@
   },
   {
     "id": 15,
-    "name": "Men Jewelry",
+    "name": "Jewelry",
     "image": "https://shekr-static.vyte.sh/categories/men-jewelry.png",
     "children": [
       {
