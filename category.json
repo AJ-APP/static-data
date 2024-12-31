@@ -1,34 +1,40 @@
 [
   {
     "id": 0,
-    "name": "Art",
-    "image": "https://shekr-static.vyte.sh/categories/art.png",
+    "name": "Beauty & Wellness",
+    "image": "https://shekr-static.vyte.sh/categories/beauty.png",
     "children": [
       {
-        "id": 1231230101,
-        "name": "Paintings",
+        "id": 301,
+        "name": "Skincare",
         "children": [
           {
-            "id": 12312301011,
-            "name": "Oil Paintings"
+            "id": 3011,
+            "name": "Face Care"
           },
           {
-            "id": 1231230102,
-            "name": "Watercolor"
-          },
-          {
-            "id": 1231230103,
-            "name": "Acrylic"
+            "id": 3012,
+            "name": "Body Care"
           }
         ]
       },
       {
-        "id": 1231230102,
-        "name": "Sculptures"
-      },
-      {
-        "id": 1231230103,
-        "name": "Digital Art"
+        "id": 302,
+        "name": "Makeup",
+        "children": [
+          {
+            "id": 3021,
+            "name": "Face Makeup"
+          },
+          {
+            "id": 3022,
+            "name": "Eye Makeup"
+          },
+          {
+            "id": 3023,
+            "name": "Lip Products"
+          }
+        ]
       }
     ]
   },
@@ -112,40 +118,34 @@
   },
   {
     "id": 3,
-    "name": "Beauty & Wellness",
-    "image": "https://shekr-static.vyte.sh/categories/beauty.png",
+    "name": "Art",
+    "image": "https://shekr-static.vyte.sh/categories/art.png",
     "children": [
       {
-        "id": 301,
-        "name": "Skincare",
+        "id": 1231230101,
+        "name": "Paintings",
         "children": [
           {
-            "id": 3011,
-            "name": "Face Care"
+            "id": 12312301011,
+            "name": "Oil Paintings"
           },
           {
-            "id": 3012,
-            "name": "Body Care"
+            "id": 1231230102,
+            "name": "Watercolor"
+          },
+          {
+            "id": 1231230103,
+            "name": "Acrylic"
           }
         ]
       },
       {
-        "id": 302,
-        "name": "Makeup",
-        "children": [
-          {
-            "id": 3021,
-            "name": "Face Makeup"
-          },
-          {
-            "id": 3022,
-            "name": "Eye Makeup"
-          },
-          {
-            "id": 3023,
-            "name": "Lip Products"
-          }
-        ]
+        "id": 1231230102,
+        "name": "Sculptures"
+      },
+      {
+        "id": 1231230103,
+        "name": "Digital Art"
       }
     ]
   },
