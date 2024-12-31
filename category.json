@@ -72,7 +72,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 2,
     "name": "Baby & Pregnancy",
     "image": "https://shekr-static.vyte.sh/categories/baby.png",
     "children": [
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 12,
     "name": "Home & Decor",
     "image": "https://shekr-static.vyte.sh/categories/home.png",
     "children": [
