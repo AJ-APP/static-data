@@ -1,51 +1,84 @@
 [
   {
     "id": 1,
-    "name": "Viscid Ring",
-    "sellerId": 9,
-    "category": "Women Jewelry",
+    "name": "RW Snearkers",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Shoes",
     "itemStatus": "In Stock",
-    "weight": 2,
+    "weight": 4,
     "variants": {
+      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
       "colors": [
         {
-          "name": "sterling silver",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
-          ]
-        },
-        {
-          "name": "18k gold plated",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
-          ]
+          "name": "black",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "sterling silver",
-        "price": 219,
+        "name": "36,black",
+        "price": 169,
         "quantity": 10
       },
       {
-        "name": "18k gold plated",
-        "price": 219,
+        "name": "37,black",
+        "price": 169,
+        "quantity": 10
+      },
+      {
+        "name": "38,black",
+        "price": 169,
+        "quantity": 10
+      },
+      {
+        "name": "39,black",
+        "price": 169,
+        "quantity": 10
+      },
+      {
+        "name": "40,black",
+        "price": 190,
+        "quantity": 10
+      },
+      {
+        "name": "41,black",
+        "price": 190,
+        "quantity": 10
+      },{
+        "name": "42,black",
+        "price": 190,
+        "quantity": 10
+      },
+      {
+        "name": "43,black",
+        "price": 190,
+        "quantity": 10
+      },
+    {
+        "name": "44,black",
+        "price": 190,
+        "quantity": 10
+      },
+      {
+        "name": "45,black",
+        "price": 190,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
-        "title": "Fluidity in Motion",
-        "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-jayY9MiLn6I-unsplash.jpg",
+        "title": "Timeless Style, Built to Last",
+        "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
       }
     ],
     "specifications": [
       {
-        "title": "",
-        "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
+        "title": null,
+        "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
       }
     ],
     "serviceDetails": [
@@ -110,167 +143,167 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 2,
-    "name": "Breeding Earings",
-    "sellerId": 9,
-    "category": "Women Jewelry",
+    "name": "Xtreme Condition Tent",
+    "sellerId": 5,
+    "category": "Outdoor",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "sterling silver",
+          "name": "red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR1.png"
-          ]
-        },
-        {
-          "name": "18k gold plated",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR2.png"
-          ]}
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "sterling silver",
-        "price": 149,
-        "quantity": 10
-      },
-      {
-        "name": "18k gold plated",
-        "price": 149,
-        "quantity": 20
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BRH1.png",
-        "title": "Evolution in Design",
-        "description": "Crafted using 3D printed in sterling silver or gold-plated brass, they represent the fusion of technology and artistry, redefining contemporary elegance."
-      }],
-    "specifications": [
-      {
-        "title": "",
-        "description": "MIAM collection\n\n3D printed earrings in sterling silver or gold plated brass."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 3,
-    "name": "CIF earrings set No.2",
-    "sellerId": 9,
-    "category": "Women Jewelry",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "sterling silver",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF1.png"
-          ]
-        },
-        {
-          "name": "18k gold plated",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF2.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T24.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T25.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "sterling silver",
-        "price": 179,
-        "quantity": 10
-      },
-      {
-        "name": "18k gold plated",
-        "price": 179,
-        "quantity": 10
-      }
+        "name": "red",
+        "price": 295,
+        "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIFH.png",
-        "title": "Breeding Earrings: Uniquely Versatile Elegance",
-        "description": "These highly polished Breeding Earrings from the MIAM collection are a perfect blend of uniqueness, versatility, and exceptional quality. Designed to complement any style, they make a refined statement for everyday wear."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
+        "title": "Enhanced Warmth & Wind Resistance",
+        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
       }],
     "specifications": [
       {
         "title": "",
-        "description": "These highly polished earrings are unique, versatile, and high-quality. It is the best day-to-day statement design that goes with any style. Both material options are made with high-quality sterling silver studs to prevent allergic reactions."
+        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
+      }],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
+  },
+  {
+    "id": 3,
+    "name": "Crimson Nature",
+    "sellerId": 5,
+    "category": "Art",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "red",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "red",
+        "price": 205,
+        "quantity": 10
+      }
+    ],
+    "features": [],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
       }
     ],
     "serviceDetails": [
@@ -335,12 +368,12 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
+    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
     "id": 4,
-    "name": "Folk Pouf",
+    "name": "Chill Pouf",
     "voucherId": 1,
     "sellerId": 7,
     "category": "Home & Decor",
@@ -955,7 +988,7 @@
   },
   {
     "id": 8,
-    "name": "Old Skool Shoe",
+    "name": "Classic Sneakers",
     "voucherId": 1,
     "sellerId": 6,
     "category": "Men Fashion",
@@ -966,7 +999,7 @@
       "colors": [
         {
           "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/24.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/S48.png"]
         }
       ]
     },
@@ -1110,7 +1143,7 @@
   },
   {
     "id": 9,
-    "name": "Mac Lipstick",
+    "name": "Gold Lipstick",
     "voucherId": 1,
     "sellerId": 6,
     "category": "Beauty & Wellness",
@@ -1121,7 +1154,7 @@
         {
           "name": "red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/35.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L50.png"
           ]
         },
         {
@@ -1376,7 +1409,7 @@
   },
   {
     "id": 11,
-    "name": "Tiffany HardWear",
+    "name": "Chain Ring",
     "sellerId": 5,
     "category": "Women Jewelry",
     "itemStatus": "In Stock",
@@ -1730,41 +1763,51 @@
   },
   {
     "id": 14,
-    "name": "Xtreme Condition Tent",
-    "sellerId": 5,
-    "category": "Outdoor",
+    "name": "Breeding Earings",
+    "sellerId": 9,
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "red",
+          "name": "sterling silver",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T24.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T25.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR1.png"
           ]
-        }
+        },
+        {
+          "name": "18k gold plated",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR2.png"
+          ]}
       ]
     },
     "variantsDetails": [
       {
-        "name": "red",
-        "price": 295,
+        "name": "sterling silver",
+        "price": 149,
         "quantity": 10
+      },
+      {
+        "name": "18k gold plated",
+        "price": 149,
+        "quantity": 20
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
-        "title": "Enhanced Warmth & Wind Resistance",
-        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BRH1.png",
+        "title": "Evolution in Design",
+        "description": "Crafted using 3D printed in sterling silver or gold-plated brass, they represent the fusion of technology and artistry, redefining contemporary elegance."
       }],
     "specifications": [
       {
         "title": "",
-        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
-      }],
+        "description": "MIAM collection\n\n3D printed earrings in sterling silver or gold plated brass."
+      }
+    ],
     "serviceDetails": [
       {
         "title": "Delivery & Return",
@@ -1827,8 +1870,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 15,
@@ -2054,84 +2097,50 @@
   },
   {
     "id": 17,
-    "name": "RW Snearkers",
-    "voucherId": 1,
-    "sellerId": 6,
-    "category": "Shoes",
+    "name": "Viscid Ring",
+    "sellerId": 9,
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
-    "weight": 4,
-    "variants": {
-      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
-      "colors": [
+    "weight": 2,
+    "variants": {"colors": [
         {
-          "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
+          "name": "sterling silver",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
+          ]
+        },
+        {
+          "name": "18k gold plated",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
+          ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "36,black",
-        "price": 169,
+        "name": "sterling silver",
+        "price": 219,
         "quantity": 10
       },
       {
-        "name": "37,black",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "38,black",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "39,black",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "40,black",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "41,black",
-        "price": 190,
-        "quantity": 10
-      },{
-        "name": "42,black",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "43,black",
-        "price": 190,
-        "quantity": 10
-      },
-    {
-        "name": "44,black",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "45,black",
-        "price": 190,
+        "name": "18k gold plated",
+        "price": 219,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-jayY9MiLn6I-unsplash.jpg",
-        "title": "Timeless Style, Built to Last",
-        "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
+        "title": "Fluidity in Motion",
+        "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
       }
     ],
     "specifications": [
       {
-        "title": null,
-        "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
+        "title": "",
+        "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
       }
     ],
     "serviceDetails": [
@@ -2196,8 +2205,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 18,
@@ -2481,80 +2490,50 @@
   },
   {
     "id": 20,
-    "name": "Spalding Basketball",
-    "sellerId": 5,
-    "category": "Sport",
+    "name": "CIF earrings set No.2",
+    "sellerId": 9,
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "orange",
+          "name": "sterling silver",
           "images": [
-            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF1.png"
+          ]
+        },
+        {
+          "name": "18k gold plated",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF2.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "orange",
-        "price": 20.95,
+        "name": "sterling silver",
+        "price": 179,
+        "quantity": 10
+      },
+      {
+        "name": "18k gold plated",
+        "price": 179,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
-      },
-      {
-        "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
-      }
-    ],
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIFH.png",
+        "title": "Breeding Earrings: Uniquely Versatile Elegance",
+        "description": "These highly polished Breeding Earrings from the MIAM collection are a perfect blend of uniqueness, versatility, and exceptional quality. Designed to complement any style, they make a refined statement for everyday wear."
+      }],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "These highly polished earrings are unique, versatile, and high-quality. It is the best day-to-day statement design that goes with any style. Both material options are made with high-quality sterling silver studs to prevent allergic reactions."
       }
     ],
     "serviceDetails": [
@@ -2619,8 +2598,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 21,
