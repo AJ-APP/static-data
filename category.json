@@ -72,39 +72,39 @@
     ]
   },
   {
-    "id": 2,
-    "name": "Baby & Pregnancy",
-    "image": "https://shekr-static.vyte.sh/categories/baby.png",
+    "id": 16,
+    "name": "Movies & Shows",
+    "image": "https://shekr-static.vyte.sh/categories/movies.png",
     "children": [
       {
-        "id": 201,
-        "name": "Baby Care",
+        "id": 1601,
+        "name": "Movies",
         "children": [
           {
-            "id": 2011,
-            "name": "Diapers"
+            "id": 16011,
+            "name": "Action"
           },
           {
-            "id": 2012,
-            "name": "Baby Food"
+            "id": 16012,
+            "name": "Drama"
           },
           {
-            "id": 2013,
-            "name": "Baby Health"
+            "id": 16013,
+            "name": "Comedy"
           }
         ]
       },
       {
-        "id": 202,
-        "name": "Maternity",
+        "id": 1602,
+        "name": "TV Shows",
         "children": [
           {
-            "id": 2021,
-            "name": "Maternity Clothes"
+            "id": 16021,
+            "name": "Series"
           },
           {
-            "id": 2022,
-            "name": "Maternity Care"
+            "id": 16022,
+            "name": "Reality Shows"
           }
         ]
       }
@@ -602,39 +602,39 @@
     ]
   },
   {
-    "id": 16,
-    "name": "Movies & Shows",
-    "image": "https://shekr-static.vyte.sh/categories/movies.png",
+    "id": 2,
+    "name": "Baby & Pregnancy",
+    "image": "https://shekr-static.vyte.sh/categories/baby.png",
     "children": [
       {
-        "id": 1601,
-        "name": "Movies",
+        "id": 201,
+        "name": "Baby Care",
         "children": [
           {
-            "id": 16011,
-            "name": "Action"
+            "id": 2011,
+            "name": "Diapers"
           },
           {
-            "id": 16012,
-            "name": "Drama"
+            "id": 2012,
+            "name": "Baby Food"
           },
           {
-            "id": 16013,
-            "name": "Comedy"
+            "id": 2013,
+            "name": "Baby Health"
           }
         ]
       },
       {
-        "id": 1602,
-        "name": "TV Shows",
+        "id": 202,
+        "name": "Maternity",
         "children": [
           {
-            "id": 16021,
-            "name": "Series"
+            "id": 2021,
+            "name": "Maternity Clothes"
           },
           {
-            "id": 16022,
-            "name": "Reality Shows"
+            "id": 2022,
+            "name": "Maternity Care"
           }
         ]
       }
