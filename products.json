@@ -267,45 +267,21 @@
     "variantsDetails": [
       {
         "name": "red",
-        "price": 205,
-        "quantity": 10
-      }
+        "price": 2500,
+        "quantity": 10}
     ],
-    "features": [],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
+        "title": "Enhanced Warmth & Wind Resistance",
+        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
+      }],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
+        "title": "",
+        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
+      }],
     "serviceDetails": [
       {
         "title": "Delivery & Return",
@@ -368,8 +344,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 4,
