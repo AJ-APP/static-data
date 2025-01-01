@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 0, 
     "name": "Automotive",
     "image": "https://shekr-static.vyte.sh/categories/automotive.png",
     "children": [
@@ -40,13 +40,13 @@
   },
   {
     "id": 1,
-    "name": "Outdoor",
-    "image": "https://shekr-static.vyte.sh/categories/outdoor.png"
+    "name": "Travel",
+    "image": "https://shekr-static.vyte.sh/categories/travel.png"
   },
   {
     "id": 2,
-    "name": "Travel",
-    "image": "https://shekr-static.vyte.sh/categories/travel.png"
+    "name": "Outdoor",
+    "image": "https://shekr-static.vyte.sh/categories/outdoor.png"
   },
   {
     "id": 3,
