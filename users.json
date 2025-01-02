@@ -474,7 +474,7 @@
   },
   {
     "id": 17,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/brian.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/vadi.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
     "firstName": "Grab & Co",
@@ -504,6 +504,36 @@
   },
   {
     "id": 18,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/bogu.jpg",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Burney",
+    "lastName": "",
+    "gender": "male",
+    "username": "iamian",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "From sports to tech, I cover it all with passion and insight. My goal is to bridge the gap between different interests and show how they interconnect in our daily lives. Join me as we explore the fascinating world where athletics meets innovation, and where strategy applies both on and off the field.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 19,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-01-02 at 14.51.21.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
