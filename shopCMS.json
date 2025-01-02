@@ -85,7 +85,7 @@
     "section": 9,
     "type": "related",
     "relatedConfig": {
-      "shoppedSellerId": 2,
+      "shoppedSellerId": 18,
       "items": [
         { "type": "user", "id": 3 },
         { "type": "product", "id": 7 },
