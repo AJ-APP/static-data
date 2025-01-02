@@ -474,13 +474,13 @@
   },
   {
     "id": 17,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/vadi.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Trailbliss.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Grab & Co",
+    "tagLine": "Forge Your Path, Find Your Bliss.",
+    "firstName": "Trailbliss",
     "lastName": "",
     "gender": "male",
-    "username": "grab&co",
+    "username": "traibliss",
     "email": "iamkevin@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1994-10-30T00:00:00.000Z",
@@ -494,7 +494,7 @@
       6,
       7
     ],
-    "description": "Let's share ideas and explore new perspectives together. I believe in the power of open dialogue to broaden our understanding of the world. My podcasts are a platform for diverse voices and innovative thoughts, where we challenge assumptions and foster intellectual growth.",
+    "description": "At Trailbliss, we believe the outdoors is more than a destination—it’s a way of life. Our brand is dedicated to empowering explorers of all kinds, from seasoned adventurers to weekend wanderers, with premium gear that blends durability, innovation, and eco-consciousness. Inspired by nature and committed to preserving it, we design products that help you tackle the trails with confidence and leave nothing but footprints behind.",
     "interests": [
       15,
       1
@@ -504,13 +504,13 @@
   },
   {
     "id": 18,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/bogu.jpg",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Stride.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Burney",
+    "tagLine": "Step Into Greatness.",
+    "firstName": "Stride",
     "lastName": "",
     "gender": "male",
-    "username": "iamian",
+    "username": "stride",
     "email": "iamian@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1987-04-09T00:00:00.000Z",
@@ -524,7 +524,7 @@
       5,
       6
     ],
-    "description": "From sports to tech, I cover it all with passion and insight. My goal is to bridge the gap between different interests and show how they interconnect in our daily lives. Join me as we explore the fascinating world where athletics meets innovation, and where strategy applies both on and off the field.",
+    "description": "Stride is born from a passion for movement, our sneakers are engineered for those who chase ambition—whether on the track, the streets, or in everyday life. Combining cutting-edge technology with sleek designs, we create footwear that supports your journey with comfort, durability, and flair. At StrideCraft, every step you take is a step toward your best self.",
     "interests": [
       17,
       22
@@ -534,13 +534,13 @@
   },
   {
     "id": 19,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-01-02 at 14.51.21.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lumea.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Burney",
+    "tagLine": "Glow Your Way.",
+    "firstName": "Lumea",
     "lastName": "",
     "gender": "male",
-    "username": "iamian",
+    "username": "lumea",
     "email": "iamian@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1987-04-09T00:00:00.000Z",
@@ -554,7 +554,37 @@
       5,
       6
     ],
-    "description": "From sports to tech, I cover it all with passion and insight. My goal is to bridge the gap between different interests and show how they interconnect in our daily lives. Join me as we explore the fascinating world where athletics meets innovation, and where strategy applies both on and off the field.",
+    "description": "Lumea is redefining beauty with makeup that empowers self-expression and celebrates individuality. Our products are crafted with care, blending vibrant pigments, skin-loving ingredients, and sustainable practices to bring your natural radiance to life. Whether you’re creating bold looks or enhancing your everyday glow, Lumea is here to inspire confidence and creativity, one brushstroke at a time.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 20,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Harmona.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Podcasts & Live Streams",
+    "firstName": "Harmona",
+    "lastName": "",
+    "gender": "male",
+    "username": "harmona",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "Harmona is where beauty meets balance. We believe that true wellness radiates from within, which is why our products are thoughtfully designed to nurture both body and mind. From nourishing skincare to holistic self-care rituals, we combine science and nature to help you look and feel your best. At Harmona, beauty is more than skin deep—it’s a journey toward harmony and self-love.",
     "interests": [
       17,
       22
