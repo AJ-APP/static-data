@@ -149,7 +149,7 @@
   {
     "id": 2,
     "name": "Xtreme Condition Tent",
-    "sellerId": 5,
+    "sellerId": 17,
     "category": "Outdoor",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -1853,7 +1853,7 @@
     "id": 15,
     "name": "All Weather Tent",
     "voucherId": 1,
-    "sellerId": 6,
+    "sellerId": 17,
     "category": "Outdoor",
     "itemStatus": "In Stock",
     "weight": 2,
