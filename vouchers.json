@@ -4,12 +4,12 @@
     "type": "SHOPPING VOUCHER",
     "title": "PROMOTION",
     "description": "Get ready for summer with our exclusive shopping voucher.",
-    "sellerId": 1,
+    "sellerId": 18,
     "itemStatus": "ACTIVE",
     "discountType": "PERCENTAGE",
     "discount": "20",
-    "startDate": "2024-12-01T00:00:00.000Z",
-    "endDate": "2024-12-31T23:59:59.000Z",
+    "startDate": "2025-02-03T00:00:00.000Z",
+    "endDate": "2025-02-09T23:59:59.000Z",
     "specificProducts": [
       101,
       102
@@ -31,12 +31,12 @@
     "type": "SHOPPING VOUCHER",
     "title": "PROMOTION",
     "description": "Get ready for summer with our exclusive shopping voucher.",
-    "sellerId": 2,
+    "sellerId": 19,
     "itemStatus": "ACTIVE",
-    "discountType": "AMOUNT",
+    "discountType": "PERCENTAGE",
     "discount": "5",
-    "startDate": "2024-12-01T00:00:00.000Z",
-    "endDate": "2024-12-31T23:59:59.000Z",
+    "startDate": "2025-02-03T00:00:00.000Z",
+    "endDate": "2025-02-09T23:59:59.000Z",
     "specificProducts": [
       101,
       102
