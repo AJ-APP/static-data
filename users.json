@@ -238,10 +238,10 @@
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
     "firstName": "Lea",
-    "lastName": "Orange",
-    "gender": "male",
-    "username": "iamkevin",
-    "email": "iamkevin@me.com",
+    "lastName": "Doni",
+    "gender": "female",
+    "username": "lea",
+    "email": "lea@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1994-10-30T00:00:00.000Z",
     "followers": [
@@ -591,5 +591,49 @@
     ],
     "isShekrMember": false,
     "storeId": 2
-  }
+  },
+  {
+    "id": 242424,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Z2.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
+    "tagLine": "Podcast & live streams",
+    "firstName": "Michael",
+    "lastName": "Alvarez",
+    "gender": "male",
+    "username": "Sneakerswithmia",
+    "email": "wildwithmateo@email.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "2000-01-01T00:00:00.000Z",
+    "followers": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      9,
+      1,
+      10,
+      11,
+      12
+    ],
+    "following": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      1,
+      10,
+      11,
+      12
+    ],
+    "description": "Hey, I’m Mateo—outdoor lover and adventure seeker from the mountains of Patagonia. 🏔️ Whether it’s trekking through remote trails, setting up camp in the wilderness, or soaking in the beauty of untouched landscapes, I’m here to share my journey with you. My feed is packed with epic views, practical gear tips, and the stories behind every adventure. Let’s connect and explore the wild together!",
+    "interests": [
+      1,
+      5,
+      8
+    ],
+    "isShekrMember": false
+  }  
 ]
