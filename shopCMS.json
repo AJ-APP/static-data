@@ -87,14 +87,14 @@
     "relatedConfig": {
       "shoppedSellerId": 18,
       "items": [
-        { "type": "user", "id": 3 },
+        { "type": "product", "id": 8 },
         { "type": "product", "id": 7 },
         { "type": "user", "id": 2 },
         { "type": "product", "id": 1 },
         { "type": "user", "id": 5 },
         { "type": "product", "id": 4 },
         { "type": "user", "id": 1 },
-        { "type": "product", "id": 8 }
+        { "type": "user", "id": 6 }
       ]
     }
   },
