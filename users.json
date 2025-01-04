@@ -444,32 +444,32 @@
   },
   {
     "id": 16,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-01-02 at 12.45.56.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Harmona.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Podcasts & Live Streams",
-    "firstName": "EL",
+    "firstName": "Harmona",
     "lastName": "",
-    "gender": "female",
-    "username": "EL",
-    "email": "EL@me.com",
+    "gender": "male",
+    "username": "harmona",
+    "email": "iamian@me.com",
     "phoneNumber": "123123123",
-    "dateOfBirth": "1991-08-05T00:00:00.000Z",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
     "followers": [
-      3,
-      6,
+      1,
+      4,
       8
     ],
     "following": [
-      1,
-      9,
-      10
+      2,
+      5,
+      6
     ],
-    "description": "Exploring life's big questions through deep conversations and storytelling. I'm passionate about uncovering the wisdom hidden in everyday experiences and sharing it with my listeners. My goal is to create a space where we can ponder the mysteries of existence, challenge our assumptions, and grow together as individuals.",
+    "description": "We believe that true wellness radiates from within, which is why our products are thoughtfully designed to nurture both body and mind. From nourishing skincare to holistic self-care rituals, we combine science and nature to help you look and feel your best. At Harmona, beauty is more than skin deep—it’s a journey toward harmony and self-love.",
     "interests": [
-      4,
-      12
+      17,
+      22
     ],
-    "isShekrMember": true,
+    "isShekrMember": false,
     "storeId": 2
   },
   {
@@ -555,36 +555,6 @@
       6
     ],
     "description": "Our products are crafted with care, blending vibrant pigments, skin-loving ingredients, and sustainable practices to bring your natural radiance to life. Whether you’re creating bold looks or enhancing your everyday glow, Lumea is here to inspire confidence and creativity, one brushstroke at a time.",
-    "interests": [
-      17,
-      22
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 20,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Harmona.png",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
-    "firstName": "Harmona",
-    "lastName": "",
-    "gender": "male",
-    "username": "harmona",
-    "email": "iamian@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1987-04-09T00:00:00.000Z",
-    "followers": [
-      1,
-      4,
-      8
-    ],
-    "following": [
-      2,
-      5,
-      6
-    ],
-    "description": "We believe that true wellness radiates from within, which is why our products are thoughtfully designed to nurture both body and mind. From nourishing skincare to holistic self-care rituals, we combine science and nature to help you look and feel your best. At Harmona, beauty is more than skin deep—it’s a journey toward harmony and self-love.",
     "interests": [
       17,
       22
