@@ -3,7 +3,7 @@
     "id": 2,
     "name": "Gold Lipstick",
     "voucherId": 1,
-    "sellerId": 16,
+    "sellerId": 13,
     "category": "Make-up",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -106,7 +106,7 @@
     ],
     "reviews": [
       {
-        "reviewerId": 14,
+        "reviewerId": 11,
         "reviewRating": 5,
         "reviewText": "This lipstick is a game-changer! 💄✨ The color payoff is stunning, the formula feels buttery smooth, and it lasts all day without drying out your lips. 💋",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
@@ -135,7 +135,7 @@
     "id": 1,
     "name": "RW Snearkers",
     "voucherId": 1,
-    "sellerId": 18,
+    "sellerId": 15,
     "category": "Shoes",
     "itemStatus": "In Stock",
     "weight": 4,
@@ -253,7 +253,7 @@
     ],
     "reviews": [
       {
-        "reviewerId": 15,
+        "reviewerId": 12,
         "reviewRating": 5,
         "reviewText": "Obsessed with these sneakers! 😍✨ Incredibly comfortable, super stylish, and they’re perfect for everything from workouts to casual outings. 💪✨ Your feet will thank you, and so will your style game! 😍👏",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
@@ -382,7 +382,7 @@
     "id": 4,
     "name": "Chill Pouf",
     "voucherId": 1,
-    "sellerId": 19,
+    "sellerId": 16,
     "category": "Home & Decor",
     "itemStatus": "In Stock",
     "weight": 4,
