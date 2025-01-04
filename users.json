@@ -30,17 +30,19 @@
   },
   {
     "id": 2,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/mia.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
-    "tagLine": "Sneaker stories",
-    "firstName": "Mia",
-    "lastName": "Nassen",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/reis.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ambiant.jpeg",
+    "tagLine": "Where quirky meets cozy",
+    "firstName": "Lila",
+    "lastName": "Bennett",
     "gender": "female",
-    "username": "Sneakerswithmia",
-    "email": "SneakersWithMia@email.com",
+    "username": "ColorfulByLila",
+    "email": "colorfulbylila@email.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
-    "followers": [6,
+    "followers": [
+      3,
+      6,
       8
     ],
     "following": [
@@ -48,9 +50,9 @@
       5,
       7
     ],
-    "description": "👟 Sneaker collector & culture curator\n📸 Sharing the journey of each pair\n🌍 Exploring global sneaker scenes\n📩 Collaborations? Reach out via DM",
+    "description": "Hi, I’m Lila, a home décor lover obsessed with quirky, colorful, and soulful compositions. I believe every space should have personality and tell a unique story. From bold patterns to playful accents, I mix the unexpected to create spaces that feel alive. Based in Brighton, I share tips, DIY projects, and my journey of turning ordinary rooms into vibrant, joyful havens.",
     "interests": [
-      14,28,10
+      12
     ],
     "isShekrMember": false,
     "storeId": 2
@@ -115,19 +117,17 @@
   },
   {
     "id": 5,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/reis.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ambiant.jpeg",
-    "tagLine": "Where quirky meets cozy",
-    "firstName": "Lila",
-    "lastName": "Bennett",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/mia.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
+    "tagLine": "Sneaker stories",
+    "firstName": "Mia",
+    "lastName": "Nassen",
     "gender": "female",
-    "username": "ColorfulByLila",
-    "email": "colorfulbylila@email.com",
+    "username": "Sneakerswithmia",
+    "email": "SneakersWithMia@email.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
-    "followers": [
-      3,
-      6,
+    "followers": [6,
       8
     ],
     "following": [
@@ -135,11 +135,11 @@
       5,
       7
     ],
-    "description": "Hi, I’m Lila, a home décor lover obsessed with quirky, colorful, and soulful compositions. I believe every space should have personality and tell a unique story. From bold patterns to playful accents, I mix the unexpected to create spaces that feel alive. Based in Brighton, I share tips, DIY projects, and my journey of turning ordinary rooms into vibrant, joyful havens.",
+    "description": "👟 Sneaker collector & culture curator\n📸 Sharing the journey of each pair\n🌍 Exploring global sneaker scenes\n📩 Collaborations? Reach out via DM",
     "interests": [
-      12
+      14,28,10
     ],
-    "isShekrMember": false,
+    "isShekrMember": true,
     "storeId": 2
   },
   {
