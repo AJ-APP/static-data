@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Gold Lipstick",
     "voucherId": 1,
-    "sellerId": 20,
+    "sellerId": 16,
     "category": "Beauty & Wellness",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -11,15 +11,15 @@
       "colors": [
         {
           "name": "Velvet",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-01-04 at 15.36.41.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L54.png"]
         },
         {
           "name": "Nude",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-01-04 at 15.36.48.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L55.png"]
         },
         {
           "name": "Satin",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-01-04 at 15.36.27.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L56.png"]
         }
       ]
     },
