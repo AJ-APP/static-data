@@ -474,9 +474,9 @@
   },
   {
     "id": 17,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TB.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Trailbliss.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Forge Your Path, Find Your Bliss.",
+    "tagLine": "Find your bliss.",
     "firstName": "Trailbliss",
     "lastName": "",
     "gender": "male",
@@ -536,7 +536,7 @@
     "id": 19,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lumea2.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Glow Your Way.",
+    "tagLine": "Live beautifully.",
     "firstName": "Lumea",
     "lastName": "",
     "gender": "male",
@@ -554,7 +554,7 @@
       5,
       6
     ],
-    "description": "Our products are crafted with care, blending vibrant pigments, skin-loving ingredients, and sustainable practices to bring your natural radiance to life. Whether you’re creating bold looks or enhancing your everyday glow, Lumea is here to inspire confidence and creativity, one brushstroke at a time.",
+    "description": "Lumea transforms spaces into stories. With a curated selection of home and décor pieces, we bring warmth, character, and modern sophistication to every corner of your home. From timeless furniture to artful accents, each piece is crafted to inspire comfort and individuality. At Lumea, your home isn’t just where you live—it’s where your style comes to life.",
     "interests": [
       17,
       22
