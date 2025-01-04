@@ -1,5 +1,120 @@
 [
   {
+    "id": 1,
+    "name": "Gold Lipstick",
+    "voucherId": 1,
+    "sellerId": 20,
+    "category": "Beauty & Wellness",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "brown",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L50.png"
+          ]}
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "brown",
+        "price": 25,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
+        "title": "Hydration Meets Color",
+        "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
+        "title": "Bold Color, Unmatched Intensity",
+        "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
+        "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
+        "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders > 50",
+              "Delivery fees are 2.5 for all orders < 50",
+              "Standard delivery: 4 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
     "id": 2,
     "name": "RW Snearkers",
     "voucherId": 1,
@@ -7,9 +122,14 @@
     "category": "Shoes",
     "itemStatus": "In Stock",
     "weight": 4,
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"],
     "variants": {
-      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"]
+      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
+      "colors": [
+        {
+          "name": "black",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
+        }
+      ]
     },
     "variantsDetails": [
       {
@@ -143,108 +263,21 @@
   },
   {
     "id": 3,
-    "name": "Xtreme Condition Tent",
-    "sellerId": 17,
-    "category": "Outdoor",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T24.png",
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T25.png"
-    ],
-    "variantsDetails": [
-      {
-        "name": "red",
-        "price": 295,
-        "quantity": 10}
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
-        "title": "Enhanced Warmth & Wind Resistance",
-        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
-      }],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
-      }],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": 1,
     "name": "Crimson Nature",
     "sellerId": 3,
     "category": "Art",
     "itemStatus": "In Stock",
     "weight": 2,
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png"
-    ],
+    "variants": {
+      "colors": [
+        {
+          "name": "red",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png"
+          ]
+        }
+      ]
+    },
     "variantsDetails": [
       {
         "name": "red",
@@ -1100,46 +1133,40 @@
   },
   {
     "id": 9,
-    "name": "Gold Lipstick",
-    "voucherId": 1,
-    "sellerId": 20,
-    "category": "Beauty & Wellness",
+    "name": "Xtreme Condition Tent",
+    "sellerId": 17,
+    "category": "Outdoor",
     "itemStatus": "In Stock",
     "weight": 2,
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L50.png"
-    ],
+    "variants": {
+      "colors": [
+        {
+          "name": "red",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T24.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T25.png"
+          ]
+        }
+      ]
+    },
     "variantsDetails": [
-      {"price": 25,
-        "quantity": 10
-      }
+      {
+        "name": "red",
+        "price": 295,
+        "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
-        "title": "Hydration Meets Color",
-        "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
-        "title": "Bold Color, Unmatched Intensity",
-        "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
-        "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
-        "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
-      }
-    ],
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
+        "title": "Enhanced Warmth & Wind Resistance",
+        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
+      }],
     "specifications": [
       {
         "title": "",
-        "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
-      }
-    ],
+        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
+      }],
     "serviceDetails": [
       {
         "title": "Delivery & Return",
@@ -1148,9 +1175,9 @@
           {
             "title": "Delivery",
             "descriptions": [
-              "Free delivery for all orders > 50",
-              "Delivery fees are 2.5 for all orders < 50",
-              "Standard delivery: 4 days"
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
             ]
           },
           {
@@ -1202,8 +1229,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 10,
