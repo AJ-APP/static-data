@@ -4,7 +4,7 @@
     "name": "Gold Lipstick",
     "voucherId": 1,
     "sellerId": 16,
-    "category": "Beauty & Wellness",
+    "category": "Make-up",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -865,7 +865,7 @@
     "name": "Slim-Fit Jean",
     "voucherId": 1,
     "sellerId": 18,
-    "category": "Men fashion",
+    "category": "Jeans",
     "itemStatus": "In Stock",
     "weight": 4,
     "variants": {
