@@ -11,23 +11,33 @@
       "colors": [
         {
           "name": "Velvet",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L54.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L541.png"]
         },
         {
           "name": "Nude",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L55.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L551.png"]
         },
         {
           "name": "Satin",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L56.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L561.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "S,beige",
+        "name": "Velvet",
         "price": 249,
-        "quantity": 10
+        "quantity": 6
+      },
+      {
+        "name": "Nude",
+        "price": 249,
+        "quantity": 3
+      },
+      {
+        "name": "Satin",
+        "price": 249,
+        "quantity": 5
       }
     ],
     "features": [
