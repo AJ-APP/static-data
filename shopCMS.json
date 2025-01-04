@@ -89,7 +89,6 @@
       "items": [
         { "type": "user", "id": 5 },
         { "type": "product", "id": 7 },
-        { "type": "user", "id": 5 },
         { "type": "product", "id": 1 },
         { "type": "user", "id": 2 },
         { "type": "product", "id": 4 },
