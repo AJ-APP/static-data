@@ -176,7 +176,7 @@
     "id": 7,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-10.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
-    "tagLine": "Life is out there—go find it.",
+    "tagLine": "Adventure is my compass.",
     "firstName": "Mateo",
     "lastName": "Alvarez",
     "gender": "male",
@@ -206,9 +206,9 @@
     "id": 8,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/chandra.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
+    "tagLine": "Co-host of the decor podcast ",
     "firstName": "Nola",
-    "lastName": "White",
+    "lastName": "Koster",
     "gender": "female",
     "username": "nola",
     "email": "iamjulia@me.com",
@@ -236,7 +236,7 @@
     "id": 9,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-29 at 14.13.43.jpg",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Podcasts & Live Streams",
+    "tagLine": "Packing light, dreaming big.",
     "firstName": "Lea",
     "lastName": "Doni",
     "gender": "female",
@@ -260,96 +260,6 @@
       1
     ],
     "isShekrMember": true,
-    "storeId": 2
-  },
-  {
-    "id": 10,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
-    "tagLine": "Best quality contemporary furniture",
-    "firstName": "noo.ma",
-    "lastName": null,
-    "gender": "female",
-    "username": "noo.ma",
-    "email": "hello@nooma.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1993-09-17T00:00:00.000Z",
-    "followers": [
-      1,
-      5,
-      7
-    ],
-    "following": [
-      2,
-      4,
-      5
-    ],
-    "description": "Enhancing the art of living through feel-good design\n\nAll manufactured in Europe\n\nFree home delivery over 100€",
-    "interests": [
-      12,
-      18
-    ],
-    "isShekrMember": true,
-    "storeId": 2
-  },
-  {
-    "id": 11,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis2.jpg",
-    "tagLine": "Icons Live in Levi's",
-    "firstName": "Levi's",
-    "lastName": "",
-    "gender": "male",
-    "username": "Levi's",
-    "email": "levis@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1985-03-30T00:00:00.000Z",
-    "followers": [
-      2,
-      5,
-      6
-    ],
-    "following": [
-      1,
-      3,
-      9
-    ],
-    "description": "Levi's has been a symbol of authenticity and self-expression since 1873. Renowned for iconic denim and innovative designs, Levi's offers versatile styles that combine comfort, durability, and effortless cool. From classic fits to modern silhouettes, Levi's is made to move with you and stand the test of time.",
-    "interests": [
-      1,
-      20
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 12,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon.jpeg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon1.jpeg",
-    "tagLine": "Based on a feeling",
-    "firstName": "Yizon",
-    "lastName": "",
-    "gender": "",
-    "username": "Yizon",
-    "email": "yizon@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1990-06-13T00:00:00.000Z",
-    "followers": [
-      1,
-      3,
-      7
-    ],
-    "following": [
-      5,
-      6,
-      12
-    ],
-    "description": "Yizon is a jewellery studio based in Amsterdam that offers silver and gold jewellery making workshop, bespoke jewellery design & handmade jewellery.",
-    "interests": [
-      19,
-      21
-    ],
-    "isShekrMember": false,
     "storeId": 2
   },
   {
@@ -388,7 +298,7 @@
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Passport full, heart fuller.",
     "firstName": "Julia",
-    "lastName": "Lotus",
+    "lastName": "Allen",
     "gender": "female",
     "username": "withjulia",
     "email": "iamjulia@me.com",
@@ -558,6 +468,96 @@
     "interests": [
       17,
       22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 20,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nooma2.png",
+    "tagLine": "Best quality contemporary furniture",
+    "firstName": "noo.ma",
+    "lastName": null,
+    "gender": "female",
+    "username": "noo.ma",
+    "email": "hello@nooma.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1993-09-17T00:00:00.000Z",
+    "followers": [
+      1,
+      5,
+      7
+    ],
+    "following": [
+      2,
+      4,
+      5
+    ],
+    "description": "Enhancing the art of living through feel-good design\n\nAll manufactured in Europe\n\nFree home delivery over 100€",
+    "interests": [
+      12,
+      18
+    ],
+    "isShekrMember": true,
+    "storeId": 2
+  },
+  {
+    "id": 21,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/levis2.jpg",
+    "tagLine": "Icons Live in Levi's",
+    "firstName": "Levi's",
+    "lastName": "",
+    "gender": "male",
+    "username": "Levi's",
+    "email": "levis@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1985-03-30T00:00:00.000Z",
+    "followers": [
+      2,
+      5,
+      6
+    ],
+    "following": [
+      1,
+      3,
+      9
+    ],
+    "description": "Levi's has been a symbol of authenticity and self-expression since 1873. Renowned for iconic denim and innovative designs, Levi's offers versatile styles that combine comfort, durability, and effortless cool. From classic fits to modern silhouettes, Levi's is made to move with you and stand the test of time.",
+    "interests": [
+      1,
+      20
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 22,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon.jpeg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon1.jpeg",
+    "tagLine": "Based on a feeling",
+    "firstName": "Yizon",
+    "lastName": "",
+    "gender": "",
+    "username": "Yizon",
+    "email": "yizon@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "Yizon is a jewellery studio based in Amsterdam that offers silver and gold jewellery making workshop, bespoke jewellery design & handmade jewellery.",
+    "interests": [
+      19,
+      21
     ],
     "isShekrMember": false,
     "storeId": 2
