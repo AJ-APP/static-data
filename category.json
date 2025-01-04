@@ -1,38 +1,34 @@
 [
   {
-    "id": 0, 
-    "name": "Automotive",
-    "image": "https://shekr-static.vyte.sh/categories/automotive.png",
+    "id": 0,
+    "name": "Deals",
+    "image": "https://shekr-static.vyte.sh/categories/deals.png",
     "children": [
       {
-        "id": 1111,
-        "name": "Car Parts",
+        "id": 601,
+        "name": "Clearance",
         "children": [
           {
-            "id": 11111,
-            "name": "Engine Parts"
+            "id": 6011,
+            "name": "Season End"
           },
           {
-            "id": 11112,
-            "name": "Exterior Parts"
-          },
-          {
-            "id": 11113,
-            "name": "Interior Parts"
+            "id": 6012,
+            "name": "Limited Time"
           }
         ]
       },
       {
-        "id": 1112,
-        "name": "Car Care",
+        "id": 602,
+        "name": "Special Offers",
         "children": [
           {
-            "id": 11121,
-            "name": "Cleaning Products"
+            "id": 6021,
+            "name": "Bundle Deals"
           },
           {
-            "id": 11122,
-            "name": "Tools"
+            "id": 6022,
+            "name": "Flash Sales"
           }
         ]
       }
@@ -40,49 +36,84 @@
   },
   {
     "id": 1,
-    "name": "Travel",
-    "image": "https://shekr-static.vyte.sh/categories/travel.png"
-  },
-  {
-    "id": 2,
-    "name": "Outdoor",
-    "image": "https://shekr-static.vyte.sh/categories/outdoor.png"
-  },
-  {
-    "id": 3,
-    "name": "Art",
-    "image": "https://shekr-static.vyte.sh/categories/art.png",
+    "name": "Home & Decor",
+    "image": "https://shekr-static.vyte.sh/categories/home.png",
     "children": [
       {
-        "id": 1231230101,
-        "name": "Paintings",
+        "id": 1201,
+        "name": "Furniture",
         "children": [
           {
-            "id": 12312301011,
-            "name": "Oil Paintings"
+            "id": 12011,
+            "name": "Living Room"
           },
           {
-            "id": 1231230102,
-            "name": "Watercolor"
+            "id": 12012,
+            "name": "Bedroom"
           },
           {
-            "id": 1231230103,
-            "name": "Acrylic"
+            "id": 12013,
+            "name": "Kitchen"
           }
         ]
       },
       {
-        "id": 1231230102,
-        "name": "Sculptures"
-      },
-      {
-        "id": 1231230103,
-        "name": "Digital Art"
+        "id": 1202,
+        "name": "Decor",
+        "children": [
+          {
+            "id": 12021,
+            "name": "Wall Art"
+          },
+          {
+            "id": 12022,
+            "name": "Lighting"
+          }
+        ]
       }
     ]
   },
   {
-    "id": 4,
+    "id": 2,
+    "name": "Beauty & Wellness",
+    "image": "https://shekr-static.vyte.sh/categories/beauty.png",
+    "children": [
+      {
+        "id": 301,
+        "name": "Skincare",
+        "children": [
+          {
+            "id": 3011,
+            "name": "Face Care"
+          },
+          {
+            "id": 3012,
+            "name": "Body Care"
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Makeup",
+        "children": [
+          {
+            "id": 3021,
+            "name": "Face Makeup"
+          },
+          {
+            "id": 3022,
+            "name": "Eye Makeup"
+          },
+          {
+            "id": 3023,
+            "name": "Lip Products"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
     "name": "Books",
     "image": "https://shekr-static.vyte.sh/categories/books.png",
     "children": [
@@ -125,6 +156,40 @@
     ]
   },
   {
+    "id": 4,
+    "name": "Art",
+    "image": "https://shekr-static.vyte.sh/categories/art.png",
+    "children": [
+      {
+        "id": 1231230101,
+        "name": "Paintings",
+        "children": [
+          {
+            "id": 12312301011,
+            "name": "Oil Paintings"
+          },
+          {
+            "id": 1231230102,
+            "name": "Watercolor"
+          },
+          {
+            "id": 1231230103,
+            "name": "Acrylic"
+          }
+        ]
+      },
+      {
+        "id": 1231230102,
+        "name": "Sculptures"
+      },
+      {
+        "id": 1231230103,
+        "name": "Digital Art"
+      }
+    ]
+  },
+  ,
+  {
     "id": 5,
     "name": "Fashion",
     "image": "https://shekr-static.vyte.sh/categories/boy-fashion.png",
@@ -164,35 +229,39 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Deals",
-    "image": "https://shekr-static.vyte.sh/categories/deals.png",
+    "id": 6, 
+    "name": "Automotive",
+    "image": "https://shekr-static.vyte.sh/categories/automotive.png",
     "children": [
       {
-        "id": 601,
-        "name": "Clearance",
+        "id": 1111,
+        "name": "Car Parts",
         "children": [
           {
-            "id": 6011,
-            "name": "Season End"
+            "id": 11111,
+            "name": "Engine Parts"
           },
           {
-            "id": 6012,
-            "name": "Limited Time"
+            "id": 11112,
+            "name": "Exterior Parts"
+          },
+          {
+            "id": 11113,
+            "name": "Interior Parts"
           }
         ]
       },
       {
-        "id": 602,
-        "name": "Special Offers",
+        "id": 1112,
+        "name": "Car Care",
         "children": [
           {
-            "id": 6021,
-            "name": "Bundle Deals"
+            "id": 11121,
+            "name": "Cleaning Products"
           },
           {
-            "id": 6022,
-            "name": "Flash Sales"
+            "id": 11122,
+            "name": "Tools"
           }
         ]
       }
@@ -383,42 +452,8 @@
   },
   {
     "id": 12,
-    "name": "Home & Decor",
-    "image": "https://shekr-static.vyte.sh/categories/home.png",
-    "children": [
-      {
-        "id": 1201,
-        "name": "Furniture",
-        "children": [
-          {
-            "id": 12011,
-            "name": "Living Room"
-          },
-          {
-            "id": 12012,
-            "name": "Bedroom"
-          },
-          {
-            "id": 12013,
-            "name": "Kitchen"
-          }
-        ]
-      },
-      {
-        "id": 1202,
-        "name": "Decor",
-        "children": [
-          {
-            "id": 12021,
-            "name": "Wall Art"
-          },
-          {
-            "id": 12022,
-            "name": "Lighting"
-          }
-        ]
-      }
-    ]
+    "name": "Travel",
+    "image": "https://shekr-static.vyte.sh/categories/travel.png"
   },
   {
     "id": 13,
@@ -799,42 +834,8 @@
   },
   {
     "id": 26,
-    "name": "Beauty & Wellness",
-    "image": "https://shekr-static.vyte.sh/categories/beauty.png",
-    "children": [
-      {
-        "id": 301,
-        "name": "Skincare",
-        "children": [
-          {
-            "id": 3011,
-            "name": "Face Care"
-          },
-          {
-            "id": 3012,
-            "name": "Body Care"
-          }
-        ]
-      },
-      {
-        "id": 302,
-        "name": "Makeup",
-        "children": [
-          {
-            "id": 3021,
-            "name": "Face Makeup"
-          },
-          {
-            "id": 3022,
-            "name": "Eye Makeup"
-          },
-          {
-            "id": 3023,
-            "name": "Lip Products"
-          }
-        ]
-      }
-    ]
+    "name": "Outdoor",
+    "image": "https://shekr-static.vyte.sh/categories/outdoor.png"
   },
   {
     "id": 27,

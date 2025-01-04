@@ -26,17 +26,17 @@
     "variantsDetails": [
       {
         "name": "Velvet",
-        "price": 249,
+        "price": 25,
         "quantity": 6
       },
       {
         "name": "Nude",
-        "price": 249,
+        "price": 25,
         "quantity": 3
       },
       {
         "name": "Satin",
-        "price": 249,
+        "price": 25,
         "quantity": 5
       }
     ],
