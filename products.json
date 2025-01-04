@@ -2,7 +2,7 @@
   {
     "id": 2,
     "name": "Gold Lipstick",
-    "voucherId": 2,
+    "voucherId": 1,
     "sellerId": 16,
     "category": "Beauty & Wellness",
     "itemStatus": "In Stock",
@@ -106,9 +106,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 14,
+        "reviewRating": 5,
+        "reviewText": "This lipstick is a game-changer! 💄✨ The color payoff is stunning, the formula feels buttery smooth, and it lasts all day without drying out your lips. 💋",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
@@ -253,9 +253,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 15,
+        "reviewRating": 5,
+        "reviewText": "These sneakers are a total win! 👟🔥 Incredibly comfortable, super stylish, and they’re perfect for everything from workouts to casual outings. 💪✨ Your feet will thank you, and so will your style game! 😍👏",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },

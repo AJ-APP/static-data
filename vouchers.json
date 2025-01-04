@@ -4,7 +4,7 @@
     "type": "SHOPPING VOUCHER",
     "title": "PROMOTION",
     "description": "Get ready for summer with our exclusive shopping voucher.",
-    "sellerId": 3,
+    "sellerId": 16,
     "itemStatus": "ACTIVE",
     "discountType": "PERCENTAGE",
     "discount": "20",
