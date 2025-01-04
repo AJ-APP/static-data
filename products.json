@@ -7,14 +7,9 @@
     "category": "Shoes",
     "itemStatus": "In Stock",
     "weight": 4,
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"],
     "variants": {
-      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
-      "colors": [
-        {
-          "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
-        }
-      ]
+      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"]
     },
     "variantsDetails": [
       {
@@ -247,16 +242,9 @@
     "category": "Art",
     "itemStatus": "In Stock",
     "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "red",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png"
-          ]
-        }
-      ]
-    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png"
+    ],
     "variantsDetails": [
       {
         "name": "red",
@@ -1118,19 +1106,11 @@
     "category": "Beauty & Wellness",
     "itemStatus": "In Stock",
     "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "brown",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L50.png"
-          ]}
-      ]
-    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L50.png"
+    ],
     "variantsDetails": [
-      {
-        "name": "brown",
-        "price": 25,
+      {"price": 25,
         "quantity": 10
       }
     ],
