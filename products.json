@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Gold Lipstick",
-    "voucherId": 1,
+    "voucherId": 2,
     "sellerId": 16,
     "category": "Beauty & Wellness",
     "itemStatus": "In Stock",
@@ -132,7 +132,7 @@
     "demoVideo": null
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "RW Snearkers",
     "voucherId": 1,
     "sellerId": 18,
