@@ -601,134 +601,6 @@
   },
   {
     "id": 5,
-    "name": "Denim Jacket",
-    "voucherId": 1,
-    "sellerId": 18,
-    "category": "Men fashion",
-    "itemStatus": "In Stock",
-    "weight": 4,
-    "variants": {
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": [
-        {
-          "name": "blue",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "XS,blue",
-        "price": 90,
-        "quantity": 10
-      },
-      {
-        "name": "S,blue",
-        "price": 90,
-        "quantity": 10
-      },
-      {
-        "name": "M,blue",
-        "price": 150,
-        "quantity": 5
-      },
-      {
-        "name": "L,blue",
-        "price": 150,
-        "quantity": 6
-      },
-      {
-        "name": "XL,blue",
-        "price": 150,
-        "quantity": 0
-      },
-      {
-        "name": "XXL,blue",
-        "price": 150,
-        "quantity": 20
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH1.png",
-        "title": "The Original Jean Jacket \nSince 1967",
-        "description": "Rediscover timeless style with the jacket that started it all. Crafted to perfection, this denim icon combines classic design with modern durability. Whether you're dressing up or down, it's the ultimate wardrobe staple—versatile, rugged, and effortlessly cool since 1967."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH2.png",
-        "title": "Effortlessly Vintage:\nDistressed for Style",
-        "description": "Get that perfect broken-in look without the wait. Expertly distressed for an authentic vintage-inspired feel, this denim jacket delivers lived-in style with all the comfort and character of a well-loved favorite—straight off the rack."
-      }
-    ],
-    "specifications": [
-      {
-        "title":"",
-        "description": "Washed and faded like an old favorite, this trucker jacket made of cotton-blend denim features burnished hardware and a relaxed fit that layers easily when the temperatures drop."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": []
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "Purchases made online can also be returned up to 30 days after purchase, free of charge."
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 6,
     "name": "Chain Ring",
     "sellerId": 5,
     "category": "Women Jewelry",
@@ -856,6 +728,108 @@
     "reviewsCount": 55,
     "unboxingVideo": null,
     "demoVideo": null
+  },
+  {
+    "id": 6,
+    "name": "Pearl Necklace",
+    "sellerId": 5,
+    "category": "Women Jewelry",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Gold",
+        "price": 3700,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH1.jpg",
+        "title": "Ethereal Elegance: Luminous Pearls",
+        "description": "Gracefully adorned with luminous pearls scattered along a delicate chain, this piece exudes timeless sophistication. Perfect for any occasion, it’s a radiant blend of understated beauty and refined charm."}
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Luminous pearls scattered along a delicate chain."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 7,
@@ -1954,60 +1928,86 @@
   },
   {
     "id": 16,
-    "name": "Elsa Peretti",
-    "sellerId": 5,
-    "category": "Women Jewelry",
+    "name": "Denim Jacket",
+    "voucherId": 1,
+    "sellerId": 18,
+    "category": "Men fashion",
     "itemStatus": "In Stock",
-    "weight": 2,
+    "weight": 4,
     "variants": {
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
       "colors": [
         {
-          "name": "Gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.png"
-          ]
+          "name": "blue",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/27.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Gold",
-        "price": 3700,
+        "name": "XS,blue",
+        "price": 90,
         "quantity": 10
+      },
+      {
+        "name": "S,blue",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "M,blue",
+        "price": 150,
+        "quantity": 5
+      },
+      {
+        "name": "L,blue",
+        "price": 150,
+        "quantity": 6
+      },
+      {
+        "name": "XL,blue",
+        "price": 150,
+        "quantity": 0
+      },
+      {
+        "name": "XXL,blue",
+        "price": 150,
+        "quantity": 20
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH1.jpg",
-        "title": "Ethereal Elegance: Luminous Pearls",
-        "description": "Gracefully adorned with luminous pearls scattered along a delicate chain, this piece exudes timeless sophistication. Perfect for any occasion, it’s a radiant blend of understated beauty and refined charm."}
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH1.png",
+        "title": "The Original Jean Jacket \nSince 1967",
+        "description": "Rediscover timeless style with the jacket that started it all. Crafted to perfection, this denim icon combines classic design with modern durability. Whether you're dressing up or down, it's the ultimate wardrobe staple—versatile, rugged, and effortlessly cool since 1967."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DH2.png",
+        "title": "Effortlessly Vintage:\nDistressed for Style",
+        "description": "Get that perfect broken-in look without the wait. Expertly distressed for an authentic vintage-inspired feel, this denim jacket delivers lived-in style with all the comfort and character of a well-loved favorite—straight off the rack."
+      }
     ],
     "specifications": [
       {
-        "title": "",
-        "description": "Luminous pearls scattered along a delicate chain."
+        "title":"",
+        "description": "Washed and faded like an old favorite, this trucker jacket made of cotton-blend denim features burnished hardware and a relaxed fit that layers easily when the temperatures drop."
       }
     ],
     "serviceDetails": [
       {
         "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
+        "label": "Free 30-day returns",
         "description": [
           {
             "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
+            "descriptions": []
           },
           {
             "title": "Return",
             "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
+              "Purchases made online can also be returned up to 30 days after purchase, free of charge."
             ]
           }
         ]
@@ -2051,8 +2051,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 17,
