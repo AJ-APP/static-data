@@ -1,80 +1,6 @@
 [
   {
     "id": 0,
-    "name": "Deals",
-    "image": "https://shekr-static.vyte.sh/categories/deals.png",
-    "children": [
-      {
-        "id": 601,
-        "name": "Clearance",
-        "children": [
-          {
-            "id": 6011,
-            "name": "Season End"
-          },
-          {
-            "id": 6012,
-            "name": "Limited Time"
-          }
-        ]
-      },
-      {
-        "id": 602,
-        "name": "Special Offers",
-        "children": [
-          {
-            "id": 6021,
-            "name": "Bundle Deals"
-          },
-          {
-            "id": 6022,
-            "name": "Flash Sales"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 1,
-    "name": "Home & Decor",
-    "image": "https://shekr-static.vyte.sh/categories/home.png",
-    "children": [
-      {
-        "id": 1201,
-        "name": "Furniture",
-        "children": [
-          {
-            "id": 12011,
-            "name": "Living Room"
-          },
-          {
-            "id": 12012,
-            "name": "Bedroom"
-          },
-          {
-            "id": 12013,
-            "name": "Kitchen"
-          }
-        ]
-      },
-      {
-        "id": 1202,
-        "name": "Decor",
-        "children": [
-          {
-            "id": 12021,
-            "name": "Wall Art"
-          },
-          {
-            "id": 12022,
-            "name": "Lighting"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 2,
     "name": "Beauty & Wellness",
     "image": "https://shekr-static.vyte.sh/categories/beauty.png",
     "children": [
@@ -113,7 +39,118 @@
     ]
   },
   {
+    "id": 1, 
+    "name": "Automotive",
+    "image": "https://shekr-static.vyte.sh/categories/automotive.png",
+    "children": [
+      {
+        "id": 1111,
+        "name": "Car Parts",
+        "children": [
+          {
+            "id": 11111,
+            "name": "Engine Parts"
+          },
+          {
+            "id": 11112,
+            "name": "Exterior Parts"
+          },
+          {
+            "id": 11113,
+            "name": "Interior Parts"
+          }
+        ]
+      },
+      {
+        "id": 1112,
+        "name": "Car Care",
+        "children": [
+          {
+            "id": 11121,
+            "name": "Cleaning Products"
+          },
+          {
+            "id": 11122,
+            "name": "Tools"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Movies & Shows",
+    "image": "https://shekr-static.vyte.sh/categories/movies.png",
+    "children": [
+      {
+        "id": 1601,
+        "name": "Movies",
+        "children": [
+          {
+            "id": 16011,
+            "name": "Action"
+          },
+          {
+            "id": 16012,
+            "name": "Drama"
+          },
+          {
+            "id": 16013,
+            "name": "Comedy"
+          }
+        ]
+      },
+      {
+        "id": 1602,
+        "name": "TV Shows",
+        "children": [
+          {
+            "id": 16021,
+            "name": "Series"
+          },
+          {
+            "id": 16022,
+            "name": "Reality Shows"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 3,
+    "name": "Art",
+    "image": "https://shekr-static.vyte.sh/categories/art.png",
+    "children": [
+      {
+        "id": 1231230101,
+        "name": "Paintings",
+        "children": [
+          {
+            "id": 12312301011,
+            "name": "Oil Paintings"
+          },
+          {
+            "id": 1231230102,
+            "name": "Watercolor"
+          },
+          {
+            "id": 1231230103,
+            "name": "Acrylic"
+          }
+        ]
+      },
+      {
+        "id": 1231230102,
+        "name": "Sculptures"
+      },
+      {
+        "id": 1231230103,
+        "name": "Digital Art"
+      }
+    ]
+  },
+  {
+    "id": 4,
     "name": "Books",
     "image": "https://shekr-static.vyte.sh/categories/books.png",
     "children": [
@@ -152,39 +189,6 @@
             "name": "History"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Art",
-    "image": "https://shekr-static.vyte.sh/categories/art.png",
-    "children": [
-      {
-        "id": 1231230101,
-        "name": "Paintings",
-        "children": [
-          {
-            "id": 12312301011,
-            "name": "Oil Paintings"
-          },
-          {
-            "id": 1231230102,
-            "name": "Watercolor"
-          },
-          {
-            "id": 1231230103,
-            "name": "Acrylic"
-          }
-        ]
-      },
-      {
-        "id": 1231230102,
-        "name": "Sculptures"
-      },
-      {
-        "id": 1231230103,
-        "name": "Digital Art"
       }
     ]
   },
@@ -228,39 +232,35 @@
     ]
   },
   {
-    "id": 6, 
-    "name": "Automotive",
-    "image": "https://shekr-static.vyte.sh/categories/automotive.png",
+    "id": 6,
+    "name": "Deals",
+    "image": "https://shekr-static.vyte.sh/categories/deals.png",
     "children": [
       {
-        "id": 1111,
-        "name": "Car Parts",
+        "id": 601,
+        "name": "Clearance",
         "children": [
           {
-            "id": 11111,
-            "name": "Engine Parts"
+            "id": 6011,
+            "name": "Season End"
           },
           {
-            "id": 11112,
-            "name": "Exterior Parts"
-          },
-          {
-            "id": 11113,
-            "name": "Interior Parts"
+            "id": 6012,
+            "name": "Limited Time"
           }
         ]
       },
       {
-        "id": 1112,
-        "name": "Car Care",
+        "id": 602,
+        "name": "Special Offers",
         "children": [
           {
-            "id": 11121,
-            "name": "Cleaning Products"
+            "id": 6021,
+            "name": "Bundle Deals"
           },
           {
-            "id": 11122,
-            "name": "Tools"
+            "id": 6022,
+            "name": "Flash Sales"
           }
         ]
       }
@@ -678,38 +678,38 @@
   },
   {
     "id": 19,
-    "name": "Movies & Shows",
-    "image": "https://shekr-static.vyte.sh/categories/movies.png",
+    "name": "Home & Decor",
+    "image": "https://shekr-static.vyte.sh/categories/home.png",
     "children": [
       {
-        "id": 1601,
-        "name": "Movies",
+        "id": 1201,
+        "name": "Furniture",
         "children": [
           {
-            "id": 16011,
-            "name": "Action"
+            "id": 12011,
+            "name": "Living Room"
           },
           {
-            "id": 16012,
-            "name": "Drama"
+            "id": 12012,
+            "name": "Bedroom"
           },
           {
-            "id": 16013,
-            "name": "Comedy"
+            "id": 12013,
+            "name": "Kitchen"
           }
         ]
       },
       {
-        "id": 1602,
-        "name": "TV Shows",
+        "id": 1202,
+        "name": "Decor",
         "children": [
           {
-            "id": 16021,
-            "name": "Series"
+            "id": 12021,
+            "name": "Wall Art"
           },
           {
-            "id": 16022,
-            "name": "Reality Shows"
+            "id": 12022,
+            "name": "Lighting"
           }
         ]
       }
