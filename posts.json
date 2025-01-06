@@ -88,19 +88,9 @@
     "id": 3,
     "userId": 9,
     "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "comments": [
-        {
-          "text": "Stunner!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "likes": [],
+      "comments": [],
+      "reposts": [],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     "images": [
