@@ -1692,7 +1692,7 @@
         "AIContent": false
       }
     },
-    "repost": 5
+    "repost": null
   },
   {
     "id": 36,
@@ -1823,7 +1823,7 @@
         "AIContent": false
       }
     },
-    "repost": 5
+    "repost": null
   },
   {
     "id": 37,
@@ -1954,6 +1954,6 @@
         "AIContent": false
       }
     },
-    "repost": 5
+    "repost": null
   }
 ]
