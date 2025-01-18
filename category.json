@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Beauty & Wellness",
-    "image": "https://shekr-static.vyte.sh/categories/beauty.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beauty.png",
     "children": [
       {
         "id": 301,
