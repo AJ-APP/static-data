@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "userId": 3,
+    "userId": 5,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
           "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
           "id": 15,
-          "userId": 15,
+          "userId": 12,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
             "likes": [1, 4, 6, 8, 9, 7, 11, 10]
@@ -196,14 +196,14 @@
   },
   {
     "id": 5,
-    "userId": 5,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
         {
           "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
           "id": 2,
-          "userId": 3,
+          "userId": 5,
           "dateCreated": "2024-10-03T08:14:03.312546",
           "status": {
             "likes": [1, 4, 6, 8, 9, 7, 11, 10]
@@ -239,7 +239,7 @@
   },
   {
     "id": 6,
-    "userId": 5,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -449,7 +449,7 @@
   },
   {
     "id": 11,
-    "userId": 13,
+    "userId": 10,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -491,7 +491,7 @@
   },
   {
     "id": 12,
-    "userId": 7,
+    "userId": 10,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -655,7 +655,7 @@
   },
   {
     "id": 16,
-    "userId": 4,
+    "userId": 11,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -697,7 +697,7 @@
   },
   {
     "id": 17,
-    "userId": 5,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -739,7 +739,7 @@
   },
   {
     "id": 18,
-    "userId": 1,
+    "userId": 3,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -818,7 +818,7 @@
   },
   {
     "id": 19,
-    "userId": 2,
+    "userId": 9,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -904,7 +904,7 @@
   },
   {
     "id": 21,
-    "userId": 15,
+    "userId": 12,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -990,7 +990,7 @@
   },
   {
     "id": 23,
-    "userId": 5,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1032,7 +1032,7 @@
   },
   {
     "id": 24,
-    "userId": 5,
+    "userId": 3,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1111,7 +1111,7 @@
   },
   {
     "id": 25,
-    "userId": 5,
+    "userId": 2,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1154,7 +1154,7 @@
   },
   {
     "id": 26,
-    "userId": 5,
+    "userId": 11,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1240,7 +1240,7 @@
   },
   {
     "id": 28,
-    "userId": 1,
+    "userId": 11,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
       "comments": [
@@ -1398,7 +1398,7 @@
   },
   {
     "id": 29,
-    "userId": 1,
+    "userId": 11,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1439,7 +1439,7 @@
   },
   {
     "id": 30,
-    "userId": 1,
+    "userId": 9,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1525,7 +1525,7 @@
   },
   {
     "id": 32,
-    "userId": 9,
+    "userId": 3,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1568,7 +1568,7 @@
   },
   {
     "id": 33,
-    "userId": 1,
+    "userId": 8,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1610,7 +1610,7 @@
     "repost": 5
   },{
     "id": 34,
-    "userId": 1,
+    "userId": 21,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1653,7 +1653,7 @@
   },
   {
     "id": 35,
-    "userId": 1,
+    "userId": 8,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -1934,7 +1934,7 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/pod.jpg",
+    "images": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/pod.png",
     "title": "Culture Pulse:\nAI, Trends, and the Future of Creativity",
     "description": "🎙️ New Culture Pulse episode just dropped! This week, we dive into the rise of AI-generated content and its impact on art, music, and storytelling. Is AI stifling creativity or unlocking a new era of innovation? 🤔\n\nFeaturing insights from top creators and tech pioneers, we explore how this game-changing technology is shaping the cultural landscape and redefining what it means to be creative.\n\nListen now and join the conversation! Available on Spotify, Apple Podcasts, and wherever you get your podcasts.",
     "video": null,
