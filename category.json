@@ -41,7 +41,7 @@
   {
     "id": 1, 
     "name": "Automotive",
-    "image": "https://shekr-static.vyte.sh/categories/automotive.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Automotive.png",
     "children": [
       {
         "id": 1111,
@@ -80,7 +80,7 @@
   {
     "id": 2,
     "name": "Movies & Shows",
-    "image": "https://shekr-static.vyte.sh/categories/movies.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Movies.png",
     "children": [
       {
         "id": 1601,
