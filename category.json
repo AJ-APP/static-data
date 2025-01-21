@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Beauty & Wellness",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beauty.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beauty2.png",
     "children": [
       {
         "id": 301,
@@ -119,7 +119,7 @@
   {
     "id": 3,
     "name": "Art",
-    "image": "https://shekr-static.vyte.sh/categories/art.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Art.png",
     "children": [
       {
         "id": 1231230101,
@@ -152,7 +152,7 @@
   {
     "id": 4,
     "name": "Books",
-    "image": "https://shekr-static.vyte.sh/categories/books.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Book.png",
     "children": [
       {
         "id": 401,
@@ -194,8 +194,8 @@
   },
   {
     "id": 5,
-    "name": "Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/boy-fashion.png",
+    "name": "Boy Fashion",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Boy.png",
     "children": [
       {
         "id": 501,
@@ -234,7 +234,7 @@
   {
     "id": 6,
     "name": "Deals",
-    "image": "https://shekr-static.vyte.sh/categories/deals.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Deals.png",
     "children": [
       {
         "id": 601,
@@ -269,7 +269,7 @@
   {
     "id": 7,
     "name": "Design",
-    "image": "https://shekr-static.vyte.sh/categories/design.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Design.png",
     "children": [
       {
         "id": 701,
@@ -304,7 +304,7 @@
   {
     "id": 8,
     "name": "DIY & Gardening",
-    "image": "https://shekr-static.vyte.sh/categories/diy.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DIY.png",
     "children": [
       {
         "id": 801,
@@ -339,7 +339,7 @@
   {
     "id": 9,
     "name": "Food & Nutrition",
-    "image": "https://shekr-static.vyte.sh/categories/food.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Food.png",
     "children": [
       {
         "id": 901,
@@ -374,7 +374,7 @@
   {
     "id": 10,
     "name": "Gender Neutral Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/gender-neutral-fashion.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Neutral fashion.png",
     "children": [
       {
         "id": 1001,
@@ -413,7 +413,7 @@
   {
     "id": 11,
     "name": "Girl Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/girl-fashion.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Girl.png",
     "children": [
       {
         "id": 1101,
@@ -452,12 +452,12 @@
   {
     "id": 12,
     "name": "Travel",
-    "image": "https://shekr-static.vyte.sh/categories/travel.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel.png"
   },
   {
     "id": 13,
     "name": "Anime & Comics",
-    "image": "https://shekr-static.vyte.sh/categories/manga.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Comics.png",
     "children": [
       {
         "id": 1301,
@@ -496,7 +496,7 @@
   {
     "id": 14,
     "name": "Men Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/men-fashion.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Men Fashion.png",
     "children": [
       {
         "id": 1401,
@@ -535,7 +535,7 @@
   {
     "id": 15,
     "name": "Jewelry",
-    "image": "https://shekr-static.vyte.sh/categories/men-jewelry.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Men Jewlry.png",
     "children": [
       {
         "id": 1501,
@@ -570,7 +570,7 @@
   {
     "id": 16,
     "name": "Baby & Pregnancy",
-    "image": "https://shekr-static.vyte.sh/categories/baby.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Baby.png",
     "children": [
       {
         "id": 201,
@@ -609,7 +609,7 @@
   {
     "id": 17,
     "name": "Music",
-    "image": "https://shekr-static.vyte.sh/categories/music.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Music.png",
     "children": [
       {
         "id": 1701,
@@ -644,7 +644,7 @@
   {
     "id": 18,
     "name": "News",
-    "image": "https://shekr-static.vyte.sh/categories/news.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/News.png",
     "children": [
       {
         "id": 1801,
@@ -679,7 +679,7 @@
   {
     "id": 19,
     "name": "Home & Decor",
-    "image": "https://shekr-static.vyte.sh/categories/home.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Home.png",
     "children": [
       {
         "id": 1201,
@@ -718,17 +718,17 @@
   {
     "id": 20,
     "name": "Personal Development",
-    "image": "https://shekr-static.vyte.sh/categories/personal-development.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Personal.png"
   },
   {
     "id": 21,
     "name": "Pets & Animals",
-    "image": "https://shekr-static.vyte.sh/categories/pets.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Pet.png"
   },
   {
     "id": 22,
     "name": "Sport",
-    "image": "https://shekr-static.vyte.sh/categories/sport.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Sport.png",
     "children": [
       {
         "id": 221,
@@ -763,12 +763,12 @@
   {
     "id": 23,
     "name": "Stationary",
-    "image": "https://shekr-static.vyte.sh/categories/stationary.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Stationary.png"
   },
   {
     "id": 24,
     "name": "Technology & Electronics",
-    "image": "https://shekr-static.vyte.sh/categories/technology.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Technology.png",
     "children": [
       {
         "id": 241,
@@ -829,17 +829,17 @@
   {
     "id": 25,
     "name": "Toys & Hobbies",
-    "image": "https://shekr-static.vyte.sh/categories/toys.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Toys.png"
   },
   {
     "id": 26,
     "name": "Outdoor",
-    "image": "https://shekr-static.vyte.sh/categories/outdoor.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Outdoor.png"
   },
   {
     "id": 27,
     "name": "Video-Games",
-    "image": "https://shekr-static.vyte.sh/categories/video-game.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Video.png",
     "children": [
       {
         "id": 271,
@@ -878,11 +878,11 @@
   {
     "id": 28,
     "name": "Women Fashion",
-    "image": "https://shekr-static.vyte.sh/categories/women-fashion.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Women fashion.png"
   },
   {
     "id": 29,
     "name": "Women Jewelry",
-    "image": "https://shekr-static.vyte.sh/categories/women-jewelry.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Women jewlry.png"
   }
 ]
