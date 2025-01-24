@@ -609,7 +609,7 @@
   {
     "id": 17,
     "name": "Music",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Music.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Music2.png",
     "children": [
       {
         "id": 1701,
@@ -834,7 +834,7 @@
   {
     "id": 26,
     "name": "Outdoor",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Outdoor.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Outdoor2.png"
   },
   {
     "id": 27,
