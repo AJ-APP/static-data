@@ -50,7 +50,7 @@
     "title": "GET â‚¬20 OFF\nYOUR FIRST\nADVERT",
     "section": 7,
     "type": "banner",
-    "bannerConfig": { "hideBanner": true }
+    "bannerConfig": { "hideBanner": false }
   },
   {
     "title": "Recommendations From Your Favorite Streamer",

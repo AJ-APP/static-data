@@ -70,7 +70,7 @@
     "section": 7,
     "type": "banner",
     "bannerConfig": {
-      "hideBanner": true
+      "hideBanner": false
     }
   },
   {
