@@ -47,12 +47,6 @@
     }
   },
   {
-    "title": "GET â‚¬20 OFF\nYOUR FIRST\nADVERT",
-    "section": 7,
-    "type": "banner",
-    "bannerConfig": { "hideBanner": false }
-  },
-  {
     "title": "Recommendations From Your Favorite Streamer",
     "section": 7,
     "type": "related",

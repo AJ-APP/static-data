@@ -66,14 +66,6 @@
     }
   },
   {
-    "title": "GET â‚¬20 OFF\nYOUR FIRST\nADVERT",
-    "section": 7,
-    "type": "banner",
-    "bannerConfig": {
-      "hideBanner": false
-    }
-  },
-  {
     "title": "Sellers we think you will like",
     "section": 8,
     "type": "recommended",
