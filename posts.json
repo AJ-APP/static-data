@@ -1111,10 +1111,100 @@
   },
   {
     "id": 25,
-    "userId": 2,
+    "userId": 22,
     "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "likes": [1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
       "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
         {
           "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
           "id": 2,
@@ -1128,16 +1218,14 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/salon.jpeg"
-    ],
-    "title": "Timeless Elegance in a Narrow Space",
-    "description": "Creating beauty in a narrow living room is no easy feat, but this space proves that great design has no limits. The dark brown fishbone wood flooring lays the foundation, exuding a sense of warmth and sophistication that immediately draws you in.\n\nEvery piece of furniture tells a story—a harmonious blend of old-world charm and modern luxury. A vintage sideboard complements the sleek lines of contemporary armchairs, while a statement marble coffee table anchors the room with understated elegance. Soft, neutral tones in the upholstery are balanced by the rich texture of aged wood and subtle metallic accents.\n\nThe space feels intimate yet open, thanks to clever layouts and thoughtful decor that highlight its best features. It’s a perfect reminder that even the most challenging spaces can become works of art with the right touch.",
+    "images": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/papaya.jpg",
+    "title": "This Unexpected Beauty Hack Is better Than Expensive Skincare.",
+    "description": "Did you know that papaya isn’t just a delicious fruit—it’s also a skincare powerhouse? 🍃💖\n\n✅ Rich in Vitamin C for a natural glow ✨\n✅ Contains papain enzyme to gently exfoliate dead skin 🧖‍♀️\n✅ Helps fade dark spots and even out skin tone 🌟\n✅ Hydrates and nourishes for soft, radiant skin 💦\n\nForget expensive creams—nature has already provided the perfect beauty hack! Just mash some fresh papaya, apply it as a mask for 10-15 minutes, and watch your skin glow! 🍑💛\n\nWould you try this? Let us know in the comments! 👇👇",
     "video": null,
     "recording": null,
-    "category": "HOME & DECOR",
+    "category": "BEAUTY & WELLNESS",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["HomeAndDecor", "LuxuryLiving", "TimelessDesign"],
+    "hashtags": ["PapayaGlow", "NaturalSkincare", "BeautyHack", "AffordableBeauty", "GlowingSkin"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -1150,7 +1238,7 @@
         "AIContent": false
       }
     },
-    "repost": 5
+    "repost": null
   },
   {
     "id": 26,
@@ -1942,137 +2030,6 @@
     "category": "TECHNOLOGY",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["AI", "innovation", "culturetrends", "creativityunleashed", "podcast"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": null
-  },
-  {
-    "id": 38,
-    "userId": 22,
-    "status": {
-      "likes": [1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/papaya.jpg",
-    "title": "This Unexpected Beauty Hack Is better Than Expensive Skincare.",
-    "description": "Did you know that papaya isn’t just a delicious fruit—it’s also a skincare powerhouse? 🍃💖\n\n✅ Rich in Vitamin C for a natural glow ✨\n✅ Contains papain enzyme to gently exfoliate dead skin 🧖‍♀️\n✅ Helps fade dark spots and even out skin tone 🌟\n✅ Hydrates and nourishes for soft, radiant skin 💦\n\nForget expensive creams—nature has already provided the perfect beauty hack! Just mash some fresh papaya, apply it as a mask for 10-15 minutes, and watch your skin glow! 🍑💛\n\nWould you try this? Let us know in the comments! 👇👇",
-    "video": null,
-    "recording": null,
-    "category": "BEAUTY & WELLNESS",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["PapayaGlow", "NaturalSkincare", "BeautyHack", "AffordableBeauty", "GlowingSkin"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
