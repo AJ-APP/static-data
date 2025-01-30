@@ -623,6 +623,36 @@
     "storeId": 2
   },
   {
+    "id": 22,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/rafaella.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Yizon1.jpeg",
+    "tagLine": "Glow naturally, shine effortlessly. ✨🍃",
+    "firstName": "Lila",
+    "lastName": "Rivera",
+    "gender": "female",
+    "username": "SkinByLila",
+    "email": "yizon@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "💖 DIY Skincare | Affordable Beauty Hacks 🌿\n📍 Natural glow, no filters needed!\n💌 Let’s get radiant together! #SkinByLila",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
     "id": 242424,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Z2.jpg",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
