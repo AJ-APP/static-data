@@ -1,13 +1,13 @@
 {
   "id": 242424,
-  "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/mia.jpg",
+  "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/emma.png",
   "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
   "tagLine": "Podcast & live streams",
-  "firstName": "Mia",
-  "lastName": "Alvarez",
+  "firstName": "Emma",
+  "lastName": "Laurent",
   "gender": "female",
-  "username": "Olivia",
-  "email": "wildwithmateo@email.com",
+  "username": "LifeWithEmma",
+  "email": "LifeWithEmma@email.com",
   "phoneNumber": "123123123",
   "dateOfBirth": "2000-01-01T00:00:00.000Z",
   "followers": [
@@ -34,7 +34,7 @@
     11,
     12
   ],
-  "description": "Hey, I’m Mateo—outdoor lover and adventure seeker from the mountains of Patagonia. 🏔️ Whether it’s trekking through remote trails, setting up camp in the wilderness, or soaking in the beauty of untouched landscapes, I’m here to share my journey with you. My feed is packed with epic views, practical gear tips, and the stories behind every adventure. Let’s connect and explore the wild together!",
+  "description": "🎥 Sharing everyday finds & random life hacks\n💡 From beauty to food & everything in between!\n📍 Just having fun & figuring things out 😆",
   "interests": [
     1,
     5,

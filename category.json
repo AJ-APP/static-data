@@ -79,42 +79,8 @@
   },
   {
     "id": 2,
-    "name": "Movies & Shows",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Movies.png",
-    "children": [
-      {
-        "id": 1601,
-        "name": "Movies",
-        "children": [
-          {
-            "id": 16011,
-            "name": "Action"
-          },
-          {
-            "id": 16012,
-            "name": "Drama"
-          },
-          {
-            "id": 16013,
-            "name": "Comedy"
-          }
-        ]
-      },
-      {
-        "id": 1602,
-        "name": "TV Shows",
-        "children": [
-          {
-            "id": 16021,
-            "name": "Series"
-          },
-          {
-            "id": 16022,
-            "name": "Reality Shows"
-          }
-        ]
-      }
-    ]
+    "name": "Travel",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel.png"
   },
   {
     "id": 3,
@@ -451,8 +417,42 @@
   },
   {
     "id": 12,
-    "name": "Travel",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel.png"
+    "name": "Movies & Shows",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Movies.png",
+    "children": [
+      {
+        "id": 1601,
+        "name": "Movies",
+        "children": [
+          {
+            "id": 16011,
+            "name": "Action"
+          },
+          {
+            "id": 16012,
+            "name": "Drama"
+          },
+          {
+            "id": 16013,
+            "name": "Comedy"
+          }
+        ]
+      },
+      {
+        "id": 1602,
+        "name": "TV Shows",
+        "children": [
+          {
+            "id": 16021,
+            "name": "Series"
+          },
+          {
+            "id": 16022,
+            "name": "Reality Shows"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 13,
