@@ -80,7 +80,7 @@
   {
     "id": 2,
     "name": "Travel",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Travel2.png"
   },
   {
     "id": 3,
@@ -118,7 +118,7 @@
   {
     "id": 4,
     "name": "Books",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Book.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Book2.png",
     "children": [
       {
         "id": 401,
@@ -570,7 +570,7 @@
   {
     "id": 16,
     "name": "Baby & Pregnancy",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Baby.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Baby2.png",
     "children": [
       {
         "id": 201,
@@ -878,7 +878,7 @@
   {
     "id": 28,
     "name": "Women Fashion",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Women fashion.png"
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Women fashion2.png"
   },
   {
     "id": 29,
