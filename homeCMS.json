@@ -4,7 +4,7 @@
     "section": 1,
     "type": "posts",
     "postConfig": {
-      "postIds": [25, 31, 32, 33, 34],
+      "postIds": [25, 38, 32, 33, 34],
       "limit": 10
     }
   },
@@ -27,7 +27,7 @@
     "section": 4,
     "type": "debates",
     "debatesConfig": {
-      "postIds": [1, 2, 38]
+      "postIds": [1, 2, 8]
     }
   },
   {
