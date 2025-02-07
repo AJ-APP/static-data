@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Summer fashion for men",
+    "section": 1,
+    "type": "favoriteFolders",
+    "favoriteFolderConfig": {
+      "favoriteFolderIds": ["1", "2", "3", "4", "5", "6"]
+    }
+  },
+  {
+    "title": "Category",
+    "section": 2,
+    "type": "category"
+  },
+  {
+    "title": "Make-up sessions",
+    "section": 3,
+    "type": "favoriteFolders",
+    "favoriteFolderConfig": {
+      "favoriteFolderIds": ["1", "2", "3", "4"]
+    }
+  },
+  {
+    "title": "Streamers we think you like",
+    "section": 4,
+    "type": "recommended",
+    "recommendedConfig": {
+      "userIds": [1, 2, 3, 4]
+    }
+  },
+  {
+    "title": "Top Trending Favorites",
+    "section": 5,
+    "type": "favoriteFolders",
+    "favoriteFolderConfig": {
+      "favoriteFolderIds": ["1", "2", "3", "4"]
+    }
+  }
+]
