@@ -23,10 +23,8 @@
     "title": "Bestsellers",
     "section": 2,
     "type": "products",
-    "productConfig": {
-      "productIds": [21,1, 2, 3, 4, 5, 6, 7],
-      "rows": 1,
-      "limit": 10
+    "recommendedConfig": {
+      "productIds": [21,1, 2, 3, 4, 5, 6, 7]
     }
   },
   {
