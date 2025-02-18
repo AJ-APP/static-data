@@ -2562,61 +2562,26 @@
   },
   {
     "id": 21,
-    "name": "Classic jacket",
+    "name": "Papaya Sorbet Enzyme",
     "voucherId": 1,
     "sellerId": 6,
-    "category": "Men's Fashion",
+    "category": "Beauty & Wellness",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "blue",
+          "name": "Orange",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
-          ]
-        },
-        {
-          "name": "black",
-          "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
-          ]
-        },
-        {
-          "name": "brown",
-          "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
-          ]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/GLP.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "brown",
-        "price": 9.95,
-        "quantity": 15
-      },
-      {
-        "name": "black",
-        "price": 7.95,
-        "quantity": 8
-      }
+        "name": "orange",
+        "price": 15,
+        "quantity": 10}
     ],
     "features": [
       {
