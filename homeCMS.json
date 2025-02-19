@@ -1,6 +1,6 @@
 [
   {
-    "title": "Trending Now",
+    "title": "Trending now",
     "section": 1,
     "type": "posts",
     "postConfig": {
@@ -31,7 +31,7 @@
     }
   },
   {
-    "title": "Chasing Adventures",
+    "title": "Chasing adventures",
     "section": 5,
     "type": "posts",
     "postConfig": {
