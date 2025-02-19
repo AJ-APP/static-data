@@ -23,8 +23,10 @@
     "title": "Bestsellers",
     "section": 2,
     "type": "products",
-    "recommendedConfig": {
-      "productIds": [21,1, 2, 3, 4, 5, 6, 7]
+    "productConfig": {
+      "hasCategoryFilter": true,
+      "rows": 1,
+      "limit": 10
     }
   },
   {
@@ -64,7 +66,7 @@
     }
   },
   {
-    "title": "Sellers we think you will like",
+    "title": "Brands we think you will like",
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
