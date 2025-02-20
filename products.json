@@ -116,9 +116,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 22,
+        "reviewRating": 5,
+        "reviewText": "✨Lightweight and hydrating! Absorbs quickly, leaving my skin soft and radiant. Love the gentle scent!",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
