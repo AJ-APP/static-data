@@ -1,45 +1,46 @@
 [
   {
-    "id": 1,
-    "name": "Papaya Sorbet Enzyme",
-    "voucherId": 1,
-    "sellerId": 16,
-    "category": "Beauty & Wellness",
+    "id": 0,
+    "name": "Striped Flag Knitted Sweater",
+    "sellerId": 5,
+    "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Orange",
+          "name": "Blue & Red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/GLP.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Striped.png"
+          ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "orange",
-        "price": 15,
-        "quantity": 10}
+        "name": "Blue & Red",
+        "price": 150,
+        "quantity": 10
+      }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
+        "title": "Durable Grip",
+        "description": "Engineered for superior grip, ensuring optimal control during play."
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
+        "title": "Weather Resistant",
+        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
+        "title": "Official Size",
+        "description": "Meets official size and weight standards for professional play."
       }
     ],
     "specifications": [
@@ -116,9 +117,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 22,
-        "reviewRating": 5,
-        "reviewText": "✨Lightweight and hydrating! Absorbs quickly, leaving my skin soft and radiant. Love the gentle scent!",
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
@@ -142,7 +143,7 @@
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "Gold Lipstick",
     "voucherId": 1,
     "sellerId": 13,
@@ -274,7 +275,7 @@
     "demoVideo": null
   },
   {
-    "id": 0,
+    "id": 2,
     "name": "RW Snearkers",
     "voucherId": 1,
     "sellerId": 15,
@@ -2846,25 +2847,25 @@
   },
   {
     "id": 22,
-    "name": "Spalding Basketball",
+    "name": "Striped Flag Knitted Sweater",
     "sellerId": 5,
-    "category": "Sport",
+    "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "orange",
+          "name": "Blue & Red",
           "images": [
-            "https://spaldingphilippines.com/cdn/shop/products/ReactTF250FIBA-AvailableModels_2048x.jpg?v=1674813168"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Striped.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "orange",
-        "price": 20.95,
+        "name": "Blue & Red",
+        "price": 150,
         "quantity": 10
       }
     ],
