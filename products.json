@@ -3569,15 +3569,15 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 25,
-    "name": "Classic jacket",
+    "name": "Oly Stool",
     "voucherId": 1,
     "sellerId": 6,
-    "category": "Men's Fashion",
+    "category": "Home & Decor",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -3585,25 +3585,19 @@
         {
           "name": "blue",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png",
-            "https://shekr-static.vyte.sh/products/jacket.png",
-            "https://shekr-static.vyte.sh/products/jacket.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_bl.png"
           ]
         },
         {
           "name": "black",
           "images": [
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg",
-            "https://captivity.co.za/wp-content/uploads/2023/04/Alaska-Puffer-Jacket-Navy1.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_b.png"
           ]
         },
         {
-          "name": "brown",
+          "name": "Green",
           "images": [
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg",
-            "https://yi-files.yellowimages.com/products/1603000/1603164/2570117-cover.jpg"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_g.png"
           ]
         }
       ]
@@ -3611,23 +3605,18 @@
     "variantsDetails": [
       {
         "name": "blue",
-        "price": 7.95,
+        "price": 339,
         "quantity": 10
-      },
-      {
-        "name": "blue",
-        "price": 7.95,
-        "quantity": 10
-      },
-      {
-        "name": "brown",
-        "price": 9.95,
-        "quantity": 15
       },
       {
         "name": "black",
-        "price": 7.95,
-        "quantity": 8
+        "price": 339,
+        "quantity": 10
+      },
+      {
+        "name": "green",
+        "price": 339,
+        "quantity": 15
       }
     ],
     "features": [
@@ -3746,7 +3735,317 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 26,
+    "name": "Wem Chair",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Home & Decor",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "red",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/chair_r.png"
+          ]
+        },
+        {
+          "name": "black",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/chair_b.png"
+          ]
+        },
+        {
+          "name": "Green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/chair_v.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 389,
+        "quantity": 10
+      },
+      {
+        "name": "black",
+        "price": 389,
+        "quantity": 10
+      },
+      {
+        "name": "green",
+        "price": 389,
+        "quantity": 15
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 27,
+    "name": "Dany Dining Table",
+    "voucherId": 1,
+    "sellerId": 6,
+    "category": "Home & Decor",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Oak",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Table.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Oak",
+        "price": 1149,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 2,
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      },
+      {
+        "id": 3,
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
   }
 ]
