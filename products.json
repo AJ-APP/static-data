@@ -2,7 +2,7 @@
   {
     "id": -2,
     "name": "Striped Flag Knitted Sweater",
-    "sellerId": 5,
+    "sellerId": 23,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -146,7 +146,7 @@
     "id": -1,
     "name": "Leopard Brushed Knitted Sweater",
     "voucherId": 1,
-    "sellerId": 6,
+    "sellerId": 23,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -283,7 +283,7 @@
   {
     "id": 0,
     "name": "Bark Boxy Hooded Sweater",
-    "sellerId": 5,
+    "sellerId": 23,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -3140,7 +3140,7 @@
   {
     "id": 22,
     "name": "Striped Flag Knitted Sweater",
-    "sellerId": 5,
+    "sellerId": 23,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -3284,7 +3284,7 @@
     "id": 23,
     "name": "Leopard Brushed Knitted Sweater",
     "voucherId": 1,
-    "sellerId": 6,
+    "sellerId": 23,
     "category": "Men's Fashion",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -3421,7 +3421,7 @@
   {
     "id": 24,
     "name": "Bark Boxy Hooded Sweater",
-    "sellerId": 5,
+    "sellerId": 23,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
     "weight": 2,

@@ -653,47 +653,33 @@
     "storeId": 2
   },
   {
-    "id": 242424,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Z2.jpg",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
-    "tagLine": "Podcast & live streams",
-    "firstName": "Michael",
-    "lastName": "Alvarez",
+    "id": 23,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-02-24 at 12.52.32.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 415.jpg",
+    "tagLine": "Out of love and necessity rather than profit or novelty",
+    "firstName": "Patta",
+    "lastName": null,
     "gender": "male",
-    "username": "Sneakerswithmia",
-    "email": "wildwithmateo@email.com",
+    "username": "Patta",
+    "email": "patta@me.com",
     "phoneNumber": "123123123",
-    "dateOfBirth": "2000-01-01T00:00:00.000Z",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
     "followers": [
-      2,
-      3,
-      5,
-      6,
-      7,
-      9,
       1,
-      10,
-      11,
-      12
+      3,
+      7
     ],
     "following": [
-      2,
-      3,
-      4,
       5,
       6,
-      9,
-      1,
-      10,
-      11,
       12
     ],
-    "description": "Hey, I’m Mateo—outdoor lover and adventure seeker from the mountains of Patagonia. 🏔️ Whether it’s trekking through remote trails, setting up camp in the wilderness, or soaking in the beauty of untouched landscapes, I’m here to share my journey with you. My feed is packed with epic views, practical gear tips, and the stories behind every adventure. Let’s connect and explore the wild together!",
+    "description": "Official SHEKR page fro Patta Amsterdam, Patta London, Patta Milan and Patta Lagos.",
     "interests": [
-      1,
-      5,
-      8
+      19,
+      21
     ],
-    "isShekrMember": false
-  }  
+    "isShekrMember": false,
+    "storeId": 2
+  }
 ]
