@@ -801,5 +801,35 @@
     ],
     "isShekrMember": false,
     "storeId": 2
+  },
+  {
+    "id": 27,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DPLN.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 415.jpg",
+    "tagLine": "Lifestyle | Travel | Fashion.",
+    "firstName": "Sofia",
+    "lastName": "Laurent",
+    "gender": "female",
+    "username": "leilascenes",
+    "email": "leila@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "🌎 Exploring the world, one outfit & adventure at a time\n🎥 Real moments, aesthetic edits & travel diaries",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
   }
 ]
