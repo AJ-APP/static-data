@@ -3575,7 +3575,7 @@
   {
     "id": 25,
     "name": "Oly Stool",
-    "voucherId": 1,
+    "voucherId": null,
     "sellerId": 6,
     "category": "Home & Decor",
     "itemStatus": "In Stock",
