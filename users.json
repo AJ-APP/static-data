@@ -691,7 +691,7 @@
     "lastName": "Silva",
     "gender": "male",
     "username": "stylebymarcus",
-    "email": "patta@me.com",
+    "email": "marcus@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1990-06-13T00:00:00.000Z",
     "followers": [
@@ -705,6 +705,96 @@
       12
     ],
     "description": "👕 Fashion | Sneakers | Culture\n🎬 Daily fits, trend breakdowns & collabs\n💡 Here to inspire your next look with effortless style",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 25,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-02-24 at 12.14.52.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 415.jpg",
+    "tagLine": "Aesthetic style inspiration.",
+    "firstName": "Noah",
+    "lastName": "Carter",
+    "gender": "male",
+    "username": "noahcaptured",
+    "email": "noah@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "📷 Visual storyteller | Urban & Lifestyle Aesthetics\n🎥 Cinematic vlogs, street style & behind-the-scenes",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 26,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-02-24 at 12.20.34.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 415.jpg",
+    "tagLine": "Everyday scenes, timeless visuals.",
+    "firstName": "Leila",
+    "lastName": "Mendez",
+    "gender": "female",
+    "username": "leilascenes",
+    "email": "leila@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "🎨 Art | DIY | Aesthetic Living\n✨ From canvas to fashion & home décor—turning ideas into visuals",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 27,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-02-24 at 12.20.34.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 415.jpg",
+    "tagLine": "Lifestyle | Travel | Fashion.",
+    "firstName": "Sofia",
+    "lastName": "Laurent",
+    "gender": "female",
+    "username": "leilascenes",
+    "email": "leila@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "🌎 Exploring the world, one outfit & adventure at a time\n🎥 Real moments, aesthetic edits & travel diaries",
     "interests": [
       19,
       21
