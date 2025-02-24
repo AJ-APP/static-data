@@ -14,11 +14,11 @@
     "type": "category"
   },
   {
-    "title": "The Fast Lane",
+    "title": "Summer 2025 collections",
     "section": 3,
     "type": "posts",
     "postConfig": {
-      "postIds": [20, 21, 22],
+      "postIds": [39, 40, 41, 43, 44],
       "limit": 10
     }
   },
@@ -68,6 +68,15 @@
     "type": "posts",
     "postConfig": {
       "category": "ART"
+    }
+  },
+  {
+    "title": "The Fast Lane",
+    "section": 3,
+    "type": "posts",
+    "postConfig": {
+      "postIds": [20, 21, 22],
+      "limit": 10
     }
   }
 ]
