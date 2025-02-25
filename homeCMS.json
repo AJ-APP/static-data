@@ -14,15 +14,6 @@
     "type": "category"
   },
   {
-    "title": "Summer 2025 collections",
-    "section": 3,
-    "type": "posts",
-    "postConfig": {
-      "postIds": [39, 40, 42, 43],
-      "limit": 10
-    }
-  },
-  {
     "title": "Posts that start debates",
     "section": 4,
     "type": "debates",
