@@ -4977,7 +4977,7 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DPR1.jpg"],
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 7.png", "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DPR1.jpg"],
     "title": "Denim Military Aesthetic",
     "description": "Daily Paper takes inspiration from military wear, adding a monogram pattern that makes this bomber anything but standard-issue. The structured silhouette and heavyweight denim make it a standout piece for any season.",
     "video": null,
