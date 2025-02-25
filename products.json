@@ -1657,7 +1657,7 @@
   },
   {
     "id": 10,
-    "name": "KTM 450 XC-F",
+    "name": "Dirtbike 450 XC-F",
     "voucherId": 1,
     "sellerId": 8,
     "category": "Automotive",
@@ -2132,7 +2132,7 @@
   {
     "id": 14,
     "name": "Breeding Earings",
-    "sellerId": 9,
+    "sellerId": 19,
     "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -2492,7 +2492,7 @@
   {
     "id": 17,
     "name": "Viscid Ring",
-    "sellerId": 9,
+    "sellerId": 19,
     "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -3027,7 +3027,7 @@
   {
     "id": 21,
     "name": "CIF earrings set No.2",
-    "sellerId": 9,
+    "sellerId": 19,
     "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
