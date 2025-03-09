@@ -1,6 +1,35 @@
 [
   {
     "id": 0,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
+    "tagLine": "Dreaming in 5th gear.",
+    "firstName": "Lucca",
+    "lastName": "Janssen",
+    "gender": "male",
+    "username": "StyleWithLucca",
+    "email": "stylewithLucca@email.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1992-07-25T00:00:00.000Z",
+    "followers": [
+      3,
+      6,
+      8
+    ],
+    "following": [
+      1,
+      5,
+      7
+    ],
+    "description": "Hey, I’m Lucca a laid-back guy who thinks great style should feel as easy as your favorite hoodie. From timeless sneakers to layered looks that work year-round, I’m all about making fashion approachable. 🇳🇱 Based in Rotterdam, sharing casual fits, quick tips, and a bit of everyday life. Come for the style inspo, stay for the chill vibes!",
+    "interests": [
+      12
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 1,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image-456830155.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
     "tagLine": "If you have a body, you are an athlete.",
@@ -25,35 +54,6 @@
     "interests": [
       19,
       21
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 1,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
-    "tagLine": "Dreaming in 5th gear.",
-    "firstName": "Lucca",
-    "lastName": "Janssen",
-    "gender": "male",
-    "username": "StyleWithLucca",
-    "email": "stylewithLucca@email.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1992-07-25T00:00:00.000Z",
-    "followers": [
-      3,
-      6,
-      8
-    ],
-    "following": [
-      1,
-      5,
-      7
-    ],
-    "description": "Hey, I’m Lucca a laid-back guy who thinks great style should feel as easy as your favorite hoodie. From timeless sneakers to layered looks that work year-round, I’m all about making fashion approachable. 🇳🇱 Based in Rotterdam, sharing casual fits, quick tips, and a bit of everyday life. Come for the style inspo, stay for the chill vibes!",
-    "interests": [
-      12
     ],
     "isShekrMember": false,
     "storeId": 2
