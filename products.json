@@ -960,7 +960,7 @@
   },
   {
     "id": 1,
-    "name": "Nike United Jr. Mercurial Vapor 16 Pro",
+    "name": "Mercurial Vapor 16 Pro",
     "sellerId": 28,
     "category": "Men Fashion",
     "itemStatus": "In Stock",
@@ -1064,9 +1064,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 6,
+        "reviewRating": 5,
+        "reviewText": "Laced up & locked in! ⚽️💨 These cleats feel like a second skin—super light, crazy fast, and the grip is next level. Perfect for those explosive moves & quick cuts. If speed is your game, these are a must! 🚀⚡️",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
