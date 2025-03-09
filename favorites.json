@@ -4,7 +4,7 @@
     "title": "Shirt",
     "description": "string",
     "isPublic": true,
-    "userId": 1,
+    "userId": 24,
     "status": {
       "likes": [1, 4, 6, 8, 9, 7, 11, 10],
       "replies": [
@@ -34,80 +34,455 @@
     },
     "dateCreated": "2025-1-03T08:14:03.312546",
     "favorites": [
-      {
-        "id": 1,
-        "userId": 1,
-        "status": {
-          "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-          "comments": [
-            {
-              "text": "I can't get enough of the easy fit feature in this jacket",
-              "id": 1,
-              "userId": 2,
-              "dateCreated": "2024-10-03T08:14:03.312546",
-              "status": {
-                "likes": [1, 4, 6, 8, 9, 7, 11, 10],
-                "replies": [
-                  {
-                    "id": 1,
-                    "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-                    "userId": 3,
-                    "dateCreated": "2024-10-03T08:14:03.312546",
-                    "likes": [1, 2, 3, 4, 5, 6, 7, 8]
-                  },
-                  {
-                    "id": 2,
-                    "text": "I can't get enough of the easy fit feature in this jacket",
-                    "userId": 4,
-                    "dateCreated": "2024-10-03T08:14:03.312546",
-                    "likes": [1, 2, 3, 6, 7, 8],
-                    "repliedTo": 3
-                  },
-                  {
-                    "id": 3,
-                    "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-                    "userId": 5,
-                    "dateCreated": "2024-10-03T08:14:03.312546",
-                    "likes": [1, 2, 8]
+        {
+          "id": 46,
+            "userId": 25,
+            "status": {
+              "likes": [1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
+              "comments": [
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
                   }
-                ]
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                },
+                {
+                  "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+                  "id": 2,
+                  "userId": 3,
+                  "dateCreated": "2024-10-03T08:14:03.312546",
+                  "status": {
+                    "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+                  }
+                }
+              ],
+              "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10],
+              "views": [2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10]
+            },
+            "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 78.jpg"],
+            "title": "Lauren James: Inspiring the Next Generation of Footballers",
+            "description": "As a forward for Chelsea FC Women and England, Lauren James exemplifies the power of representation in football. Her journey from aspiring player to professional athlete showcases the importance of visibility in inspiring young girls to pursue their dreams. Through her involvement in the Nike United collective, Lauren continues to pave the way for future generations, demonstrating that with dedication and passion, anything is possible.",
+            "video": null,
+            "recording": null,
+            "category": "FASHION",
+            "dateCreated": "2024-10-03T08:14:03.312546",
+            "hashtags": ["LaurenJames", "NikeUnited", "WomenInFootball", "Inspiration", "NextGen"],
+            "mentionedPeople": [],
+            "mentionedItems": [-5],
+            "collaborations": [],
+            "link": "",
+            "setting": {
+              "audience": [],
+              "contentDisclosure": {
+                "sensitiveContent": false,
+                "sponsoredContent": false,
+                "AIContent": false
               }
             },
-            {
-              "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-              "id": 1,
-              "userId": 5,
-              "dateCreated": "2024-10-03T08:14:03.312546",
-              "status": {
-                "likes": [1, 4, 6, 8, 9, 7, 11, 10, 12, 13],
-                "replies": []
+            "repost": null
+          },
+          {"id": -5,
+          "name": "Nike United Jr. Mercurial Vapor 16 Pro",
+          "sellerId": 28,
+          "category": "Men Fashion",
+          "itemStatus": "In Stock",
+          "weight": 2,
+          "variants": {
+            "colors": [
+              {
+                "name": "Red",
+                "images": [
+                  "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Mercurial Vapor.png"
+                ]
               }
+            ]
+          },
+          "variantsDetails": [
+            {
+              "name": "Purple",
+              "price": 149.99,
+              "quantity": 10
             }
           ],
-          "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-          "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-        },
-        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Wave1.jpg"],
-        "title": "Denim and Waves: Effortless Style in Marseille",
-        "description": "Standing at the edge of the Calanques, with the Mediterranean stretching endlessly ahead, I felt the perfect blend of rugged nature and effortless fashion. The jean shirt, worn loosely over a crisp white tee, paired with ripped black jeans, gave just the right touch of edge to this serene, coastal backdrop.\n\nThe sun kissed the cliffs, casting golden light over the azure waters, as the wind tousled my hair and made the shirt flow like it was part of the scenery. Marseille's Calanques are raw and breathtaking, a contrast to the structured simplicity of my look—a reminder that style doesn't have to overpower the beauty around it.\n\nFashion is as much about where you wear it as how you wear it. Here, it felt just right: understated, confident, and effortlessly cool. What's your go-to look for coastal escapes?",
-        "video": null,
-        "recording": null,
-        "category": "FASHION",
-        "dateCreated": "2024-10-03T08:14:03.312546",
-        "hashtags": ["#MarseilleVibes, #CoastalFashion, #CalanquesAndStyle"],
-        "mentionedPeople": [7, 8, 9],
-        "mentionedItems": [2, 4, 3],
-        "collaborations": [],
-        "link": "",
-        "setting": {
-          "audience": [],
-          "contentDisclosure": {
-            "sensitiveContent": false,
-            "sponsoredContent": true,
-            "AIContent": true
-          }
-        },
-        "repost": 4
+          "features": [
+            {
+              "id": 1,
+              "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 90.png",
+              "title": "Designed For The Fastest Players",
+              "description": "Show the world who you are in the Nike United Jr. Vapor 16 Pro, this bold new colorway features springy Air Zoom cushioning and an aggressive traction outsole for game-changing speed."
+            }
+          ],
+          "specifications": [
+            {
+              "title": "Material",
+              "description": "100% cotton"
+            },
+            {
+              "title": "Weight",
+              "description": "Usually ranging from 4.3 oz to 6.1 oz"
+            },
+            {
+              "title": "Fabric type",
+              "description": "Made from combed cotton for a soft and smooth finish"
+            },
+            {
+              "title": "Style",
+              "description": "Crewneck"
+            },
+            {
+              "title": "Fit",
+              "description": "Relaxed"
+            },
+            {
+              "title": "Seams",
+              "description": "Double-needle stitching for durability"
+            },
+            {
+              "title": "Collar",
+              "description": "Ribbed collar for comfort"
+            },
+            {
+              "title": "Tag",
+              "description": "Tear-away tag for easy removal"
+            }
+          ],
+          "serviceDetails": [
+            {
+              "title": "Delivery & Return",
+              "label": "Worry-free 30-day returns",
+              "description": [
+                {
+                  "title": "Delivery",
+                  "descriptions": [
+                    "Free delivery for all orders above â‚¬100",
+                    "Delivery fees are â‚¬15 for all orders below â‚¬100",
+                    "Standard delivery: 2 to 3 working days"
+                  ]
+                },
+                {
+                  "title": "Return",
+                  "descriptions": [
+                    "30 days returns",
+                    "Return is paid by customer",
+                    "All gift must be return"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Shipping",
+              "label": "Free Shipping",
+              "description": [
+                {
+                  "title": "Delivery Information",
+                  "descriptions": [
+                    "Free shipping on orders above $50",
+                    "$5 flat shipping fee for orders below $50",
+                    "Estimated delivery time: 5-7 business days"
+                  ]
+                }
+              ]
+            }
+          ],
+          "reviews": [
+            {
+              "reviewerId": 2,
+              "reviewRating": 4,
+              "reviewText": "I can't get enough of the easy fit feature of this jacket",
+              "reviewLikes": [1, 2, 5, 12, 6, 3],
+              "dateCreated": "2024-10-04T08:14:03.312546"
+            },
+            {
+              "reviewerId": 3,
+              "reviewRating": 5,
+              "reviewText": "I love the comfort of this jacket!",
+              "reviewLikes": [1, 2, 5, 12, 6, 3],
+              "dateCreated": "2024-10-03T08:14:03.312546"
+            },
+            {
+              "reviewerId": 5,
+              "reviewRating": 4,
+              "reviewText": "Great value for money.",
+              "reviewLikes": [1, 2, 5, 12, 6, 3],
+              "dateCreated": "2024-10-03T08:14:03.312546"
+            }
+          ],
+          "reviewsCount": 55,
+          "unboxingVideo": null,
+          "demoVideo": null
       }
     ]
   },
