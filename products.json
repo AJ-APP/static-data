@@ -236,9 +236,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
+        "reviewerId": 3,
         "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewText": "Laced up & locked in! ⚽️💨 These cleats feel like a second skin—super light, crazy fast, and the grip is next level. Perfect for those explosive moves & quick cuts. If speed is your game, these are a must! 🚀⚡️",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
@@ -1195,9 +1195,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
+        "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewText": "Retro vibes, futuristic feel! 🚀🔥 The Shox cushioning? Insane. Feels like walking on springs all day. Super comfy, but heads up—they run a bit narrow. If you love OG sneaker style with extra bounce, these are it! 💥👣",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
