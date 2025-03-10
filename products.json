@@ -1097,20 +1097,124 @@
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
+      "sizes": ["38", "39", "40"],
       "colors": [
         {
-          "name": "Blue",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/77.png"
-          ]
+          "name": "blue",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/77.png"]
+        },
+        {
+          "name": "black",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/78.png"]
+        },
+        {
+          "name": "white",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/79.png"]
+        },
+        {
+          "name": "blue & white",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/80.png"]
+        },
+        {
+          "name": "red",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/81.png"]
+        },
+        {
+          "name": "gold",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/82.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "White",
-        "price": 150,
+        "name": "38,blue",
+        "price": 149.99,
         "quantity": 10
+      },
+      {
+        "name": "39,blue",
+        "price": 149.99,
+        "quantity": 10
+      },
+      {
+        "name": "40,blue",
+        "price": 149.99,
+        "quantity": 10
+      },
+      {
+        "name": "38,black",
+        "price": 149.99,
+        "quantity": 10
+      },
+      {
+        "name": "39,black",
+        "price": 149.99,
+        "quantity": 0
+      },
+      {
+        "name": "40,black",
+        "price": 149.99,
+        "quantity": 0
+      },
+      {
+        "name": "38,white",
+        "price": 149.99,
+        "quantity": 15
+      },
+      {
+        "name": "39,white",
+        "price": 149.99,
+        "quantity": 15
+      }, 
+      {
+        "name": "40,white",
+        "price": 149.99,
+        "quantity": 15
+      },
+      {
+        "name": "38,blue & white",
+        "price": 149.99,
+        "quantity": 8
+      },
+      {
+        "name": "39,blue & white",
+        "price": 149.99,
+        "quantity": 12
+      },
+      {
+        "name": "40,blue & white",
+        "price": 149.999,
+        "quantity": 12
+      },
+      {
+        "name": "38,red",
+        "price": 149.99,
+        "quantity": 0
+      },
+      {
+        "name": "39,red",
+        "price": 149.99,
+        "quantity": 15
+      },
+      {
+        "name": "40,red",
+        "price": 149.99,
+        "quantity": 15
+      },
+      {
+        "name": "38,gold",
+        "price": 149.99,
+        "quantity": 8
+      },
+      {
+        "name": "39,gold",
+        "price": 149.99,
+        "quantity": 12
+      },
+      {
+        "name": "40,gold",
+        "price": 149.99,
+        "quantity": 12
       }
     ],
     "features": [
