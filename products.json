@@ -1101,27 +1101,27 @@
       "colors": [
         {
           "name": "blue",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/77.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/177.png"]
         },
         {
           "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/78.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/178.png"]
         },
         {
           "name": "white",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/79.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/179.png"]
         },
         {
           "name": "blue & white",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/80.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/180.png"]
         },
         {
           "name": "red",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/81.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/181.png"]
         },
         {
           "name": "gold",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/82.png"]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/182.png"]
         }
       ]
     },
