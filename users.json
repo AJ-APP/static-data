@@ -891,5 +891,35 @@
     ],
     "isShekrMember": false,
     "storeId": 2
+  },
+  {
+    "id": 29,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-02-24 at 12.20.34.jpg",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
+    "tagLine": "Game on and grind strong. No off days.",
+    "firstName": "Jordan",
+    "lastName": "Carter",
+    "gender": "female",
+    "username": "Nike",
+    "email": "jordane@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "Basketball junkie 🏀 | Breaking ankles & taking names | Sharing game highlights, hot takes, and behind-the-scenes hoops culture | WNBA & NBA fan | Let’s talk hoops! 🔥",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
   }
 ]
