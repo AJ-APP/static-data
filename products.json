@@ -4937,5 +4937,107 @@
     "reviewsCount": 55,
     "unboxingVideo": null,
     "demoVideo": null
-  }
+  },
+  {"id": 30,
+  "name": "Nike A'One Pink A'ura",
+  "sellerId": 28,
+  "category": "Women Fashion",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "Pink",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/A1.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "Pink",
+      "price": 150,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/A1H1.png",
+      "title": "Responsive Cushioning with Cushlon ST2 Foam",
+      "description": "The A'One is equipped with Cushlon ST2 foam in the midsole, providing athletes with responsive cushioning for smooth landings and explosive energy return. This technology ensures optimal performance during intense gameplay."
+    }
+  ],
+  "specifications": [
+    {
+      "title": "",
+      "description": "Luminous pearls scattered along a delicate chain."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 2,
+      "reviewRating": 4,
+      "reviewText": "I can't get enough of the easy fit feature of this jacket",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 3,
+      "reviewRating": 5,
+      "reviewText": "I love the comfort of this jacket!",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Great value for money.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": "",
+  "demoVideo": ""
+}
 ]
