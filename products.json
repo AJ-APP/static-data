@@ -1,461 +1,50 @@
 [
   {
-    "id": -6,
-    "name": "Nike Shox R4",
-    "sellerId": 28,
-    "category": "Women Fashion",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Blue",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/177.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "White",
-        "price": 150,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 88.png",
-        "title": "A Reimagined Version of the 2001 Icon",
-        "description": "The Nike Shox R4 is featuring the original's synthetic and textile upper, design lines and laser perforations. Nike Shox cushioning distributes weight for maximum comfort and a performance-inspired look."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": -5,
-    "name": "Mercurial Vapor 16 Pro",
-    "sellerId": 28,
-    "category": "Men Fashion",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Red",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Mercurial Vapor.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Purple",
-        "price": 149.99,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 90.png",
-        "title": "Designed For The Fastest Players",
-        "description": "Show the world who you are in the Nike United Jr. Vapor 16 Pro, this bold new colorway features springy Air Zoom cushioning and an aggressive traction outsole for game-changing speed."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "Laced up & locked in! ⚽️💨 These cleats feel like a second skin—super light, crazy fast, and the grip is next level. Perfect for those explosive moves & quick cuts. If speed is your game, these are a must! 🚀⚡️",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": -4,
-    "name": "Nike ZoomX Dragonfly XC M",
-    "sellerId": 28,
-    "category": "Men Fashion",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Red",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/74.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "White",
-        "price": 150,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-03-08 at 14.09.31.png",
-        "title": "Responsive and Fast",
-        "description": "The Nike ZoomX Dragonfly XC trail shoe for men helps you take on new challenges on your cross-country events."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
     "id": -3,
-    "name": "NIGO Air force 3",
-    "sellerId": 28,
-    "category": "Men Fashion",
+    "name": "Viscid Ring",
+    "sellerId": 19,
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
-    "variants": {
-      "colors": [
+    "variants": {"colors": [
         {
-          "name": "White",
+          "name": "sterling silver",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/75.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
+          ]
+        },
+        {
+          "name": "18k gold plated",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "White",
-        "price": 150,
+        "name": "sterling silver",
+        "price": 219,
+        "quantity": 10
+      },
+      {
+        "name": "18k gold plated",
+        "price": 219,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/nike-x-nigo-air-force-iii-3.jpg",
-        "title": "Rugged & Bold Silhouette",
-        "description": "Nigo draws upon the Air Force III’s rugged and bold silhouette to create a new footwear journey rooted in a rich web of pop culture inspiration and reference.."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
+        "title": "Fluidity in Motion",
+        "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
       }
     ],
     "serviceDetails": [
@@ -525,372 +114,50 @@
   },
   {
     "id": -2,
-    "name": "Striped Flag Knitted Sweater",
-    "sellerId": 23,
-    "category": "Men Fashion",
+    "name": "CIF earrings set No.2",
+    "sellerId": 19,
+    "category": "Women Jewelry",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Blue & Red",
+          "name": "sterling silver",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Striped.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Blue & Red",
-        "price": 150,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
-      },
-      {
-        "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
-  },
-  {
-    "id": -1,
-    "name": "Leopard Brushed Knitted Sweater",
-    "voucherId": 1,
-    "sellerId": 23,
-    "category": "Men Fashion",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "leo print",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Leopard.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "leo print",
-        "price": 150,
-        "quantity": 20
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/POC.png",
-        "title": "Signature Detail, Timeless Craft",
-        "description": "The Patta Leopard Brushed Knitted Sweater features a carefully sewn Patta logo, adding a refined touch to its bold design. Expertly stitched for durability, the embroidered logo stands out without overpowering, seamlessly blending craftsmanship with brand identity. A subtle yet essential mark of quality."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/POC1.png",
-        "title": "Crafted for Comfort, Styled for Impact",
-        "description": "The Patta Leopard Brushed Knitted Sweater blends bold design with premium craftsmanship. Made from high-quality brushed knit, it offers a soft, textured feel that’s as comfortable as it is stylish. Designed for lasting wear, this piece delivers warmth, breathability, and a relaxed fit—perfect for layering or making a statement on its own."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
-  },
-  {
-    "id": 0,
-    "name": "Bark Boxy Hooded Sweater",
-    "sellerId": 23,
-    "category": "Men Fashion",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Multi",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Bark2.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF1.png"
           ]
         },
         {
-          "name": "Black",
+          "name": "18k gold plated",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Bark1.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF2.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Multi",
-        "price": 160,
+        "name": "sterling silver",
+        "price": 179,
         "quantity": 10
       },
       {
-        "name": "Black",
-        "price": 160,
+        "name": "18k gold plated",
+        "price": 179,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
-      },
-      {
-        "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
-      }
-    ],
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIFH.png",
+        "title": "Breeding Earrings: Uniquely Versatile Elegance",
+        "description": "These highly polished Breeding Earrings from the MIAM collection are a perfect blend of uniqueness, versatility, and exceptional quality. Designed to complement any style, they make a refined statement for everyday wear."
+      }],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "",
+        "description": "These highly polished earrings are unique, versatile, and high-quality. It is the best day-to-day statement design that goes with any style. Both material options are made with high-quality sterling silver studs to prevent allergic reactions."
       }
     ],
     "serviceDetails": [
@@ -955,8 +222,240 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": -1,
+    "name": "Pearl Necklace",
+    "sellerId": 5,
+    "category": "Women Jewelry",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Gold",
+        "price": 3700,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH1.jpg",
+        "title": "Ethereal Elegance: Luminous Pearls",
+        "description": "Gracefully adorned with luminous pearls scattered along a delicate chain, this piece exudes timeless sophistication. Perfect for any occasion, it’s a radiant blend of understated beauty and refined charm."}
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Luminous pearls scattered along a delicate chain."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
+  },
+  {
+    "id": 2,
+    "name": "Chain Ring",
+    "sellerId": 5,
+    "category": "Women Jewelry",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "yellow gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/21.png"
+          ]
+        },
+        {
+          "name": "white gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI2.png"
+          ]
+        },
+        {
+          "name": "rose gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI1.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "yellow gold",
+        "price": 6000,
+        "quantity": 10
+      },
+      {
+        "name": "silver gold",
+        "price": 6300,
+        "quantity": 10
+      },
+      {
+        "name": "rose gold",
+        "price": 6000,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH1.png",
+        "title": "Strength in Style",
+        "description": "Tiffany HardWear captures the transformative power of love through bold, modern design. Inspired by a 1962 archival bracelet, this collection embodies enduring resilience and an uninhibited spirit, blending timeless elegance with urban edge."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH2.png",
+        "title": "Handcrafted Brilliance",
+        "description": "Each diamond is meticulously hand-set by Tiffany artisans to maximize its radiant shine. Perfect as a standalone statement or paired with other metals, this piece reflects timeless craftsmanship and effortless elegance."
+      }],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. This 18k rose gold ring features the collection’s signature gauge link design with a striking contrast of metal and diamonds. Tiffany artisans carefully hand set each diamond to achieve maximum shine. It makes a beautiful statement worn on its own or mixed with other metals."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 1,
@@ -1090,7 +589,7 @@
     "demoVideo": null
   },
   {
-    "id": 2,
+    "id": 0,
     "name": "Nike Shox R4",
     "sellerId": 28,
     "category": "Women Fashion",
