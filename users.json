@@ -921,5 +921,35 @@
     ],
     "isShekrMember": false,
     "storeId": 2
+  },
+  {
+    "id": 30,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LU.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
+    "tagLine": "Jewelry That Moves With You.",
+    "firstName": "Liquid",
+    "lastName": "Universe Jewelry",
+    "gender": "female",
+    "username": "liquiduniversejewelry",
+    "email": "jordane@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
+    "followers": [
+      1,
+      3,
+      7
+    ],
+    "following": [
+      5,
+      6,
+      12
+    ],
+    "description": "Art Jewelry Produced in Small Batches/nHandcrafted in Amsterdam/nWorldwide Shipping",
+    "interests": [
+      19,
+      21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
   }
 ]

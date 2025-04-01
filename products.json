@@ -1,6 +1,6 @@
 [
   {
-    "id": -3,
+    "id": -4,
     "name": "Viscid Ring",
     "sellerId": 19,
     "category": "Women Jewelry",
@@ -111,6 +111,108 @@
     "reviewsCount": 55,
     "unboxingVideo": null,
     "demoVideo": null
+  },
+  {
+    "id": -3,
+    "name": "Eira Black Onyx Teardrop Beads Necklaces",
+    "sellerId": 30,
+    "category": "Women Jewelry",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Pearl",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BO.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Pearl",
+        "price": 139,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BH1.jpg",
+        "title": "Bold Elegance: Black Onyx Teardrop Necklace",
+        "description": "Make a statement with the Black Onyx Big Teardrop Necklace—where bold design meets timeless sophistication. Crafted with sleek, polished onyx beads, this piece exudes strength and confidence, perfect for elevating any outfit. Whether worn solo or layered, it’s a striking accessory that speaks volumes."}
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Luminous pearls scattered along a delicate chain."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": -2,
