@@ -57,7 +57,7 @@
     }
   },
   {
-    "title": "Deals for you",
+    "title": "Most popular",
     "section": 6,
     "type": "products",
     "productConfig": {
@@ -70,18 +70,18 @@
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
-      "userIds": [19, 30, 3, 28, 13, 14, 15, 16]
+      "userIds": [ 19, 30, 16]
     }
   },
   {
-    "section": 19,
+    "section": 9,
     "type": "related",
     "relatedConfig": {
-      "shoppedSellerId": 28,
+      "shoppedSellerId": 19,
       "items": [
-        { "type": "user", "id": 25 },
+        { "type": "user", "id": 30 },
         { "type": "product", "id": -4 },
-        { "type": "product", "id": -2 },
+        { "type": "product", "id": -3 },
         { "type": "user", "id": 2 },
         { "type": "product", "id": 4 },
         { "type": "user", "id": 1 },
