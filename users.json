@@ -894,11 +894,11 @@
   },
   {
     "id": 30,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/newlu.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Liquid universe.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
-    "tagLine": "Jewelry That Moves With You.",
-    "firstName": "Liquid",
-    "lastName": "Universe Jewelry",
+    "tagLine": "Art Jewelry",
+    "firstName": "Liquid Universe",
+    "lastName": "",
     "gender": "female",
     "username": "liquiduniverse",
     "email": "jordane@me.com",
@@ -914,10 +914,40 @@
       6,
       12
     ],
-    "description": "Art Jewelry Produced in Small Batches/nHandcrafted in Amsterdam/nWorldwide Shipping",
+    "description": "Produced in Small Batches\nHandcrafted in Amsterdam\nWorldwide Shipping",
     "interests": [
       19,
       21
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 31,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lumea2.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Live beautifully.",
+    "firstName": "Lumea",
+    "lastName": "",
+    "gender": "male",
+    "username": "lumea",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "Lumea transforms spaces into stories. With a curated selection of home and décor pieces, we bring warmth, character, and modern sophistication to every corner of your home. From timeless furniture to artful accents, each piece is crafted to inspire comfort and individuality. At Lumea, your home isn’t just where you live—it’s where your style comes to life.",
+    "interests": [
+      17,
+      22
     ],
     "isShekrMember": false,
     "storeId": 2
