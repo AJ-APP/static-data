@@ -40,7 +40,7 @@
   },
   {
     "title": "New release",
-    "section": 4,
+    "section": 5,
     "type": "products",
     "productConfig": {
       "hasCategoryFilter": true,
@@ -50,7 +50,7 @@
   },
   {
     "title": "Recently reviewed products",
-    "section": 5,
+    "section": 6,
     "type": "recentlyReviewed",
     "recentlyReviewedConfig": {
       "productIds": [1, 2, 3, 4, 5, 6, 7]
@@ -58,7 +58,7 @@
   },
   {
     "title": "Most popular",
-    "section": 6,
+    "section": 7,
     "type": "products",
     "productConfig": {
       "hasCategoryFilter": true,
