@@ -893,7 +893,7 @@
     "storeId": 2
   },
   {
-    "id": 30,
+    "id": 31,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/li.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
     "tagLine": "Art Jewelry",
@@ -923,10 +923,10 @@
     "storeId": 2
   },
   {
-    "id": 31,
+    "id": 30,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Kin.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
-    "tagLine": "Live beautifully.",
+    "tagLine": "Crafting a Legacy of Modern Jewelry.",
     "firstName": "Kinn",
     "lastName": "",
     "gender": "male",
@@ -944,7 +944,7 @@
       5,
       6
     ],
-    "description": "Lumea transforms spaces into stories. With a curated selection of home and décor pieces, we bring warmth, character, and modern sophistication to every corner of your home. From timeless furniture to artful accents, each piece is crafted to inspire comfort and individuality. At Lumea, your home isn’t just where you live—it’s where your style comes to life.",
+    "description": "Modern heirlooms to embody your many moment lived-then, now, always.",
     "interests": [
       17,
       22

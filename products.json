@@ -2,7 +2,7 @@
   {
     "id": -5,
     "name": "Dare To Love Double Ring",
-    "sellerId": 31,
+    "sellerId": 30,
     "category": "Rings",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -217,7 +217,7 @@
   {
     "id": -3,
     "name": "Eira Black Onyx Teardrop Beads Necklaces",
-    "sellerId": 30,
+    "sellerId": 31,
     "category": "Necklaces",
     "itemStatus": "In Stock",
     "weight": 2,
