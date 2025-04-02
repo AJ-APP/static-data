@@ -924,13 +924,43 @@
   },
   {
     "id": 31,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lumea2.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-04-02 at 15.01.28.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
     "tagLine": "Live beautifully.",
-    "firstName": "Lumea",
+    "firstName": "Kinn",
     "lastName": "",
     "gender": "male",
-    "username": "lumea",
+    "username": "Kinn",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "Lumea transforms spaces into stories. With a curated selection of home and décor pieces, we bring warmth, character, and modern sophistication to every corner of your home. From timeless furniture to artful accents, each piece is crafted to inspire comfort and individuality. At Lumea, your home isn’t just where you live—it’s where your style comes to life.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 32,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-04-02 at 14.51.13.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "Live beautifully.",
+    "firstName": "Andrea",
+    "lastName": "",
+    "gender": "female",
+    "username": "Andrea",
     "email": "iamian@me.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1987-04-09T00:00:00.000Z",
