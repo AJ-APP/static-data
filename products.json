@@ -78,7 +78,7 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "My most complimented piece ✨",
+        "reviewText": "Got this as a treat to myself after a big milestone and it is my most complimented piece ✨",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
@@ -92,7 +92,7 @@
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "Got this as a treat to myself after a big milestone. Simple ✨ Sculptural 💫 Everyday perfect..",
+        "reviewText": "Simple ✨ Sculptural 💫 Everyday perfect.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
