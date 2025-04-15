@@ -76,23 +76,23 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "My most complimented piece ✨",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
-        "reviewerId": 3,
+        "reviewerId": 2,
         "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
+        "reviewText": "Celebrated a big moment with this ring — and now I never take it off 💖",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "Great value for money.",
+        "reviewText": "Got this as a treat to myself after a big milestone. Simple ✨ Sculptural 💫 Everyday perfect..",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
