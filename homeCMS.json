@@ -14,19 +14,27 @@
     "type": "category"
   },
   {
+    "title": "From House to Home",
+    "section": 3,
+    "type": "posts",
+    "postConfig": {
+      "category": "Home & Decor"
+    }
+  },
+  {
     "title": "Posts that start debates",
     "section": 4,
     "type": "debates",
     "debatesConfig": {
-      "postIds": [1, 2, 8]
+      "postIds": [1, 2, 7]
     }
   },
   {
-    "title": "Chasing adventures",
+    "title": "Beautiful Destinations",
     "section": 5,
     "type": "posts",
     "postConfig": {
-      "category": "Outdoor"
+      "category": "TRAVEL"
     }
   },
   {
@@ -46,16 +54,8 @@
     }
   },
   {
-    "title": "Beautiful Destinations",
-    "section": 8,
-    "type": "posts",
-    "postConfig": {
-      "category": "TRAVEL"
-    }
-  },
-  {
     "title": "Colorful Perspectives",
-    "section": 9,
+    "section": 8,
     "type": "posts",
     "postConfig": {
       "category": "ART"
@@ -63,11 +63,19 @@
   },
   {
     "title": "The Fast Lane",
-    "section": 3,
+    "section": 9,
     "type": "posts",
     "postConfig": {
       "postIds": [20, 21, 22],
       "limit": 10
+    }
+  },
+  {
+    "title": "Chasing adventures",
+    "section": 10,
+    "type": "posts",
+    "postConfig": {
+      "category": "Outdoor"
     }
   }
 ]
