@@ -1,15 +1,15 @@
 {
   "id": 242424,
-  "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Female03.png",
+  "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Irafaella.jpg",
   "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Lake.jpg",
-  "tagLine": "Podcast & live streams",
-  "firstName": "Emma",
-  "lastName": "Laurent",
-  "gender": "female",
-  "username": "LifeWithEmma",
-  "email": "LifeWithEmma@email.com",
-  "phoneNumber": "123123123",
-  "dateOfBirth": "2000-01-01T00:00:00.000Z",
+  "tagLine": "Glow naturally, shine effortlessly.",
+  "firstName": "Lila",
+    "lastName": "Rivera",
+    "gender": "female",
+    "username": "SkinByLila",
+    "email": "yizon@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1990-06-13T00:00:00.000Z",
   "followers": [
     2,
     3,
@@ -34,7 +34,7 @@
     11,
     12
   ],
-  "description": "🎥 Sharing everyday finds & random life hacks\n💡 From beauty to food & everything in between!\n📍 Just having fun & figuring things out 😆",
+  "description": "💖 DIY Skincare | Affordable Beauty Hacks 🌿\n📍 Natural glow, no filters needed!\n💌 Let’s get radiant together! #SkinByLila",
   "interests": [
     1,
     5,

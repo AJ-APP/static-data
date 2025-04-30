@@ -117,6 +117,76 @@
   },
   {
     "id": 4,
+    "name": "Deals",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Deals.png",
+    "children": [
+      {
+        "id": 601,
+        "name": "Clearance",
+        "children": [
+          {
+            "id": 6011,
+            "name": "Season End"
+          },
+          {
+            "id": 6012,
+            "name": "Limited Time"
+          }
+        ]
+      },
+      {
+        "id": 602,
+        "name": "Special Offers",
+        "children": [
+          {
+            "id": 6021,
+            "name": "Bundle Deals"
+          },
+          {
+            "id": 6022,
+            "name": "Flash Sales"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "News",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/News.png",
+    "children": [
+      {
+        "id": 1801,
+        "name": "Current Events",
+        "children": [
+          {
+            "id": 18011,
+            "name": "Politics"
+          },
+          {
+            "id": 18012,
+            "name": "Business"
+          }
+        ]
+      },
+      {
+        "id": 1802,
+        "name": "Entertainment",
+        "children": [
+          {
+            "id": 18021,
+            "name": "Celebrity News"
+          },
+          {
+            "id": 18022,
+            "name": "Culture"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
     "name": "Books",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Book2.png",
     "children": [
@@ -159,109 +229,35 @@
     ]
   },
   {
-    "id": 5,
-    "name": "Boy Fashion",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Boy.png",
-    "children": [
-      {
-        "id": 501,
-        "name": "Clothing",
-        "children": [
-          {
-            "id": 5011,
-            "name": "Tops"
-          },
-          {
-            "id": 5012,
-            "name": "Bottoms"
-          },
-          {
-            "id": 5013,
-            "name": "Outerwear"
-          }
-        ]
-      },
-      {
-        "id": 502,
-        "name": "Shoes",
-        "children": [
-          {
-            "id": 5021,
-            "name": "Sneakers"
-          },
-          {
-            "id": 5022,
-            "name": "Formal Shoes"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Deals",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Deals.png",
-    "children": [
-      {
-        "id": 601,
-        "name": "Clearance",
-        "children": [
-          {
-            "id": 6011,
-            "name": "Season End"
-          },
-          {
-            "id": 6012,
-            "name": "Limited Time"
-          }
-        ]
-      },
-      {
-        "id": 602,
-        "name": "Special Offers",
-        "children": [
-          {
-            "id": 6021,
-            "name": "Bundle Deals"
-          },
-          {
-            "id": 6022,
-            "name": "Flash Sales"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 7,
-    "name": "Design",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Design.png",
+    "name": "Food & Nutrition",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Food.png",
     "children": [
       {
-        "id": 701,
-        "name": "Graphic Design",
+        "id": 901,
+        "name": "Organic Food",
         "children": [
           {
-            "id": 7011,
-            "name": "Logo Design"
+            "id": 9011,
+            "name": "Fresh Produce"
           },
           {
-            "id": 7012,
-            "name": "Print Design"
+            "id": 9012,
+            "name": "Dairy"
           }
         ]
       },
       {
-        "id": 702,
-        "name": "Interior Design",
+        "id": 902,
+        "name": "Supplements",
         "children": [
           {
-            "id": 7021,
-            "name": "Residential"
+            "id": 9021,
+            "name": "Vitamins"
           },
           {
-            "id": 7022,
-            "name": "Commercial"
+            "id": 9022,
+            "name": "Protein"
           }
         ]
       }
@@ -304,34 +300,34 @@
   },
   {
     "id": 9,
-    "name": "Food & Nutrition",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Food.png",
+    "name": "Design",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Design.png",
     "children": [
       {
-        "id": 901,
-        "name": "Organic Food",
+        "id": 701,
+        "name": "Graphic Design",
         "children": [
           {
-            "id": 9011,
-            "name": "Fresh Produce"
+            "id": 7011,
+            "name": "Logo Design"
           },
           {
-            "id": 9012,
-            "name": "Dairy"
+            "id": 7012,
+            "name": "Print Design"
           }
         ]
       },
       {
-        "id": 902,
-        "name": "Supplements",
+        "id": 702,
+        "name": "Interior Design",
         "children": [
           {
-            "id": 9021,
-            "name": "Vitamins"
+            "id": 7021,
+            "name": "Residential"
           },
           {
-            "id": 9022,
-            "name": "Protein"
+            "id": 7022,
+            "name": "Commercial"
           }
         ]
       }
@@ -643,34 +639,38 @@
   },
   {
     "id": 18,
-    "name": "News",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/News.png",
+    "name": "Boy Fashion",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Boy.png",
     "children": [
       {
-        "id": 1801,
-        "name": "Current Events",
+        "id": 501,
+        "name": "Clothing",
         "children": [
           {
-            "id": 18011,
-            "name": "Politics"
+            "id": 5011,
+            "name": "Tops"
           },
           {
-            "id": 18012,
-            "name": "Business"
+            "id": 5012,
+            "name": "Bottoms"
+          },
+          {
+            "id": 5013,
+            "name": "Outerwear"
           }
         ]
       },
       {
-        "id": 1802,
-        "name": "Entertainment",
+        "id": 502,
+        "name": "Shoes",
         "children": [
           {
-            "id": 18021,
-            "name": "Celebrity News"
+            "id": 5021,
+            "name": "Sneakers"
           },
           {
-            "id": 18022,
-            "name": "Culture"
+            "id": 5022,
+            "name": "Formal Shoes"
           }
         ]
       }
