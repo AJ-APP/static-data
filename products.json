@@ -421,158 +421,104 @@
     "demoVideo": ""
   },
   {
-    "id": 25,
-    "name": "Chill Pouf",
-    "voucherId": 1,
-    "sellerId": 16,
+    "id": 4,
+    "name": "Oly Stool",
+    "voucherId": null,
+    "sellerId": 6,
     "category": "Home & Decor",
     "itemStatus": "In Stock",
-    "weight": 4,
+    "weight": 2,
     "variants": {
-      "sizes": ["S", "M", "L"],
       "colors": [
         {
-          "name": "beige",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P1.png"]
-        },
-        {
-          "name": "orange",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P2.png"]
-        },
-        {
-          "name": "olive",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P3.png"]
-        },
-        {
-          "name": "grey",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P4.png"]
-        },
-        {
           "name": "blue",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P5.png"]
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_bl.png"
+          ]
         },
         {
-          "name": "dark grey",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P6.png"]
+          "name": "black",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_b.png"
+          ]
+        },
+        {
+          "name": "Green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_g.png"
+          ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "S,beige",
-        "price": 249,
+        "name": "blue",
+        "price": 339,
         "quantity": 10
       },
       {
-        "name": "M,beige",
-        "price": 249,
+        "name": "black",
+        "price": 339,
         "quantity": 10
       },
       {
-        "name": "L,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "S,orange",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "M,orange",
-        "price": 249,
-        "quantity": 0
-      },
-      {
-        "name": "L,ornge",
-        "price": 249,
-        "quantity": 0
-      },
-      {
-        "name": "S,olive",
-        "price": 249,
+        "name": "green",
+        "price": 339,
         "quantity": 15
-      },
-      {
-        "name": "M,olive",
-        "price": 249,
-        "quantity": 15
-      }, 
-      {
-        "name": "L,olive",
-        "price": 249,
-        "quantity": 15
-      },
-      {
-        "name": "S,grey",
-        "price": 249,
-        "quantity": 8
-      },
-      {
-        "name": "M,grey",
-        "price": 249,
-        "quantity": 12
-      },
-      {
-        "name": "L,grey",
-        "price": 249,
-        "quantity": 12
-      },
-      {
-        "name": "S,blue",
-        "price": 249,
-        "quantity": 0
-      },
-      {
-        "name": "M,blue",
-        "price": 249,
-        "quantity": 15
-      },
-      {
-        "name": "L,blue",
-        "price": 249,
-        "quantity": 15
-      },
-      {
-        "name": "S,dark grey",
-        "price": 249,
-        "quantity": 8
-      },
-      {
-        "name": "M,dark grey",
-        "price": 249,
-        "quantity": 12
-      },
-      {
-        "name": "L,dark grey",
-        "price": 249,
-        "quantity": 12
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
-        "title": "Durable Foam Guarantees \nLong Lasting Use",
-        "description": "This pouf is crafted with high-density foam that resists sagging and wear, ensuring it retains its shape and support even with daily use. Whether you're sitting, lounging, or using it as a footrest, the durable foam guarantees comfort and longevity, making it a reliable addition to your space."
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
       {
         "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
-        "title": "Soft, Carefully Selected \nFabrics",
-        "description": "Wrapped in premium, carefully selected fabrics, this pouf offers a luxurious feel thatâ€™s gentle to the touch. The soft texture enhances comfort while adding a sophisticated touch to your space, ensuring a cozy and stylish experience."
+        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       },
       {
         "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg",
-        "title": "Multi-Purpose Application",
-        "description": "Designed to adapt to your needs, this pouf serves as a comfortable seat, a supportive footrest, or even a stylish accent piece. Its multi-purpose functionality makes it a practical and versatile addition to any room."
+        "image": "https://shekr-static.vyte.sh/products/jacket.png",
+        "title": "Easy fit",
+        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
       }
     ],
     "specifications": [
       {
-        "title": null,
-        "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
+        "title": "Material",
+        "description": "100% cotton"
+      },
+      {
+        "title": "Weight",
+        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+      },
+      {
+        "title": "Fabric type",
+        "description": "Made from combed cotton for a soft and smooth finish"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck"
+      },
+      {
+        "title": "Fit",
+        "description": "Relaxed"
+      },
+      {
+        "title": "Seams",
+        "description": "Double-needle stitching for durability"
+      },
+      {
+        "title": "Collar",
+        "description": "Ribbed collar for comfort"
+      },
+      {
+        "title": "Tag",
+        "description": "Tear-away tag for easy removal"
       }
     ],
     "serviceDetails": [
@@ -583,10 +529,9 @@
           {
             "title": "Delivery",
             "descriptions": [
-              "Delivered directly to your home by trusted couriers like UPS, FedEx, or DHL, depending on your location",
-              "Delivery is free for orders above â‚¬100, with all costs, taxes, and customs fees covered by noo.ma",
-              "You can expect delivery in 2-4 business days within the EU and 3-8 business days for the UK, Switzerland, and Norway, starting from the dispatch date",
-              "All products from one order are being shipped together unless otherwise stated"
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
             ]
           },
           {
@@ -618,21 +563,154 @@
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "Nice color and quality",
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
         "reviewerId": 3,
         "reviewRating": 5,
-        "reviewText": "Very nice",
+        "reviewText": "I love the comfort of this jacket!",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "Perfect",
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 5,
+    "name": "Slim-Fit Jean",
+    "voucherId": 1,
+    "sellerId": 18,
+    "category": "Jeans",
+    "itemStatus": "In Stock",
+    "weight": 4,
+    "variants": {
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": [
+        {
+          "name": "black",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "XS,black",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "S,black",
+        "price": 90,
+        "quantity": 10
+      },
+      {
+        "name": "M,black",
+        "price": 150,
+        "quantity": 5
+      },
+      {
+        "name": "L,black",
+        "price": 150,
+        "quantity": 6
+      },
+      {
+        "name": "XL,black",
+        "price": 150,
+        "quantity": 0
+      },
+      {
+        "name": "XXL,black",
+        "price": 150,
+        "quantity": 20
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/JH1.png",
+        "title": "Slim Fit, Built for Athletes",
+        "description": "Engineered for movement and style, this new slim fit is tailored specifically for athletic builds. With a modern silhouette that complements your physique, it delivers both comfort and confidence—no compromise needed."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/JH2.png",
+        "title": "Sustainable Stretch, \nMaximum Comfort",
+        "description": "Experience unmatched freedom of movement with Flex Eco Performance. Crafted from sustainably harvested fibers, this advanced stretch technology delivers maximum flex and comfort—so you can look good, feel good, and do good."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Designed specifically for athletic builds, the Slim Jean sit low on your waist, with extra room in the seat and thigh areas. Plus, the modern narrow leg helps you look put-together with minimal effort on your part. (Always a win.)"
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
@@ -872,139 +950,6 @@
     "reviewsCount": 55,
     "unboxingVideo": "",
     "demoVideo": ""
-  },
-  {
-    "id": 5,
-    "name": "Slim-Fit Jean",
-    "voucherId": 1,
-    "sellerId": 18,
-    "category": "Jeans",
-    "itemStatus": "In Stock",
-    "weight": 4,
-    "variants": {
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": [
-        {
-          "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/28.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "XS,black",
-        "price": 90,
-        "quantity": 10
-      },
-      {
-        "name": "S,black",
-        "price": 90,
-        "quantity": 10
-      },
-      {
-        "name": "M,black",
-        "price": 150,
-        "quantity": 5
-      },
-      {
-        "name": "L,black",
-        "price": 150,
-        "quantity": 6
-      },
-      {
-        "name": "XL,black",
-        "price": 150,
-        "quantity": 0
-      },
-      {
-        "name": "XXL,black",
-        "price": 150,
-        "quantity": 20
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/JH1.png",
-        "title": "Slim Fit, Built for Athletes",
-        "description": "Engineered for movement and style, this new slim fit is tailored specifically for athletic builds. With a modern silhouette that complements your physique, it delivers both comfort and confidence—no compromise needed."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/JH2.png",
-        "title": "Sustainable Stretch, \nMaximum Comfort",
-        "description": "Experience unmatched freedom of movement with Flex Eco Performance. Crafted from sustainably harvested fibers, this advanced stretch technology delivers maximum flex and comfort—so you can look good, feel good, and do good."
-      }
-    ],
-    "specifications": [
-      {
-        "description": "Designed specifically for athletic builds, the Slim Jean sit low on your waist, with extra room in the seat and thigh areas. Plus, the modern narrow leg helps you look put-together with minimal effort on your part. (Always a win.)"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
   },
   {
     "id": 8,
@@ -3168,104 +3113,158 @@
     "demoVideo": null
   },
   {
-    "id": 4,
-    "name": "Oly Stool",
-    "voucherId": null,
-    "sellerId": 6,
+    "id": 25,
+    "name": "Chill Pouf",
+    "voucherId": 1,
+    "sellerId": 16,
     "category": "Home & Decor",
     "itemStatus": "In Stock",
-    "weight": 2,
+    "weight": 4,
     "variants": {
+      "sizes": ["S", "M", "L"],
       "colors": [
         {
+          "name": "beige",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P1.png"]
+        },
+        {
+          "name": "orange",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P2.png"]
+        },
+        {
+          "name": "olive",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P3.png"]
+        },
+        {
+          "name": "grey",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P4.png"]
+        },
+        {
           "name": "blue",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_bl.png"
-          ]
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P5.png"]
         },
         {
-          "name": "black",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_b.png"
-          ]
-        },
-        {
-          "name": "Green",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/stool_g.png"
-          ]
+          "name": "dark grey",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P6.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "blue",
-        "price": 339,
+        "name": "S,beige",
+        "price": 249,
         "quantity": 10
       },
       {
-        "name": "black",
-        "price": 339,
+        "name": "M,beige",
+        "price": 249,
         "quantity": 10
       },
       {
-        "name": "green",
-        "price": 339,
+        "name": "L,beige",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "S,orange",
+        "price": 249,
+        "quantity": 10
+      },
+      {
+        "name": "M,orange",
+        "price": 249,
+        "quantity": 0
+      },
+      {
+        "name": "L,ornge",
+        "price": 249,
+        "quantity": 0
+      },
+      {
+        "name": "S,olive",
+        "price": 249,
         "quantity": 15
+      },
+      {
+        "name": "M,olive",
+        "price": 249,
+        "quantity": 15
+      }, 
+      {
+        "name": "L,olive",
+        "price": 249,
+        "quantity": 15
+      },
+      {
+        "name": "S,grey",
+        "price": 249,
+        "quantity": 8
+      },
+      {
+        "name": "M,grey",
+        "price": 249,
+        "quantity": 12
+      },
+      {
+        "name": "L,grey",
+        "price": 249,
+        "quantity": 12
+      },
+      {
+        "name": "S,blue",
+        "price": 249,
+        "quantity": 0
+      },
+      {
+        "name": "M,blue",
+        "price": 249,
+        "quantity": 15
+      },
+      {
+        "name": "L,blue",
+        "price": 249,
+        "quantity": 15
+      },
+      {
+        "name": "S,dark grey",
+        "price": 249,
+        "quantity": 8
+      },
+      {
+        "name": "M,dark grey",
+        "price": 249,
+        "quantity": 12
+      },
+      {
+        "name": "L,dark grey",
+        "price": 249,
+        "quantity": 12
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
+        "title": "Durable Foam Guarantees \nLong Lasting Use",
+        "description": "This pouf is crafted with high-density foam that resists sagging and wear, ensuring it retains its shape and support even with daily use. Whether you're sitting, lounging, or using it as a footrest, the durable foam guarantees comfort and longevity, making it a reliable addition to your space."
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
+        "title": "Soft, Carefully Selected \nFabrics",
+        "description": "Wrapped in premium, carefully selected fabrics, this pouf offers a luxurious feel thatâ€™s gentle to the touch. The soft texture enhances comfort while adding a sophisticated touch to your space, ensuring a cozy and stylish experience."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg",
+        "title": "Multi-Purpose Application",
+        "description": "Designed to adapt to your needs, this pouf serves as a comfortable seat, a supportive footrest, or even a stylish accent piece. Its multi-purpose functionality makes it a practical and versatile addition to any room."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": null,
+        "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
       }
     ],
     "serviceDetails": [
@@ -3276,9 +3275,10 @@
           {
             "title": "Delivery",
             "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
+              "Delivered directly to your home by trusted couriers like UPS, FedEx, or DHL, depending on your location",
+              "Delivery is free for orders above â‚¬100, with all costs, taxes, and customs fees covered by noo.ma",
+              "You can expect delivery in 2-4 business days within the EU and 3-8 business days for the UK, Switzerland, and Norway, starting from the dispatch date",
+              "All products from one order are being shipped together unless otherwise stated"
             ]
           },
           {
@@ -3310,21 +3310,21 @@
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewText": "Nice color and quality",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
         "reviewerId": 3,
         "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
+        "reviewText": "Very nice",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "Great value for money.",
+        "reviewText": "Perfect",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
