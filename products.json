@@ -1,537 +1,5 @@
 [
   {
-    "id": -5,
-    "name": "Dare To Love Double Ring",
-    "sellerId": 30,
-    "category": "Rings",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {"colors": [
-        {
-          "name": "Gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Dome Ring.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "14k solid gold",
-        "price": 965,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DDRH1.jpg",
-        "title": "Timeless Elegance, Modern Boldness",
-        "description": "The Dare to Love Double Dome Ring is a statement of effortless luxury. Crafted from solid 14k recycled gold, its sculptural double-dome design offers a bold yet refined look, perfect for everyday wear or special occasions. Designed for lasting beauty, this heirloom-quality piece embodies the perfect balance of strength and elegance."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 11,
-        "reviewRating": 5,
-        "reviewText": "Got this as a treat to myself after a big milestone and it is my most complimented piece ✨",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 2,
-        "reviewRating": 5,
-        "reviewText": "Celebrated a big moment with this ring — and now I never take it off 💖",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Simple ✨ Sculptural 💫 Everyday perfect.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": -4,
-    "name": "Viscid Ring",
-    "sellerId": 19,
-    "category": "Rings",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {"colors": [
-        {
-          "name": "sterling silver",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
-          ]
-        },
-        {
-          "name": "18k gold plated",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "sterling silver",
-        "price": 219,
-        "quantity": 10
-      },
-      {
-        "name": "18k gold plated",
-        "price": 219,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
-        "title": "Fluidity in Motion",
-        "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": -3,
-    "name": "Eira Black Onyx Teardrop Beads Necklaces",
-    "sellerId": 31,
-    "category": "Necklaces",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Pearl",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BO.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Pearl",
-        "price": 139,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BH1.jpg",
-        "title": "Bold Elegance: Black Onyx Teardrop Necklace",
-        "description": "Make a statement with the Black Onyx Big Teardrop Necklace—where bold design meets timeless sophistication. Crafted with sleek, polished onyx beads, this piece exudes strength and confidence, perfect for elevating any outfit. Whether worn solo or layered, it’s a striking accessory that speaks volumes."}
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Luminous pearls scattered along a delicate chain."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": -2,
-    "name": "CIF earrings set No.2",
-    "sellerId": 19,
-    "category": "Earrings",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "sterling silver",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF1.png"
-          ]
-        },
-        {
-          "name": "18k gold plated",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF2.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "sterling silver",
-        "price": 179,
-        "quantity": 10
-      },
-      {
-        "name": "18k gold plated",
-        "price": 179,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIFH.png",
-        "title": "Breeding Earrings: Uniquely Versatile Elegance",
-        "description": "These highly polished Breeding Earrings from the MIAM collection are a perfect blend of uniqueness, versatility, and exceptional quality. Designed to complement any style, they make a refined statement for everyday wear."
-      }],
-    "specifications": [
-      {
-        "title": "",
-        "description": "These highly polished earrings are unique, versatile, and high-quality. It is the best day-to-day statement design that goes with any style. Both material options are made with high-quality sterling silver studs to prevent allergic reactions."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": -1,
-    "name": "Pearl Necklace",
-    "sellerId": 5,
-    "category": "Necklaces",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Gold",
-        "price": 3700,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH1.jpg",
-        "title": "Ethereal Elegance: Luminous Pearls",
-        "description": "Gracefully adorned with luminous pearls scattered along a delicate chain, this piece exudes timeless sophistication. Perfect for any occasion, it’s a radiant blend of understated beauty and refined charm."}
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Luminous pearls scattered along a delicate chain."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
     "id": 1,
     "name": "Gold Lipstick",
     "voucherId": 1,
@@ -4819,6 +4287,538 @@
       "title": "Responsive Cushioning with Cushlon ST2 Foam",
       "description": "The A'One is equipped with Cushlon ST2 foam in the midsole, providing athletes with responsive cushioning for smooth landings and explosive energy return. This technology ensures optimal performance during intense gameplay."
     }
+  ],
+  "specifications": [
+    {
+      "title": "",
+      "description": "Luminous pearls scattered along a delicate chain."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 2,
+      "reviewRating": 4,
+      "reviewText": "I can't get enough of the easy fit feature of this jacket",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 3,
+      "reviewRating": 5,
+      "reviewText": "I love the comfort of this jacket!",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Great value for money.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": "",
+  "demoVideo": ""
+},
+{
+  "id": 33,
+  "name": "Dare To Love Double Ring",
+  "sellerId": 30,
+  "category": "Rings",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {"colors": [
+      {
+        "name": "Gold",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Dome Ring.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "14k solid gold",
+      "price": 965,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DDRH1.jpg",
+      "title": "Timeless Elegance, Modern Boldness",
+      "description": "The Dare to Love Double Dome Ring is a statement of effortless luxury. Crafted from solid 14k recycled gold, its sculptural double-dome design offers a bold yet refined look, perfect for everyday wear or special occasions. Designed for lasting beauty, this heirloom-quality piece embodies the perfect balance of strength and elegance."
+    }
+  ],
+  "specifications": [
+    {
+      "title": "",
+      "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 11,
+      "reviewRating": 5,
+      "reviewText": "Got this as a treat to myself after a big milestone and it is my most complimented piece ✨",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 2,
+      "reviewRating": 5,
+      "reviewText": "Celebrated a big moment with this ring — and now I never take it off 💖",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Simple ✨ Sculptural 💫 Everyday perfect.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
+{
+  "id": 34,
+  "name": "Viscid Ring",
+  "sellerId": 19,
+  "category": "Rings",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {"colors": [
+      {
+        "name": "sterling silver",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
+        ]
+      },
+      {
+        "name": "18k gold plated",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "sterling silver",
+      "price": 219,
+      "quantity": 10
+    },
+    {
+      "name": "18k gold plated",
+      "price": 219,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
+      "title": "Fluidity in Motion",
+      "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
+    }
+  ],
+  "specifications": [
+    {
+      "title": "",
+      "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 2,
+      "reviewRating": 4,
+      "reviewText": "I can't get enough of the easy fit feature of this jacket",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 3,
+      "reviewRating": 5,
+      "reviewText": "I love the comfort of this jacket!",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Great value for money.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
+{
+  "id": 35,
+  "name": "Eira Black Onyx Teardrop Beads Necklaces",
+  "sellerId": 31,
+  "category": "Necklaces",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "Pearl",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BO.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "Pearl",
+      "price": 139,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BH1.jpg",
+      "title": "Bold Elegance: Black Onyx Teardrop Necklace",
+      "description": "Make a statement with the Black Onyx Big Teardrop Necklace—where bold design meets timeless sophistication. Crafted with sleek, polished onyx beads, this piece exudes strength and confidence, perfect for elevating any outfit. Whether worn solo or layered, it’s a striking accessory that speaks volumes."}
+  ],
+  "specifications": [
+    {
+      "title": "",
+      "description": "Luminous pearls scattered along a delicate chain."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 2,
+      "reviewRating": 4,
+      "reviewText": "I can't get enough of the easy fit feature of this jacket",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 3,
+      "reviewRating": 5,
+      "reviewText": "I love the comfort of this jacket!",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Great value for money.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": "",
+  "demoVideo": ""
+},
+{
+  "id": 36,
+  "name": "CIF earrings set No.2",
+  "sellerId": 19,
+  "category": "Earrings",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "sterling silver",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF1.png"
+        ]
+      },
+      {
+        "name": "18k gold plated",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF2.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "sterling silver",
+      "price": 179,
+      "quantity": 10
+    },
+    {
+      "name": "18k gold plated",
+      "price": 179,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIFH.png",
+      "title": "Breeding Earrings: Uniquely Versatile Elegance",
+      "description": "These highly polished Breeding Earrings from the MIAM collection are a perfect blend of uniqueness, versatility, and exceptional quality. Designed to complement any style, they make a refined statement for everyday wear."
+    }],
+  "specifications": [
+    {
+      "title": "",
+      "description": "These highly polished earrings are unique, versatile, and high-quality. It is the best day-to-day statement design that goes with any style. Both material options are made with high-quality sterling silver studs to prevent allergic reactions."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 2,
+      "reviewRating": 4,
+      "reviewText": "I can't get enough of the easy fit feature of this jacket",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 3,
+      "reviewRating": 5,
+      "reviewText": "I love the comfort of this jacket!",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Great value for money.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
+{
+  "id": 37,
+  "name": "Pearl Necklace",
+  "sellerId": 5,
+  "category": "Necklaces",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "Gold",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "Gold",
+      "price": 3700,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH1.jpg",
+      "title": "Ethereal Elegance: Luminous Pearls",
+      "description": "Gracefully adorned with luminous pearls scattered along a delicate chain, this piece exudes timeless sophistication. Perfect for any occasion, it’s a radiant blend of understated beauty and refined charm."}
   ],
   "specifications": [
     {
