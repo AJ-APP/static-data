@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 4,
     "name": "Beauty & Wellness",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beauty2.png",
     "children": [
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "id": 1,
+    "id": 5,
     "name": "Home & Decor",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/HD.png",
     "children": [
@@ -78,12 +78,12 @@
     ]
   },
   {
-    "id": 2,
+    "id": 6,
     "name": "Travel",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/travel2.png"
   },
   {
-    "id": 3,
+    "id": 7,
     "name": "Art",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Art.png",
     "children": [
@@ -116,7 +116,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 0,
     "name": "Deals",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Deals.png",
     "children": [
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 1,
     "name": "News",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/News.png",
     "children": [
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 2,
     "name": "Books",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Book2.png",
     "children": [
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 3,
     "name": "Food & Nutrition",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Food.png",
     "children": [
