@@ -18,7 +18,8 @@
     "section": 3,
     "type": "posts",
     "postConfig": {
-      "category": "Home & Decor"
+      "postIds": [41, 17, 26],
+      "limit": 10
     }
   },
   {
@@ -26,7 +27,7 @@
     "section": 4,
     "type": "debates",
     "debatesConfig": {
-      "postIds": [1, 2, 7]
+      "postIds": [1, 4, 50]
     }
   },
   {

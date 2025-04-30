@@ -41,7 +41,7 @@
   {
     "id": 1,
     "name": "Home & Decor",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Home.png",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/HD.png",
     "children": [
       {
         "id": 1201,
