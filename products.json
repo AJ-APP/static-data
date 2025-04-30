@@ -134,7 +134,7 @@
   {
     "id": 2,
     "name": "Papaya Sorbet Enzyme",
-    "voucherId": 1,
+    "voucherId": null,
     "sellerId": 16,
     "category": "Beauty & Wellness",
     "itemStatus": "In Stock",

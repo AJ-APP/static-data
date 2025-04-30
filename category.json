@@ -39,39 +39,39 @@
     ]
   },
   {
-    "id": 1, 
-    "name": "Automotive",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Automotive.png",
+    "id": 1,
+    "name": "Home & Decor",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Home.png",
     "children": [
       {
-        "id": 1111,
-        "name": "Car Parts",
+        "id": 1201,
+        "name": "Furniture",
         "children": [
           {
-            "id": 11111,
-            "name": "Engine Parts"
+            "id": 12011,
+            "name": "Living Room"
           },
           {
-            "id": 11112,
-            "name": "Exterior Parts"
+            "id": 12012,
+            "name": "Bedroom"
           },
           {
-            "id": 11113,
-            "name": "Interior Parts"
+            "id": 12013,
+            "name": "Kitchen"
           }
         ]
       },
       {
-        "id": 1112,
-        "name": "Car Care",
+        "id": 1202,
+        "name": "Decor",
         "children": [
           {
-            "id": 11121,
-            "name": "Cleaning Products"
+            "id": 12021,
+            "name": "Wall Art"
           },
           {
-            "id": 11122,
-            "name": "Tools"
+            "id": 12022,
+            "name": "Lighting"
           }
         ]
       }
@@ -677,39 +677,39 @@
     ]
   },
   {
-    "id": 19,
-    "name": "Home & Decor",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Home.png",
+    "id": 1, 
+    "name": "Automotive",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Automotive.png",
     "children": [
       {
-        "id": 1201,
-        "name": "Furniture",
+        "id": 1111,
+        "name": "Car Parts",
         "children": [
           {
-            "id": 12011,
-            "name": "Living Room"
+            "id": 11111,
+            "name": "Engine Parts"
           },
           {
-            "id": 12012,
-            "name": "Bedroom"
+            "id": 11112,
+            "name": "Exterior Parts"
           },
           {
-            "id": 12013,
-            "name": "Kitchen"
+            "id": 11113,
+            "name": "Interior Parts"
           }
         ]
       },
       {
-        "id": 1202,
-        "name": "Decor",
+        "id": 1112,
+        "name": "Car Care",
         "children": [
           {
-            "id": 12021,
-            "name": "Wall Art"
+            "id": 11121,
+            "name": "Cleaning Products"
           },
           {
-            "id": 12022,
-            "name": "Lighting"
+            "id": 11122,
+            "name": "Tools"
           }
         ]
       }
