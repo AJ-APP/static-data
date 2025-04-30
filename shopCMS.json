@@ -80,7 +80,7 @@
       "shoppedSellerId": 15,
       "items": [
         { "type": "user", "id": 5 },
-        { "type": "product", "id": 1 },
+        { "type": "product", "id": 3 },
         { "type": "product", "id": 5 },
         { "type": "user", "id": 2 },
         { "type": "product", "id": 4 },
