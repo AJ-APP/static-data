@@ -491,7 +491,7 @@
   },
   {
     "id": 12,
-    "userId": 7,
+    "userId": 10,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
@@ -2299,7 +2299,7 @@
   },
   {
     "id": 35,
-    "userId": 24,
+    "userId": 8,
     "status": {
       "likes": [10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
       "comments": [
@@ -7140,6 +7140,47 @@
     "category": "TRAVEL",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["WinterSunrise", "BeachVibes", "OceanMagic", "ColdMorningGlow", "ChasingLight"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": null
+  },
+  {
+    "id": 52,
+    "userId": 7,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": null,
+    "title": "🎒 5 Things Hikers Always Forget in the Mountains (Until It’s Too Late).",
+    "description":"You packed your boots, water, and camera — but did you forget the essentials that could make or break your hike?\n\nHere are 5 items even seasoned hikers leave behind:\n1. Proper layers – The weather flips fast. That sunny trail can turn freezing by the summit. Think in layers, not just “a jacket.”\n2. Sunscreen – Yes, even in the clouds. UV rays are stronger at high altitudes. Apply it before you regret it.\n3. Offline navigation – No signal? No problem... if you have a map or GPS downloaded. Don’t rely on bars that won’t be there.\n4. Salty snacks – You’ll sweat. A lot. Balance sugar with salt to avoid cramping or fatigue. Trail mix with nuts is your friend.\n5. A headlamp – It’s not just for night hikes. Shadows fall earlier in the mountains. A light keeps you confident (and safe) on the way down.\n\n⛰️ Nature is beautiful — but she doesn’t give warnings twice. Pack smart. Hike safe.\n\n👉 Tap the product section of this post to shop the gear you might be forgetting — before your next adventure.",
+    "video": null,
+    "recording": null,
+    "category": "OUTDOOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["AdventureReady","MountainHiking", "HikingTips", "TrailSmart", "OutdoorGear", "WanderWithCare"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],

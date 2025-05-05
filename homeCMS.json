@@ -76,7 +76,8 @@
     "section": 10,
     "type": "posts",
     "postConfig": {
-      "category": "Outdoor"
+      "postIds": [12, 35, 52, 37],
+      "limit": 10
     }
   }
 ]
