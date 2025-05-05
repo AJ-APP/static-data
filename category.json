@@ -1,6 +1,122 @@
 [
   {
     "id": 0,
+    "name": "Beauty & Wellness",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beauty2.png",
+    "children": [
+      {
+        "id": 301,
+        "name": "Skincare",
+        "children": [
+          {
+            "id": 3011,
+            "name": "Face Care"
+          },
+          {
+            "id": 3012,
+            "name": "Body Care"
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Makeup",
+        "children": [
+          {
+            "id": 3021,
+            "name": "Face Makeup"
+          },
+          {
+            "id": 3022,
+            "name": "Eye Makeup"
+          },
+          {
+            "id": 3023,
+            "name": "Lip Products"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Home & Decor",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/HD.png",
+    "children": [
+      {
+        "id": 1201,
+        "name": "Furniture",
+        "children": [
+          {
+            "id": 12011,
+            "name": "Living Room"
+          },
+          {
+            "id": 12012,
+            "name": "Bedroom"
+          },
+          {
+            "id": 12013,
+            "name": "Kitchen"
+          }
+        ]
+      },
+      {
+        "id": 1202,
+        "name": "Decor",
+        "children": [
+          {
+            "id": 12021,
+            "name": "Wall Art"
+          },
+          {
+            "id": 12022,
+            "name": "Lighting"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Travel",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/travel2.png"
+  },
+  {
+    "id": 3,
+    "name": "Art",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Art.png",
+    "children": [
+      {
+        "id": 1231230101,
+        "name": "Paintings",
+        "children": [
+          {
+            "id": 12312301011,
+            "name": "Oil Paintings"
+          },
+          {
+            "id": 1231230102,
+            "name": "Watercolor"
+          },
+          {
+            "id": 1231230103,
+            "name": "Acrylic"
+          }
+        ]
+      },
+      {
+        "id": 1231230102,
+        "name": "Sculptures"
+      },
+      {
+        "id": 1231230103,
+        "name": "Digital Art"
+      }
+    ]
+  },
+  {
+    "id": 4,
     "name": "Deals",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Deals.png",
     "children": [
@@ -35,7 +151,7 @@
     ]
   },
   {
-    "id": 1,
+    "id": 5,
     "name": "News",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/News.png",
     "children": [
@@ -70,7 +186,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 6,
     "name": "Books",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Book2.png",
     "children": [
@@ -113,7 +229,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 7,
     "name": "Food & Nutrition",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Food.png",
     "children": [
@@ -144,122 +260,6 @@
             "name": "Protein"
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Beauty & Wellness",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beauty2.png",
-    "children": [
-      {
-        "id": 301,
-        "name": "Skincare",
-        "children": [
-          {
-            "id": 3011,
-            "name": "Face Care"
-          },
-          {
-            "id": 3012,
-            "name": "Body Care"
-          }
-        ]
-      },
-      {
-        "id": 302,
-        "name": "Makeup",
-        "children": [
-          {
-            "id": 3021,
-            "name": "Face Makeup"
-          },
-          {
-            "id": 3022,
-            "name": "Eye Makeup"
-          },
-          {
-            "id": 3023,
-            "name": "Lip Products"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Home & Decor",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/HD.png",
-    "children": [
-      {
-        "id": 1201,
-        "name": "Furniture",
-        "children": [
-          {
-            "id": 12011,
-            "name": "Living Room"
-          },
-          {
-            "id": 12012,
-            "name": "Bedroom"
-          },
-          {
-            "id": 12013,
-            "name": "Kitchen"
-          }
-        ]
-      },
-      {
-        "id": 1202,
-        "name": "Decor",
-        "children": [
-          {
-            "id": 12021,
-            "name": "Wall Art"
-          },
-          {
-            "id": 12022,
-            "name": "Lighting"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Travel",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/travel2.png"
-  },
-  {
-    "id": 7,
-    "name": "Art",
-    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Art.png",
-    "children": [
-      {
-        "id": 1231230101,
-        "name": "Paintings",
-        "children": [
-          {
-            "id": 12312301011,
-            "name": "Oil Paintings"
-          },
-          {
-            "id": 1231230102,
-            "name": "Watercolor"
-          },
-          {
-            "id": 1231230103,
-            "name": "Acrylic"
-          }
-        ]
-      },
-      {
-        "id": 1231230102,
-        "name": "Sculptures"
-      },
-      {
-        "id": 1231230103,
-        "name": "Digital Art"
       }
     ]
   },
