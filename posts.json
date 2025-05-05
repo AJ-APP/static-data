@@ -2299,10 +2299,307 @@
   },
   {
     "id": 35,
-    "userId": 8,
+    "userId": 24,
     "status": {
-      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "likes": [10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
       "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
         {
           "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
           "id": 2,
@@ -2313,19 +2610,17 @@
           }
         }
       ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10,2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": [
-      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beachsunset.png"
-    ],
-    "title": "Chasing the Winter Sun.",
-    "description":"There’s something profoundly serene about the beach at sunrise, even on a cold morning. The air was crisp, carrying the salty tang of the sea, as I stepped onto the damp sand. The horizon was painted in hues of amber and pale pink, the first light of day creeping above the choppy waves.\n\nThe water was restless, each wave tumbling and breaking as if energized by the brisk air. There were no footprints, no noise but the rhythmic crash of the sea—a tranquil solitude that felt like the world had paused just for this moment.\n\nI stood there, bundled up against the cold, watching as the sun rose higher, casting golden reflections on the water's surface. It was a reminder of the beauty in the simple, fleeting moments, even when the chill bites at your cheeks.\n\n'Nature's own masterpiece,' I thought, as I walked away, leaving only my footprints behind.\n\nsunrise, beach vibes, cold morning, ocean view, serene moments, nature's beauty, choppy waves, peaceful dawn",
-    "video": null,
+    "images": null,
+    "title": "Where Royalty Once Roamed",
+    "description": "Wandering through the gardens of Cintra Castle feels like stepping into another world — where every path is wrapped in mist, every stone whispers stories, and nature blooms with royal grace. From hidden corners to grand archways, it’s a walk to get lost in… and never want to be found. 🌸🍃.",
+    "video": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/WhatsApp Video 2025-05-05 at 11.13.28.mp4",
     "recording": null,
-    "category": "TRAVEL",
+    "category": "OUTDOOR",
     "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["WinterSunrise", "BeachVibes", "OceanMagic", "ColdMorningGlow", "ChasingLight"],
+    "hashtags": ["CintraCastle", "GardenEscape", "WanderWithWonder", "PortugalMagic"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -2342,137 +2637,6 @@
   },
   {
     "id": 36,
-    "userId": 21,
-    "status": {
-      "likes": [1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
-      "comments": [
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        },
-        {
-          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
-          "id": 2,
-          "userId": 3,
-          "dateCreated": "2024-10-03T08:14:03.312546",
-          "status": {
-            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
-          }
-        }
-      ],
-      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
-      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
-    },
-    "images": null,
-    "title": "Revolutionizing Tech: Data Centers Set to Launch into Space",
-    "description": "Lumen Orbit, a startup based in Redmond, Washington, plans to deploy data centers into Earth's orbit. Powered by expansive solar arrays, this initiative aims to tackle the tech industry's clean energy challenges. Backed by an $11 million investment, the project leverages reduced launch costs due to advancements like reusable rockets. A prototype launch is scheduled for May, potentially transforming data storage and energy consumption.",
-    "video": null,
-    "recording": null,
-    "category": "NEWS",
-    "dateCreated": "2024-10-03T08:14:03.312546",
-    "hashtags": ["TechInnovation", "SpaceTechnology", "TDataCentersInSpace", "FutureOfTech", "CleanTech"],
-    "mentionedPeople": [],
-    "mentionedItems": [],
-    "collaborations": [],
-    "link": "",
-    "setting": {
-      "audience": [],
-      "contentDisclosure": {
-        "sensitiveContent": false,
-        "sponsoredContent": false,
-        "AIContent": false
-      }
-    },
-    "repost": null
-  },
-  {
-    "id": 37,
     "userId": 20,
     "status": {
       "likes": [1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
@@ -2584,7 +2748,7 @@
     "title": "Culture Pulse:\nAI, Trends, and the Future of Creativity",
     "description": "🎙️ New Culture Pulse episode just dropped! This week, we dive into the rise of AI-generated content and its impact on art, music, and storytelling. Is AI stifling creativity or unlocking a new era of innovation? 🤔\n\nFeaturing insights from top creators and tech pioneers, we explore how this game-changing technology is shaping the cultural landscape and redefining what it means to be creative.\n\nListen now and join the conversation! Available on Spotify, Apple Podcasts, and wherever you get your podcasts.",
     "video": null,
-    "recording": ["https://shekr-static.vyte.sh/recordings/CantinaBand60.wav"],
+    "recording": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Nakeyo - Valley Blue d2 master.wav"],
     "category": "TECHNOLOGY",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["AI", "innovation", "culturetrends", "creativityunleashed", "podcast"],
@@ -2603,7 +2767,7 @@
     "repost": null
   },
   {
-    "id": 38,
+    "id": 37,
     "userId": 11,
     "status": {
       "likes": [1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10,1, 4, 6, 8, 9, 7, 11, 10,4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
@@ -3016,6 +3180,137 @@
     "category": "TRAVEL",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["12Apostles", "GreatOceanRoad", "SunsetMagic", "Wanderlust", "OceanViews", "AustraliaAdventures", "ScenicViews", "GoldenHourGlow", "TravelDreams", "BucketListMoments"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": 4
+  },
+  {
+    "id": 38,
+    "userId": 21,
+    "status": {
+      "likes": [1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10, 1, 4, 6, 8, 9, 7, 11, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        },
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": null,
+    "title": "Revolutionizing Tech: Data Centers Set to Launch into Space",
+    "description": "Lumen Orbit, a startup based in Redmond, Washington, plans to deploy data centers into Earth's orbit. Powered by expansive solar arrays, this initiative aims to tackle the tech industry's clean energy challenges. Backed by an $11 million investment, the project leverages reduced launch costs due to advancements like reusable rockets. A prototype launch is scheduled for May, potentially transforming data storage and energy consumption.",
+    "video": null,
+    "recording": null,
+    "category": "NEWS",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["TechInnovation", "SpaceTechnology", "TDataCentersInSpace", "FutureOfTech", "CleanTech"],
     "mentionedPeople": [],
     "mentionedItems": [],
     "collaborations": [],
@@ -6804,6 +7099,49 @@
     "hashtags": ["A'jaWilson", "A'One", "innovation", "issarae", "creativityunleashed", "authentic"],
     "mentionedPeople": [],
     "mentionedItems": [-5],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    },
+    "repost": null
+  },
+  {
+    "id": 51,
+    "userId": 8,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "Wow, this sounds amazing! I can't wait to see how the apple pie turns out!",
+          "id": 2,
+          "userId": 3,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": [
+      "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beachsunset.png"
+    ],
+    "title": "Chasing the Winter Sun.",
+    "description":"There’s something profoundly serene about the beach at sunrise, even on a cold morning. The air was crisp, carrying the salty tang of the sea, as I stepped onto the damp sand. The horizon was painted in hues of amber and pale pink, the first light of day creeping above the choppy waves.\n\nThe water was restless, each wave tumbling and breaking as if energized by the brisk air. There were no footprints, no noise but the rhythmic crash of the sea—a tranquil solitude that felt like the world had paused just for this moment.\n\nI stood there, bundled up against the cold, watching as the sun rose higher, casting golden reflections on the water's surface. It was a reminder of the beauty in the simple, fleeting moments, even when the chill bites at your cheeks.\n\n'Nature's own masterpiece,' I thought, as I walked away, leaving only my footprints behind.\n\nsunrise, beach vibes, cold morning, ocean view, serene moments, nature's beauty, choppy waves, peaceful dawn",
+    "video": null,
+    "recording": null,
+    "category": "TRAVEL",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["WinterSunrise", "BeachVibes", "OceanMagic", "ColdMorningGlow", "ChasingLight"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
