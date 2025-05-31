@@ -45,7 +45,7 @@
     "productConfig": {
       "hasCategoryFilter": true,
       "rows": 2,
-      "limit": 6
+      "limit": 16
     }
   },
   {
