@@ -617,7 +617,7 @@
       {
         "name": "M,black",
         "price": 150,
-        "quantity": 5
+        "quantity": 200
       },
       {
         "name": "L,black",
@@ -627,7 +627,7 @@
       {
         "name": "XL,black",
         "price": 150,
-        "quantity": 0
+        "quantity": 1
       },
       {
         "name": "XXL,black",
@@ -1327,7 +1327,7 @@
   {
     "id": 11,
     "name": "Vintage T-shirt",
-    "voucherId": 1,
+    "voucherId": null,
     "sellerId": 15,
     "category": "Men fashion",
     "itemStatus": "In Stock",
@@ -1345,12 +1345,12 @@
       {
         "name": "XS,white",
         "price": 20,
-        "quantity": 10
+        "quantity": 100
       },
       {
         "name": "S,white",
         "price": 20,
-        "quantity": 10
+        "quantity": 100
       },
       {
         "name": "M,white",
@@ -1370,7 +1370,7 @@
       {
         "name": "XXL,white",
         "price": 20,
-        "quantity": 20
+        "quantity": 200
       }
     ],
     "features": [
@@ -1933,13 +1933,13 @@
     "variantsDetails": [
       {
         "name": "XS,blue",
-        "price": 90,
-        "quantity": 10
+        "price": 150,
+        "quantity": 100
       },
       {
         "name": "S,blue",
-        "price": 90,
-        "quantity": 10
+        "price": 150,
+        "quantity": 100
       },
       {
         "name": "M,blue",
@@ -1959,7 +1959,7 @@
       {
         "name": "XXL,blue",
         "price": 150,
-        "quantity": 20
+        "quantity": 120
       }
     ],
     "features": [
