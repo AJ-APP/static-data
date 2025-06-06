@@ -188,8 +188,8 @@
       "audience": [],
       "contentDisclosure": {
         "sensitiveContent": false,
-        "sponsoredContent": true,
-        "AIContent": true
+        "sponsoredContent": false,
+        "AIContent": false
       }
     },
     "repost": 4
