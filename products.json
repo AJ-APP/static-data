@@ -1328,7 +1328,7 @@
     "id": 11,
     "name": "Vintage T-shirt",
     "voucherId": 1,
-    "sellerId": 18,
+    "sellerId": 15,
     "category": "Men fashion",
     "itemStatus": "In Stock",
     "weight": 4,
@@ -1344,32 +1344,32 @@
     "variantsDetails": [
       {
         "name": "XS,white",
-        "price": 90,
+        "price": 20,
         "quantity": 10
       },
       {
         "name": "S,white",
-        "price": 90,
+        "price": 20,
         "quantity": 10
       },
       {
         "name": "M,white",
-        "price": 150,
+        "price": 20,
         "quantity": 5
       },
       {
         "name": "L,white",
-        "price": 150,
+        "price": 20,
         "quantity": 6
       },
       {
         "name": "XL,white",
-        "price": 150,
+        "price": 20,
         "quantity": 0
       },
       {
         "name": "XXL,white",
-        "price": 150,
+        "price": 20,
         "quantity": 20
       }
     ],
@@ -1432,23 +1432,23 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 4,
+        "reviewRating": 5,
+        "reviewText": "This t-shirt exceeded my expectations. The fabric is incredibly soft and lightweight, but it still feels durable. I've already washed it a couple of times and it hasn't shrunk or lost its shape. Will definitely be ordering more!",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
+        "reviewerId": 12,
+        "reviewRating": 4,
+        "reviewText": "Good everyday t-shirt. The fit is flattering without being too tight, and the length is just right (not too short or too long). I love that it's versatile enough to wear with jeans or under a blazer. Only reason for 4 stars is I wish there were more color options!",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
+        "reviewerId": 7,
+        "reviewRating": 5,
+        "reviewText": "Great fit, nice basic tee and it holds up well after multiple washes.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
