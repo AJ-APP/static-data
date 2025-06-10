@@ -4,7 +4,7 @@
     "section": 1,
     "type": "posts",
     "postConfig": {
-      "postIds": [ 8, 37, 2, 25, 53, 46, 44, 43, 42, 39, 40, 41, 38, 32, 33, 34],
+      "postIds": [ 37, 8, 2, 25, 53, 46, 44, 43, 42, 39, 40, 41, 38, 32, 33, 34],
       "limit": 10
     }
   },
@@ -39,7 +39,7 @@
     }
   },
   {
-    "title": "Streamers we think you will like",
+    "title": "Creators we think you will like",
     "section": 6,
     "type": "recommended",
     "recommendedConfig": {

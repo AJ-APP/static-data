@@ -276,7 +276,7 @@
   {
     "id": 3,
     "name": "RW Snearkers",
-    "voucherId": 1,
+    "voucherId": null,
     "sellerId": 15,
     "category": "Shoes",
     "itemStatus": "In Stock",
