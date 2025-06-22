@@ -721,67 +721,84 @@
   },
   {
     "id": 7,
-    "name": "Chain Ring",
-    "sellerId": 5,
-    "category": "Women Jewelry",
+    "name": "Atlas Cloud",
+    "voucherId": 1,
+    "sellerId": 15,
+    "category": "Shoes",
     "itemStatus": "In Stock",
-    "weight": 2,
+    "weight": 4,
     "variants": {
+      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
       "colors": [
         {
-          "name": "yellow gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/21.png"
-          ]
-        },
-        {
-          "name": "white gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI2.png"
-          ]
-        },
-        {
-          "name": "rose gold",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RI1.png"
-          ]
+          "name": "orange",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Atlas Classic.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "yellow gold",
-        "price": 6000,
+        "name": "36,orange",
+        "price": 169,
         "quantity": 10
       },
       {
-        "name": "silver gold",
-        "price": 6300,
+        "name": "37,orange",
+        "price": 169,
         "quantity": 10
       },
       {
-        "name": "rose gold",
-        "price": 6000,
+        "name": "38,orange",
+        "price": 169,
+        "quantity": 10
+      },
+      {
+        "name": "39,orange",
+        "price": 169,
+        "quantity": 10
+      },
+      {
+        "name": "40,orange",
+        "price": 190,
+        "quantity": 10
+      },
+      {
+        "name": "41,orange",
+        "price": 190,
+        "quantity": 10
+      },{
+        "name": "42,orange",
+        "price": 190,
+        "quantity": 10
+      },
+      {
+        "name": "43,orange",
+        "price": 190,
+        "quantity": 10
+      },
+    {
+        "name": "44,orange",
+        "price": 190,
+        "quantity": 10
+      },
+      {
+        "name": "45,orange",
+        "price": 190,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH1.png",
-        "title": "Strength in Style",
-        "description": "Tiffany HardWear captures the transformative power of love through bold, modern design. Inspired by a 1962 archival bracelet, this collection embodies enduring resilience and an uninhibited spirit, blending timeless elegance with urban edge."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/RH2.png",
-        "title": "Handcrafted Brilliance",
-        "description": "Each diamond is meticulously hand-set by Tiffany artisans to maximize its radiant shine. Perfect as a standalone statement or paired with other metals, this piece reflects timeless craftsmanship and effortless elegance."
-      }],
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/AC 528.jpg",
+        "title": "Timeless Style, Built to Last",
+        "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
+      }
+    ],
     "specifications": [
       {
-        "title": "",
-        "description": "Tiffany HardWear is an expression of love’s transformative strength. Inspired by a quintessential bracelet from 1962 found in the House’s archives, HardWear embodies enduring resilience and uninhibited spirit. This 18k rose gold ring features the collection’s signature gauge link design with a striking contrast of metal and diamonds. Tiffany artisans carefully hand set each diamond to achieve maximum shine. It makes a beautiful statement worn on its own or mixed with other metals."
+        "title": null,
+        "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
       }
     ],
     "serviceDetails": [
@@ -824,9 +841,9 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 12,
+        "reviewRating": 5,
+        "reviewText": "Obsessed with these sneakers! 😍✨ Incredibly comfortable, super stylish, and they’re perfect for everything from workouts to casual outings. 💪✨ Your feet will thank you, and so will your style game! 😍👏",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
@@ -846,8 +863,8 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
     "id": 6,
@@ -3645,7 +3662,7 @@
   },
   {
     "id": 28,
-    "name": "RW Snearkers",
+    "name": "Atlas Cloud",
     "voucherId": 1,
     "sellerId": 15,
     "category": "Shoes",
@@ -3655,58 +3672,58 @@
       "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
       "colors": [
         {
-          "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
+          "name": "orange",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Atlas Classic.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "36,black",
+        "name": "36,orange",
         "price": 169,
         "quantity": 10
       },
       {
-        "name": "37,black",
+        "name": "37,orange",
         "price": 169,
         "quantity": 10
       },
       {
-        "name": "38,black",
+        "name": "38,orange",
         "price": 169,
         "quantity": 10
       },
       {
-        "name": "39,black",
+        "name": "39,orange",
         "price": 169,
         "quantity": 10
       },
       {
-        "name": "40,black",
+        "name": "40,orange",
         "price": 190,
         "quantity": 10
       },
       {
-        "name": "41,black",
+        "name": "41,orange",
         "price": 190,
         "quantity": 10
       },{
-        "name": "42,black",
+        "name": "42,orange",
         "price": 190,
         "quantity": 10
       },
       {
-        "name": "43,black",
+        "name": "43,orange",
         "price": 190,
         "quantity": 10
       },
     {
-        "name": "44,black",
+        "name": "44,orange",
         "price": 190,
         "quantity": 10
       },
       {
-        "name": "45,black",
+        "name": "45,orange",
         "price": 190,
         "quantity": 10
       }
@@ -3714,7 +3731,7 @@
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-jayY9MiLn6I-unsplash.jpg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/AC 528.jpg",
         "title": "Timeless Style, Built to Last",
         "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
       }
