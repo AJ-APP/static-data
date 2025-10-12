@@ -1,6 +1,154 @@
 [
   {
     "id": 0,
+    "name": "Deals",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Deals.png",
+    "children": [
+      {
+        "id": 601,
+        "name": "Clearance",
+        "children": [
+          {
+            "id": 6011,
+            "name": "Season End"
+          },
+          {
+            "id": 6012,
+            "name": "Limited Time"
+          }
+        ]
+      },
+      {
+        "id": 602,
+        "name": "Special Offers",
+        "children": [
+          {
+            "id": 6021,
+            "name": "Bundle Deals"
+          },
+          {
+            "id": 6022,
+            "name": "Flash Sales"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "News",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/News.png",
+    "children": [
+      {
+        "id": 1801,
+        "name": "Current Events",
+        "children": [
+          {
+            "id": 18011,
+            "name": "Politics"
+          },
+          {
+            "id": 18012,
+            "name": "Business"
+          }
+        ]
+      },
+      {
+        "id": 1802,
+        "name": "Entertainment",
+        "children": [
+          {
+            "id": 18021,
+            "name": "Celebrity News"
+          },
+          {
+            "id": 18022,
+            "name": "Culture"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Books",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Book2.png",
+    "children": [
+      {
+        "id": 401,
+        "name": "Fiction",
+        "children": [
+          {
+            "id": 4011,
+            "name": "Fantasy"
+          },
+          {
+            "id": 4012,
+            "name": "Mystery"
+          },
+          {
+            "id": 4013,
+            "name": "Romance"
+          }
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Non-Fiction",
+        "children": [
+          {
+            "id": 4021,
+            "name": "Self-Help"
+          },
+          {
+            "id": 4022,
+            "name": "Business"
+          },
+          {
+            "id": 4023,
+            "name": "History"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Food & Nutrition",
+    "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Food.png",
+    "children": [
+      {
+        "id": 901,
+        "name": "Organic Food",
+        "children": [
+          {
+            "id": 9011,
+            "name": "Fresh Produce"
+          },
+          {
+            "id": 9012,
+            "name": "Dairy"
+          }
+        ]
+      },
+      {
+        "id": 902,
+        "name": "Supplements",
+        "children": [
+          {
+            "id": 9021,
+            "name": "Vitamins"
+          },
+          {
+            "id": 9022,
+            "name": "Protein"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
     "name": "Beauty & Wellness",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Beauty2.png",
     "children": [
@@ -39,7 +187,7 @@
     ]
   },
   {
-    "id": 1,
+    "id": 5,
     "name": "Home & Decor",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/HD.png",
     "children": [
@@ -78,12 +226,12 @@
     ]
   },
   {
-    "id": 2,
+    "id": 6,
     "name": "Travel",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/travel2.png"
   },
   {
-    "id": 3,
+    "id": 7,
     "name": "Art",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Art.png",
     "children": [
@@ -116,7 +264,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 8,
     "name": "Deals",
     "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Deals.png",
     "children": [
