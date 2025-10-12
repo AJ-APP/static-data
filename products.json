@@ -143,138 +143,6 @@
   },
   {
     "id": 2,
-    "name": "Gold Lipstick",
-    "voucherId": 1,
-    "sellerId": 13,
-    "category": "Make-up",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Velvet",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L541.png"]
-        },
-        {
-          "name": "Nude",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L551.png"]
-        },
-        {
-          "name": "Satin",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L561.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Velvet",
-        "price": 25,
-        "quantity": 6
-      },
-      {
-        "name": "Nude",
-        "price": 25,
-        "quantity": 3
-      },
-      {
-        "name": "Satin",
-        "price": 25,
-        "quantity": 5
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
-        "title": "Hydration Meets Color",
-        "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
-        "title": "Bold Color, Unmatched Intensity",
-        "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
-        "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
-        "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders > 50",
-              "Delivery fees are 2.5 for all orders < 50",
-              "Standard delivery: 4 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 11,
-        "reviewRating": 5,
-        "reviewText": "This lipstick is a game-changer! 💄✨ The color payoff is stunning, the formula feels buttery smooth, and it lasts all day without drying out your lips. 💋",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 3,
     "name": "RW Snearkers",
     "voucherId": null,
     "sellerId": 15,
@@ -419,6 +287,138 @@
     "reviewsCount": 55,
     "unboxingVideo": "",
     "demoVideo": ""
+  },
+  {
+    "id": 3,
+    "name": "Gold Lipstick",
+    "voucherId": 1,
+    "sellerId": 13,
+    "category": "Make-up",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Velvet",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L541.png"]
+        },
+        {
+          "name": "Nude",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L551.png"]
+        },
+        {
+          "name": "Satin",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L561.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Velvet",
+        "price": 25,
+        "quantity": 6
+      },
+      {
+        "name": "Nude",
+        "price": 25,
+        "quantity": 3
+      },
+      {
+        "name": "Satin",
+        "price": 25,
+        "quantity": 5
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
+        "title": "Hydration Meets Color",
+        "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
+        "title": "Bold Color, Unmatched Intensity",
+        "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
+        "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
+        "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders > 50",
+              "Delivery fees are 2.5 for all orders < 50",
+              "Standard delivery: 4 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "This lipstick is a game-changer! 💄✨ The color payoff is stunning, the formula feels buttery smooth, and it lasts all day without drying out your lips. 💋",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 4,
