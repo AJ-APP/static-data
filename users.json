@@ -464,7 +464,7 @@
       5,
       6
     ],
-    "description": "Lumea transforms spaces into stories. With a curated selection of home and décor pieces, we bring warmth, character, and modern sophistication to every corner of your home. From timeless furniture to artful accents, each piece is crafted to inspire comfort and individuality. At Lumea, your home isn’t just where you live—it’s where your style comes to life.",
+    "description": "A fruit-forward skincare line inspired by Korean beauty rituals, blending natural actives with clean, vegan formulas that celebrate real skin and visible results.",
     "interests": [
       17,
       22
@@ -945,6 +945,36 @@
       6
     ],
     "description": "Lumea transforms spaces into stories. With a curated selection of home and décor pieces, we bring warmth, character, and modern sophistication to every corner of your home. From timeless furniture to artful accents, each piece is crafted to inspire comfort and individuality. At Lumea, your home isn’t just where you live—it’s where your style comes to life.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 32,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-10-31 at 14.01.04.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/Screenshot 2025-10-31 at 13.59.48.png",
+    "tagLine": "🫶🏻 For a more social world",
+    "firstName": "ultimateashop",
+    "lastName": "",
+    "gender": "female",
+    "username": "ultimateashop",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "🧉 Yerba Mate with a Dutch Twist \n🌈 By a tea-loving, queer couple \n 👭@aniekrademaker & @cramwinckel \n🍭 Based in Utreg",
     "interests": [
       17,
       22
