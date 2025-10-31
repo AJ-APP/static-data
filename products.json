@@ -1,9 +1,9 @@
 [
   {
-    "id": 0,
-    "name": "FOCUS - Yerba Maté with Lemongrass, 100% organic!",
+    "id": -1,
+    "name": "Maté Advent Calendar",
     "voucherId": null,
-    "sellerId": 32,
+    "sellerId": 33,
     "category": "Food & Nutrition",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -13,6 +13,113 @@
           "name": "Green",
           "images": [
             "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/90.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "green",
+        "price": 14.50,
+        "quantity": 10}
+    ],
+    "features": [],
+    "specifications": [
+      {
+        "title": "Type",
+        "description": "Herbal energy tea blend"
+      },
+      {
+        "title": "Yerba Maté (Ilex paraguariensis)",
+        "description": "Natural source of caffeine, theobromine, and antioxidants for clean, sustained energy."
+      },
+      {
+        "title": "Citroengras (Lemongrass)",
+        "description": "Adds a light, invigorating aroma and supports digestion and mental clarity."
+      },
+      {
+        "title": "Preparation",
+        "description": "Add 1 tablespoon per 250 ml of water (70–80 °C). Steep for 5–8 minutes.\nCan be enjoyed hot or cold."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Absolutely thrilled with this blend.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great organic yerba mate with a clean taste.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 26,
+        "reviewRating": 4,
+        "reviewText": "Really enjoy this tea for my morning focus ritual.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/90.png",
+    "demoVideo": null
+  },
+  {
+    "id": 0,
+    "name": "FOCUS - Yerba Maté with Lemongrass, 100% organic!",
+    "voucherId": null,
+    "sellerId": 33,
+    "category": "Food & Nutrition",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Unboxing.mov"]
         }
       ]
     },
