@@ -4,7 +4,7 @@
     "section": 1,
     "type": "posts",
     "postConfig": {
-      "postIds": [ 25, 37, 28, 8, 15, 21, 32, 40, 46],
+      "postIds": [ 54, 25, 37, 28, 8, 15, 21, 32, 40, 46],
       "limit": 10
     }
   },
@@ -12,6 +12,14 @@
     "title": "Category",
     "section": 2,
     "type": "category"
+  },
+  {
+    "title": "Fuel Your Day the Natural Way",
+    "section": 3,
+    "type": "posts",
+    "postConfig": {
+      "category": "FOOD & NUTRITION"
+    }
   },
   {
     "title": "From House to Home",
@@ -76,7 +84,7 @@
     "section": 10,
     "type": "posts",
     "postConfig": {
-      "postIds": [12, 35, 52, 37],
+      "postIds": [12, 35, 15, 37],
       "limit": 10
     }
   }
