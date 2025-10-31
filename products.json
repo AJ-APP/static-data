@@ -25,7 +25,7 @@
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/Close up.png",
+        "image": "https://shekr-static.vyte.sh/products/Close-up.png",
         "title": "Melt Away Makeup and Pollution in One Step",
         "description": "This cleansing balm transforms from a balm into a milky-oil on contact, effectively dissolving makeup, dirt, excess oil and pollution particles. It simplifies the first step of a double cleanse."
       },
@@ -37,7 +37,7 @@
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/Fruits.png",
+        "image": "https://shekr-static.vyte.sh/products/Fruit.png",
         "title": "Clean Beauty Formulation With Skin-Soothing Actives",
         "description": "Vegan, cruelty-free, and free from silicones, phthalates, parabens, and drying alcohols, this balm is enriched with antioxidant-rich blueberry extract and nourishing oils like camellia and apricot kernel to leave skin soft and calm."
       }
@@ -102,7 +102,7 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Absolutely love this balm. It melts away all my makeup (even waterproof mascara) and leaves my skin feeling soft and clean. One of the best cleansing steps I’ve ever used.",
+        "reviewText": "Absolutely love this balm. One of the best I’ve ever used.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
