@@ -19,61 +19,45 @@
     "variantsDetails": [
       {
         "name": "orange",
-        "price": 15,
+        "price": 38.95,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://shekr-static.vyte.sh/products/Close up.png",
+        "title": "Melt Away Makeup and Pollution in One Step",
+        "description": "This cleansing balm transforms from a balm into a milky-oil on contact, effectively dissolving makeup, dirt, excess oil and pollution particles. It simplifies the first step of a double cleanse."
       },
       {
         "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Texture.png",
+        "title": "Gentle Exfoliation With Papaya Enzymes",
+        "description": "Powered by natural papaya enzymes (papain) along with papaya seed oil and extract, this formula smooths skin texture and brightens the complexion by lifting away dead skin cells, no scrubbing required."
       },
       {
         "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
+        "image": "https://shekr-static.vyte.sh/products/Fruits.png",
+        "title": "Clean Beauty Formulation With Skin-Soothing Actives",
+        "description": "Vegan, cruelty-free, and free from silicones, phthalates, parabens, and drying alcohols, this balm is enriched with antioxidant-rich blueberry extract and nourishing oils like camellia and apricot kernel to leave skin soft and calm."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "100% cotton"
+        "title": "Texture",
+        "description": "Soft sorbet balm that melts into a silky, milky oil upon application."
       },
       {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
+        "title": "Skin Type",
+        "description": "Suitable for all skin types, including sensitive and combination skin."
       },
       {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
+        "title": "Size:",
+        "description": "100 ml / 3.4 fl oz"
       },
       {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
+        "title": "Made in:",
+        "description": "Korea"
       }
     ],
     "serviceDetails": [
@@ -84,8 +68,8 @@
           {
             "title": "Delivery",
             "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
               "Standard delivery: 2 to 3 working days"
             ]
           },
@@ -106,9 +90,9 @@
           {
             "title": "Delivery Information",
             "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
             ]
           }
         ]
@@ -116,30 +100,30 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Absolutely love this balm. It melts away all my makeup (even waterproof mascara) and leaves my skin feeling soft and clean. One of the best cleansing steps I’ve ever used.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
-        "reviewerId": 3,
+        "reviewerId": 9,
         "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
+        "reviewText": "Such a joy to use. The texture is buttery, the scent is a light fruity lift, and my skin is noticeably smoother. A little goes a long way.”",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
-        "reviewerId": 5,
+        "reviewerId": 26,
         "reviewRating": 4,
-        "reviewText": "Great value for money.",
+        "reviewText": "Great first cleanse. My face looks more radiant, and honestly I look forward to using it. Will repurchase for sure.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
-    "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "unboxingVideo": null,
+    "demoVideo": null
   },
   {
     "id": 2,
