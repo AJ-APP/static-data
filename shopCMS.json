@@ -70,7 +70,7 @@
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
-      "userIds": [ 1, 32, 33 ]
+      "userIds": [1, 2, 3, 32, 33 ]
     }
   },
   {
