@@ -1,5 +1,34 @@
 [
   {
+    "id": 0,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Group 8910.png",
+    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
+    "tagLine": "Dreaming in 5th gear.",
+    "firstName": "WAY gallery",
+    "lastName": "",
+    "gender": "male",
+    "username": "waygallery",
+    "email": "stylewithLucca@email.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1992-07-25T00:00:00.000Z",
+    "followers": [
+      3,
+      6,
+      8
+    ],
+    "following": [
+      1,
+      5,
+      7
+    ],
+    "description": "Upcoming Exhibition – Stockholm\n23/10 – 22/11 ’Finklädd och Förtvivlad’ @estgra\n31/10-1/11 CLOSED\n7-9/11 @galleryweekendstockholm",
+    "interests": [
+      12
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
     "id": 1,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
