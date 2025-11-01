@@ -4,7 +4,7 @@
     "section": 1,
     "type": "posts",
     "postConfig": {
-      "postIds": [ 55, 25, 37, 28, 8, 15, 21, 32, 40, 46],
+      "postIds": [ 25, 37, 28, 8, 15, 21, 32, 40, 46],
       "limit": 10
     }
   },
