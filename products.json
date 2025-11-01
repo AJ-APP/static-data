@@ -1,10 +1,10 @@
 [
   {
-    "id": 0,
-    "name": "FOCUS - Yerba Maté with Lemongrass, 100% organic!",
+    "id": 1,
+    "name": "Tove Blanck - Det bästa hon visste",
     "voucherId": null,
-    "sellerId": 33,
-    "category": "Food & Nutrition",
+    "sellerId": 0,
+    "category": "ART",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -12,14 +12,14 @@
         {
           "name": "Green",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/90.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/93.png"]
         }
       ]
     },
     "variantsDetails": [
       {
         "name": "green",
-        "price": 38.95,
+        "price": 145,
         "quantity": 10}
     ],
     "features": [
@@ -126,7 +126,239 @@
     "demoVideo": null
   },
   {
-    "id": 1,
+    "id": 2,
+    "name": "Yoyo Nasty - Tiddle Taddle Toes",
+    "voucherId": null,
+    "sellerId": 0,
+    "category": "ART",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/91.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "green",
+        "price": 820,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.06.02.png",
+        "title": "Limited Edition, Signed & Sealed",
+        "description": "Only 75 prints exist. Each one signed by Yoyo Nasty and printed on Hahnemühle Fine Art paper, your investment in original art."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.04.45.png",
+        "title": "Colour-Pop Surrealism",
+        "description": "Dive into Yoyo Nasty’s vivid world of bold characters and landscapes. This 30 × 40 cm piece bursts with playful energy and wild imagination.."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Artist",
+        "description": "Yoyo Nasty"
+      },
+      {
+        "title": "Print size",
+        "description": "30 × 40 cm."
+      },
+      {
+        "title": "Material",
+        "description": "Printed on Hahnemühle Fine Art paper (museum-quality matte sheet)."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Vibrant, playful, and beautifully printed, a true statement piece.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Feels like a gallery at home.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 26,
+        "reviewRating": 4,
+        "reviewText": "Bold colors, fast delivery, and looks stunning framed.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 3,
+    "name": "Melinda MW- POSTER ILLUSION silver",
+    "voucherId": null,
+    "sellerId": 0,
+    "category": "ART",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/92.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "green",
+        "price": 2180,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.06.02.png",
+        "title": "Limited Edition, Signed & Sealed",
+        "description": "Only 75 prints exist. Each one signed by Yoyo Nasty and printed on Hahnemühle Fine Art paper, your investment in original art."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.04.45.png",
+        "title": "Colour-Pop Surrealism",
+        "description": "Dive into Yoyo Nasty’s vivid world of bold characters and landscapes. This 30 × 40 cm piece bursts with playful energy and wild imagination.."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Artist",
+        "description": "Yoyo Nasty"
+      },
+      {
+        "title": "Print size",
+        "description": "30 × 40 cm."
+      },
+      {
+        "title": "Material",
+        "description": "Printed on Hahnemühle Fine Art paper (museum-quality matte sheet)."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Vibrant, playful, and beautifully printed, a true statement piece.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Feels like a gallery at home.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 26,
+        "reviewRating": 4,
+        "reviewText": "Bold colors, fast delivery, and looks stunning framed.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 49,
     "name": "Papaya Sorbet Enzyme",
     "voucherId": null,
     "sellerId": 16,
@@ -399,7 +631,7 @@
     "demoVideo": ""
   },
   {
-    "id": 3,
+    "id": 51,
     "name": "Gold Lipstick",
     "voucherId": 1,
     "sellerId": 13,
