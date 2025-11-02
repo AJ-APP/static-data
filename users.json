@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.13.17.png",
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Group 8908.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
-    "tagLine": "❤️‍🔥 Bold slow fashion❤️‍🔥",
-    "firstName": "WHERE’ELS",
+    "tagLine": "",
+    "firstName": "WAY gallery",
     "lastName": "",
     "gender": "male",
-    "username": "whereels",
+    "username": "waygallery",
     "email": "stylewithLucca@email.com",
     "phoneNumber": "123123123",
     "dateOfBirth": "1992-07-25T00:00:00.000Z",
@@ -21,7 +21,7 @@
       5,
       7
     ],
-    "description": "To empower you to be 100% YOU\nMade in Belgium & NL\nSeen on AFW, Modefabriek, Flair",
+    "description": "Upcoming Exhibition – Stockholm\n23/10 – 22/11 ’Finklädd och Förtvivlad’ @estgra\n31/10-1/11 CLOSED\n7-9/11 @galleryweekendstockholm",
     "interests": [
       12
     ],
