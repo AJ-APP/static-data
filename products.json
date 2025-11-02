@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Tove Blanck - Det bästa hon visste",
+    "name": "Scarf Black/Green",
     "voucherId": null,
     "sellerId": 1,
-    "category": "ART",
+    "category": "Scarves",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -12,14 +12,14 @@
         {
           "name": "Green",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/93.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/95.png"]
         }
       ]
     },
     "variantsDetails": [
       {
         "name": "green",
-        "price": 145,
+        "price": 142,
         "quantity": 10}
     ],
     "features": [
@@ -127,53 +127,49 @@
   },
   {
     "id": 2,
-    "name": "Yoyo Nasty - Tiddle Taddle Toes",
+    "name": "Easy Set - Pink",
     "voucherId": null,
     "sellerId": 1,
-    "category": "ART",
+    "category": "Night & lounge wear",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Green",
+          "name": "Pink",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/91.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/94.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "green",
-        "price": 820,
+        "name": "pink",
+        "price": 280,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.06.02.png",
-        "title": "Limited Edition, Signed & Sealed",
-        "description": "Only 75 prints exist. Each one signed by Yoyo Nasty and printed on Hahnemühle Fine Art paper, your investment in original art."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.01.22.png",
+        "title": "Cozy & Chic in Pink",
+        "description": "Crafted in Belgium & the Netherlands with premium materials, this limited-batch set brings effortless elegance to your loungewear."
       },
       {
         "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.04.58.png",
-        "title": "Colour-Pop Surrealism",
-        "description": "Dive into Yoyo Nasty’s vivid world of bold characters and landscapes. This 30 × 40 cm piece bursts with playful energy and wild imagination.."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.02.11.png",
+        "title": "Slow Fashion, Big Impact",
+        "description": "Small batch production means you’re choosing thoughtful design over fast fashion."
       }
     ],
     "specifications": [
       {
-        "title": "Artist",
-        "description": "Yoyo Nasty"
+        "title": "Composition",
+        "description": "70% cotton / 30% polyester."
       },
       {
-        "title": "Print size",
-        "description": "30 × 40 cm."
-      },
-      {
-        "title": "Material",
-        "description": "Printed on Hahnemühle Fine Art paper (museum-quality matte sheet)."
+        "title": "Set includes",
+        "description": "Sweater + Scarf + Pants."
       }
     ],
     "serviceDetails": [
@@ -218,21 +214,21 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Vibrant, playful, and beautifully printed, a true statement piece.",
+        "reviewText": "Crafted locally, sized right, and the pink hits just right.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
         "reviewerId": 9,
         "reviewRating": 5,
-        "reviewText": "Feels like a gallery at home.",
+        "reviewText": "Soft yet structured, this set lives up to its name.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 26,
         "reviewRating": 4,
-        "reviewText": "Bold colors, fast delivery, and looks stunning framed.",
+        "reviewText": "Three-piece comfort for artfully styled loungewear.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
@@ -243,18 +239,18 @@
   },
   {
     "id": 3,
-    "name": "Melinda MW- POSTER ILLUSION silver",
+    "name": "Scarf Pink/Grey",
     "voucherId": null,
     "sellerId": 1,
-    "category": "ART",
+    "category": "Scarves",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Green",
+          "name": "Pink/Grey",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/92.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/96.png"]
         }
       ]
     },
