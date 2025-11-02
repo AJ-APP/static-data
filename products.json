@@ -127,49 +127,53 @@
   },
   {
     "id": 2,
-    "name": "Easy Set - Pink",
+    "name": "Yoyo Nasty - Tiddle Taddle Toes",
     "voucherId": null,
     "sellerId": 1,
-    "category": "Night & lounge wear",
+    "category": "ART",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Pink",
+          "name": "Green",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/94.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/91.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "pink",
-        "price": 280,
+        "name": "green",
+        "price": 820,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 13.25.38.png",
-        "title": "Cozy & Chic in Pink",
-        "description": "Crafted in Belgium & the Netherlands with premium materials, this limited-batch set brings effortless elegance to your loungewear."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.06.02.png",
+        "title": "Limited Edition, Signed & Sealed",
+        "description": "Only 75 prints exist. Each one signed by Yoyo Nasty and printed on Hahnemühle Fine Art paper, your investment in original art."
       },
       {
         "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.02.11.png",
-        "title": "Slow Fashion, Big Impact",
-        "description": "Small batch production means you’re choosing thoughtful design over fast fashion."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.04.58.png",
+        "title": "Colour-Pop Surrealism",
+        "description": "Dive into Yoyo Nasty’s vivid world of bold characters and landscapes. This 30 × 40 cm piece bursts with playful energy and wild imagination.."
       }
     ],
     "specifications": [
       {
-        "title": "Composition",
-        "description": "70% cotton / 30% polyester."
+        "title": "Artist",
+        "description": "Yoyo Nasty"
       },
       {
-        "title": "Set includes",
-        "description": "Sweater + Scarf + Pants."
+        "title": "Print size",
+        "description": "30 × 40 cm."
+      },
+      {
+        "title": "Material",
+        "description": "Printed on Hahnemühle Fine Art paper (museum-quality matte sheet)."
       }
     ],
     "serviceDetails": [
@@ -214,21 +218,21 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Crafted locally, sized right, and the pink hits just right.",
+        "reviewText": "Vibrant, playful, and beautifully printed, a true statement piece.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       },
       {
         "reviewerId": 9,
         "reviewRating": 5,
-        "reviewText": "Soft yet structured, this set lives up to its name.",
+        "reviewText": "Feels like a gallery at home.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       },
       {
         "reviewerId": 26,
         "reviewRating": 4,
-        "reviewText": "Three-piece comfort for artfully styled loungewear.",
+        "reviewText": "Bold colors, fast delivery, and looks stunning framed.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-03T08:14:03.312546"
       }
