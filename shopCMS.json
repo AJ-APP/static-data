@@ -70,16 +70,16 @@
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
-      "userIds": [1, 11, 33 ]
+      "userIds": [34, 35, 36, 37, 38, 39 ]
     }
   },
   {
-    "section": 9,
+    "section": 34,
     "type": "related",
     "relatedConfig": {
       "shoppedSellerId": 1,
       "items": [
-        { "type": "user", "id": 32 },
+        { "type": "user", "id": 35 },
         { "type": "product", "id": 3 },
         { "type": "product", "id": 1 },
         { "type": "user", "id": 2 },

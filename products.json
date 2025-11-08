@@ -208,53 +208,56 @@
   },
   {
     "id": -3,
-    "name": "Scarf Pink/Grey",
+    "name": "Forbidden Fruit Perfume Candle",
     "voucherId": null,
-    "sellerId": 1,
-    "category": "Scarves",
+    "sellerId": 36,
+    "category": "Candles",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Pink/Grey",
+          "name": "Black",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/96.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/100.png"]
+        },
+        {
+          "name": "White",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/99.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "green",
-        "price": 142,
-        "quantity": 10}
+        "name": "Black",
+        "price": 35,
+        "quantity": 10},
+        {
+          "name": "White",
+          "price": 35,
+          "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.06.02.png",
-        "title": "Limited Edition, Signed & Sealed",
-        "description": "Only 75 prints exist. Each one signed by Yoyo Nasty and printed on Hahnemühle Fine Art paper, your investment in original art."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.04.45.png",
-        "title": "Colour-Pop Surrealism",
-        "description": "Dive into Yoyo Nasty’s vivid world of bold characters and landscapes. This 30 × 40 cm piece bursts with playful energy and wild imagination.."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.16.03.png",
+        "title": "Light Your Indulgence",
+        "description": "Juicy notes of plum and pomegranate meet warm amber and vanilla in a 220g natural-wax candle handcrafted in Amsterdam, offering around 50 hours of burn time and packed in a reusable glass jar."
       }
     ],
     "specifications": [
       {
-        "title": "Artist",
-        "description": "Yoyo Nasty"
+        "title": "Top Notes",
+        "description": "Plum and Pomegranate"
       },
       {
-        "title": "Print size",
-        "description": "30 × 40 cm."
+        "title": "Heart Notes",
+        "description": "Rose and Patchouli"
       },
       {
-        "title": "Material",
-        "description": "Printed on Hahnemühle Fine Art paper (museum-quality matte sheet)."
+        "title": "Base Notes",
+        "description": "Cedar wood, Amber, Vanilla and Leather."
       }
     ],
     "serviceDetails": [
@@ -299,23 +302,9 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Vibrant, playful, and beautifully printed, a true statement piece.",
+        "reviewText": "Rich, warm, and addictive. The scent fills the room within minutes and lingers long after the flame’s out.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Feels like a gallery at home.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 26,
-        "reviewRating": 4,
-        "reviewText": "Bold colors, fast delivery, and looks stunning framed.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,

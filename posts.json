@@ -7567,7 +7567,7 @@
     }
   },{
     "id": 61,
-    "userId": 32,
+    "userId": 35,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -7584,16 +7584,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.04.55 1.png"],
-    "title": "Soft Power Dressing From Weekend to Weekday Luxury.",
-    "description": "Thank you to everyone who joined us for the opening of Estelle Graf’s Finklädd och Förtvivlad. An evening of sharp wit, surreal charm, and striking storytelling — perfectly Estelle. The exhibition is now on view at WAY Gallery Sthlm.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 14.41.34.png"],
+    "title": "Silver Under the Sun.",
+    "description": "Sculpted shine that catches every ray. Each piece designed to move with you, effortless, grounded, and bold all at once.",
     "video": null,
     "recording": null,
-    "category": "FASHION",
+    "category": "JEWELERY",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
     "mentionedPeople": [],
-    "mentionedItems": [2],
+    "mentionedItems": [-4],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -7604,7 +7604,8 @@
         "AIContent": false
       }
     }
-  },{
+  },
+  {
     "id": 62,
     "userId": 32,
     "status": {
@@ -7623,16 +7624,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.04.55 1.png"],
-    "title": "Soft Power Dressing From Weekend to Weekday Luxury.",
-    "description": "Thank you to everyone who joined us for the opening of Estelle Graf’s Finklädd och Förtvivlad. An evening of sharp wit, surreal charm, and striking storytelling — perfectly Estelle. The exhibition is now on view at WAY Gallery Sthlm.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 21.32.49.png"],
+    "title": "Moments Made to Burn Slow.",
+    "description": "There’s something intimate about the first flicker of a new candle.\nThe air changes, the room softens, and for a moment, it’s just you and the scent.\nForbidden Fruit, designed in Amsterdam.",
     "video": null,
     "recording": null,
-    "category": "FASHION",
+    "category": "BEAUTY & WELLNESS",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
     "mentionedPeople": [],
-    "mentionedItems": [2],
+    "mentionedItems": [-3],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -7643,7 +7644,8 @@
         "AIContent": false
       }
     }
-  },{
+  },
+  {
     "id": 63,
     "userId": 32,
     "status": {
