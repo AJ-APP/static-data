@@ -4,12 +4,12 @@
     "section": 1,
     "type": "posts",
     "postConfig": {
-      "postIds": [ 58, 59, 25, 37, 28, 8, 15, 21, 32, 40, 46],
+      "postIds": [ 60, 61, 62, 63, 64, 8, 15, 21, 32, 40, 46],
       "limit": 10
     }
   },
   {
-    "title": "Category",
+    "title": "Interests",
     "section": 2,
     "type": "category"
   },

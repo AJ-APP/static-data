@@ -1,6 +1,566 @@
 [
-  
-{
+  {
+    "id": -5,
+    "name": "TGIB T-Shirt - Black",
+    "voucherId": null,
+    "sellerId": 1,
+    "category": "T-Shirt",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Black",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/108.png","https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/109.png" ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "black",
+        "price": 35,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 20.17.23.png",
+        "title": "Born from Culture. Built on Community.",
+        "description": "What began as a mantra evolved into a cultural force, responding to the shifting collective consciousness of our times. Today, The Gang Is Beautiful stands not only as a lifestyle brand but also as a cultural creative agency, celebrated for its unparalleled collection of (thrifted) fashion, its unique approach to nightlife and events, and, above all, its community. We fluidly navigate through multiple facets, seamlessly blending creative entrepreneurship, art, fashion, events, and community building. An unparalleled synergy with a network comprising a diverse range of cultural pioneers dedicated to bringing communities together in spaces where individuals can feel free and have the room to discover themselves. Being a part of something greater instills a sense of home within our community."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 20.17.23.png",
+        "title": "Inclusion as a Way of Life",
+        "description": "TGIB celebrates people of all social & ethnic backgrounds, genders and sexual orientations, uplifting the beauty of every identity, forging community through trust, creativity and shared growth."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Fit",
+        "description": "Regular fit"
+      },
+      {
+        "title": "Style",
+        "description": "Crewneck."
+      },
+      {
+        "title": "Sleeves",
+        "description": "Short sleeves."
+      },
+      {
+        "title": "Print",
+        "description": "The Gang Is Beautiful printed at the front."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 25,
+        "reviewRating": 5,
+        "reviewText": "Absolutely thrilled with this T-shirt.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": -4,
+    "name": "Ora Ring",
+    "voucherId": null,
+    "sellerId": 35,
+    "category": "Ring",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Silver",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/97.png"]
+        },
+        {
+          "name": "Gold",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/98.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Silver",
+        "price": 28,
+        "quantity": 10},
+        {
+          "name": "Gold",
+          "price": 28,
+          "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.20.53.png",
+        "title": "The Ora Ring: Subtle. Sleek. Strong.",
+        "description": "Crafted from premium stainless steel and finished with 18K gold plating, complete with a 12-month discoloration guarantee. This ring delivers luxe shine and lasting wear at an accessible price.."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Material",
+        "description": "Stainless steel."
+      },
+      {
+        "title": "Features",
+        "description": "Waterproof, Long-lasting, hypoallergenic."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Loving it so much, I'm wearing it every day.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": -3,
+    "name": "Scarf Pink/Grey",
+    "voucherId": null,
+    "sellerId": 1,
+    "category": "Scarves",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Pink/Grey",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/96.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "green",
+        "price": 142,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.06.02.png",
+        "title": "Limited Edition, Signed & Sealed",
+        "description": "Only 75 prints exist. Each one signed by Yoyo Nasty and printed on Hahnemühle Fine Art paper, your investment in original art."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-01 at 17.04.45.png",
+        "title": "Colour-Pop Surrealism",
+        "description": "Dive into Yoyo Nasty’s vivid world of bold characters and landscapes. This 30 × 40 cm piece bursts with playful energy and wild imagination.."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Artist",
+        "description": "Yoyo Nasty"
+      },
+      {
+        "title": "Print size",
+        "description": "30 × 40 cm."
+      },
+      {
+        "title": "Material",
+        "description": "Printed on Hahnemühle Fine Art paper (museum-quality matte sheet)."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Vibrant, playful, and beautifully printed, a true statement piece.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Feels like a gallery at home.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 26,
+        "reviewRating": 4,
+        "reviewText": "Bold colors, fast delivery, and looks stunning framed.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": -2,
+    "name": "Scarf Black/Green",
+    "voucherId": null,
+    "sellerId": 1,
+    "category": "Scarves",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/95.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "green",
+        "price": 142,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-10-31 at 14.05.53.png",
+        "title": "Natural, Balanced Energy Boost",
+        "description": "This blend delivers a smooth, gradual energy lift thanks to yerba maté’s natural caffeine and supportive herbs, designed to keep you alert without the crash."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-10-31 at 13.53.25.png",
+        "title": "Refreshing Citrus-Lemongrass Flavor",
+        "description": "The addition of citroengras gives the blend a bright, citrusy twist that makes it enjoyable and distinctive, great for a ritual you look forward to."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-10-31 at 14.03.22.png",
+        "title": "100 % Organic & Clean Ingredients",
+        "description": "Certified organic leaves and herbs, no artificial additives, aligning with clean-living values and conscious consumption."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Type",
+        "description": "Herbal energy tea blend"
+      },
+      {
+        "title": "Yerba Maté (Ilex paraguariensis)",
+        "description": "Natural source of caffeine, theobromine, and antioxidants for clean, sustained energy."
+      },
+      {
+        "title": "Citroengras (Lemongrass)",
+        "description": "Adds a light, invigorating aroma and supports digestion and mental clarity."
+      },
+      {
+        "title": "Preparation",
+        "description": "Add 1 tablespoon per 250 ml of water (70–80 °C). Steep for 5–8 minutes.\nCan be enjoyed hot or cold."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Absolutely thrilled with this blend.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Great organic yerba mate with a clean taste.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 26,
+        "reviewRating": 4,
+        "reviewText": "Really enjoy this tea for my morning focus ritual.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": -1,
+    "name": "Easy Set - Pink",
+    "voucherId": null,
+    "sellerId": 1,
+    "category": "Night & lounge wear",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Pink",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/94.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "pink",
+        "price": 280,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 13.25.38.png",
+        "title": "Cozy & Chic in Pink",
+        "description": "Crafted in Belgium & the Netherlands with premium materials, this limited-batch set brings effortless elegance to your loungewear."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.02.11.png",
+        "title": "Slow Fashion, Big Impact",
+        "description": "Small batch production means you’re choosing thoughtful design over fast fashion."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Composition",
+        "description": "70% cotton / 30% polyester."
+      },
+      {
+        "title": "Set includes",
+        "description": "Sweater + Scarf + Pants."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "Crafted locally, sized right, and the pink hits just right.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 9,
+        "reviewRating": 5,
+        "reviewText": "Soft yet structured, this set lives up to its name.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 26,
+        "reviewRating": 4,
+        "reviewText": "Three-piece comfort for artfully styled loungewear.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
   "id": 1,
   "name": "Scarf Black/Green",
   "voucherId": null,
