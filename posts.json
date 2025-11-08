@@ -7607,7 +7607,7 @@
   },
   {
     "id": 62,
-    "userId": 32,
+    "userId": 36,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -7647,7 +7647,7 @@
   },
   {
     "id": 63,
-    "userId": 32,
+    "userId": 37,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -7664,16 +7664,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.04.55 1.png"],
-    "title": "Soft Power Dressing From Weekend to Weekday Luxury.",
-    "description": "Thank you to everyone who joined us for the opening of Estelle Graf’s Finklädd och Förtvivlad. An evening of sharp wit, surreal charm, and striking storytelling — perfectly Estelle. The exhibition is now on view at WAY Gallery Sthlm.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 21.22.11.png"],
+    "title": "Hard Edge. Soft Heart.",
+    "description": "Strength that doesn’t need to speak loudly. The Heartcore Necklace, refined, grounded, unmistakably you.",
     "video": null,
     "recording": null,
-    "category": "FASHION",
+    "category": "JEWELRY",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
     "mentionedPeople": [],
-    "mentionedItems": [2],
+    "mentionedItems": [-2],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -7684,9 +7684,10 @@
         "AIContent": false
       }
     }
-  },{
+  },
+  {
     "id": 64,
-    "userId": 32,
+    "userId": 38,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -7703,16 +7704,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.04.55 1.png"],
-    "title": "Soft Power Dressing From Weekend to Weekday Luxury.",
-    "description": "Thank you to everyone who joined us for the opening of Estelle Graf’s Finklädd och Förtvivlad. An evening of sharp wit, surreal charm, and striking storytelling — perfectly Estelle. The exhibition is now on view at WAY Gallery Sthlm.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png"],
+    "title": "The Shape of Stillness.",
+    "description": "It’s elegant, emotive, and perfectly complements the serene tone and earthy textures in the image..",
     "video": null,
     "recording": null,
     "category": "FASHION",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
     "mentionedPeople": [],
-    "mentionedItems": [2],
+    "mentionedItems": [-1],
     "collaborations": [],
     "link": "",
     "setting": {

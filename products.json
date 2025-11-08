@@ -217,26 +217,26 @@
     "variants": {
       "colors": [
         {
-          "name": "Black",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/100.png"]
-        },
-        {
           "name": "White",
           "images": [
             "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/99.png"]
+        },
+        {
+          "name": "Black",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/100.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Black",
+        "name": "White",
         "price": 35,
         "quantity": 10},
         {
-          "name": "White",
-          "price": 35,
-          "quantity": 10}
+        "name": "Black",
+        "price": 35,
+        "quantity": 10}
     ],
     "features": [
       {
@@ -313,63 +313,43 @@
   },
   {
     "id": -2,
-    "name": "Scarf Black/Green",
+    "name": "Heartcore Necklace",
     "voucherId": null,
-    "sellerId": 1,
-    "category": "Scarves",
+    "sellerId": 37,
+    "category": "Necklace",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Green",
+          "name": "Black",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/95.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/107.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "green",
-        "price": 142,
+        "name": "Black",
+        "price": 50,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-10-31 at 14.05.53.png",
-        "title": "Natural, Balanced Energy Boost",
-        "description": "This blend delivers a smooth, gradual energy lift thanks to yerba maté’s natural caffeine and supportive herbs, designed to keep you alert without the crash."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-10-31 at 13.53.25.png",
-        "title": "Refreshing Citrus-Lemongrass Flavor",
-        "description": "The addition of citroengras gives the blend a bright, citrusy twist that makes it enjoyable and distinctive, great for a ritual you look forward to."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-10-31 at 14.03.22.png",
-        "title": "100 % Organic & Clean Ingredients",
-        "description": "Certified organic leaves and herbs, no artificial additives, aligning with clean-living values and conscious consumption."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.24.55.png",
+        "title": "Strength with a Pulse",
+        "description": "Black natural stone meets premium 925 sterling-silver detailing in an adjustable link chain, crafted for every day yet refined for special occasions."
       }
     ],
     "specifications": [
       {
-        "title": "Type",
-        "description": "Herbal energy tea blend"
+        "title": "Material",
+        "description": "Natural black stone"
       },
       {
-        "title": "Yerba Maté (Ilex paraguariensis)",
-        "description": "Natural source of caffeine, theobromine, and antioxidants for clean, sustained energy."
-      },
-      {
-        "title": "Citroengras (Lemongrass)",
-        "description": "Adds a light, invigorating aroma and supports digestion and mental clarity."
-      },
-      {
-        "title": "Preparation",
-        "description": "Add 1 tablespoon per 250 ml of water (70–80 °C). Steep for 5–8 minutes.\nCan be enjoyed hot or cold."
+        "title": "Chain",
+        "description": "925 sterling silver link chain."
       }
     ],
     "serviceDetails": [
@@ -414,23 +394,9 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Absolutely thrilled with this blend.",
+        "reviewText": "Absolutely love it. I never take it off.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Great organic yerba mate with a clean taste.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 26,
-        "reviewRating": 4,
-        "reviewText": "Really enjoy this tea for my morning focus ritual.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
@@ -439,49 +405,33 @@
   },
   {
     "id": -1,
-    "name": "Easy Set - Pink",
+    "name": "Enlighten",
     "voucherId": null,
-    "sellerId": 1,
-    "category": "Night & lounge wear",
+    "sellerId": 38,
+    "category": "Art",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Pink",
+          "name": "Art",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/94.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/101.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "pink",
-        "price": 280,
+        "name": "Art",
+        "price": 50,
         "quantity": 10}
     ],
     "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 13.25.38.png",
-        "title": "Cozy & Chic in Pink",
-        "description": "Crafted in Belgium & the Netherlands with premium materials, this limited-batch set brings effortless elegance to your loungewear."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-02 at 12.02.11.png",
-        "title": "Slow Fashion, Big Impact",
-        "description": "Small batch production means you’re choosing thoughtful design over fast fashion."
-      }
     ],
     "specifications": [
       {
-        "title": "Composition",
-        "description": "70% cotton / 30% polyester."
-      },
-      {
-        "title": "Set includes",
-        "description": "Sweater + Scarf + Pants."
+        "title": "Type",
+        "description": "Print."
       }
     ],
     "serviceDetails": [
@@ -526,23 +476,9 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Crafted locally, sized right, and the pink hits just right.",
+        "reviewText": "Elegant and timeless, it brings calm to my space..",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 9,
-        "reviewRating": 5,
-        "reviewText": "Soft yet structured, this set lives up to its name.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 26,
-        "reviewRating": 4,
-        "reviewText": "Three-piece comfort for artfully styled loungewear.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
