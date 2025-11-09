@@ -3,7 +3,7 @@
     "id": -5,
     "name": "TGIB T-Shirt - Black",
     "voucherId": null,
-    "sellerId": 1,
+    "sellerId": 34,
     "category": "T-Shirt",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -22,15 +22,9 @@
         "price": 35,
         "quantity": 10}
     ],
-    "features": [
+    "features": [ 
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 20.17.23.png",
-        "title": "Born from Culture. Built on Community.",
-        "description": "What began as a mantra evolved into a cultural force, responding to the shifting collective consciousness of our times. Today, The Gang Is Beautiful stands not only as a lifestyle brand but also as a cultural creative agency, celebrated for its unparalleled collection of (thrifted) fashion, its unique approach to nightlife and events, and, above all, its community. We fluidly navigate through multiple facets, seamlessly blending creative entrepreneurship, art, fashion, events, and community building. An unparalleled synergy with a network comprising a diverse range of cultural pioneers dedicated to bringing communities together in spaces where individuals can feel free and have the room to discover themselves. Being a part of something greater instills a sense of home within our community."
-      },
-      {
-        "id": 2,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 20.17.23.png",
         "title": "Inclusion as a Way of Life",
         "description": "TGIB celebrates people of all social & ethnic backgrounds, genders and sexual orientations, uplifting the beauty of every identity, forging community through trust, creativity and shared growth."
@@ -404,7 +398,7 @@
     "demoVideo": null
   },
   {
-    "id": -1,
+    "id": -6,
     "name": "Enlighten",
     "voucherId": null,
     "sellerId": 38,
