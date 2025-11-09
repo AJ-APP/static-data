@@ -74,13 +74,13 @@
     }
   },
   {
-    "section": 34,
+    "section": 9,
     "type": "related",
     "relatedConfig": {
-      "shoppedSellerId": 35,
+      "shoppedSellerId": 34,
       "items": [
-        { "type": "user", "id": 37 },
-        { "type": "product", "id": -4 },
+        { "type": "user", "id": 35 },
+        { "type": "product", "id": 2 },
         { "type": "product", "id": -2 },
         { "type": "user", "id": 36 },
         { "type": "product", "id": 4 },
