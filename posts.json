@@ -7545,7 +7545,7 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 21.04.33.png"],
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TGIB.png"],
     "title": "Confidence Wears No Labels.",
     "description": "From the market to the runway, TGIB is about showing up as you are.\nStyle that speaks identity. Energy that unites.\nBecause the gang isn’t exclusive, it’s everyone bold enough to be themselves.",
     "video": null,
@@ -7706,6 +7706,46 @@
     },
     "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png"],
     "title": "The Shape of Stillness.",
+    "description": "It’s elegant, emotive, and perfectly complements the serene tone and earthy textures in the image..",
+    "video": null,
+    "recording": null,
+    "category": "FASHION",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
+    "mentionedPeople": [],
+    "mentionedItems": [-1],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 65,
+    "userId": 38,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 15,
+          "userId": 11,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png"],
+    "title": "Inclusion as a Way of Life.",
     "description": "It’s elegant, emotive, and perfectly complements the serene tone and earthy textures in the image..",
     "video": null,
     "recording": null,
