@@ -427,6 +427,12 @@
         "quantity": 10}
     ],
     "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png",
+        "title": "Light Your Indulgence",
+        "description": "Juicy notes of plum and pomegranate meet warm amber and vanilla in a 220g natural-wax candle handcrafted in Amsterdam, offering around 50 hours of burn time and packed in a reusable glass jar."
+      }
     ],
     "specifications": [
       {
