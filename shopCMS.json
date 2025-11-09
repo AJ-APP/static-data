@@ -79,9 +79,9 @@
     "relatedConfig": {
       "shoppedSellerId": 34,
       "items": [
-        { "type": "user", "id": 35 },
+        { "type": "user", "id": 25 },
         { "type": "product", "id": 2 },
-        { "type": "product", "id": -2 },
+        { "type": "product", "id": 1 },
         { "type": "user", "id": 36 },
         { "type": "product", "id": 4 },
         { "type": "user", "id": 34 },
