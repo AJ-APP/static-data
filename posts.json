@@ -7764,5 +7764,45 @@
         "AIContent": false
       }
     }
+  },
+  {
+    "id": 66,
+    "userId": 38,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 15,
+          "userId": 11,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 106.png"],
+    "title": "“Relaxed”: A Moment of Calm Captured on Paper.",
+    "description": "In a world that moves fast, this piece pauses time: soft lines, gentle colour, quiet space.\nLet this print become the anchor of your room — a reminder to breathe, reflect, and create beauty in the everyday..",
+    "video": null,
+    "recording": null,
+    "category": "ART",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
   }
 ]
