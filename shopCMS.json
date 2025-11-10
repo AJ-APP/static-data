@@ -70,14 +70,14 @@
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
-      "userIds": [31, 34, 35, 36, 37, 38, 39 ]
+      "userIds": [33, 34, 35, 36, 37, 38, 39 ]
     }
   },
   {
     "section": 9,
     "type": "related",
     "relatedConfig": {
-      "shoppedSellerId": 31,
+      "shoppedSellerId": 33,
       "items": [
         { "type": "user", "id": 2 },
         { "type": "product", "id": 2 },
