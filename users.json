@@ -892,36 +892,6 @@
     "storeId": 2
   },
   {
-    "id": 31,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/uli.png",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VOH.jpg",
-    "tagLine": "Art Jewelry",
-    "firstName": "Liquid Universe",
-    "lastName": "",
-    "gender": "female",
-    "username": "liquiduniverse",
-    "email": "jordane@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1990-06-13T00:00:00.000Z",
-    "followers": [
-      1,
-      3,
-      7
-    ],
-    "following": [
-      5,
-      6,
-      12
-    ],
-    "description": "Produced in Small Batches\nHandcrafted in Amsterdam\nWorldwide Shipping",
-    "interests": [
-      19,
-      21
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
     "id": 30,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Kin.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
@@ -952,6 +922,36 @@
     "storeId": 2
   },
   {
+    "id": 31,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-10 at 18.27.18.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/Screenshot 2025-11-08 at 13.57.27.png",
+    "tagLine": "꩜ Intuitive artist ꩜.",
+    "firstName": "Olu Olu",
+    "lastName": "",
+    "gender": "female",
+    "username": "oluolu",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "𓂀 Private workshops ∿ Artful gatherings\n📍 🇳🇱 ↔ 🇲🇦\n∿ Prints • Murals • Artworks.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
     "id": 32,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-04-02 at 14.51.13.png",
     "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
@@ -974,36 +974,6 @@
       6
     ],
     "description": "Sharing honest moments, mindful routines, and the beauty in the everyday.",
-    "interests": [
-      17,
-      22
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 33,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-10 at 18.27.18.png",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/Screenshot 2025-11-08 at 13.57.27.png",
-    "tagLine": "꩜ Intuitive artist ꩜.",
-    "firstName": "Olu Olu",
-    "lastName": "",
-    "gender": "female",
-    "username": "oluolu",
-    "email": "iamian@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1987-04-09T00:00:00.000Z",
-    "followers": [
-      1,
-      4,
-      8
-    ],
-    "following": [
-      2,
-      5,
-      6
-    ],
-    "description": "𓂀 Private workshops ∿ Artful gatherings\n📍 🇳🇱 ↔ 🇲🇦\n∿ Prints • Murals • Artworks.",
     "interests": [
       17,
       22
