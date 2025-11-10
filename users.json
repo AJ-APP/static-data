@@ -1,35 +1,6 @@
 [
   {
     "id": 1,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Untitled design-3.png",
-    "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
-    "tagLine": "꩜ Intuitive artist ꩜.",
-    "firstName": "Olu Olu",
-    "lastName": "",
-    "gender": "male",
-    "username": "oluolu",
-    "email": "stylewithLucca@email.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1992-07-25T00:00:00.000Z",
-    "followers": [
-      3,
-      6,
-      8
-    ],
-    "following": [
-      1,
-      5,
-      7
-    ],
-    "description": "To empower you to be 100% YOU\nMade in Belgium & NL\nSeen on AFW, Modefabriek, Flair",
-    "interests": [
-      12
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 50,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Img-Male-12.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Surf1.jpg",
     "tagLine": "Dreaming in 5th gear.",
