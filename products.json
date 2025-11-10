@@ -1,25 +1,25 @@
 [
   {
     "id": 1,
-    "name": "Relaxed",
+    "name": "Zilte | Brown Sustainable Table Lamp",
     "voucherId": null,
-    "sellerId": 31,
-    "category": "Art",
+    "sellerId": 33,
+    "category": "Lamp",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Art",
+          "name": "Lamp",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/113.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/114.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Art",
-        "price": 50,
+        "name": "Lamp",
+        "price": 110,
         "quantity": 10}
     ],
     "features": [
@@ -89,18 +89,18 @@
   },
   {
     "id": 2,
-    "name": "Enlighten",
+    "name": "Wide Nautilus | White Sustainable Table Lamp",
     "voucherId": null,
-    "sellerId": 31,
-    "category": "Art",
+    "sellerId": 33,
+    "category": "Lamp",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Art",
+          "name": "Lamp",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/101.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/115.png"]
         }
       ]
     },

@@ -953,6 +953,36 @@
     "storeId": 2
   },
   {
+    "id": 33,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/110.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/rick-and-morty-in-field-desktop-wallpaper-preview.jpg",
+    "tagLine": "",
+    "firstName": "Noordsee Lights",
+    "lastName": "",
+    "gender": "female",
+    "username": "noordseelights",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "💡Customisable & Sustainable Lighting from Amsterdam\n✨ Design your own Lamp & Personalise your Space",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
     "id": 34,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 13.57.05.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 20.16.51.png",
