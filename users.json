@@ -982,6 +982,36 @@
     "storeId": 2
   },
   {
+    "id": 33,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 13.57.27.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/Screenshot 2025-11-08 at 13.57.27.png",
+    "tagLine": "꩜ Intuitive artist ꩜.",
+    "firstName": "Olu Olu",
+    "lastName": "",
+    "gender": "female",
+    "username": "oluolu",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "𓂀 Private workshops ∿ Artful gatherings\n📍 🇳🇱 ↔ 🇲🇦\n∿ Prints • Murals • Artworks.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
     "id": 34,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 13.57.05.png",
     "cover": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 20.16.51.png",
@@ -1094,36 +1124,6 @@
       6
     ],
     "description": "MÙJ 925 SILVER JEWELRY\nNext pop up ‘’8 November TGIB Market at TILLATEC’’.",
-    "interests": [
-      17,
-      22
-    ],
-    "isShekrMember": false,
-    "storeId": 2
-  },
-  {
-    "id": 33,
-    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-09 at 22.02.24.png",
-    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/Screenshot 2025-11-08 at 13.57.27.png",
-    "tagLine": "꩜ Intuitive artist ꩜.",
-    "firstName": "Olu Olu",
-    "lastName": "",
-    "gender": "female",
-    "username": "oluolu",
-    "email": "iamian@me.com",
-    "phoneNumber": "123123123",
-    "dateOfBirth": "1987-04-09T00:00:00.000Z",
-    "followers": [
-      1,
-      4,
-      8
-    ],
-    "following": [
-      2,
-      5,
-      6
-    ],
-    "description": "𓂀 Private workshops ∿ Artful gatherings\n📍 🇳🇱 ↔ 🇲🇦\n∿ Prints • Murals • Artworks.",
     "interests": [
       17,
       22
