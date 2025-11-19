@@ -7833,7 +7833,7 @@
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
     "mentionedPeople": [],
-    "mentionedItems": [1],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -7867,6 +7867,87 @@
     "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 110.png"],
     "title": "Light Inspired by the Sea.",
     "description": "In a world that moves fast, this piece pauses time: soft lines, gentle colour, quiet space.\nLet this print become the anchor of your room — a reminder to breathe, reflect, and create beauty in the everyday..",
+    "video": null,
+    "recording": null,
+    "category": "DESIGN",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  }
+  ,
+  {
+    "id": 69,
+    "userId": 33,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 15,
+          "userId": 11,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 345.png"],
+    "title": "Caught in the Middle of Becoming.",
+    "description": "You don’t have to be who you were, and you’re not yet who you’ll be, The in-between is uncomfortable for a reason, it’s where your old self loosens its grip and your next chapter starts pulling you forward. Stay with it. That tension is proof you’re changing.",
+    "video": null,
+    "recording": null,
+    "category": "FASHION",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [],
+    "mentionedPeople": [],
+    "mentionedItems": [2],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 70,
+    "userId": 33,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 15,
+          "userId": 11,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-19 at 08.51.47.png"],
+    "title": "The Beauty of Less.",
+    "description": "O.22 strips fashion back to what matters:\npure lines, honest materials, thoughtful construction.\nNothing extra.\nNothing empty.\nJust essentials with presence..",
     "video": null,
     "recording": null,
     "category": "DESIGN",
