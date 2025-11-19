@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Zilte | Brown Sustainable Table Lamp",
+    "name": "Head Cover With Shoulder Panels",
     "voucherId": null,
     "sellerId": 33,
-    "category": "Lamp",
+    "category": "Headcover",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -18,22 +18,42 @@
     },
     "variantsDetails": [
       {
-        "name": "Lamp",
-        "price": 110,
+        "name": "Black",
+        "price": 200,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png",
-        "title": "Light Your Indulgence",
-        "description": "Juicy notes of plum and pomegranate meet warm amber and vanilla in a 220g natural-wax candle handcrafted in Amsterdam, offering around 50 hours of burn time and packed in a reusable glass jar."
+        "title": "A Piece That Change Your Outline",
+        "description": "The headpiece and shoulder panels add structure without swallowing you. It doesn’t ask you to be louder, just more defined. The kind of design that slips into your wardrobe and quietly alters what silhouette can mean."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png",
+        "title": "A Silhouette Without Weight",
+        "description": "The waterproof cotton handles the practical part. The sculpted panels take care of the rest. It’s a functional layer, but it carries the kind of design language that feels deliberate rather than decorative."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png",
+        "title": "Protection Reimagined Through Proportion",
+        "description": "The waterproof cotton handles the weather, but the proportions redefine everything, a headpiece extended into geometric shoulder panels that shift the silhouette in a restrained, architectural way."
       }
     ],
     "specifications": [
       {
-        "title": "Type",
-        "description": "Print."
+        "title": "Fabric Composition",
+        "description": "100% waterproof cotton."
+      },
+      {
+        "title": "Colour",
+        "description": "shades of blue."
+      },
+      {
+        "title": "Care Instruction",
+        "description": "cold wash only."
       }
     ],
     "serviceDetails": [
@@ -78,7 +98,7 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Elegant and timeless, it brings calm to my space..",
+        "reviewText": "Minimal, functional, and easy to wear.”",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       }
@@ -89,10 +109,10 @@
   },
   {
     "id": 2,
-    "name": "Wide Nautilus | White Sustainable Table Lamp",
+    "name": "Cropped T-Shirt With Side String",
     "voucherId": null,
     "sellerId": 33,
-    "category": "Lamp",
+    "category": "T-shirt",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -100,28 +120,40 @@
         {
           "name": "Lamp",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/115.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/114.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Art",
-        "price": 110,
+        "name": "Black",
+        "price": 130,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
         "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png",
-        "title": "Light Your Indulgence",
-        "description": "Juicy notes of plum and pomegranate meet warm amber and vanilla in a 220g natural-wax candle handcrafted in Amsterdam, offering around 50 hours of burn time and packed in a reusable glass jar."
+        "title": "A Modern Cropped Fit With Versatile Styling",
+        "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png",
+        "title": "Soft Stretch Fabric That Holds Its Shape",
+        "description": "Made with cotton, polyester, and elastane for comfort that moves with you — and a fit that stays sharp wear after wear."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 10.53.36.png",
+        "title": "Minimal Look, Standout Detailing",
+        "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
       }
     ],
     "specifications": [
       {
-        "title": "Type",
-        "description": "Print."
+        "title": "Fabric Composition",
+        "description": "75% Cotton, 18% Polyester, 7% Elastanet."
       }
     ],
     "serviceDetails": [
@@ -166,7 +198,7 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Elegant and timeless, it brings calm to my space..",
+        "reviewText": "Looks good with everything.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       }
@@ -175,7 +207,7 @@
     "unboxingVideo": null,
     "demoVideo": null
   },
-{
+  {
   "id": 3,
   "name": "Papaya Sorbet Enzyme",
   "voucherId": null,
