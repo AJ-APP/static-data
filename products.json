@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": -2,
     "name": "Head Cover With Shoulder Panels",
     "voucherId": null,
     "sellerId": 33,
@@ -151,7 +151,7 @@
       },
       {
         "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 467.pngg",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 467.png",
         "title": "Minimal Look, Standout Detailing",
         "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
       }
@@ -214,7 +214,108 @@
     "demoVideo": null
   },
   {
-  "id": 3,
+    "id": 3,
+    "name": "Hooked Jacket",
+    "voucherId": null,
+    "sellerId": 33,
+    "category": "Jacket",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Black",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/116.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/117.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/118.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Black",
+        "price": 350,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-18 at 21.24.58.png",
+        "title": "Change the Form, Keep the Function",
+        "description": "The Hook Jacket isn’t just a jacket, it’s a shape-shifter. Sleeves and hood detach. Wear it as a jacket or a vest. It adapts to your scene, your mood, your pace.\nIt says: you don’t need to compromise between style and utility. You can have both."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 451.png",
+        "title": "Minimal by Design, Maximum by Intention",
+        "description": "Black. Clean lines. 100% polyester designed to endure. The Hook Jacket says: less clutter, more clarity.\nIt’s about the essentials. Not what you add, but what you don’t need to."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Fabric Composition",
+        "description": "100% Polyester]."
+      },
+      {
+        "title": "Modular Windbreaker",
+        "description": "Sleeves and hood detachable with hooks\ncan be worn as a jacket or vest]."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free delivery for all orders above €100",
+              "Delivery fees are €2.5 for all orders below €100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 32,
+        "reviewRating": 5,
+        "reviewText": "Looks good with everything.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+  "id": 49,
   "name": "Papaya Sorbet Enzyme",
   "voucherId": null,
   "sellerId": 16,
