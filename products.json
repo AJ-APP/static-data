@@ -1,62 +1,54 @@
 [
   {
     "id": 1,
-    "name": "Head Cover With Shoulder Panels",
+    "name": "Emblem Bracelet (Rouge Edition)",
     "voucherId": null,
-    "sellerId": 33,
-    "category": "Headcover",
+    "sellerId": 31,
+    "category": "Bracelet",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Black",
+          "name": "Red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/119.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/120.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/121.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/126.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Black",
-        "price": 200,
+        "name": "Red",
+        "price": 195,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 446.png",
-        "title": "A Piece That Change Your Outline",
-        "description": "The headpiece and shoulder panels add structure without swallowing you. It doesn’t ask you to be louder, just more defined. The kind of design that slips into your wardrobe and quietly alters what silhouette can mean."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.17.png",
+        "title": "A Signature Mark for Your Own Path",
+        "description": "The four interlocking M’s may begin with Minay, but what they stand for is yours to define meaning, movement, momentum, or simply a moment for yourself. A personal emblem that evolves with you and adapts to your life."
       },
       {
         "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 447.png",
-        "title": "A Silhouette Without Weight",
-        "description": "The waterproof cotton handles the practical part. The sculpted panels take care of the rest. It’s a functional layer, but it carries the kind of design language that feels deliberate rather than decorative."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 445.png",
-        "title": "Protection Reimagined Through Proportion",
-        "description": "The waterproof cotton handles the weather, but the proportions redefine everything, a headpiece extended into geometric shoulder panels that shift the silhouette in a restrained, architectural way."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.55.png",
+        "title": "Your Mark of Understated Confidence",
+        "description": "The Emblem Bracelet’s rich rouge enamel and gold-plated finish become your mark of understated confidence, a quiet reminder of the intention you carry and the inner strength that guides you through every moment."
       }
     ],
     "specifications": [
       {
-        "title": "Fabric Composition",
-        "description": "100% waterproof cotton."
+        "title": "Composition",
+        "description": "Stainless Steel\n18K PVD Plating"
       },
       {
-        "title": "Colour",
-        "description": "shades of blue."
+        "title": "Clasp",
+        "description": "Secure Clasp"
       },
       {
-        "title": "Care Instruction",
-        "description": "cold wash only."
+        "title": "Length",
+        "description": "19cm - 23cm (Extended)."
       }
     ],
     "serviceDetails": [
