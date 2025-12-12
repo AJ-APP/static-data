@@ -1,6 +1,118 @@
 [
   {
     "id": 1,
+    "name": "Breeding Earings",
+    "sellerId": 19,
+    "category": "Women Jewelry",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "sterling silver",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR1.png"
+          ]
+        },
+        {
+          "name": "18k gold plated",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR2.png"
+          ]}
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "sterling silver",
+        "price": 149,
+        "quantity": 10
+      },
+      {
+        "name": "18k gold plated",
+        "price": 149,
+        "quantity": 20
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BRH1.png",
+        "title": "Evolution in Design",
+        "description": "Crafted using 3D printed in sterling silver or gold-plated brass, they represent the fusion of technology and artistry, redefining contemporary elegance."
+      }],
+    "specifications": [
+      {
+        "title": "",
+        "description": "MIAM collection\n\n3D printed earrings in sterling silver or gold plated brass."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 2,
     "name": "Emblem Bracelet (Rouge Edition)",
     "voucherId": null,
     "sellerId": 31,
@@ -103,11 +215,11 @@
     "demoVideo": null
   },
   {
-    "id": 2,
-    "name": "Cropped T-Shirt With Side String",
+    "id": 3,
+    "name": "Heartcore Necklace",
     "voucherId": null,
-    "sellerId": 33,
-    "category": "T-shirt",
+    "sellerId": 37,
+    "category": "Necklace",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -115,43 +227,32 @@
         {
           "name": "Black",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/122.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/123.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/124.png"
-          ]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/107.png"]
         }
       ]
     },
     "variantsDetails": [
       {
         "name": "Black",
-        "price": 130,
+        "price": 50,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 465.png",
-        "title": "A Modern Cropped Fit With Versatile Styling",
-        "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 466.png",
-        "title": "Soft Stretch Fabric That Holds Its Shape",
-        "description": "Made with cotton, polyester, and elastane for comfort that moves with you — and a fit that stays sharp wear after wear."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 467.png",
-        "title": "Minimal Look, Standout Detailing",
-        "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.24.55.png",
+        "title": "Strength with a Pulse",
+        "description": "Black natural stone meets premium 925 sterling-silver detailing in an adjustable link chain, crafted for every day yet refined for special occasions."
       }
     ],
     "specifications": [
       {
-        "title": "Fabric Composition",
-        "description": "75% Cotton, 18% Polyester, 7% Elastanet."
+        "title": "Material",
+        "description": "Natural black stone"
+      },
+      {
+        "title": "Chain",
+        "description": "925 sterling silver link chain."
       }
     ],
     "serviceDetails": [
@@ -196,108 +297,7 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Looks good with everything.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 3,
-    "name": "Hooked Jacket",
-    "voucherId": null,
-    "sellerId": 33,
-    "category": "Jacket",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Black",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/116.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/117.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/118.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Black",
-        "price": 350,
-        "quantity": 10}
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-18 at 21.24.58.png",
-        "title": "Change the Form, Keep the Function",
-        "description": "The Hook Jacket isn’t just a jacket, it’s a shape-shifter. Sleeves and hood detach. Wear it as a jacket or a vest. It adapts to your scene, your mood, your pace.\nIt says: you don’t need to compromise between style and utility. You can have both."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 451.png",
-        "title": "Minimal by Design, Maximum by Intention",
-        "description": "Black. Clean lines. 100% polyester designed to endure. The Hook Jacket says: less clutter, more clarity.\nIt’s about the essentials. Not what you add, but what you don’t need to."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Fabric Composition",
-        "description": "100% Polyester]."
-      },
-      {
-        "title": "Modular Windbreaker",
-        "description": "Sleeves and hood detachable with hooks\ncan be worn as a jacket or vest]."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above €100",
-              "Delivery fees are €2.5 for all orders below €100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free delivery for all orders above €100",
-              "Delivery fees are €2.5 for all orders below €100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 32,
-        "reviewRating": 5,
-        "reviewText": "Looks good with everything.",
+        "reviewText": "Absolutely love it. I never take it off.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2024-10-04T08:14:03.312546"
       }
