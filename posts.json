@@ -7664,8 +7664,8 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-07 at 21.22.11.png"],
-    "title": "Hard Edge. Soft Heart.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 12.png"],
+    "title": "Form, Held Lightly.",
     "description": "Strength that doesn’t need to speak loudly. The Heartcore Necklace, refined, grounded, unmistakably you.",
     "video": null,
     "recording": null,
@@ -8031,6 +8031,46 @@
     "video": null,
     "recording": null,
     "category": "JEWELLERY",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
+    "mentionedPeople": [],
+    "mentionedItems": [],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 73,
+    "userId": 37,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 15,
+          "userId": 11,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 10.png"],
+    "title": "An Object of Attention",
+    "description": "Strength that doesn’t need to speak loudly. The Heartcore Necklace, refined, grounded, unmistakably you.",
+    "video": null,
+    "recording": null,
+    "category": "JEWELRY",
     "dateCreated": "2024-10-03T08:14:03.312546",
     "hashtags": ["mateculture, yerbamate, naturallifestyle, energydrinkalternative, sustainableliving, tealovers, dutchbrand, morningritual, healthyhabits, slowenergy, plantpower, teaaddict, wellbeingjourney, consciousliving, ultimatemate, drinkbetter, cleaneverydayenergy, sipandfocus, matelife, ecochill"],
     "mentionedPeople": [],

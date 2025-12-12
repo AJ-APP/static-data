@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Breeding Earings",
-    "sellerId": 19,
-    "category": "Women Jewelry",
+    "name": "Sprout Necklace",
+    "sellerId": 37,
+    "category": "Necklace",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -11,26 +11,16 @@
         {
           "name": "sterling silver",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR1.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/127.png"
           ]
-        },
-        {
-          "name": "18k gold plated",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BR2.png"
-          ]}
+        }
       ]
     },
     "variantsDetails": [
       {
         "name": "sterling silver",
-        "price": 149,
+        "price": 40,
         "quantity": 10
-      },
-      {
-        "name": "18k gold plated",
-        "price": 149,
-        "quantity": 20
       }
     ],
     "features": [
@@ -113,54 +103,43 @@
   },
   {
     "id": 2,
-    "name": "Emblem Bracelet (Rouge Edition)",
+    "name": "Heartcore Necklace",
     "voucherId": null,
-    "sellerId": 31,
-    "category": "Bracelet",
+    "sellerId": 37,
+    "category": "Necklace",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Red",
+          "name": "Black",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/126.png"
-          ]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/107.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Red",
-        "price": 195,
+        "name": "Black",
+        "price": 50,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.17.png",
-        "title": "A Signature Mark for Your Own Path",
-        "description": "The four interlocking M’s may begin with Minay, but what they stand for is yours to define meaning, movement, momentum, or simply a moment for yourself. A personal emblem that evolves with you and adapts to your life."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.55.png",
-        "title": "Your Mark of Understated Confidence",
-        "description": "The Emblem Bracelet’s rich rouge enamel and gold-plated finish become your mark of understated confidence, a quiet reminder of the intention you carry and the inner strength that guides you through every moment."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.24.55.png",
+        "title": "Strength with a Pulse",
+        "description": "Black natural stone meets premium 925 sterling-silver detailing in an adjustable link chain, crafted for every day yet refined for special occasions."
       }
     ],
     "specifications": [
       {
-        "title": "Composition",
-        "description": "Stainless Steel\n18K PVD Plating"
+        "title": "Material",
+        "description": "Natural black stone"
       },
       {
-        "title": "Clasp",
-        "description": "Secure Clasp"
-      },
-      {
-        "title": "Length",
-        "description": "19cm - 23cm (Extended)."
+        "title": "Chain",
+        "description": "925 sterling silver link chain."
       }
     ],
     "serviceDetails": [
@@ -205,9 +184,9 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Minimal, functional, and easy to wear. The perfect balance of subtle design and meaningful detail.",
+        "reviewText": "Absolutely love it. I never take it off.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2025-12-10T08:14:03.312546"
+        "dateCreated": "2024-10-04T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
@@ -216,10 +195,10 @@
   },
   {
     "id": 3,
-    "name": "Heartcore Necklace",
+    "name": "Orbit Bracelet",
     "voucherId": null,
     "sellerId": 37,
-    "category": "Necklace",
+    "category": "Bracelet",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -227,14 +206,14 @@
         {
           "name": "Black",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/107.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/128.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Black",
-        "price": 50,
+        "name": "Grey",
+        "price": 40,
         "quantity": 10}
     ],
     "features": [
