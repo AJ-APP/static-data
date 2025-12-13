@@ -103,7 +103,7 @@
   },
   {
     "id": 2,
-    "name": "Heartcore Necklace",
+    "name": "Pumpkin Seed Necklace",
     "voucherId": null,
     "sellerId": 37,
     "category": "Necklace",
@@ -112,16 +112,16 @@
     "variants": {
       "colors": [
         {
-          "name": "Black",
+          "name": "Silver",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/107.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/129.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Black",
-        "price": 50,
+        "name": "Silver",
+        "price": 40,
         "quantity": 10}
     ],
     "features": [
