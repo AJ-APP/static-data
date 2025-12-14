@@ -1131,5 +1131,95 @@
     ],
     "isShekrMember": false,
     "storeId": 2
+  },
+  {
+    "id": 39,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.17.24.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/image 113.png",
+    "tagLine": "Designed to be noticed.",
+    "firstName": "MOSJ Atelier",
+    "lastName": "",
+    "gender": "female",
+    "username": "mosj_atelier",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "born in Amsterdam\nshipping worldwide",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 40,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.17.18.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/image 116.png",
+    "tagLine": "BE BOLD. BE SEEN. BE YOU.",
+    "firstName": "Blitsbee",
+    "lastName": "",
+    "gender": "female",
+    "username": "blitsbee_official",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "🪩 Nail wraps & more made to stand out.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 41,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.16.47.png",
+    "cover": "https://wallpapers-clan.com/wp-content/uploads/2024/03/JC1.png",
+    "tagLine": "",
+    "firstName": "Jac/e Stone",
+    "lastName": "",
+    "gender": "female",
+    "username": "jaciestoneofficial",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "NEW COLLECTION LIVE",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
   }
 ]
