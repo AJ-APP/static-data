@@ -103,43 +103,54 @@
   },
   {
     "id": 2,
-    "name": "Pumpkin Seed Necklace",
+    "name": "Emblem Bracelet (Rouge Edition)",
     "voucherId": null,
-    "sellerId": 37,
-    "category": "Necklace",
+    "sellerId": 31,
+    "category": "Bracelet",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Silver",
+          "name": "Red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/129.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/126.png"
+          ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Silver",
-        "price": 40,
+        "name": "Red",
+        "price": 195,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.24.55.png",
-        "title": "Strength with a Pulse",
-        "description": "Black natural stone meets premium 925 sterling-silver detailing in an adjustable link chain, crafted for every day yet refined for special occasions."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.17.png",
+        "title": "A Signature Mark for Your Own Path",
+        "description": "The four interlocking M’s may begin with Minay, but what they stand for is yours to define meaning, movement, momentum, or simply a moment for yourself. A personal emblem that evolves with you and adapts to your life."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.55.png",
+        "title": "Your Mark of Understated Confidence",
+        "description": "The Emblem Bracelet’s rich rouge enamel and gold-plated finish become your mark of understated confidence, a quiet reminder of the intention you carry and the inner strength that guides you through every moment."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "Natural black stone"
+        "title": "Composition",
+        "description": "Stainless Steel\n18K PVD Plating"
       },
       {
-        "title": "Chain",
-        "description": "925 sterling silver link chain."
+        "title": "Clasp",
+        "description": "Secure Clasp"
+      },
+      {
+        "title": "Length",
+        "description": "19cm - 23cm (Extended)."
       }
     ],
     "serviceDetails": [
@@ -184,9 +195,9 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Absolutely love it. I never take it off.",
+        "reviewText": "Minimal, functional, and easy to wear. The perfect balance of subtle design and meaningful detail.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
+        "dateCreated": "2025-12-10T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
@@ -286,7 +297,7 @@
     "demoVideo": null
   },
   {
-  "id": 49,
+  "id": 4,
   "name": "Papaya Sorbet Enzyme",
   "voucherId": null,
   "sellerId": 16,
@@ -411,285 +422,321 @@
   "unboxingVideo": null,
   "demoVideo": null
 },
-  {
-    "id": 50,
-    "name": "RW Snearkers",
-    "voucherId": null,
-    "sellerId": 15,
-    "category": "Shoes",
-    "itemStatus": "In Stock",
-    "weight": 4,
-    "variants": {
-      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
-      "colors": [
-        {
-          "name": "black",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
+{
+  "id": 1,
+  "name": "Head Cover With Shoulder Panels",
+  "voucherId": null,
+  "sellerId": 33,
+  "category": "Headcover",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
       {
-        "name": "36,black",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "37,black",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "38,black",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "39,black",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "40,black",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "41,black",
-        "price": 190,
-        "quantity": 10
-      },{
-        "name": "42,black",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "43,black",
-        "price": 190,
-        "quantity": 10
-      },
+        "name": "Black",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/119.png",
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/120.png",
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/121.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
     {
-        "name": "44,black",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "45,black",
-        "price": 190,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-jayY9MiLn6I-unsplash.jpg",
-        "title": "Timeless Style, Built to Last",
-        "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
-      }
-    ],
-    "specifications": [
-      {
-        "title": null,
-        "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 12,
-        "reviewRating": 5,
-        "reviewText": "Obsessed with these sneakers! 😍✨ Incredibly comfortable, super stylish, and they’re perfect for everything from workouts to casual outings. 💪✨ Your feet will thank you, and so will your style game! 😍👏",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": 51,
-    "name": "Gold Lipstick",
-    "voucherId": 1,
-    "sellerId": 13,
-    "category": "Make-up",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
+      "name": "Black",
+      "price": 200,
+      "quantity": 10}
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 446.png",
+      "title": "A Piece That Change Your Outline",
+      "description": "The headpiece and shoulder panels add structure without swallowing you. It doesn’t ask you to be louder, just more defined. The kind of design that slips into your wardrobe and quietly alters what silhouette can mean."
+    },
+    {
+      "id": 2,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 447.png",
+      "title": "A Silhouette Without Weight",
+      "description": "The waterproof cotton handles the practical part. The sculpted panels take care of the rest. It’s a functional layer, but it carries the kind of design language that feels deliberate rather than decorative."
+    },
+    {
+      "id": 3,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 445.png",
+      "title": "Protection Reimagined Through Proportion",
+      "description": "The waterproof cotton handles the weather, but the proportions redefine everything, a headpiece extended into geometric shoulder panels that shift the silhouette in a restrained, architectural way."
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric Composition",
+      "description": "100% waterproof cotton."
+    },
+    {
+      "title": "Colour",
+      "description": "shades of blue."
+    },
+    {
+      "title": "Care Instruction",
+      "description": "cold wash only."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
         {
-          "name": "Velvet",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L541.png"]
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above €100",
+            "Delivery fees are €2.5 for all orders below €100",
+            "Standard delivery: 2 to 3 working days"
+          ]
         },
         {
-          "name": "Nude",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L551.png"]
-        },
-        {
-          "name": "Satin",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L561.png"]
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
         }
       ]
     },
-    "variantsDetails": [
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free delivery for all orders above €100",
+            "Delivery fees are €2.5 for all orders below €100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 11,
+      "reviewRating": 5,
+      "reviewText": "Minimal, functional, and easy to wear.”",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
+{
+  "id": 2,
+  "name": "Cropped T-Shirt With Side String",
+  "voucherId": null,
+  "sellerId": 33,
+  "category": "T-shirt",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
       {
-        "name": "Velvet",
-        "price": 25,
-        "quantity": 6
-      },
-      {
-        "name": "Nude",
-        "price": 25,
-        "quantity": 3
-      },
-      {
-        "name": "Satin",
-        "price": 25,
-        "quantity": 5
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
-        "title": "Hydration Meets Color",
-        "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
-        "title": "Bold Color, Unmatched Intensity",
-        "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
-        "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
-        "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders > 50",
-              "Delivery fees are 2.5 for all orders < 50",
-              "Standard delivery: 4 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
+        "name": "Black",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/122.png",
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/123.png",
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/124.png"
         ]
       }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 11,
-        "reviewRating": 5,
-        "reviewText": "This lipstick is a game-changer! 💄✨ The color payoff is stunning, the formula feels buttery smooth, and it lasts all day without drying out your lips. 💋",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
+    ]
   },
+  "variantsDetails": [
+    {
+      "name": "Black",
+      "price": 130,
+      "quantity": 10}
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 465.png",
+      "title": "A Modern Cropped Fit With Versatile Styling",
+      "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
+    },
+    {
+      "id": 2,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 466.png",
+      "title": "Soft Stretch Fabric That Holds Its Shape",
+      "description": "Made with cotton, polyester, and elastane for comfort that moves with you — and a fit that stays sharp wear after wear."
+    },
+    {
+      "id": 3,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 467.png",
+      "title": "Minimal Look, Standout Detailing",
+      "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric Composition",
+      "description": "75% Cotton, 18% Polyester, 7% Elastanet."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above €100",
+            "Delivery fees are €2.5 for all orders below €100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free delivery for all orders above €100",
+            "Delivery fees are €2.5 for all orders below €100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 11,
+      "reviewRating": 5,
+      "reviewText": "Looks good with everything.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
+{
+  "id": 3,
+  "name": "Hooked Jacket",
+  "voucherId": null,
+  "sellerId": 33,
+  "category": "Jacket",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "Black",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/116.png",
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/117.png",
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/118.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "Black",
+      "price": 350,
+      "quantity": 10}
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-18 at 21.24.58.png",
+      "title": "Change the Form, Keep the Function",
+      "description": "The Hook Jacket isn’t just a jacket, it’s a shape-shifter. Sleeves and hood detach. Wear it as a jacket or a vest. It adapts to your scene, your mood, your pace.\nIt says: you don’t need to compromise between style and utility. You can have both."
+    },
+    {
+      "id": 2,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 451.png",
+      "title": "Minimal by Design, Maximum by Intention",
+      "description": "Black. Clean lines. 100% polyester designed to endure. The Hook Jacket says: less clutter, more clarity.\nIt’s about the essentials. Not what you add, but what you don’t need to."
+    }
+  ],
+  "specifications": [
+    {
+      "title": "Fabric Composition",
+      "description": "100% Polyester]."
+    },
+    {
+      "title": "Modular Windbreaker",
+      "description": "Sleeves and hood detachable with hooks\ncan be worn as a jacket or vest]."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above €100",
+            "Delivery fees are €2.5 for all orders below €100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free delivery for all orders above €100",
+            "Delivery fees are €2.5 for all orders below €100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 32,
+      "reviewRating": 5,
+      "reviewText": "Looks good with everything.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
   {
     "id": 4,
     "name": "Oly Stool",
@@ -5235,6 +5282,285 @@
       "reviewText": "Absolutely love it. I never take it off.",
       "reviewLikes": [1, 2, 5, 12, 6, 3],
       "dateCreated": "2024-10-04T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
+{
+  "id": 50,
+  "name": "RW Snearkers",
+  "voucherId": null,
+  "sellerId": 15,
+  "category": "Shoes",
+  "itemStatus": "In Stock",
+  "weight": 4,
+  "variants": {
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
+    "colors": [
+      {
+        "name": "black",
+        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "36,black",
+      "price": 169,
+      "quantity": 10
+    },
+    {
+      "name": "37,black",
+      "price": 169,
+      "quantity": 10
+    },
+    {
+      "name": "38,black",
+      "price": 169,
+      "quantity": 10
+    },
+    {
+      "name": "39,black",
+      "price": 169,
+      "quantity": 10
+    },
+    {
+      "name": "40,black",
+      "price": 190,
+      "quantity": 10
+    },
+    {
+      "name": "41,black",
+      "price": 190,
+      "quantity": 10
+    },{
+      "name": "42,black",
+      "price": 190,
+      "quantity": 10
+    },
+    {
+      "name": "43,black",
+      "price": 190,
+      "quantity": 10
+    },
+  {
+      "name": "44,black",
+      "price": 190,
+      "quantity": 10
+    },
+    {
+      "name": "45,black",
+      "price": 190,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-jayY9MiLn6I-unsplash.jpg",
+      "title": "Timeless Style, Built to Last",
+      "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
+    }
+  ],
+  "specifications": [
+    {
+      "title": null,
+      "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 12,
+      "reviewRating": 5,
+      "reviewText": "Obsessed with these sneakers! 😍✨ Incredibly comfortable, super stylish, and they’re perfect for everything from workouts to casual outings. 💪✨ Your feet will thank you, and so will your style game! 😍👏",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 3,
+      "reviewRating": 5,
+      "reviewText": "I love the comfort of this jacket!",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Great value for money.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": "",
+  "demoVideo": ""
+},
+{
+  "id": 51,
+  "name": "Gold Lipstick",
+  "voucherId": 1,
+  "sellerId": 13,
+  "category": "Make-up",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "Velvet",
+        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L541.png"]
+      },
+      {
+        "name": "Nude",
+        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L551.png"]
+      },
+      {
+        "name": "Satin",
+        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L561.png"]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "Velvet",
+      "price": 25,
+      "quantity": 6
+    },
+    {
+      "name": "Nude",
+      "price": 25,
+      "quantity": 3
+    },
+    {
+      "name": "Satin",
+      "price": 25,
+      "quantity": 5
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
+      "title": "Hydration Meets Color",
+      "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
+    },
+    {
+      "id": 2,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
+      "title": "Bold Color, Unmatched Intensity",
+      "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
+    },
+    {
+      "id": 3,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
+      "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
+      "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
+    }
+  ],
+  "specifications": [
+    {
+      "title": "",
+      "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders > 50",
+            "Delivery fees are 2.5 for all orders < 50",
+            "Standard delivery: 4 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 11,
+      "reviewRating": 5,
+      "reviewText": "This lipstick is a game-changer! 💄✨ The color payoff is stunning, the formula feels buttery smooth, and it lasts all day without drying out your lips. 💋",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-04T08:14:03.312546"
+    },
+    {
+      "reviewerId": 3,
+      "reviewRating": 5,
+      "reviewText": "I love the comfort of this jacket!",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
+    },
+    {
+      "reviewerId": 5,
+      "reviewRating": 4,
+      "reviewText": "Great value for money.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2024-10-03T08:14:03.312546"
     }
   ],
   "reviewsCount": 55,
