@@ -80,10 +80,10 @@
       "shoppedSellerId": 40,
       "items": [
         { "type": "user", "id": 39 },
-        { "type": "product", "id": 1 },
+        { "type": "product", "id": 2 },
         { "type": "product", "id": 3 },
         { "type": "user", "id": 41 },
-        { "type": "product", "id": 2 },
+        { "type": "product", "id": 4 },
         { "type": "user", "id": 19 },
         { "type": "product", "id": 8 }
       ]
