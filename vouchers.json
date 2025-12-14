@@ -9,7 +9,7 @@
     "discountType": "PERCENTAGE",
     "discount": "20",
     "startDate": "2025-04-29T00:00:00.000Z",
-    "endDate": "2025-05-20T23:59:59.000Z",
+    "endDate": "2025-12-20T23:59:59.000Z",
     "specificProducts": [
       101,
       102
@@ -36,7 +36,7 @@
     "discountType": "PERCENTAGE",
     "discount": "5",
     "startDate": "2025-04-29T00:00:00.000Z",
-    "endDate": "2025-05-20T23:59:59.000Z",
+    "endDate": "2025-12-20T23:59:59.000Z",
     "specificProducts": [
       101,
       102
@@ -63,7 +63,7 @@
     "discountType": "AMOUNT",
     "discount": "75",
     "startDate": "2025-04-29T00:00:00.000Z",
-    "endDate": "2025-05-20T23:59:59.000Z",
+    "endDate": "2025-12-20T23:59:59.000Z",
     "specificProducts": [
       103,
       104
@@ -89,7 +89,7 @@
     "discountType": "AMOUNT",
     "discount": "FREE",
     "startDate": "2025-04-29T00:00:00.000Z",
-    "endDate": "2025-05-20T23:59:59.000Z",
+    "endDate": "2025-12-20T23:59:59.000Z",
     "specificProducts": [
       1
     ],
@@ -113,7 +113,7 @@
     "discountType": "AMOUNT",
     "discount": "FREE",
     "startDate": "2025-04-29T00:00:00.000Z",
-    "endDate": "2025-05-20T23:59:59.000Z",
+    "endDate": "2025-12-20T23:59:59.000Z",
     "specificProducts": [
       1
     ],
