@@ -78,23 +78,23 @@
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewText": "I get compliments on this bag every time I wear it.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
+        "dateCreated": "2025-12-04T08:14:03.312546"
       },
       {
         "reviewerId": 3,
         "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
+        "reviewText": "It’s playful but still practical, which makes it easy to wear every day.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
+        "dateCreated": "2025-11-03T08:14:03.312546"
       },
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "Great value for money.",
+        "reviewText": "It instantly makes even a simple outfit feel more interesting.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
+        "dateCreated": "2025-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
@@ -181,7 +181,7 @@
       {
         "reviewerId": 11,
         "reviewRating": 5,
-        "reviewText": "Minimal, functional, and easy to wear. The perfect balance of subtle design and meaningful detail.",
+        "reviewText": "I didn’t expect them to look this good, especially after doing them myself.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-12-10T08:14:03.312546"
       }
@@ -203,7 +203,7 @@
         {
           "name": "Brown",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/135.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 14.22.38.png"]
         }
       ]
     },
@@ -271,7 +271,7 @@
         "reviewRating": 5,
         "reviewText": "Absolutely love it. I never take it off.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
+        "dateCreated": "2025-12-04T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
