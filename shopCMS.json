@@ -70,19 +70,19 @@
     "section": 8,
     "type": "recommended",
     "recommendedConfig": {
-      "userIds": [38, 39, 40 ]
+      "userIds": [39, 40, 41 ]
     }
   },
   {
     "section": 9,
     "type": "related",
     "relatedConfig": {
-      "shoppedSellerId": 39,
+      "shoppedSellerId": 40,
       "items": [
-        { "type": "user", "id": 38 },
+        { "type": "user", "id": 39 },
         { "type": "product", "id": 1 },
         { "type": "product", "id": 3 },
-        { "type": "user", "id": 40 },
+        { "type": "user", "id": 41 },
         { "type": "product", "id": 2 },
         { "type": "user", "id": 19 },
         { "type": "product", "id": 8 }

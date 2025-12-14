@@ -192,43 +192,39 @@
   },
   {
     "id": 4,
-    "name": "Orbit Bracelet",
+    "name": "Basic Baggy Top Cotton",
     "voucherId": null,
-    "sellerId": 37,
-    "category": "Bracelet",
+    "sellerId": 41,
+    "category": "T-shirt",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Black",
+          "name": "Brown",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/128.png"]
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/135.png"]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Grey",
-        "price": 40,
+        "name": "Brown",
+        "price": 65,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.24.55.png",
-        "title": "Strength with a Pulse",
-        "description": "Black natural stone meets premium 925 sterling-silver detailing in an adjustable link chain, crafted for every day yet refined for special occasions."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.50.28.png",
+        "title": "The Everyday Essential",
+        "description": "Relaxed in fit, refined in feel. The Basic Baggy Top is made to move with you, season after season."
       }
     ],
     "specifications": [
       {
-        "title": "Material",
-        "description": "Natural black stone"
-      },
-      {
-        "title": "Chain",
-        "description": "925 sterling silver link chain."
+        "title": "Description",
+        "description": "A no-brainer for in-between seasons. Same easy shape as the Baggy Top, but with full-length sleeves. Lightweight but structured, perfect for layering or wearing solo."
       }
     ],
     "serviceDetails": [
@@ -283,7 +279,7 @@
     "demoVideo": null
   },
   {
-  "id": 4,
+  "id": 5,
   "name": "Papaya Sorbet Enzyme",
   "voucherId": null,
   "sellerId": 16,
@@ -408,323 +404,8 @@
   "unboxingVideo": null,
   "demoVideo": null
 },
-{
-  "id": 1,
-  "name": "Head Cover With Shoulder Panels",
-  "voucherId": null,
-  "sellerId": 33,
-  "category": "Headcover",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Black",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/119.png",
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/120.png",
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/121.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Black",
-      "price": 200,
-      "quantity": 10}
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 446.png",
-      "title": "A Piece That Change Your Outline",
-      "description": "The headpiece and shoulder panels add structure without swallowing you. It doesn’t ask you to be louder, just more defined. The kind of design that slips into your wardrobe and quietly alters what silhouette can mean."
-    },
-    {
-      "id": 2,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 447.png",
-      "title": "A Silhouette Without Weight",
-      "description": "The waterproof cotton handles the practical part. The sculpted panels take care of the rest. It’s a functional layer, but it carries the kind of design language that feels deliberate rather than decorative."
-    },
-    {
-      "id": 3,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 445.png",
-      "title": "Protection Reimagined Through Proportion",
-      "description": "The waterproof cotton handles the weather, but the proportions redefine everything, a headpiece extended into geometric shoulder panels that shift the silhouette in a restrained, architectural way."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "Fabric Composition",
-      "description": "100% waterproof cotton."
-    },
-    {
-      "title": "Colour",
-      "description": "shades of blue."
-    },
-    {
-      "title": "Care Instruction",
-      "description": "cold wash only."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 11,
-      "reviewRating": 5,
-      "reviewText": "Minimal, functional, and easy to wear.”",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": 2,
-  "name": "Cropped T-Shirt With Side String",
-  "voucherId": null,
-  "sellerId": 33,
-  "category": "T-shirt",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Black",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/122.png",
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/123.png",
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/124.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Black",
-      "price": 130,
-      "quantity": 10}
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 465.png",
-      "title": "A Modern Cropped Fit With Versatile Styling",
-      "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
-    },
-    {
-      "id": 2,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 466.png",
-      "title": "Soft Stretch Fabric That Holds Its Shape",
-      "description": "Made with cotton, polyester, and elastane for comfort that moves with you — and a fit that stays sharp wear after wear."
-    },
-    {
-      "id": 3,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 467.png",
-      "title": "Minimal Look, Standout Detailing",
-      "description": "Wear it loose, tied, or subtly cinched. The geometric shape keeps the silhouette clean, while the strings let you make it yours."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "Fabric Composition",
-      "description": "75% Cotton, 18% Polyester, 7% Elastanet."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 11,
-      "reviewRating": 5,
-      "reviewText": "Looks good with everything.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": 3,
-  "name": "Hooked Jacket",
-  "voucherId": null,
-  "sellerId": 33,
-  "category": "Jacket",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Black",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/116.png",
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/117.png",
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/118.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Black",
-      "price": 350,
-      "quantity": 10}
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-18 at 21.24.58.png",
-      "title": "Change the Form, Keep the Function",
-      "description": "The Hook Jacket isn’t just a jacket, it’s a shape-shifter. Sleeves and hood detach. Wear it as a jacket or a vest. It adapts to your scene, your mood, your pace.\nIt says: you don’t need to compromise between style and utility. You can have both."
-    },
-    {
-      "id": 2,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 451.png",
-      "title": "Minimal by Design, Maximum by Intention",
-      "description": "Black. Clean lines. 100% polyester designed to endure. The Hook Jacket says: less clutter, more clarity.\nIt’s about the essentials. Not what you add, but what you don’t need to."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "Fabric Composition",
-      "description": "100% Polyester]."
-    },
-    {
-      "title": "Modular Windbreaker",
-      "description": "Sleeves and hood detachable with hooks\ncan be worn as a jacket or vest]."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 32,
-      "reviewRating": 5,
-      "reviewText": "Looks good with everything.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
   {
-    "id": 4,
+    "id": 6,
     "name": "Oly Stool",
     "voucherId": null,
     "sellerId": 6,
@@ -890,7 +571,7 @@
     "demoVideo": null
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Slim-Fit Jean",
     "voucherId": 1,
     "sellerId": 15,
@@ -1023,7 +704,7 @@
     "demoVideo": null
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Atlas Cloud",
     "voucherId": 1,
     "sellerId": 15,
@@ -1170,7 +851,7 @@
     "demoVideo": ""
   },
   {
-    "id": 6,
+    "id": 41,
     "name": "Pearl Necklace",
     "sellerId": 5,
     "category": "Women Jewelry",
@@ -1272,7 +953,7 @@
     "demoVideo": ""
   },
   {
-    "id": 8,
+    "id": 40,
     "name": "Classic Sneakers",
     "voucherId": 1,
     "sellerId": 18,
