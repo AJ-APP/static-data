@@ -1,39 +1,39 @@
 [
   {
-    "id": 1,
-    "name": "Sprout Necklace",
-    "sellerId": 37,
-    "category": "Necklace",
+    "id": 2,
+    "name": "The Burgundy Boxer",
+    "sellerId": 39,
+    "category": "Bags",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "sterling silver",
+          "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/127.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/133.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "sterling silver",
-        "price": 40,
+        "name": "Burgundy",
+        "price": 74.99,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BRH1.png",
-        "title": "Evolution in Design",
-        "description": "Crafted using 3D printed in sterling silver or gold-plated brass, they represent the fusion of technology and artistry, redefining contemporary elegance."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.40.48.png",
+        "title": "The Bag That Leads the Look",
+        "description": "Structured, playful, and impossible to ignore. The Boxer Bag turns everyday outfits into a statement — without trying too hard."
       }],
     "specifications": [
       {
-        "title": "",
-        "description": "MIAM collection\n\n3D printed earrings in sterling silver or gold plated brass."
+        "title": "Description",
+        "description": "The Burgundy Boxer Crossbody Bag\nMake a subtle statement with colour that works with everything. The Burgundy Boxer features striking burgundy, purple, and green stripes that bring depth to any look. Inside, a removable burgundy pouch keeps your essentials perfectly organised - from small items to a laptop up to 14 inches. Equal parts stylish and practical, the Burgundy is ready for workdays, weekends, and trips away."
       }
     ],
     "serviceDetails": [
@@ -102,11 +102,11 @@
     "demoVideo": null
   },
   {
-    "id": 2,
-    "name": "Emblem Bracelet (Rouge Edition)",
+    "id": 3,
+    "name": "Stellar Elegance",
     "voucherId": null,
-    "sellerId": 31,
-    "category": "Bracelet",
+    "sellerId": 40,
+    "category": "Nails",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -114,7 +114,7 @@
         {
           "name": "Red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/126.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/134.png"
           ]
         }
       ]
@@ -122,35 +122,21 @@
     "variantsDetails": [
       {
         "name": "Red",
-        "price": 195,
+        "price": 19.99,
         "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.17.png",
-        "title": "A Signature Mark for Your Own Path",
-        "description": "The four interlocking M’s may begin with Minay, but what they stand for is yours to define meaning, movement, momentum, or simply a moment for yourself. A personal emblem that evolves with you and adapts to your life."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-11 at 19.32.55.png",
-        "title": "Your Mark of Understated Confidence",
-        "description": "The Emblem Bracelet’s rich rouge enamel and gold-plated finish become your mark of understated confidence, a quiet reminder of the intention you carry and the inner strength that guides you through every moment."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.44.27.png",
+        "title": "Stellar, Without the Salon",
+        "description": "A refined shimmer with a cosmic edge. Stellar Elegance gives you a polished, high-shine manicure in minutes, no appointment needed.."
       }
     ],
     "specifications": [
       {
-        "title": "Composition",
-        "description": "Stainless Steel\n18K PVD Plating"
-      },
-      {
-        "title": "Clasp",
-        "description": "Secure Clasp"
-      },
-      {
-        "title": "Length",
-        "description": "19cm - 23cm (Extended)."
+        "title": "Description",
+        "description": "Make a bold statement with these red nails adorned with sparkling stars. Perfect for adding a touch of magic to your look, they’re as trendy as they are eye-catching."
       }
     ],
     "serviceDetails": [
@@ -205,7 +191,7 @@
     "demoVideo": null
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Orbit Bracelet",
     "voucherId": null,
     "sellerId": 37,
