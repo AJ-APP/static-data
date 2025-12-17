@@ -1,5 +1,107 @@
 [
   {
+    "id": 1,
+    "name": "The Gini Boxer",
+    "sellerId": 39,
+    "category": "Bags",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Burgundy",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/135.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Burgundy",
+        "price": 74.99,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.40.48.png",
+        "title": "The Bag That Leads the Look",
+        "description": "Structured, playful, and impossible to ignore. The Boxer Bag turns everyday outfits into a statement — without trying too hard."
+      }],
+    "specifications": [
+      {
+        "title": "Description",
+        "description": "The Burgundy Boxer Crossbody Bag\nMake a subtle statement with colour that works with everything. The Burgundy Boxer features striking burgundy, purple, and green stripes that bring depth to any look. Inside, a removable burgundy pouch keeps your essentials perfectly organised - from small items to a laptop up to 14 inches. Equal parts stylish and practical, the Burgundy is ready for workdays, weekends, and trips away."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I get compliments on this bag every time I wear it.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-12-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "It’s playful but still practical, which makes it easy to wear every day.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-11-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "It instantly makes even a simple outfit feel more interesting.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
     "id": 2,
     "name": "The Burgundy Boxer",
     "sellerId": 39,
@@ -103,6 +205,108 @@
   },
   {
     "id": 3,
+    "name": "Manila bag charm",
+    "sellerId": 39,
+    "category": "Bags",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "Manilla",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/136.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "Manilla",
+        "price": 35.99,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.40.48.png",
+        "title": "The Bag That Leads the Look",
+        "description": "Structured, playful, and impossible to ignore. The Boxer Bag turns everyday outfits into a statement — without trying too hard."
+      }],
+    "specifications": [
+      {
+        "title": "Description",
+        "description": "The Burgundy Boxer Crossbody Bag\nMake a subtle statement with colour that works with everything. The Burgundy Boxer features striking burgundy, purple, and green stripes that bring depth to any look. Inside, a removable burgundy pouch keeps your essentials perfectly organised - from small items to a laptop up to 14 inches. Equal parts stylish and practical, the Burgundy is ready for workdays, weekends, and trips away."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I get compliments on this bag every time I wear it.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-12-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "It’s playful but still practical, which makes it easy to wear every day.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-11-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "It instantly makes even a simple outfit feel more interesting.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 4,
     "name": "Stellar Elegance",
     "voucherId": null,
     "sellerId": 40,
@@ -184,94 +388,6 @@
         "reviewText": "I didn’t expect them to look this good, especially after doing them myself.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-12-10T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 4,
-    "name": "Basic Baggy Top Cotton",
-    "voucherId": null,
-    "sellerId": 41,
-    "category": "T-shirt",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Brown",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 14.22.38.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Brown",
-        "price": 65,
-        "quantity": 10}
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.50.28.png",
-        "title": "The Everyday Essential",
-        "description": "Relaxed in fit, refined in feel. The Basic Baggy Top is made to move with you, season after season."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Description",
-        "description": "A no-brainer for in-between seasons. Same easy shape as the Baggy Top, but with full-length sleeves. Lightweight but structured, perfect for layering or wearing solo."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above €100",
-              "Delivery fees are €2.5 for all orders below €100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free delivery for all orders above €100",
-              "Delivery fees are €2.5 for all orders below €100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 11,
-        "reviewRating": 5,
-        "reviewText": "This is one of those tops I keep reaching for because it always feels right.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2025-12-04T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
