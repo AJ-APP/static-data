@@ -8325,5 +8325,85 @@
         "AIContent": false
       }
     }
+  },
+  {
+    "id": 80,
+    "userId": 41,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 15,
+          "userId": 11,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Mabango.png"],
+    "title": "A Moment of Care, Even on Laundry Day",
+    "description": "Sunset scents and soft fabrics, because the little rituals matter. Our laundry essentials don’t just clean your favourite pieces, they bring memories to the rhythm of your day (and make every wash feel a bit brighter). ✨\n\nGentle on skin, dreamy in scent, and made to turn the ordinary into something you’ll actually look forward to. 🌺🧺",
+    "video": null,
+    "recording": null,
+    "category": "HOME & DECOR",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [""],
+    "mentionedPeople": [],
+    "mentionedItems": [4],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
+  },
+  {
+    "id": 81,
+    "userId": 41,
+    "status": {
+      "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "comments": [
+        {
+          "text": "These are straight-up fire! 🔥, I need these in my life ASAP 😍👟.",
+          "id": 15,
+          "userId": 11,
+          "dateCreated": "2024-10-03T08:14:03.312546",
+          "status": {
+            "likes": [1, 4, 6, 8, 9, 7, 11, 10]
+          }
+        }
+      ],
+      "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/glamparis.png"],
+    "title": "A Little Sculpt, A Long Night",
+    "description": "As the sun sets in Paris, a little sculpt goes a long way.\nSoft definition for a night that doesn’t need explaining.",
+    "video": null,
+    "recording": null,
+    "category": "BEAUTY & WELLNESS",
+    "dateCreated": "2024-10-03T08:14:03.312546",
+    "hashtags": [""],
+    "mentionedPeople": [],
+    "mentionedItems": [4],
+    "collaborations": [],
+    "link": "",
+    "setting": {
+      "audience": [],
+      "contentDisclosure": {
+        "sensitiveContent": false,
+        "sponsoredContent": false,
+        "AIContent": false
+      }
+    }
   }
 ]
