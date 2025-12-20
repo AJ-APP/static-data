@@ -18,7 +18,7 @@
     "section": 3,
     "type": "posts",
     "postConfig": {
-      "postIds": [77, 76],
+      "postIds": [83, 74, 75, 78, 79],
       "limit": 10
     }
   },
@@ -27,7 +27,7 @@
     "section": 4,
     "type": "posts",
     "postConfig": {
-      "postIds": [83, 3, 32],
+      "postIds": [84, 32, 73, 3],
       "limit": 10
     }
   },
