@@ -27,7 +27,7 @@
     "section": 4,
     "type": "posts",
     "postConfig": {
-      "postIds": [79, 78],
+      "postIds": [83, 3, 32],
       "limit": 10
     }
   },
@@ -36,7 +36,7 @@
     "section": 5,
     "type": "debates",
     "debatesConfig": {
-      "postIds": [1, 4, 50]
+      "postIds": [32, 4, 50]
     }
   },
   {
@@ -44,7 +44,7 @@
     "section": 6,
     "type": "posts",
     "postConfig": {
-      "postIds": [79, 78],
+      "postIds": [81, 77, 76],
       "limit": 10
     }
   },
