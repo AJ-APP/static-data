@@ -53,7 +53,8 @@
     "section": 7,
     "type": "posts",
     "postConfig": {
-      "category": "TRAVEL"
+      "postIds": [82, 80, 6],
+      "limit": 10
     }
   },
   {
