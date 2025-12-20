@@ -81,11 +81,7 @@
       "items": [
         { "type": "user", "id": 28 },
         { "type": "product", "id": 2 },
-        { "type": "product", "id": 17},
-        { "type": "user", "id": 42 },
-        { "type": "product", "id": 4 },
-        { "type": "user", "id": 44 },
-        { "type": "product", "id": 2 }
+        { "type": "product", "id": 10}
       ]
     }
   },
