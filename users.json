@@ -1221,5 +1221,154 @@
     ],
     "isShekrMember": false,
     "storeId": 2
+  },
+  {
+    "id": 42,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.19.01.png",
+    "cover": "",
+    "tagLine": "Soft ritual for the everyday.",
+    "firstName": "House of Mabango",
+    "lastName": "",
+    "gender": "houseofmabango",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "🌞Your (female owned) Laundry Bestie\n🌞Fragrant and gentle Laundry care\n🌞1% of your order goes towards Save Philippine Seas",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 43,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.18.56.png",
+    "cover": "",
+    "tagLine": "",
+    "firstName": "GlamGuru",
+    "lastName": "",
+    "gender": "female",
+    "username": "byglamguru",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "For the perfect sleek look! De-frizz with a single swipe! Sculpted on the go\n| Amsterdam based",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 44,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.19.06.png",
+    "cover": "",
+    "tagLine": "",
+    "firstName": "Affêre",
+    "lastName": "",
+    "gender": "female",
+    "username": "affereaffere",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "SLOW FASHION | We drop one design piece in several colors with a “planet first” mindset from process to product | HANDMADE IN EUROPE",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 45,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.19.11.png",
+    "cover": "",
+    "tagLine": "",
+    "firstName": "SOOS Atelier",
+    "lastName": "",
+    "gender": "female",
+    "username": "affereaffere",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "Welcome to Soos Atelier, where we celebrate the art of socializing. Founded in the heart of Amsterdam, our vision is to create a world where our tableware fosters a sense of togetherness. We believe in the magic of shared meals, where people gather and strangers become friends.Where the table becomes a timeless stage for life's most precious stories.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 46,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.15.21 1.png",
+    "cover": "",
+    "tagLine": "Ever-changing, ever-becoming",
+    "firstName": "Melted Fairytales",
+    "lastName": "",
+    "gender": "female",
+    "username": "meltedfairytales",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "ʚ♡ɞ from my soul to yours ʚ♡ɞ.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
   }
 ]
