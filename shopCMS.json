@@ -77,11 +77,11 @@
     "section": 9,
     "type": "related",
     "relatedConfig": {
-      "shoppedSellerId": 45,
+      "shoppedSellerId": 44,
       "items": [
-        { "type": "user", "id": 19 },
-        { "type": "product", "id": 3 },
-        { "type": "product", "id": 7},
+        { "type": "user", "id": 28 },
+        { "type": "product", "id": 2 },
+        { "type": "product", "id": 17},
         { "type": "user", "id": 42 },
         { "type": "product", "id": 4 },
         { "type": "user", "id": 44 },
