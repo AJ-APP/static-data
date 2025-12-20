@@ -594,8 +594,184 @@
   "unboxingVideo": null,
   "demoVideo": null
 },
+{
+  "id": 7,
+  "name": "Shiloh dinner essentials 4-Piece set",
+  "sellerId": 39,
+  "category": "Plates",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "Silver",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/136.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "Manilla",
+      "price": 119.95,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Atelier.png",
+      "title": "Stillness Around the Table",
+      "description": "Four pieces shaped by simplicity and quiet intention. The Shiloh Dinner Essentials bring a calm presence to every meal, inviting slow conversation and unhurried moments shared with those you choose to sit beside."
+    }],
+  "specifications": [
+    {
+      "title": "Description",
+      "description": "Crafted for elegance and designed to impress, these premium plates elevate every table setting."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 11,
+      "reviewRating": 5,
+      "reviewText": "Simple, calming, and somehow makes the table feel complete.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2025-12-04T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
+{
+  "id": 8,
+  "name": "Louie Boot - Proudly Pink",
+  "sellerId": 39,
+  "category": "Shoes",
+  "itemStatus": "In Stock",
+  "weight": 2,
+  "variants": {
+    "colors": [
+      {
+        "name": "Pink",
+        "images": [
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/136.png"
+        ]
+      }
+    ]
+  },
+  "variantsDetails": [
+    {
+      "name": "Pink",
+      "price": 250.00,
+      "quantity": 10
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Atelier.png",
+      "title": "Proudly Pink, Purposefully You",
+      "description": "Soft colour, bold step, these boots make room for confidence without trying too hard. Wear them your way, wherever you go."
+    }],
+  "specifications": [
+    {
+      "title": "Description",
+      "description": "Crafted for elegance and designed to impress, these premium plates elevate every table setting."
+    }
+  ],
+  "serviceDetails": [
+    {
+      "title": "Delivery & Return",
+      "label": "Worry-free 30-day returns",
+      "description": [
+        {
+          "title": "Delivery",
+          "descriptions": [
+            "Free delivery for all orders above â‚¬100",
+            "Delivery fees are â‚¬15 for all orders below â‚¬100",
+            "Standard delivery: 2 to 3 working days"
+          ]
+        },
+        {
+          "title": "Return",
+          "descriptions": [
+            "30 days returns",
+            "Return is paid by customer",
+            "All gift must be return"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shipping",
+      "label": "Free Shipping",
+      "description": [
+        {
+          "title": "Delivery Information",
+          "descriptions": [
+            "Free shipping on orders above $50",
+            "$5 flat shipping fee for orders below $50",
+            "Estimated delivery time: 5-7 business days"
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "reviewerId": 11,
+      "reviewRating": 5,
+      "reviewText": "I get compliments on these shoes every time I wear them.",
+      "reviewLikes": [1, 2, 5, 12, 6, 3],
+      "dateCreated": "2025-12-04T08:14:03.312546"
+    }
+  ],
+  "reviewsCount": 55,
+  "unboxingVideo": null,
+  "demoVideo": null
+},
   {
-    "id": 6,
+    "id": 9,
     "name": "Oly Stool",
     "voucherId": null,
     "sellerId": 6,
@@ -761,7 +937,7 @@
     "demoVideo": null
   },
   {
-    "id": 7,
+    "id": 10,
     "name": "Slim-Fit Jean",
     "voucherId": 1,
     "sellerId": 15,
@@ -894,7 +1070,7 @@
     "demoVideo": null
   },
   {
-    "id": 8,
+    "id": 11,
     "name": "Atlas Cloud",
     "voucherId": 1,
     "sellerId": 15,
@@ -1041,7 +1217,7 @@
     "demoVideo": ""
   },
   {
-    "id": 41,
+    "id": 12,
     "name": "Pearl Necklace",
     "sellerId": 5,
     "category": "Women Jewelry",
@@ -1143,7 +1319,7 @@
     "demoVideo": ""
   },
   {
-    "id": 40,
+    "id": 13,
     "name": "Classic Sneakers",
     "voucherId": 1,
     "sellerId": 18,
@@ -1296,581 +1472,6 @@
     "reviewsCount": 55,
     "unboxingVideo": null,
     "demoVideo": null
-  },
-  {
-    "id": 9,
-    "name": "Extreme Condition Tent",
-    "sellerId": 17,
-    "category": "Outdoor",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "red",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T24.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T25.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "red",
-        "price": 295,
-        "quantity": 10}
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
-        "title": "Enhanced Warmth & Wind Resistance",
-        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
-      }],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
-      }],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": 10,
-    "name": "Dirtbike 450 XC-F",
-    "voucherId": 1,
-    "sellerId": 8,
-    "category": "Automotive",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "orange",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M32.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M33.png",
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M34.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "orange",
-        "price": 12199,
-        "quantity": 10 }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH1.png",
-        "title": "Next-Gen Airbox for Peak Performance",
-        "description": "The 2025 KTM 450 XC-F features an advanced airbox design engineered for maximum airflow and superior protection. Optimized to enhance throttle response and engine performance, it delivers consistent power in the most demanding off-road conditions. Effortless filter changes make maintenance a breeze, keeping you ready to ride longer and harder."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH2.png",
-        "title": "Launch Control & Quickshifter\nRace-Ready Precision",
-        "description": "Dominate the start line with the 2025 KTM 450 XC-F's cutting-edge Launch Control, designed for explosive acceleration and a perfect start every time. The integrated Quickshifter allows seamless upshifts without clutch use, keeping the power flowing smoothly as you conquer every trail or track with unmatched speed and precision."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH3.png",
-        "title": "Rider-Focused Frame for Ultimate Control",
-        "description": "The 2025 KTM 450 XC-F features a cutting-edge frame designed with the rider in mind. Engineered for enhanced stability, precision handling, and optimal feedback, it offers unmatched control and confidence on the toughest terrain. Lightweight yet durable, this frame ensures peak performance and comfort, ride after ride."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "The 2025 KTM 450 XC-F wears a crown made of victories. Being the leading 4-stroke in the cross-country division for years, the KTM 450 XC-F once again brings its undeniable READY TO RACE spirit to the starting line with a relentless assault on the podium. With its proven track record, sledgehammer-like power, and insane handling, it can only mean one thing - it's time to extend the trophy room.\n\nThis motorcycle is designed, developed and produced in Austria."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": 11,
-    "name": "Vintage T-shirt",
-    "voucherId": null,
-    "sellerId": 15,
-    "category": "Men fashion",
-    "itemStatus": "In Stock",
-    "weight": 4,
-    "variants": {
-      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-      "colors": [
-        {
-          "name": "White",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "XS,white",
-        "price": 20,
-        "quantity": 100
-      },
-      {
-        "name": "S,white",
-        "price": 20,
-        "quantity": 100
-      },
-      {
-        "name": "M,white",
-        "price": 20,
-        "quantity": 5
-      },
-      {
-        "name": "L,white",
-        "price": 20,
-        "quantity": 6
-      },
-      {
-        "name": "XL,white",
-        "price": 20,
-        "quantity": 0
-      },
-      {
-        "name": "XXL,white",
-        "price": 20,
-        "quantity": 200
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH1.png",
-        "title": "Premium Comfort in Every Stitch",
-        "description": "Crafted with heavier jersey fabric, this piece offers a luxurious feel and unmatched durability. Designed for all-day comfort, it’s the perfect blend of style and substance—your new go-to for effortless, premium layering."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH2.png",
-        "title": "A Vintage Revival",
-        "description": "Inspired by the charm of a rare vintage shop find, this denim jacket brings retro vibes to your wardrobe with modern craftsmanship. Perfectly faded and artfully distressed, it’s a nostalgic classic reimagined for today."
-      }
-    ],
-    "specifications": [
-      {
-        "description": "We found this garment in a vintage shop and loved it so much that we decided to revive it for the 21st century. With supersoft 100% cotton jersey and a relaxed fit, this is the essential tee at its very finest."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 4,
-        "reviewRating": 5,
-        "reviewText": "This t-shirt exceeded my expectations. The fabric is incredibly soft and lightweight, but it still feels durable. I've already washed it a couple of times and it hasn't shrunk or lost its shape. Will definitely be ordering more!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 12,
-        "reviewRating": 4,
-        "reviewText": "Good everyday t-shirt. The fit is flattering without being too tight, and the length is just right (not too short or too long). I love that it's versatile enough to wear with jeans or under a blazer. Only reason for 4 stars is I wish there were more color options!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 7,
-        "reviewRating": 5,
-        "reviewText": "Great fit, nice basic tee and it holds up well after multiple washes.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 12,
-    "name": "Gili Throw",
-    "voucherId": 1,
-    "sellerId": 7,
-    "category": "Home & Decor",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "green",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/40.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "green",
-        "price": 99,
-        "quantity": 10}
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight2.jpg",
-        "title": "Decorative & Functional \nThrow",
-        "description": "Add warmth and style to your space with this versatile throw. Perfect for cozy evenings or as a chic accent, it combines soft, functional comfort with a decorative touch that elevates any room’s aesthetic"
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight3.jpg",
-        "title": "Softness You Can Feel",
-        "description": "Crafted from soft and pleasant fabric, this piece offers a luxurious touch that’s gentle on the skin. Perfect for everyday comfort, it combines coziness with timeless elegance."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight1.jpg",
-        "title": "Choose Your Style",
-        "description": "Available in two stylish variants, this piece lets you pick the perfect look to match your taste. Whether you prefer classic charm or modern elegance, there’s an option that suits every style."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Introducing Gilli, a warm cotton throw, adorable living room decoration and an instant eyecatcher, thanks to the geometric print and contrasting colors. The pleasant softness and appropriate dimensions of the fabric guarantee absolute coziness during the chilly evenings."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": 13,
-    "name": "Tul Throw",
-    "voucherId": 1,
-    "sellerId": 7,
-    "category": "Home & Decor",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "blue",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/39.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "blue",
-        "price": 99,
-        "quantity": 5}
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH2.jpg",
-        "title": "Beauty Meets Functionality",
-        "description": "This piece seamlessly blends decorative charm with practical utility. Perfect for elevating your space while serving a purpose, it’s the ideal combination of style and functionality."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH3.jpg",
-        "title": "Luxuriously Soft, Unmatched Comfort",
-        "description": "Made with soft and pleasant fabric, this piece wraps you in comfort while offering a premium feel. Designed for everyday wear or relaxation, it’s as gentle on your skin as it is stylish."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Introducing Tul, a warm cotton throw, adorable living room decoration and an instant eyecatcher, thanks to the geometric print and contrasting colors. The pleasant softness and appropriate dimensions of the fabric guarantee absolute coziness during the chilly evenings."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
   },
   {
     "id": 14,
@@ -2105,7 +1706,594 @@
     "demoVideo": ""
   },
   {
+    "id": 15,
+    "name": "Dirtbike 450 XC-F",
+    "voucherId": 1,
+    "sellerId": 8,
+    "category": "Automotive",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "orange",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M32.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M33.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/M34.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "orange",
+        "price": 12199,
+        "quantity": 10 }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH1.png",
+        "title": "Next-Gen Airbox for Peak Performance",
+        "description": "The 2025 KTM 450 XC-F features an advanced airbox design engineered for maximum airflow and superior protection. Optimized to enhance throttle response and engine performance, it delivers consistent power in the most demanding off-road conditions. Effortless filter changes make maintenance a breeze, keeping you ready to ride longer and harder."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH2.png",
+        "title": "Launch Control & Quickshifter\nRace-Ready Precision",
+        "description": "Dominate the start line with the 2025 KTM 450 XC-F's cutting-edge Launch Control, designed for explosive acceleration and a perfect start every time. The integrated Quickshifter allows seamless upshifts without clutch use, keeping the power flowing smoothly as you conquer every trail or track with unmatched speed and precision."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/MH3.png",
+        "title": "Rider-Focused Frame for Ultimate Control",
+        "description": "The 2025 KTM 450 XC-F features a cutting-edge frame designed with the rider in mind. Engineered for enhanced stability, precision handling, and optimal feedback, it offers unmatched control and confidence on the toughest terrain. Lightweight yet durable, this frame ensures peak performance and comfort, ride after ride."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "The 2025 KTM 450 XC-F wears a crown made of victories. Being the leading 4-stroke in the cross-country division for years, the KTM 450 XC-F once again brings its undeniable READY TO RACE spirit to the starting line with a relentless assault on the podium. With its proven track record, sledgehammer-like power, and insane handling, it can only mean one thing - it's time to extend the trophy room.\n\nThis motorcycle is designed, developed and produced in Austria."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
+  },
+  {
     "id": 16,
+    "name": "Vintage T-shirt",
+    "voucherId": null,
+    "sellerId": 15,
+    "category": "Men fashion",
+    "itemStatus": "In Stock",
+    "weight": 4,
+    "variants": {
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": [
+        {
+          "name": "White",
+          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/26.png"]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "XS,white",
+        "price": 20,
+        "quantity": 100
+      },
+      {
+        "name": "S,white",
+        "price": 20,
+        "quantity": 100
+      },
+      {
+        "name": "M,white",
+        "price": 20,
+        "quantity": 5
+      },
+      {
+        "name": "L,white",
+        "price": 20,
+        "quantity": 6
+      },
+      {
+        "name": "XL,white",
+        "price": 20,
+        "quantity": 0
+      },
+      {
+        "name": "XXL,white",
+        "price": 20,
+        "quantity": 200
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH1.png",
+        "title": "Premium Comfort in Every Stitch",
+        "description": "Crafted with heavier jersey fabric, this piece offers a luxurious feel and unmatched durability. Designed for all-day comfort, it’s the perfect blend of style and substance—your new go-to for effortless, premium layering."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH2.png",
+        "title": "A Vintage Revival",
+        "description": "Inspired by the charm of a rare vintage shop find, this denim jacket brings retro vibes to your wardrobe with modern craftsmanship. Perfectly faded and artfully distressed, it’s a nostalgic classic reimagined for today."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "We found this garment in a vintage shop and loved it so much that we decided to revive it for the 21st century. With supersoft 100% cotton jersey and a relaxed fit, this is the essential tee at its very finest."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 4,
+        "reviewRating": 5,
+        "reviewText": "This t-shirt exceeded my expectations. The fabric is incredibly soft and lightweight, but it still feels durable. I've already washed it a couple of times and it hasn't shrunk or lost its shape. Will definitely be ordering more!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 12,
+        "reviewRating": 4,
+        "reviewText": "Good everyday t-shirt. The fit is flattering without being too tight, and the length is just right (not too short or too long). I love that it's versatile enough to wear with jeans or under a blazer. Only reason for 4 stars is I wish there were more color options!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 7,
+        "reviewRating": 5,
+        "reviewText": "Great fit, nice basic tee and it holds up well after multiple washes.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 17,
+    "name": "Viscid Ring",
+    "sellerId": 19,
+    "category": "Women Jewelry",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {"colors": [
+        {
+          "name": "sterling silver",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
+          ]
+        },
+        {
+          "name": "18k gold plated",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "sterling silver",
+        "price": 219,
+        "quantity": 10
+      },
+      {
+        "name": "18k gold plated",
+        "price": 219,
+        "quantity": 10
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
+        "title": "Fluidity in Motion",
+        "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": null,
+    "demoVideo": null
+  },
+  {
+    "id": 18,
+    "name": "Tul Throw",
+    "voucherId": 1,
+    "sellerId": 7,
+    "category": "Home & Decor",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "blue",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/39.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "blue",
+        "price": 99,
+        "quantity": 5}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH2.jpg",
+        "title": "Beauty Meets Functionality",
+        "description": "This piece seamlessly blends decorative charm with practical utility. Perfect for elevating your space while serving a purpose, it’s the ideal combination of style and functionality."
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/TH3.jpg",
+        "title": "Luxuriously Soft, Unmatched Comfort",
+        "description": "Made with soft and pleasant fabric, this piece wraps you in comfort while offering a premium feel. Designed for everyday wear or relaxation, it’s as gentle on your skin as it is stylish."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Introducing Tul, a warm cotton throw, adorable living room decoration and an instant eyecatcher, thanks to the geometric print and contrasting colors. The pleasant softness and appropriate dimensions of the fabric guarantee absolute coziness during the chilly evenings."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
+  },
+  {
+    "id": 19,
+    "name": "Gili Throw",
+    "voucherId": 1,
+    "sellerId": 7,
+    "category": "Home & Decor",
+    "itemStatus": "In Stock",
+    "weight": 2,
+    "variants": {
+      "colors": [
+        {
+          "name": "green",
+          "images": [
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/40.png"
+          ]
+        }
+      ]
+    },
+    "variantsDetails": [
+      {
+        "name": "green",
+        "price": 99,
+        "quantity": 10}
+    ],
+    "features": [
+      {
+        "id": 1,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight2.jpg",
+        "title": "Decorative & Functional \nThrow",
+        "description": "Add warmth and style to your space with this versatile throw. Perfect for cozy evenings or as a chic accent, it combines soft, functional comfort with a decorative touch that elevates any room’s aesthetic"
+      },
+      {
+        "id": 2,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight3.jpg",
+        "title": "Softness You Can Feel",
+        "description": "Crafted from soft and pleasant fabric, this piece offers a luxurious touch that’s gentle on the skin. Perfect for everyday comfort, it combines coziness with timeless elegance."
+      },
+      {
+        "id": 3,
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/ThrowHighlight1.jpg",
+        "title": "Choose Your Style",
+        "description": "Available in two stylish variants, this piece lets you pick the perfect look to match your taste. Whether you prefer classic charm or modern elegance, there’s an option that suits every style."
+      }
+    ],
+    "specifications": [
+      {
+        "title": "",
+        "description": "Introducing Gilli, a warm cotton throw, adorable living room decoration and an instant eyecatcher, thanks to the geometric print and contrasting colors. The pleasant softness and appropriate dimensions of the fabric guarantee absolute coziness during the chilly evenings."
+      }
+    ],
+    "serviceDetails": [
+      {
+        "title": "Delivery & Return",
+        "label": "Worry-free 30-day returns",
+        "description": [
+          {
+            "title": "Delivery",
+            "descriptions": [
+              "Free delivery for all orders above â‚¬100",
+              "Delivery fees are â‚¬15 for all orders below â‚¬100",
+              "Standard delivery: 2 to 3 working days"
+            ]
+          },
+          {
+            "title": "Return",
+            "descriptions": [
+              "30 days returns",
+              "Return is paid by customer",
+              "All gift must be return"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shipping",
+        "label": "Free Shipping",
+        "description": [
+          {
+            "title": "Delivery Information",
+            "descriptions": [
+              "Free shipping on orders above $50",
+              "$5 flat shipping fee for orders below $50",
+              "Estimated delivery time: 5-7 business days"
+            ]
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I can't get enough of the easy fit feature of this jacket",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "I love the comfort of this jacket!",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "Great value for money.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2024-10-03T08:14:03.312546"
+      }
+    ],
+    "reviewsCount": 55,
+    "unboxingVideo": "",
+    "demoVideo": ""
+  },
+  {
+    "id": 20,
     "name": "Denim Jacket",
     "voucherId": 1,
     "sellerId": 18,
@@ -2233,53 +2421,41 @@
     "demoVideo": null
   },
   {
-    "id": 17,
-    "name": "Viscid Ring",
-    "sellerId": 19,
-    "category": "Women Jewelry",
+    "id": 21,
+    "name": "Extreme Condition Tent",
+    "sellerId": 17,
+    "category": "Outdoor",
     "itemStatus": "In Stock",
     "weight": 2,
-    "variants": {"colors": [
+    "variants": {
+      "colors": [
         {
-          "name": "sterling silver",
+          "name": "red",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
-          ]
-        },
-        {
-          "name": "18k gold plated",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T24.png",
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/T25.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "sterling silver",
-        "price": 219,
-        "quantity": 10
-      },
-      {
-        "name": "18k gold plated",
-        "price": 219,
-        "quantity": 10
-      }
+        "name": "red",
+        "price": 295,
+        "quantity": 10}
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
-        "title": "Fluidity in Motion",
-        "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
-      }
-    ],
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
+        "title": "Enhanced Warmth & Wind Resistance",
+        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
+      }],
     "specifications": [
       {
         "title": "",
-        "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
-      }
-    ],
+        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
+      }],
     "serviceDetails": [
       {
         "title": "Delivery & Return",
@@ -2342,11 +2518,11 @@
       }
     ],
     "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
+    "unboxingVideo": "",
+    "demoVideo": ""
   },
   {
-    "id": 18,
+    "id": 22,
     "name": "N°5 The Bath Soap",
     "sellerId": 5,
     "category": "Beauty & Wellness",
@@ -2449,7 +2625,7 @@
     "demoVideo": ""
   },
   {
-    "id": 19,
+    "id": 23,
     "name": "Classic jacket",
     "voucherId": 1,
     "sellerId": 6,
@@ -2626,7 +2802,7 @@
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
-    "id": 20,
+    "id": 24,
     "name": "Chain Ring",
     "sellerId": 5,
     "category": "Rings",
@@ -2756,7 +2932,7 @@
     "demoVideo": null
   },
   {
-    "id": 21,
+    "id": 25,
     "name": "CIF earrings set No.2",
     "sellerId": 19,
     "category": "Women Jewelry",
@@ -2869,7 +3045,7 @@
     "demoVideo": null
   },
   {
-    "id": 22,
+    "id": 26,
     "name": "Striped Flag Knitted Sweater",
     "sellerId": 23,
     "category": "Men Fashion",
@@ -3012,7 +3188,7 @@
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
   },
   {
-    "id": 23,
+    "id": 27,
     "name": "Leopard Brushed Knitted Sweater",
     "voucherId": 1,
     "sellerId": 23,
@@ -3148,2280 +3324,5 @@
     "reviewsCount": 55,
     "unboxingVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
     "demoVideo": "https://www.w3schools.com/html/mov_bbb.mp4"
-  },
-  {
-    "id": 24,
-    "name": "Bark Boxy Hooded Sweater",
-    "sellerId": 23,
-    "category": "Men Fashion",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Multi",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Bark2.png"
-          ]
-        },
-        {
-          "name": "Black",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Bark1.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Multi",
-        "price": 160,
-        "quantity": 10
-      },
-      {
-        "name": "Black",
-        "price": 160,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://andscape.com/wp-content/uploads/2021/07/74876E_LS_4-e1626124022792.jpg?w=700",
-        "title": "Durable Grip",
-        "description": "Engineered for superior grip, ensuring optimal control during play."
-      },
-      {
-        "id": 2,
-        "image": "https://spalding-basketball.com/cdn/shop/files/spalding-balls-tips-maintenance_fae98479-c7d1-4e47-98a6-1fb54674fd8f_1200x1200.jpg?v=1707477581",
-        "title": "Weather Resistant",
-        "description": "Designed to withstand various weather conditions, perfect for outdoor games."
-      },
-      {
-        "id": 3,
-        "image": "https://i.pinimg.com/736x/08/f1/ad/08f1ad7f68891ccb235ba896517a81d1.jpg",
-        "title": "Official Size",
-        "description": "Meets official size and weight standards for professional play."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 25,
-    "name": "Chill Pouf",
-    "voucherId": 1,
-    "sellerId": 16,
-    "category": "Home & Decor",
-    "itemStatus": "In Stock",
-    "weight": 4,
-    "variants": {
-      "sizes": ["S", "M", "L"],
-      "colors": [
-        {
-          "name": "beige",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P1.png"]
-        },
-        {
-          "name": "orange",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P2.png"]
-        },
-        {
-          "name": "olive",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P3.png"]
-        },
-        {
-          "name": "grey",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P4.png"]
-        },
-        {
-          "name": "blue",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P5.png"]
-        },
-        {
-          "name": "dark grey",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/P6.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "S,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "M,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "L,beige",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "S,orange",
-        "price": 249,
-        "quantity": 10
-      },
-      {
-        "name": "M,orange",
-        "price": 249,
-        "quantity": 0
-      },
-      {
-        "name": "L,ornge",
-        "price": 249,
-        "quantity": 0
-      },
-      {
-        "name": "S,olive",
-        "price": 249,
-        "quantity": 15
-      },
-      {
-        "name": "M,olive",
-        "price": 249,
-        "quantity": 15
-      }, 
-      {
-        "name": "L,olive",
-        "price": 249,
-        "quantity": 15
-      },
-      {
-        "name": "S,grey",
-        "price": 249,
-        "quantity": 8
-      },
-      {
-        "name": "M,grey",
-        "price": 249,
-        "quantity": 12
-      },
-      {
-        "name": "L,grey",
-        "price": 249,
-        "quantity": 12
-      },
-      {
-        "name": "S,blue",
-        "price": 249,
-        "quantity": 0
-      },
-      {
-        "name": "M,blue",
-        "price": 249,
-        "quantity": 15
-      },
-      {
-        "name": "L,blue",
-        "price": 249,
-        "quantity": 15
-      },
-      {
-        "name": "S,dark grey",
-        "price": 249,
-        "quantity": 8
-      },
-      {
-        "name": "M,dark grey",
-        "price": 249,
-        "quantity": 12
-      },
-      {
-        "name": "L,dark grey",
-        "price": 249,
-        "quantity": 12
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight1.jpg",
-        "title": "Durable Foam Guarantees \nLong Lasting Use",
-        "description": "This pouf is crafted with high-density foam that resists sagging and wear, ensuring it retains its shape and support even with daily use. Whether you're sitting, lounging, or using it as a footrest, the durable foam guarantees comfort and longevity, making it a reliable addition to your space."
-      },
-      {
-        "id": 2,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Poufhighlight2.jpg",
-        "title": "Soft, Carefully Selected \nFabrics",
-        "description": "Wrapped in premium, carefully selected fabrics, this pouf offers a luxurious feel thatâ€™s gentle to the touch. The soft texture enhances comfort while adding a sophisticated touch to your space, ensuring a cozy and stylish experience."
-      },
-      {
-        "id": 3,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/poufhighlight3.jpg",
-        "title": "Multi-Purpose Application",
-        "description": "Designed to adapt to your needs, this pouf serves as a comfortable seat, a supportive footrest, or even a stylish accent piece. Its multi-purpose functionality makes it a practical and versatile addition to any room."
-      }
-    ],
-    "specifications": [
-      {
-        "title": null,
-        "description": "Searching for a minimal, yet cozy accent furniture? This small, round pouf made of high quality fabric will be a perfect choice. Use it as a small useful ottoman, a stylish footstool or a modern side table for your living room or bedroom. A beautiful and functional addition to every interior."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Delivered directly to your home by trusted couriers like UPS, FedEx, or DHL, depending on your location",
-              "Delivery is free for orders above â‚¬100, with all costs, taxes, and customs fees covered by noo.ma",
-              "You can expect delivery in 2-4 business days within the EU and 3-8 business days for the UK, Switzerland, and Norway, starting from the dispatch date",
-              "All products from one order are being shipped together unless otherwise stated"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "Nice color and quality",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "Very nice",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Perfect",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 26,
-    "name": "Wem Chair",
-    "voucherId": 1,
-    "sellerId": 6,
-    "category": "Home & Decor",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "red",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/chair_r.png"
-          ]
-        },
-        {
-          "name": "black",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/chair_b.png"
-          ]
-        },
-        {
-          "name": "Green",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/chair_v.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "blue",
-        "price": 389,
-        "quantity": 10
-      },
-      {
-        "name": "black",
-        "price": 389,
-        "quantity": 10
-      },
-      {
-        "name": "green",
-        "price": 389,
-        "quantity": 15
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 27,
-    "name": "Dany Dining Table",
-    "voucherId": 1,
-    "sellerId": 6,
-    "category": "Home & Decor",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Oak",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Table.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Oak",
-        "price": 1149,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 2,
-        "image": "https://cdn11.bigcommerce.com/s-9saznil5k4/images/stencil/1280x1280/products/9183/26262/28374-new__87083.1725908616.jpg?c=1",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      },
-      {
-        "id": 3,
-        "image": "https://shekr-static.vyte.sh/products/jacket.png",
-        "title": "Easy fit",
-        "description": "Our easy fit feature sets us apart, providing the perfect balance of style and relaxation."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 28,
-    "name": "Atlas Cloud",
-    "voucherId": 1,
-    "sellerId": 15,
-    "category": "Shoes",
-    "itemStatus": "In Stock",
-    "weight": 4,
-    "variants": {
-      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
-      "colors": [
-        {
-          "name": "orange",
-          "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Atlas Classic.png"]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "36,orange",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "37,orange",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "38,orange",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "39,orange",
-        "price": 169,
-        "quantity": 10
-      },
-      {
-        "name": "40,orange",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "41,orange",
-        "price": 190,
-        "quantity": 10
-      },{
-        "name": "42,orange",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "43,orange",
-        "price": 190,
-        "quantity": 10
-      },
-    {
-        "name": "44,orange",
-        "price": 190,
-        "quantity": 10
-      },
-      {
-        "name": "45,orange",
-        "price": 190,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/AC 528.jpg",
-        "title": "Timeless Style, Built to Last",
-        "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
-      }
-    ],
-    "specifications": [
-      {
-        "title": null,
-        "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 12,
-        "reviewRating": 5,
-        "reviewText": "Obsessed with these sneakers! 😍✨ Incredibly comfortable, super stylish, and they’re perfect for everything from workouts to casual outings. 💪✨ Your feet will thank you, and so will your style game! 😍👏",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": 29,
-    "name": "Mercurial Vapor 16 Pro",
-    "sellerId": 28,
-    "category": "Men Fashion",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "Red",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Mercurial Vapor.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "Purple",
-        "price": 149.99,
-        "quantity": 10
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/image 90.png",
-        "title": "Designed For The Fastest Players",
-        "description": "Show the world who you are in the Nike United Jr. Vapor 16 Pro, this bold new colorway features springy Air Zoom cushioning and an aggressive traction outsole for game-changing speed."
-      }
-    ],
-    "specifications": [
-      {
-        "title": "Material",
-        "description": "100% cotton"
-      },
-      {
-        "title": "Weight",
-        "description": "Usually ranging from 4.3 oz to 6.1 oz"
-      },
-      {
-        "title": "Fabric type",
-        "description": "Made from combed cotton for a soft and smooth finish"
-      },
-      {
-        "title": "Style",
-        "description": "Crewneck"
-      },
-      {
-        "title": "Fit",
-        "description": "Relaxed"
-      },
-      {
-        "title": "Seams",
-        "description": "Double-needle stitching for durability"
-      },
-      {
-        "title": "Collar",
-        "description": "Ribbed collar for comfort"
-      },
-      {
-        "title": "Tag",
-        "description": "Tear-away tag for easy removal"
-      }
-    ],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 6,
-        "reviewRating": 5,
-        "reviewText": "Laced up & locked in! ⚽️💨 These cleats feel like a second skin—super light, crazy fast, and the grip is next level. Perfect for those explosive moves & quick cuts. If speed is your game, these are a must! 🚀⚡️",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": null,
-    "demoVideo": null
-  },
-  {
-    "id": 31,
-    "name": "Crimson Nature",
-    "sellerId": 3,
-    "category": "Art",
-    "itemStatus": "In Stock",
-    "weight": 2,
-    "variants": {
-      "colors": [
-        {
-          "name": "red",
-          "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/41.png"
-          ]
-        }
-      ]
-    },
-    "variantsDetails": [
-      {
-        "name": "red",
-        "price": 2500,
-        "quantity": 10}
-    ],
-    "features": [
-      {
-        "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/tent.jpg",
-        "title": "Enhanced Warmth & Wind Resistance",
-        "description": "Stay cozy and protected with the advanced isolation layer of this tent. Engineered to trap heat for added warmth, it also provides superior resistance against strong winds, ensuring comfort and stability in even the harshest outdoor conditions. Built for adventure, it’s your reliable shield against the elements."
-      }],
-    "specifications": [
-      {
-        "title": "",
-        "description": "Conquer the harshest conditions with this extreme weather tent, built to withstand snow, wind, and freezing temperatures. Featuring advanced insulation, reinforced materials, and a robust frame, it provides unmatched warmth, stability, and protection. Designed for adventurers who demand reliability, this tent is your safe haven in the wildest environments."
-      }],
-    "serviceDetails": [
-      {
-        "title": "Delivery & Return",
-        "label": "Worry-free 30-day returns",
-        "description": [
-          {
-            "title": "Delivery",
-            "descriptions": [
-              "Free delivery for all orders above â‚¬100",
-              "Delivery fees are â‚¬15 for all orders below â‚¬100",
-              "Standard delivery: 2 to 3 working days"
-            ]
-          },
-          {
-            "title": "Return",
-            "descriptions": [
-              "30 days returns",
-              "Return is paid by customer",
-              "All gift must be return"
-            ]
-          }
-        ]
-      },
-      {
-        "title": "Shipping",
-        "label": "Free Shipping",
-        "description": [
-          {
-            "title": "Delivery Information",
-            "descriptions": [
-              "Free shipping on orders above $50",
-              "$5 flat shipping fee for orders below $50",
-              "Estimated delivery time: 5-7 business days"
-            ]
-          }
-        ]
-      }
-    ],
-    "reviews": [
-      {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I can't get enough of the easy fit feature of this jacket",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "I love the comfort of this jacket!",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "Great value for money.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2024-10-03T08:14:03.312546"
-      }
-    ],
-    "reviewsCount": 55,
-    "unboxingVideo": "",
-    "demoVideo": ""
-  },
-  {
-    "id": 32,
-  "name": "Nike A'One Pink A'ura",
-  "sellerId": 28,
-  "category": "Women Fashion",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Pink",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/A1.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Pink",
-      "price": 150,
-      "quantity": 10
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/A1H1.png",
-      "title": "Responsive Cushioning with Cushlon ST2 Foam",
-      "description": "The A'One is equipped with Cushlon ST2 foam in the midsole, providing athletes with responsive cushioning for smooth landings and explosive energy return. This technology ensures optimal performance during intense gameplay."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "",
-      "description": "Luminous pearls scattered along a delicate chain."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above â‚¬100",
-            "Delivery fees are â‚¬15 for all orders below â‚¬100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 2,
-      "reviewRating": 4,
-      "reviewText": "I can't get enough of the easy fit feature of this jacket",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 3,
-      "reviewRating": 5,
-      "reviewText": "I love the comfort of this jacket!",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Great value for money.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": "",
-  "demoVideo": ""
-},
-{
-  "id": 33,
-  "name": "Dare To Love Double Ring",
-  "sellerId": 30,
-  "category": "Rings",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {"colors": [
-      {
-        "name": "Gold",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Dome Ring.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "14k solid gold",
-      "price": 965,
-      "quantity": 10
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/DDRH1.jpg",
-      "title": "Timeless Elegance, Modern Boldness",
-      "description": "The Dare to Love Double Dome Ring is a statement of effortless luxury. Crafted from solid 14k recycled gold, its sculptural double-dome design offers a bold yet refined look, perfect for everyday wear or special occasions. Designed for lasting beauty, this heirloom-quality piece embodies the perfect balance of strength and elegance."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "",
-      "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above â‚¬100",
-            "Delivery fees are â‚¬15 for all orders below â‚¬100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 11,
-      "reviewRating": 5,
-      "reviewText": "Got this as a treat to myself after a big milestone and it is my most complimented piece ✨",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 2,
-      "reviewRating": 5,
-      "reviewText": "Celebrated a big moment with this ring — and now I never take it off 💖",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Simple ✨ Sculptural 💫 Everyday perfect.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": 34,
-  "name": "Viscid Ring",
-  "sellerId": 19,
-  "category": "Rings",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {"colors": [
-      {
-        "name": "sterling silver",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR1.png"
-        ]
-      },
-      {
-        "name": "18k gold plated",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VR2.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "sterling silver",
-      "price": 219,
-      "quantity": 10
-    },
-    {
-      "name": "18k gold plated",
-      "price": 219,
-      "quantity": 10
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/VRH.png",
-      "title": "Fluidity in Motion",
-      "description": "The Viscid Ring captures the transformative beauty of fluidity. With its sleek, organic design in gold and silver, this piece from the Consciousness is Fluid collection symbolizes adaptability, resilience, and the ever-changing flow of life."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "",
-      "description": "Consciousness is Fluid collection\n\nViscid Ring\n\nAvailable in sterling silver or 18k gold plated brass."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above â‚¬100",
-            "Delivery fees are â‚¬15 for all orders below â‚¬100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 2,
-      "reviewRating": 4,
-      "reviewText": "I can't get enough of the easy fit feature of this jacket",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 3,
-      "reviewRating": 5,
-      "reviewText": "I love the comfort of this jacket!",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Great value for money.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": 35,
-  "name": "Eira Black Onyx Teardrop Beads Necklaces",
-  "sellerId": 31,
-  "category": "Necklaces",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Pearl",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BO.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Pearl",
-      "price": 139,
-      "quantity": 10
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/BH1.jpg",
-      "title": "Bold Elegance: Black Onyx Teardrop Necklace",
-      "description": "Make a statement with the Black Onyx Big Teardrop Necklace—where bold design meets timeless sophistication. Crafted with sleek, polished onyx beads, this piece exudes strength and confidence, perfect for elevating any outfit. Whether worn solo or layered, it’s a striking accessory that speaks volumes."}
-  ],
-  "specifications": [
-    {
-      "title": "",
-      "description": "Luminous pearls scattered along a delicate chain."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above â‚¬100",
-            "Delivery fees are â‚¬15 for all orders below â‚¬100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 2,
-      "reviewRating": 4,
-      "reviewText": "I can't get enough of the easy fit feature of this jacket",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 3,
-      "reviewRating": 5,
-      "reviewText": "I love the comfort of this jacket!",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Great value for money.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": "",
-  "demoVideo": ""
-},
-{
-  "id": 36,
-  "name": "CIF earrings set No.2",
-  "sellerId": 19,
-  "category": "Earrings",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "sterling silver",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF1.png"
-        ]
-      },
-      {
-        "name": "18k gold plated",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIF2.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "sterling silver",
-      "price": 179,
-      "quantity": 10
-    },
-    {
-      "name": "18k gold plated",
-      "price": 179,
-      "quantity": 10
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/CIFH.png",
-      "title": "Breeding Earrings: Uniquely Versatile Elegance",
-      "description": "These highly polished Breeding Earrings from the MIAM collection are a perfect blend of uniqueness, versatility, and exceptional quality. Designed to complement any style, they make a refined statement for everyday wear."
-    }],
-  "specifications": [
-    {
-      "title": "",
-      "description": "These highly polished earrings are unique, versatile, and high-quality. It is the best day-to-day statement design that goes with any style. Both material options are made with high-quality sterling silver studs to prevent allergic reactions."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above â‚¬100",
-            "Delivery fees are â‚¬15 for all orders below â‚¬100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 2,
-      "reviewRating": 4,
-      "reviewText": "I can't get enough of the easy fit feature of this jacket",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 3,
-      "reviewRating": 5,
-      "reviewText": "I love the comfort of this jacket!",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Great value for money.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": 37,
-  "name": "Pearl Necklace",
-  "sellerId": 5,
-  "category": "Necklaces",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Gold",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/20.png"
-        ]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Gold",
-      "price": 3700,
-      "quantity": 10
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/NH1.jpg",
-      "title": "Ethereal Elegance: Luminous Pearls",
-      "description": "Gracefully adorned with luminous pearls scattered along a delicate chain, this piece exudes timeless sophistication. Perfect for any occasion, it’s a radiant blend of understated beauty and refined charm."}
-  ],
-  "specifications": [
-    {
-      "title": "",
-      "description": "Luminous pearls scattered along a delicate chain."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above â‚¬100",
-            "Delivery fees are â‚¬15 for all orders below â‚¬100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 2,
-      "reviewRating": 4,
-      "reviewText": "I can't get enough of the easy fit feature of this jacket",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 3,
-      "reviewRating": 5,
-      "reviewText": "I love the comfort of this jacket!",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Great value for money.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": "",
-  "demoVideo": ""
-},
-{
-  "id": -4,
-  "name": "Ora Ring",
-  "voucherId": null,
-  "sellerId": 35,
-  "category": "Ring",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Silver",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/97.png"]
-      },
-      {
-        "name": "Gold",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/98.png"]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Silver",
-      "price": 28,
-      "quantity": 10},
-      {
-        "name": "Gold",
-        "price": 28,
-        "quantity": 10}
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.20.53.png",
-      "title": "The Ora Ring: Subtle. Sleek. Strong.",
-      "description": "Crafted from premium stainless steel and finished with 18K gold plating, complete with a 12-month discoloration guarantee. This ring delivers luxe shine and lasting wear at an accessible price.."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "Material",
-      "description": "Stainless steel."
-    },
-    {
-      "title": "Features",
-      "description": "Waterproof, Long-lasting, hypoallergenic."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 11,
-      "reviewRating": 5,
-      "reviewText": "Loving it so much, I'm wearing it every day.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": -3,
-  "name": "Forbidden Fruit Perfume Candle",
-  "voucherId": null,
-  "sellerId": 36,
-  "category": "Candles",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "White",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/99.png"]
-      },
-      {
-        "name": "Black",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/100.png"]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "White",
-      "price": 35,
-      "quantity": 10},
-      {
-      "name": "Black",
-      "price": 35,
-      "quantity": 10}
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.16.03.png",
-      "title": "Light Your Indulgence",
-      "description": "Juicy notes of plum and pomegranate meet warm amber and vanilla in a 220g natural-wax candle handcrafted in Amsterdam, offering around 50 hours of burn time and packed in a reusable glass jar."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "Top Notes",
-      "description": "Plum and Pomegranate"
-    },
-    {
-      "title": "Heart Notes",
-      "description": "Rose and Patchouli"
-    },
-    {
-      "title": "Base Notes",
-      "description": "Cedar wood, Amber, Vanilla and Leather."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 11,
-      "reviewRating": 5,
-      "reviewText": "Rich, warm, and addictive. The scent fills the room within minutes and lingers long after the flame’s out.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": -2,
-  "name": "Heartcore Necklace",
-  "voucherId": null,
-  "sellerId": 37,
-  "category": "Necklace",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Black",
-        "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/107.png"]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Black",
-      "price": 50,
-      "quantity": 10}
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-11-08 at 12.24.55.png",
-      "title": "Strength with a Pulse",
-      "description": "Black natural stone meets premium 925 sterling-silver detailing in an adjustable link chain, crafted for every day yet refined for special occasions."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "Material",
-      "description": "Natural black stone"
-    },
-    {
-      "title": "Chain",
-      "description": "925 sterling silver link chain."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free delivery for all orders above €100",
-            "Delivery fees are €2.5 for all orders below €100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 11,
-      "reviewRating": 5,
-      "reviewText": "Absolutely love it. I never take it off.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-},
-{
-  "id": 50,
-  "name": "RW Snearkers",
-  "voucherId": null,
-  "sellerId": 15,
-  "category": "Shoes",
-  "itemStatus": "In Stock",
-  "weight": 4,
-  "variants": {
-    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
-    "colors": [
-      {
-        "name": "black",
-        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/SNPC.png"]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "36,black",
-      "price": 169,
-      "quantity": 10
-    },
-    {
-      "name": "37,black",
-      "price": 169,
-      "quantity": 10
-    },
-    {
-      "name": "38,black",
-      "price": 169,
-      "quantity": 10
-    },
-    {
-      "name": "39,black",
-      "price": 169,
-      "quantity": 10
-    },
-    {
-      "name": "40,black",
-      "price": 190,
-      "quantity": 10
-    },
-    {
-      "name": "41,black",
-      "price": 190,
-      "quantity": 10
-    },{
-      "name": "42,black",
-      "price": 190,
-      "quantity": 10
-    },
-    {
-      "name": "43,black",
-      "price": 190,
-      "quantity": 10
-    },
-  {
-      "name": "44,black",
-      "price": 190,
-      "quantity": 10
-    },
-    {
-      "name": "45,black",
-      "price": 190,
-      "quantity": 10
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/sneep-crew-jayY9MiLn6I-unsplash.jpg",
-      "title": "Timeless Style, Built to Last",
-      "description": "Featuring durable suede and canvas uppers, this piece combines classic design with long-lasting quality. Perfectly balanced between rugged and refined, it’s made to withstand the test of time while keeping you effortlessly stylish."
-    }
-  ],
-  "specifications": [
-    {
-      "title": null,
-      "description": "The Old Skool was our first footwear design to showcase the famous Vans Sidestripe—although back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders above â‚¬100",
-            "Delivery fees are â‚¬15 for all orders below â‚¬100",
-            "Standard delivery: 2 to 3 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 12,
-      "reviewRating": 5,
-      "reviewText": "Obsessed with these sneakers! 😍✨ Incredibly comfortable, super stylish, and they’re perfect for everything from workouts to casual outings. 💪✨ Your feet will thank you, and so will your style game! 😍👏",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 3,
-      "reviewRating": 5,
-      "reviewText": "I love the comfort of this jacket!",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Great value for money.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": "",
-  "demoVideo": ""
-},
-{
-  "id": 51,
-  "name": "Gold Lipstick",
-  "voucherId": 1,
-  "sellerId": 13,
-  "category": "Make-up",
-  "itemStatus": "In Stock",
-  "weight": 2,
-  "variants": {
-    "colors": [
-      {
-        "name": "Velvet",
-        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L541.png"]
-      },
-      {
-        "name": "Nude",
-        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L551.png"]
-      },
-      {
-        "name": "Satin",
-        "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/L561.png"]
-      }
-    ]
-  },
-  "variantsDetails": [
-    {
-      "name": "Velvet",
-      "price": 25,
-      "quantity": 6
-    },
-    {
-      "name": "Nude",
-      "price": 25,
-      "quantity": 3
-    },
-    {
-      "name": "Satin",
-      "price": 25,
-      "quantity": 5
-    }
-  ],
-  "features": [
-    {
-      "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH1.png",
-      "title": "Hydration Meets Color",
-      "description": "Indulge your lips with a moisturizing lipstick that combines vibrant, long-lasting color with all-day hydration. Enriched with nourishing ingredients, it leaves your lips soft, smooth, and irresistibly beautiful."
-    },
-    {
-      "id": 2,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2024-12-10 at 22.59.17.png",
-      "title": "Bold Color, Unmatched Intensity",
-      "description": "Make a statement with pigment-rich lipstick that delivers vibrant, high-impact color in a single swipe. Long-lasting and luxurious, it’s the ultimate choice for lips that demand attention."
-    },
-    {
-      "id": 3,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/LH3.png",
-      "title": "Chic Made Simple: \nMultiuse Monochrome Magic",
-      "description": "Elevate your look with this versatile multiuse formula, designed to create a seamless, monochromatic gleam on your cheeks. Effortlessly blendable and perfectly chic, it’s your go-to for a radiant, polished finish in seconds."
-    }
-  ],
-  "specifications": [
-    {
-      "title": "",
-      "description": "The brand's signature satin lipstick that's been maxed out to give lips more with a sleek satin finish and a nourishing formula that looks richer, feels creamier, glides smoother and hydrates lips for eight hours."
-    }
-  ],
-  "serviceDetails": [
-    {
-      "title": "Delivery & Return",
-      "label": "Worry-free 30-day returns",
-      "description": [
-        {
-          "title": "Delivery",
-          "descriptions": [
-            "Free delivery for all orders > 50",
-            "Delivery fees are 2.5 for all orders < 50",
-            "Standard delivery: 4 working days"
-          ]
-        },
-        {
-          "title": "Return",
-          "descriptions": [
-            "30 days returns",
-            "Return is paid by customer",
-            "All gift must be return"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Shipping",
-      "label": "Free Shipping",
-      "description": [
-        {
-          "title": "Delivery Information",
-          "descriptions": [
-            "Free shipping on orders above $50",
-            "$5 flat shipping fee for orders below $50",
-            "Estimated delivery time: 5-7 business days"
-          ]
-        }
-      ]
-    }
-  ],
-  "reviews": [
-    {
-      "reviewerId": 11,
-      "reviewRating": 5,
-      "reviewText": "This lipstick is a game-changer! 💄✨ The color payoff is stunning, the formula feels buttery smooth, and it lasts all day without drying out your lips. 💋",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-04T08:14:03.312546"
-    },
-    {
-      "reviewerId": 3,
-      "reviewRating": 5,
-      "reviewText": "I love the comfort of this jacket!",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    },
-    {
-      "reviewerId": 5,
-      "reviewRating": 4,
-      "reviewText": "Great value for money.",
-      "reviewLikes": [1, 2, 5, 12, 6, 3],
-      "dateCreated": "2024-10-03T08:14:03.312546"
-    }
-  ],
-  "reviewsCount": 55,
-  "unboxingVideo": null,
-  "demoVideo": null
-}
+  }
 ]
