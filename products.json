@@ -104,7 +104,7 @@
   {
     "id": 2,
     "name": "Louie Boot - Proudly Pink",
-    "sellerId": 39,
+    "sellerId": 44,
     "category": "Shoes",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -192,7 +192,7 @@
   {
     "id": 3,
     "name": "The Laundry Set",
-    "sellerId": 39,
+    "sellerId": 42,
     "category": "Detergent",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -495,7 +495,7 @@
 {
   "id": 6,
   "name": "Silky Sculpt & Sculpt Mini Boar Brush",
-  "sellerId": 39,
+  "sellerId": 43,
   "category": "Hair Wax",
   "itemStatus": "In Stock",
   "weight": 2,
