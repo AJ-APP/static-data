@@ -103,39 +103,39 @@
   },
   {
     "id": 2,
-    "name": "The Burgundy Boxer",
+    "name": "Louie Boot - Proudly Pink",
     "sellerId": 39,
-    "category": "Bags",
+    "category": "Shoes",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Burgundy",
+          "name": "Pink",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/133.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/affe.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Burgundy",
-        "price": 74.99,
+        "name": "Pink",
+        "price": 250.00,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.40.48.png",
-        "title": "The Bag That Leads the Look",
-        "description": "Structured, playful, and impossible to ignore. The Boxer Bag turns everyday outfits into a statement — without trying too hard."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.04.38.png",
+        "title": "Proudly Pink, Purposefully You",
+        "description": "Soft colour, bold step, these boots make room for confidence without trying too hard. Wear them your way, wherever you go."
       }],
     "specifications": [
       {
         "title": "Description",
-        "description": "The Burgundy Boxer Crossbody Bag\nMake a subtle statement with colour that works with everything. The Burgundy Boxer features striking burgundy, purple, and green stripes that bring depth to any look. Inside, a removable burgundy pouch keeps your essentials perfectly organised - from small items to a laptop up to 14 inches. Equal parts stylish and practical, the Burgundy is ready for workdays, weekends, and trips away."
+        "description": "Crafted for elegance and designed to impress, these premium plates elevate every table setting."
       }
     ],
     "serviceDetails": [
@@ -178,25 +178,11 @@
     ],
     "reviews": [
       {
-        "reviewerId": 2,
-        "reviewRating": 4,
-        "reviewText": "I get compliments on this bag every time I wear it.",
+        "reviewerId": 11,
+        "reviewRating": 5,
+        "reviewText": "I get compliments on these shoes every time I wear them.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-12-04T08:14:03.312546"
-      },
-      {
-        "reviewerId": 3,
-        "reviewRating": 5,
-        "reviewText": "It’s playful but still practical, which makes it easy to wear every day.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2025-11-03T08:14:03.312546"
-      },
-      {
-        "reviewerId": 5,
-        "reviewRating": 4,
-        "reviewText": "It instantly makes even a simple outfit feel more interesting.",
-        "reviewLikes": [1, 2, 5, 12, 6, 3],
-        "dateCreated": "2025-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
@@ -516,9 +502,9 @@
   "variants": {
     "colors": [
       {
-        "name": "Expresso",
+        "name": "Pink",
         "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/136.png"
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/glam.png"
         ]
       }
     ]
@@ -606,7 +592,7 @@
       {
         "name": "Silver",
         "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/136.png"
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/so.png"
         ]
       }
     ]
@@ -684,9 +670,9 @@
 },
 {
   "id": 8,
-  "name": "Louie Boot - Proudly Pink",
+  "name": "Surrender Ring 006",
   "sellerId": 39,
-  "category": "Shoes",
+  "category": "Ring",
   "itemStatus": "In Stock",
   "weight": 2,
   "variants": {
@@ -694,7 +680,7 @@
       {
         "name": "Pink",
         "images": [
-          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/136.png"
+          "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/fairy.png"
         ]
       }
     ]
@@ -702,21 +688,21 @@
   "variantsDetails": [
     {
       "name": "Pink",
-      "price": 250.00,
+      "price": 99.00,
       "quantity": 10
     }
   ],
   "features": [
     {
       "id": 1,
-      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Atelier.png",
-      "title": "Proudly Pink, Purposefully You",
-      "description": "Soft colour, bold step, these boots make room for confidence without trying too hard. Wear them your way, wherever you go."
+      "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.09.37.png",
+      "title": "Surrender to the Shape",
+      "description": "A story etched in silver, this ring invites you to release perfection and wear the unexpected. Each curve holds its own rhythm, a reminder that beauty unfolds where you least expect it."
     }],
   "specifications": [
     {
-      "title": "Description",
-      "description": "Crafted for elegance and designed to impress, these premium plates elevate every table setting."
+      "title": "Size",
+      "description": "size 16"
     }
   ],
   "serviceDetails": [
