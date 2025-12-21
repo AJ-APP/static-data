@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Juno Sweater",
-    "sellerId": 49,
-    "category": "Cardigan",
+    "name": "Aurora - Ice Blue",
+    "sellerId": 50,
+    "category": "Sunglasses",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -11,7 +11,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur2.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie5.png"
           ]
         }
       ]
@@ -19,7 +19,7 @@
     "variantsDetails": [
       {
         "name": "Burgundy",
-        "price": 72.00,
+        "price": 165.00,
         "quantity": 10
       }
     ],
@@ -103,9 +103,9 @@
   },
   {
     "id": 2,
-    "name": "West Village Cardigan",
-    "sellerId": 49,
-    "category": "Cardigan",
+    "name": "Kesh - Honey Brown Rectangle Sunglasses",
+    "sellerId": 50,
+    "category": "Sunglasses",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -113,7 +113,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur1.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie4.png"
           ]
         }
       ]
@@ -180,7 +180,7 @@
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "I get compliments on this cardigan every time I wear it.",
+        "reviewText": "I get compliments on these sunglasses every time I wear them.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-12-04T08:14:03.312546"
       },
@@ -205,8 +205,8 @@
   },
   {
     "id": 3,
-    "name": "Barlie Jeans",
-    "sellerId": 49,
+    "name": "Azrou - Havana Brown Round Sunglasses",
+    "sellerId": 50,
     "category": "Jeans",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -215,7 +215,7 @@
         {
           "name": "Manilla",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur3.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie3.png"
           ]
         }
       ]
@@ -223,7 +223,7 @@
     "variantsDetails": [
       {
         "name": "Manilla",
-        "price": 115.00,
+        "price": 126.00,
         "quantity": 10
       }
     ],
