@@ -8768,7 +8768,7 @@
   },
   {
     "id": 91,
-    "userId": 46,
+    "userId": 52,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -8785,12 +8785,12 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/fairytales.png"],
-    "title": "Where the Wild Things Glow",
-    "description": "Silver catching the light, shaped like it found its own way.\nWorn close, touched by grass and sun, little reminders that magic lives in the ordinary, if you let it.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wabi5.png"],
+    "title": "Work, But Make It Wabi",
+    "description": "A pause between tasks.\nSmooth matcha, steady focus, no rush required.",
     "video": null,
     "recording": null,
-    "category": "JEWELRY",
+    "category": "FOOD & NUTRITION",
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
@@ -8808,7 +8808,7 @@
   },
   {
     "id": 92,
-    "userId": 46,
+    "userId": 52,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -8825,12 +8825,12 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/fairytales.png"],
-    "title": "Where the Wild Things Glow",
-    "description": "Silver catching the light, shaped like it found its own way.\nWorn close, touched by grass and sun, little reminders that magic lives in the ordinary, if you let it.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wabi4.png"],
+    "title": "Matcha Dates",
+    "description": "Green drinks, good company, no agenda.\nBest enjoyed together.",
     "video": null,
     "recording": null,
-    "category": "JEWELRY",
+    "category": "FOOD & NUTRITION",
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
