@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Canon Prima BF-80",
-    "sellerId": 51,
-    "category": "Analog Camera",
+    "name": "Premium Ceremoniele Matcha Powder - 30 gr",
+    "sellerId": 52,
+    "category": "Tea",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -11,7 +11,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter3.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wabi1.png"
           ]
         }
       ]
@@ -19,7 +19,7 @@
     "variantsDetails": [
       {
         "name": "Burgundy",
-        "price": 80.00,
+        "price": 29.99,
         "quantity": 10
       }
     ],
@@ -205,9 +205,9 @@
   },
   {
     "id": 3,
-    "name": "Olympus VR-310",
-    "sellerId": 51,
-    "category": "Digital Camera",
+    "name": "Matcha Set - Green",
+    "sellerId": 52,
+    "category": "Tea",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -215,7 +215,7 @@
         {
           "name": "Manilla",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter1.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wabi3.png"
           ]
         }
       ]
@@ -223,7 +223,7 @@
     "variantsDetails": [
       {
         "name": "Manilla",
-        "price": 129.00,
+        "price": 49.99,
         "quantity": 10
       }
     ],
