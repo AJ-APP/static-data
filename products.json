@@ -180,14 +180,14 @@
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "I get compliments on these sunglasses every time I wear them.",
+        "reviewText": "I switched from coffee and honestly don’t miss it.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-12-04T08:14:03.312546"
       },
       {
         "reviewerId": 3,
         "reviewRating": 5,
-        "reviewText": "It’s playful but still practical, which makes it easy to wear every day.",
+        "reviewText": "I get compliments on these sunglasses every time I wear them.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-11-03T08:14:03.312546"
       },
