@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Canon Prima BF-80",
-    "sellerId": 50,
+    "sellerId": 51,
     "category": "Analog Camera",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -104,7 +104,7 @@
   {
     "id": 2,
     "name": "Nikon Coolpix S2500",
-    "sellerId": 50,
+    "sellerId": 51,
     "category": "Digital Camera",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -206,7 +206,7 @@
   {
     "id": 3,
     "name": "Olympus VR-310",
-    "sellerId": 50,
+    "sellerId": 51,
     "category": "Digital Camera",
     "itemStatus": "In Stock",
     "weight": 2,
