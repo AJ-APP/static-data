@@ -8674,7 +8674,7 @@
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [2],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8688,7 +8688,7 @@
   },
   {
     "id": 89,
-    "userId": 46,
+    "userId": 51,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -8705,16 +8705,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/fairytales.png"],
-    "title": "Where the Wild Things Glow",
-    "description": "Silver catching the light, shaped like it found its own way.\nWorn close, touched by grass and sun, little reminders that magic lives in the ordinary, if you let it.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter4.png"],
+    "title": "Flashback Energy",
+    "description": "No edits. No retakes.\nJust the moment — exactly as it was.",
     "video": null,
     "recording": null,
-    "category": "JEWELRY",
+    "category": "ELECTRONICS & APPLIANCES",
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [8],
+    "mentionedItems": [2],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8728,7 +8728,7 @@
   },
   {
     "id": 90,
-    "userId": 46,
+    "userId": 51,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -8745,16 +8745,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/fairytales.png"],
-    "title": "Where the Wild Things Glow",
-    "description": "Silver catching the light, shaped like it found its own way.\nWorn close, touched by grass and sun, little reminders that magic lives in the ordinary, if you let it.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter5.png"],
+    "title": "Made to Be Seen",
+    "description": "Not just a camera, a little piece of personality.\nDecorated, customised, and ready to catch moments the way you remember them.",
     "video": null,
     "recording": null,
     "category": "JEWELRY",
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [8],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {

@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Aurora - Ice Blue",
+    "name": "Canon Prima BF-80",
     "sellerId": 50,
-    "category": "Sunglasses",
+    "category": "Analog Camera",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -11,7 +11,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie5.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter3.png"
           ]
         }
       ]
@@ -19,7 +19,7 @@
     "variantsDetails": [
       {
         "name": "Burgundy",
-        "price": 165.00,
+        "price": 80.00,
         "quantity": 10
       }
     ],
@@ -103,9 +103,9 @@
   },
   {
     "id": 2,
-    "name": "Kesh - Honey Brown Rectangle Sunglasses",
+    "name": "Nikon Coolpix S2500",
     "sellerId": 50,
-    "category": "Sunglasses",
+    "category": "Digital Camera",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -113,7 +113,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie4.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter2.png"
           ]
         }
       ]
@@ -121,7 +121,7 @@
     "variantsDetails": [
       {
         "name": "Burgundy",
-        "price": 120.00,
+        "price": 179.00,
         "quantity": 10
       }
     ],
@@ -180,7 +180,7 @@
       {
         "reviewerId": 2,
         "reviewRating": 4,
-        "reviewText": "I get compliments on these sunglasses every time I wear them.",
+        "reviewText": "It instantly makes even a simple picture feel more interesting.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-12-04T08:14:03.312546"
       },
@@ -194,7 +194,7 @@
       {
         "reviewerId": 5,
         "reviewRating": 4,
-        "reviewText": "It instantly makes even a simple outfit feel more interesting.",
+        "reviewText": "I get compliments on these sunglasses every time I wear them.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-10-03T08:14:03.312546"
       }
@@ -205,9 +205,9 @@
   },
   {
     "id": 3,
-    "name": "Azrou - Havana Brown Round Sunglasses",
+    "name": "Olympus VR-310",
     "sellerId": 50,
-    "category": "Jeans",
+    "category": "Digital Camera",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -215,7 +215,7 @@
         {
           "name": "Manilla",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie3.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter1.png"
           ]
         }
       ]
@@ -223,7 +223,7 @@
     "variantsDetails": [
       {
         "name": "Manilla",
-        "price": 126.00,
+        "price": 129.00,
         "quantity": 10
       }
     ],
