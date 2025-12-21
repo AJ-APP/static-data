@@ -103,9 +103,9 @@
   },
   {
     "id": 2,
-    "name": "Kesh - Honey Brown Rectangle Sunglasses",
-    "sellerId": 50,
-    "category": "Sunglasses",
+    "name": "Wavy Matcha Glas",
+    "sellerId": 52,
+    "category": "Tea",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -113,7 +113,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie4.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wabi2.png"
           ]
         }
       ]
@@ -121,7 +121,7 @@
     "variantsDetails": [
       {
         "name": "Burgundy",
-        "price": 120.00,
+        "price": 14.99,
         "quantity": 10
       }
     ],
