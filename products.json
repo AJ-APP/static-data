@@ -103,9 +103,9 @@
   },
   {
     "id": 2,
-    "name": "Nikon Coolpix S2500",
-    "sellerId": 51,
-    "category": "Digital Camera",
+    "name": "Kesh - Honey Brown Rectangle Sunglasses",
+    "sellerId": 50,
+    "category": "Sunglasses",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -113,7 +113,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter2.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie4.png"
           ]
         }
       ]
@@ -121,7 +121,7 @@
     "variantsDetails": [
       {
         "name": "Burgundy",
-        "price": 179.00,
+        "price": 120.00,
         "quantity": 10
       }
     ],

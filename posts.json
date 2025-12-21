@@ -8674,7 +8674,7 @@
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [],
+    "mentionedItems": [2],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8714,7 +8714,7 @@
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [2],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8794,7 +8794,7 @@
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [8],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8834,7 +8834,7 @@
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [8],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
