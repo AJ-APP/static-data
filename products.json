@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Juno Sweater",
-    "sellerId": 39,
+    "sellerId": 49,
     "category": "Cardigan",
     "itemStatus": "In Stock",
     "weight": 2,
@@ -104,7 +104,7 @@
   {
     "id": 2,
     "name": "West Village Cardigan",
-    "sellerId": 39,
+    "sellerId": 49,
     "category": "Cardigan",
     "itemStatus": "In Stock",
     "weight": 2,
