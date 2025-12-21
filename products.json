@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "The Gini Boxer",
+    "name": "Juno Sweater",
     "sellerId": 39,
-    "category": "Bags",
+    "category": "Cardigan",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -11,7 +11,7 @@
         {
           "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/135_1.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur2.png"
           ]
         }
       ]
@@ -19,7 +19,7 @@
     "variantsDetails": [
       {
         "name": "Burgundy",
-        "price": 74.99,
+        "price": 72.00,
         "quantity": 10
       }
     ],
@@ -103,39 +103,39 @@
   },
   {
     "id": 2,
-    "name": "Louie Boot - Proudly Pink",
-    "sellerId": 44,
-    "category": "Shoes",
+    "name": "West Village Cardigan",
+    "sellerId": 39,
+    "category": "Cardigan",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
       "colors": [
         {
-          "name": "Pink",
+          "name": "Burgundy",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/affe.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur1.png"
           ]
         }
       ]
     },
     "variantsDetails": [
       {
-        "name": "Pink",
-        "price": 250.00,
+        "name": "Burgundy",
+        "price": 120.00,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.04.38.png",
-        "title": "Proudly Pink, Purposefully You",
-        "description": "Soft colour, bold step, these boots make room for confidence without trying too hard. Wear them your way, wherever you go."
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-14 at 13.40.48.png",
+        "title": "The Bag That Leads the Look",
+        "description": "Structured, playful, and impossible to ignore. The Boxer Bag turns everyday outfits into a statement — without trying too hard."
       }],
     "specifications": [
       {
         "title": "Description",
-        "description": "Crafted for elegance and designed to impress, these premium plates elevate every table setting."
+        "description": "The Burgundy Boxer Crossbody Bag\nMake a subtle statement with colour that works with everything. The Burgundy Boxer features striking burgundy, purple, and green stripes that bring depth to any look. Inside, a removable burgundy pouch keeps your essentials perfectly organised - from small items to a laptop up to 14 inches. Equal parts stylish and practical, the Burgundy is ready for workdays, weekends, and trips away."
       }
     ],
     "serviceDetails": [
@@ -178,11 +178,25 @@
     ],
     "reviews": [
       {
-        "reviewerId": 11,
-        "reviewRating": 5,
-        "reviewText": "I get compliments on these shoes every time I wear them.",
+        "reviewerId": 2,
+        "reviewRating": 4,
+        "reviewText": "I get compliments on this bag every time I wear it.",
         "reviewLikes": [1, 2, 5, 12, 6, 3],
         "dateCreated": "2025-12-04T08:14:03.312546"
+      },
+      {
+        "reviewerId": 3,
+        "reviewRating": 5,
+        "reviewText": "It’s playful but still practical, which makes it easy to wear every day.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-11-03T08:14:03.312546"
+      },
+      {
+        "reviewerId": 5,
+        "reviewRating": 4,
+        "reviewText": "It instantly makes even a simple outfit feel more interesting.",
+        "reviewLikes": [1, 2, 5, 12, 6, 3],
+        "dateCreated": "2025-10-03T08:14:03.312546"
       }
     ],
     "reviewsCount": 55,
@@ -191,9 +205,9 @@
   },
   {
     "id": 3,
-    "name": "The Laundry Set",
-    "sellerId": 42,
-    "category": "Detergent",
+    "name": "Barlie Jeans",
+    "sellerId": 49,
+    "category": "Jeans",
     "itemStatus": "In Stock",
     "weight": 2,
     "variants": {
@@ -201,7 +215,7 @@
         {
           "name": "Manilla",
           "images": [
-            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/mab.png"
+            "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur3.png"
           ]
         }
       ]
@@ -209,14 +223,14 @@
     "variantsDetails": [
       {
         "name": "Manilla",
-        "price": 32.80,
+        "price": 115.00,
         "quantity": 10
       }
     ],
     "features": [
       {
         "id": 1,
-        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-19 at 22.26.13.png",
+        "image": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur3.png",
         "title": "Soft Rituals That Clean & Care",
         "description": "A gentle ritual in every wash, this thoughtful combo of laundry sheets and soap bar keeps your clothes fresh, soft, and kissed with that Ylang in the Sun scent. Plant-based and skin-kind, it makes laundry feel lighter, easier, and quietly beautiful, whether at home or on the go."
       }],

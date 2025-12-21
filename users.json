@@ -1342,7 +1342,7 @@
     "storeId": 2
   },
   {
-    "id": 46,
+    "id": 47,
     "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.15.21 1.png",
     "cover": "",
     "tagLine": "Ever-changing, ever-becoming",
@@ -1364,6 +1364,156 @@
       6
     ],
     "description": "ʚ♡ɞ from my soul to yours ʚ♡ɞ.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 48,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/Screenshot 2025-12-20 at 14.15.21 1.png",
+    "cover": "",
+    "tagLine": "Ever-changing, ever-becoming",
+    "firstName": "Melted Fairytales",
+    "lastName": "",
+    "gender": "female",
+    "username": "meltedfairytales",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "ʚ♡ɞ from my soul to yours ʚ♡ɞ.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 49,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/batur.png",
+    "cover": "",
+    "tagLine": "Founded by sisters",
+    "firstName": "Bátur",
+    "lastName": "",
+    "gender": "female",
+    "username": "baturamsterdam",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "WE ARE NOT JUST A BRAND, WE ARE A FAMILY\nCome on board, the journey’s better together.",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 50,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie.png",
+    "cover": "",
+    "tagLine": "Founded by sisters",
+    "firstName": "Maie",
+    "lastName": "",
+    "gender": "female",
+    "username": "maieatelier",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "Premium Designed Sunglasses.\nDUBLIN STOCKIST: @lootdublin\nseen in @britishvogue @sheerluxe",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 51,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/shutter.png",
+    "cover": "",
+    "tagLine": "",
+    "firstName": "Shutter Collective",
+    "lastName": "",
+    "gender": "female",
+    "username": "ams.shuttercollectiv",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "SALE LIVE 🩷💜💙💚💛\n📷 shipping to the Netherlands & Europe 🇪🇺\n🎞️ complete with SD card, charging and battery\n🤍 tested & ready to use",
+    "interests": [
+      17,
+      22
+    ],
+    "isShekrMember": false,
+    "storeId": 2
+  },
+  {
+    "id": 52,
+    "picture": "https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/wabi.png",
+    "cover": "",
+    "tagLine": "",
+    "firstName": "Wabi Matcha",
+    "lastName": "",
+    "gender": "female",
+    "username": "wabi__matcha",
+    "email": "iamian@me.com",
+    "phoneNumber": "123123123",
+    "dateOfBirth": "1987-04-09T00:00:00.000Z",
+    "followers": [
+      1,
+      4,
+      8
+    ],
+    "following": [
+      2,
+      5,
+      6
+    ],
+    "description": "",
     "interests": [
       17,
       22
