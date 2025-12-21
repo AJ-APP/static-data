@@ -8554,7 +8554,7 @@
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [2],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8594,7 +8594,7 @@
     "dateCreated": "2025-12-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [8],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8608,7 +8608,7 @@
   },
   {
     "id": 87,
-    "userId": 46,
+    "userId": 50,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -8625,16 +8625,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/fairytales.png"],
-    "title": "Where the Wild Things Glow",
-    "description": "Silver catching the light, shaped like it found its own way.\nWorn close, touched by grass and sun, little reminders that magic lives in the ordinary, if you let it.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie6.png"],
+    "title": "In the Details",
+    "description": "Thoughtful curves, considered colour.\nMade to be worn slowly, seen clearly.",
     "video": null,
     "recording": null,
-    "category": "JEWELRY",
+    "category": "FASHION",
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [8],
+    "mentionedItems": [],
     "collaborations": [],
     "link": "",
     "setting": {
@@ -8648,7 +8648,7 @@
   },
   {
     "id": 88,
-    "userId": 46,
+    "userId": 50,
     "status": {
       "likes": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "comments": [
@@ -8665,16 +8665,16 @@
       "reposts": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "views": [2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
-    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/fairytales.png"],
-    "title": "Where the Wild Things Glow",
-    "description": "Silver catching the light, shaped like it found its own way.\nWorn close, touched by grass and sun, little reminders that magic lives in the ordinary, if you let it.",
+    "images": ["https://aj-app-assets-dev.s3.sbg.io.cloud.ovh.net/maie1.png"],
+    "title": "Held in the Moment",
+    "description": "Nothing forced. Nothing rushed.\nJust pieces that belong wherever you are.",
     "video": null,
     "recording": null,
-    "category": "JEWELRY",
+    "category": "FASHION",
     "dateCreated": "2025-10-03T08:14:03.312546",
     "hashtags": [""],
     "mentionedPeople": [],
-    "mentionedItems": [8],
+    "mentionedItems": [2],
     "collaborations": [],
     "link": "",
     "setting": {
